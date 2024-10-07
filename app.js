@@ -15,19 +15,6 @@ const sqlite3 = require("sqlite3").verbose();
 
 const db = new sqlite3.Database("./database.db");
 
-// Create a table
-db.serialize(() => {
-  db.run("DROP TABLE IF EXISTS tracks");
-
-  db.run(
-    "CREATE TABLE IF NOT EXISTS tracks (id INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT)"
-  );
-
-  //   const stmt = db.prepare("INSERT INTO users (name, age) VALUES (?,?)");
-  //   stmt.run("John Doe", "24");
-  //   stmt.finalize();
-});
-
 // Close the database connection when the app terminates
 process.on("SIGINT", () => {
   db.close();
@@ -46,24 +33,37 @@ app.post("/write", (req, res) => {
   const playlistName = req.body.playlistName;
 
   let sql =
-    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre) VALUES ";
+    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre, pairedName) VALUES ";
 
+  let keyedSong = "INSERT OR IGNORE INTO keyedSongs (pairedName) VALUES ";
+
+  let trackPosition = 1;
   for (const i in tracks) {
     const track = tracks[i];
 
-    sql += `("${playlistName}", "${parseInt(track["Track ID"])}", "${
-      track.Artist
-    }", "${track.Name}", "${track.Genre}"), `;
+    const pairedName = `${track.Artist} - ${track.Name}`;
+
+    sql += `("${playlistName}", "${trackPosition}", "${track.Artist}", "${track.Name}", "${track.Genre}", "${pairedName}"), `;
+
+    keyedSong += `("${pairedName}"), `;
+
+    trackPosition++;
   }
 
   sql = sql.slice(0, -2);
-
-  //   console.log(sql);
+  keyedSong = keyedSong.slice(0, -2);
+  console.log(keyedSong);
 
   db.serialize(() => {
     db.run(
-      "CREATE TABLE IF NOT EXISTS tracks (id INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT)"
+      "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, pairedName TEXT)"
     );
+
+    db.run(
+      "CREATE TABLE IF NOT EXISTS keyedSongs (ksid INTEGER PRIMARY KEY, pairedName TEXT UNIQUE)"
+    );
+
+    db.run(keyedSong, function (err) {});
 
     db.run(sql, function (err) {
       if (err) {
@@ -74,37 +74,65 @@ app.post("/write", (req, res) => {
   });
 });
 
-// Route to insert data into the database
-app.post("/writesingle", (req, res) => {
-  const track = req.body;
+// Route to fetch data from the database
+app.get("/keyedname", (req, res) => {
+  const pairedName = req.query.pairedName;
 
-  //   console.log("axios", track);
+  //   console.log(pairedName);
 
-  let sql = `INSERT INTO tracks (playlistName, trackPosition, artist, name, genre) VALUES ("${
-    track.playlistName
-  }", "${parseInt(track["Track ID"])}", "${track.Artist}", "${track.Name}", "${
-    track.Genre
-  }") `;
-
+  let sql = `SELECT * FROM keyedSongs WHERE pairedName = '${pairedName}'`;
   console.log(sql);
+  db.all(sql, [], (err, rows) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
 
-  db.serialize(() => {
-    db.run(
-      "CREATE TABLE IF NOT EXISTS tracks (id INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT)"
-    );
-
-    db.run(sql, function (err) {
-      if (err) {
-        return res.status(500).send("Failed to insert tracks");
-      }
-      res.status(200).send(`Inserted ${this.changes} track`);
-    });
+    if (rows.length > 0) {
+      res.json(rows);
+    } else {
+      return res.status(500).json({ error: "no rows" });
+    }
   });
 });
 
 // Route to fetch data from the database
 app.get("/tracks", (req, res) => {
-  db.all("SELECT * FROM tracks", [], (err, rows) => {
+  console.log(req.query.sort);
+
+  const sortType = req.query.sort;
+
+  //   console.log(sortType);
+
+  let sql = "SELECT * FROM tracks ORDER BY artist ASC,name ASC";
+  switch (sortType) {
+    case "db":
+      sql = "SELECT * FROM tracks ORDER BY id ASC, artist ASC, name ASC";
+      break;
+
+    case "playlist":
+      sql = "SELECT * FROM tracks ORDER BY playlistName ASC, trackPosition ASC";
+      break;
+
+    case "playlistRecent":
+      sql =
+        "SELECT * FROM tracks LEFT JOIN keyedSongs ON tracks.pairedName = keyedSongs.pairedName ORDER BY tracks.playlistName DESC, tracks.trackPosition ASC";
+      break;
+    case "artist":
+      sql = "SELECT * FROM tracks ORDER BY artist ASC,name ASC";
+      break;
+
+    case "name":
+      sql = "SELECT * FROM tracks ORDER BY name ASC, artist ASC";
+      break;
+
+    case "genre":
+      sql = "SELECT * FROM tracks ORDER BY genre ASC,artist ASC, name ASC";
+      break;
+  }
+
+  //   console.log(sql);
+
+  db.all(sql, [], (err, rows) => {
     if (err) {
       return res.status(500).json({ error: err.message });
     }
@@ -149,6 +177,14 @@ liveReloadServer.server.once("connection", () => {
 
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "index.html"));
+});
+
+app.get("/parse", (req, res) => {
+  res.sendFile(path.join(__dirname, "parse.html"));
+});
+
+app.get("/visualize", (req, res) => {
+  res.sendFile(path.join(__dirname, "visualize.html"));
 });
 
 app.get("/run-script", (req, res) => {

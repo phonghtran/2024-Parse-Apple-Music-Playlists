@@ -31,7 +31,7 @@ fs.readdir(folderPath, (err, files) => {
   const xmlFiles = files.filter((file) => filterFiles(file));
   // console.log(xmlFiles);
 
-  let i = 0;
+  let fileLimitLoop = 0;
   // Read and parse each XML file
 
   try {
@@ -45,10 +45,14 @@ fs.readdir(folderPath, (err, files) => {
 
         let jsonObj = plist.parse(data);
 
+        // console.log(jsonObj);
+
         const playlist = {
           playlistName: file.slice(0, -4),
           tracks: jsonObj["Tracks"],
         };
+
+        // console.log("sending playlist to write");
 
         axios
           .post("http://localhost:3000/write", playlist)
@@ -60,9 +64,8 @@ fs.readdir(folderPath, (err, files) => {
           });
       }); // read file
 
-      i++;
-
-      // if (i > 0) {
+      // fileLimitLoop++;
+      // if (fileLimitLoop > 10) {
       //   throw new Error("Break");
       // }
     }); // for each

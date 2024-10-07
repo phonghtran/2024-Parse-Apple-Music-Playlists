@@ -6,49 +6,92 @@
     <title>My Express App</title>
 
     <style>
-        body {
-            background-color: black;
-            color: white;
+        table {
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            min-width: 8rem;
+
+        }
+
+        button {
+            border: 1px solid black;
+            padding: 1rem;
         }
     </style>
 </head>
 
 <body>
-    <h1>Script Output:</h1>
-
-    <p><button id="bttnFetch">Fetch</button></p>
-
+    <h1>FAQ</h1>
 
     <p>
-        <button id="bttnRunParse">Run Parse</button>
-
+        <a href="/parse">Rebuild DB</a>
+        - Delete 'database.db'
     </p>
 
     <p>
-        <button id="bttnDropTable">Drop Table</button>
+        <a href="/visualize">main page</a>
     </p>
-    <div id="tracks"></div>
-    <pre id="output"></pre>
+    <h1>Table</h1>
+
+    <p><button id="bttnSortPlaylist">Sort by Playlist</button>
+        <button id="bttnSortArtist">Sort by Artist</button>
+        <button id="bttnSortName">Sort by Song Name</button>
+        <button id="bttnGenre">Sort by Genre</button>
+        <button id="bttnSortDB">Sort by DB</button>
+    </p>
+
+    <table id="tracks"></table>
+
     <script>
+        console.log('fetching')
 
-        // Selecting an element by its ID
-        const bttnRunParse = document.getElementById('bttnRunParse');
-        const bttnDropTable = document.getElementById('bttnDropTable');
-
-        const bttnFetch = document.getElementById('bttnFetch');
+        let sortType = 'playlist'
+        fetchTable()
 
 
+        const bttnSortPlaylist = document.getElementById('bttnSortPlaylist');
+        const bttnSortArtist = document.getElementById('bttnSortArtist');
+        const bttnSortDB = document.getElementById('bttnSortDB');
+        const bttnSortName = document.getElementById('bttnSortName');
+        const bttnGenre = document.getElementById('bttnGenre');
 
 
-        function fetchRows() {
-            console.log('fetching')
+
+        bttnSortPlaylist.addEventListener('click', function () {
+            sortType = 'playlist'
+            fetchTable()
+        });
+        bttnSortArtist.addEventListener('click', function () {
+            sortType = 'artist'
+            fetchTable()
+        });
+
+        bttnSortDB.addEventListener('click', function () {
+            sortType = 'db'
+            fetchTable()
+        });
+
+        bttnSortName.addEventListener('click', function () {
+            sortType = 'name'
+            fetchTable()
+        });
+
+        bttnGenre.addEventListener('click', function () {
+            sortType = 'genre'
+            console.log('genre bttn')
+            fetchTable()
+        });
 
 
+        function fetchTable() {
 
-            fetch('/tracks')
+            fetch(`/tracks?sort=${sortType}`)
                 .then(response => {
-
-
                     if (response.ok) { // Check if response is OK (200-299)
                         return response.json(); // If true, return the JSON data
                     } else {
@@ -59,64 +102,39 @@
                 .then(data => {
                     const tracksDiv = document.getElementById('tracks');
 
-                    tracksDiv.innerHTML = ''
+                    tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th></tr>'
 
                     data.forEach(track => {
                         // console.log(track)
-                        const trackDiv = document.createElement('div');
-                        trackDiv.textContent = `ID: ${track.id}, 
-                    playlistName: ${track.playlistName},trackPosition: ${track.trackPosition}, artist: ${track.artist}, Name: ${track.name}, genre: ${track.genre}`;
-                        tracksDiv.appendChild(trackDiv);
+                        const trackRow = document.createElement('tr');
+
+                        const t1 = document.createElement('td');
+                        const t2 = document.createElement('td');
+                        const t3 = document.createElement('td');
+                        const t4 = document.createElement('td');
+                        const t5 = document.createElement('td');
+                        const t6 = document.createElement('td');
+
+                        t1.textContent = track.id;
+                        t2.textContent = track.playlistName
+                        t3.textContent = track.trackPosition
+                        t4.textContent = track.artist
+                        t5.textContent = track.name
+                        t6.textContent = track.genre
+
+                        trackRow.appendChild(t1)
+                        trackRow.appendChild(t2)
+                        trackRow.appendChild(t3)
+                        trackRow.appendChild(t4)
+                        trackRow.appendChild(t5)
+                        trackRow.appendChild(t6)
+
+                        tracksDiv.appendChild(trackRow);
                     });
                 })
                 .catch(error => console.error('Error fetching tracks:', error))
                 ;
-        }
-
-        function dropTable() {
-            console.log('dropping')
-            fetch('/drop')
-                .then(response => console.log(response))
-                .catch(error => console.error('Error dropping table', error))
-                ;
-        }
-
-
-
-        function runParse() {
-            console.log('running parse')
-            fetch('/run-script')
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById('output').innerText = data;
-                });
-        }
-
-
-        // Adding an event listener to the selected element
-        bttnRunParse.addEventListener('click', function () {
-            // bttnRunParse.disabled = true;
-            runParse();
-            fetchRows();
-        });
-
-        // Adding an event listener to the selected element
-        bttnFetch.addEventListener('click', function () {
-            // bttnFetch.disabled = true;
-            const tracksDiv = document.getElementById('tracks');
-
-            tracksDiv.innerHTML = ''
-
-            fetchRows();
-
-        });
-
-        bttnDropTable.addEventListener('click', function () {
-
-            dropTable();
-            fetchRows();
-
-        });
+        }// fetch table
     </script>
 </body>
 

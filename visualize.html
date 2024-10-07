@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Express App</title>
+
+    <style>
+        #playlists {
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+            margin-top: 5rem;
+        }
+
+        #navContainer {
+            background-color: white;
+            ;
+            display: inline-block;
+            left: 0;
+
+            overflow: hidden;
+            padding: 1rem 0;
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+
+        #nav {
+            display: flex;
+            gap: .5rem;
+            flex-direction: row;
+            margin: 0;
+        }
+
+        #nav li {}
+
+        #nav li a {
+            background-color: lightgray;
+            border-radius: .25rem;
+            display: block;
+            padding: 1rem;
+            /* width: 4rem; */
+        }
+
+        #nav li a:hover {
+            background-color: yellow;
+        }
+
+        ul {
+            /* float: left; */
+            list-style: none;
+            padding: 0;
+        }
+
+        #playlists li {
+            border: 1px solid black;
+            cursor: pointer;
+            margin: 0;
+            padding: 1rem;
+            width: 32rem;
+        }
+
+        #playlists li.highlight {
+            background-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="navContainer">
+        <ul id="nav"></ul>
+    </div>
+
+    <div id="playlists"></div>
+
+    <script>
+        console.log('fetching')
+
+        let sortType = 'playlistRecent'
+        fetchTable()
+
+
+
+        function fetchTable() {
+
+            fetch(`/tracks?sort=${sortType}`)
+                .then(response => {
+                    if (response.ok) { // Check if response is OK (200-299)
+                        return response.json(); // If true, return the JSON data
+                    } else {
+                        throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                    }
+
+                })
+                .then(data => {
+                    const playlists = document.getElementById('playlists');
+                    const nav = document.getElementById('nav');
+
+
+                    let prevYear = ''
+                    let prevPlaylistName = ''
+                    let playlist
+                    let list = document.createElement('ul')
+                    data.forEach(track => {
+
+
+                        // if (track.tid === 1) console.log(track)
+
+
+
+                        const trackRow = document.createElement('li');
+                        trackRow.textContent = track.pairedName
+                        trackRow.setAttribute('data-ksid', track.ksid);
+                        trackRow.addEventListener('click', highlightTrack);
+
+                        list.appendChild(trackRow);
+
+                        if (prevPlaylistName === '') {
+                            prevPlaylistName = track.playlistName
+                        }
+
+                        if (prevPlaylistName !== track.playlistName) {
+                            // if (prevPlaylistName !== '') {
+                            playlist = document.createElement('div')
+                            playlist.id = track.playlistName
+                            playlist.textContent = track.playlistName
+                            playlist.appendChild(list)
+                            playlists.appendChild(playlist)
+
+                            //} // not the first iteration
+
+                            list = document.createElement('ul');
+
+                            if (track.playlistName.slice(0, 4) !== prevYear) {
+                                prevYear = track.playlistName.slice(0, 4)
+                                const navItem = document.createElement('li')
+                                const link = document.createElement('a');
+                                link.textContent = prevYear;
+                                link.href = `#${track.playlistName}`;
+                                link.addEventListener('click', (e) => {
+                                    e.preventDefault();
+                                    const id = e.currentTarget.getAttribute('href').replace('#', '');
+
+
+
+                                    const targetPlaylist = document.getElementById(id)
+
+                                    console.log(id, targetPlaylist)
+
+                                    const yPosition = targetPlaylist.offsetTop;
+                                    const xPosition = targetPlaylist.offsetLeft;
+
+                                    window.scrollTo({
+                                        top: 0,
+                                        left: Math.max(0, xPosition - 32),
+                                    });
+
+
+                                });
+
+                                navItem.appendChild(link)
+                                nav.appendChild(navItem)
+                            } // new year detected
+                        } // new playlist detected
+
+                        prevPlaylistName = track.playlistName
+
+
+
+                    });
+                })
+                .catch(error => console.error('Error fetching tracks:', error))
+                ;
+        }// fetch table
+
+
+        // hover 
+
+
+        function highlightTrack(event) {
+            const li = event.currentTarget
+            const ksid = li.getAttribute('data-ksid');
+            console.log(ksid)
+
+            const elements = document.querySelectorAll('li'); // targets all 
+
+            for (const element of elements) {
+                element.classList.remove('highlight');
+
+                if (element.dataset.ksid === ksid) {
+                    element.classList.add('highlight');
+                }
+
+            }
+
+        }
+    </script>
+</body>
+
+</html>
