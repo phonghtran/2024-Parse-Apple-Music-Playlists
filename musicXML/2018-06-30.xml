@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-06-30T12:16:27Z</date>
+	<key>Application Version</key><string>12.7.5.9</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>1BA1574FA2FAD306</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11888</key>
+		<dict>
+			<key>Track ID</key><integer>11888</integer>
+			<key>Name</key><string>The Middle</string>
+			<key>Artist</key><string>Zedd, Maren Morris &#38; Grey</string>
+			<key>Album Artist</key><string>Zedd, Maren Morris &#38; Grey</string>
+			<key>Composer</key><string>Zedd, Kyle Trewartha, Michael Trewartha, Sarah Aarons, Stefan Johnson, Marcus Lomax &#38; Jordan K. Johnson</string>
+			<key>Album</key><string>The Middle - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6669702</integer>
+			<key>Total Time</key><integer>184732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T17:52:02Z</date>
+			<key>Date Added</key><date>2018-01-26T17:52:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3612975583</integer>
+			<key>Play Date UTC</key><date>2018-06-28T00:19:43Z</date>
+			<key>Release Date</key><date>2018-01-23T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Middle - Single</string>
+			<key>Sort Artist</key><string>Zedd, Maren Morris &#38; Grey</string>
+			<key>Sort Name</key><string>Middle</string>
+			<key>Persistent ID</key><string>3691FB396E2D8E80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>13982</key>
+		<dict>
+			<key>Track ID</key><integer>13982</integer>
+			<key>Name</key><string>Welcome to the Party (feat. Zhavia Ward)</string>
+			<key>Artist</key><string>Diplo, French Montana &#38; Lil Pump</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Thomas Wesley Pentz, Valentino Khan, Karim Kharbouch, Jocelyn Donald &#38; Gazzy Garcia</string>
+			<key>Album</key><string>Deadpool 2 (Original Motion Picture Soundtrack) - EP</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6499485</integer>
+			<key>Total Time</key><integer>181720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-05-19T03:40:33Z</date>
+			<key>Date Added</key><date>2018-05-19T03:40:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3613018274</integer>
+			<key>Play Date UTC</key><date>2018-06-28T12:11:14Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-06-01T11:18:26Z</date>
+			<key>Release Date</key><date>2018-05-18T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadpool 2 (Original Motion Picture Soundtrack) - EP</string>
+			<key>Sort Artist</key><string>Diplo, French Montana &#38; Lil Pump</string>
+			<key>Sort Name</key><string>Welcome to the Party (feat. Zhavia Ward)</string>
+			<key>Persistent ID</key><string>5F7B60FAD2815AE9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>14052</key>
+		<dict>
+			<key>Track ID</key><integer>14052</integer>
+			<key>Name</key><string>Come Over (Radio Edit)</string>
+			<key>Artist</key><string>The Internet</string>
+			<key>Album Artist</key><string>The Internet</string>
+			<key>Composer</key><string>Sydney Bennett</string>
+			<key>Album</key><string>Come Over (Radio Edit) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7825308</integer>
+			<key>Total Time</key><integer>219440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-02T00:29:16Z</date>
+			<key>Date Added</key><date>2018-06-02T00:29:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3613125186</integer>
+			<key>Play Date UTC</key><date>2018-06-29T17:53:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-06-27T02:52:02Z</date>
+			<key>Release Date</key><date>2018-05-30T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Come Over (Radio Edit) - Single</string>
+			<key>Sort Album Artist</key><string>Internet</string>
+			<key>Sort Artist</key><string>Internet</string>
+			<key>Sort Name</key><string>Come Over (Radio Edit)</string>
+			<key>Persistent ID</key><string>77B7E05C7B2010FC</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>14058</key>
+		<dict>
+			<key>Track ID</key><integer>14058</integer>
+			<key>Name</key><string>I Wish I Missed My Ex</string>
+			<key>Artist</key><string>Mahalia</string>
+			<key>Album Artist</key><string>Mahalia</string>
+			<key>Album</key><string>I Wish I Missed My Ex - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7197464</integer>
+			<key>Total Time</key><integer>205263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-02T01:35:34Z</date>
+			<key>Date Added</key><date>2018-06-02T01:35:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3613126945</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:22:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-18T19:30:02Z</date>
+			<key>Release Date</key><date>2018-06-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Wish I Missed My Ex - Single</string>
+			<key>Sort Artist</key><string>Mahalia</string>
+			<key>Sort Name</key><string>I Wish I Missed My Ex</string>
+			<key>Persistent ID</key><string>DB4E81BFA6CED648</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>16376</key>
+		<dict>
+			<key>Track ID</key><integer>16376</integer>
+			<key>Name</key><string>Black Balloons</string>
+			<key>Artist</key><string>Local Natives</string>
+			<key>Album Artist</key><string>Local Natives</string>
+			<key>Album</key><string>Hummingbird</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8123346</integer>
+			<key>Total Time</key><integer>187768</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T23:37:28Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>*** C A P A J E B O ***</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3613072543</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:15:43Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A53C2BA0F85004C0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>30486</key>
+		<dict>
+			<key>Track ID</key><integer>30486</integer>
+			<key>Name</key><string>Almost Love</string>
+			<key>Artist</key><string>Sabrina Carpenter</string>
+			<key>Album Artist</key><string>Sabrina Carpenter</string>
+			<key>Composer</key><string>Sabrina Carpenter, Steph Jones, Nate Campany &#38; Mikkel S. Eriksen</string>
+			<key>Album</key><string>Almost Love - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7465139</integer>
+			<key>Total Time</key><integer>212372</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-09T12:13:53Z</date>
+			<key>Date Added</key><date>2018-06-09T12:13:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3613125399</integer>
+			<key>Play Date UTC</key><date>2018-06-29T17:56:39Z</date>
+			<key>Release Date</key><date>2018-06-06T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Almost Love - Single</string>
+			<key>Sort Artist</key><string>Sabrina Carpenter</string>
+			<key>Sort Name</key><string>Almost Love</string>
+			<key>Persistent ID</key><string>B390A72099E8FA04</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30490</key>
+		<dict>
+			<key>Track ID</key><integer>30490</integer>
+			<key>Name</key><string>Delicate (Seeb Remix)</string>
+			<key>Artist</key><string>Taylor Swift &#38; Seeb</string>
+			<key>Album Artist</key><string>Taylor Swift &#38; Seeb</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>Delicate (Seeb Remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6466994</integer>
+			<key>Total Time</key><integer>173266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-09T12:13:53Z</date>
+			<key>Date Added</key><date>2018-06-09T12:13:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3613126661</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:17:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-24T19:42:27Z</date>
+			<key>Release Date</key><date>2018-06-08T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Delicate (Seeb Remix) - Single</string>
+			<key>Sort Artist</key><string>Taylor Swift &#38; Seeb</string>
+			<key>Sort Name</key><string>Delicate (Seeb Remix)</string>
+			<key>Persistent ID</key><string>798E25C51213E248</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30552</key>
+		<dict>
+			<key>Track ID</key><integer>30552</integer>
+			<key>Name</key><string>Liberated</string>
+			<key>Artist</key><string>DeJ Loaf, Leon Bridges</string>
+			<key>Album Artist</key><string>DeJ Loaf, Leon Bridges</string>
+			<key>Composer</key><string>Leon Bridges, DeJa Monet Trimble, Marlon Hampton, Eric Frederic &#38; Teddy Geiger</string>
+			<key>Album</key><string>Liberated - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7183124</integer>
+			<key>Total Time</key><integer>199800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-09T13:32:38Z</date>
+			<key>Date Added</key><date>2018-06-09T13:32:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3613034065</integer>
+			<key>Play Date UTC</key><date>2018-06-28T16:34:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-27T00:21:21Z</date>
+			<key>Release Date</key><date>2018-06-08T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Liberated - Single</string>
+			<key>Sort Artist</key><string>DeJ Loaf, Leon Bridges</string>
+			<key>Sort Name</key><string>Liberated</string>
+			<key>Persistent ID</key><string>C4AE4E5D4F7B46D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30564</key>
+		<dict>
+			<key>Track ID</key><integer>30564</integer>
+			<key>Name</key><string>Wow Freestyle (feat. Kendrick Lamar)</string>
+			<key>Artist</key><string>Jay Rock</string>
+			<key>Album Artist</key><string>Jay Rock</string>
+			<key>Composer</key><string>J. McKinzie, K. Duckworth, C. Hollis Jr &#38; G. Davis</string>
+			<key>Album</key><string>Redemption</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6269643</integer>
+			<key>Total Time</key><integer>175211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-15T12:00:45Z</date>
+			<key>Date Added</key><date>2018-06-15T12:00:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3613127385</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:29:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-24T22:34:38Z</date>
+			<key>Release Date</key><date>2018-06-15T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Redemption</string>
+			<key>Sort Artist</key><string>Jay Rock</string>
+			<key>Sort Name</key><string>Wow Freestyle (feat. Kendrick Lamar)</string>
+			<key>Persistent ID</key><string>DD4B99BDD878E0B9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30566</key>
+		<dict>
+			<key>Track ID</key><integer>30566</integer>
+			<key>Name</key><string>Undo (feat. Jeremih &#38; Tory Lanez)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Composer</key><string>Carl McCormick, Jeremy P Felton, Imran Abbas - Abaz, Daystar Peterson, Thomas Kessler "Xplosive", Noah Beresin, Thomas Wesley Pentz, Christian Ward &#38; Henry Steinway</string>
+			<key>Album</key><string>NOVA</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7224893</integer>
+			<key>Total Time</key><integer>208696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-15T12:05:52Z</date>
+			<key>Date Added</key><date>2018-06-15T12:05:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3612977547</integer>
+			<key>Play Date UTC</key><date>2018-06-28T00:52:27Z</date>
+			<key>Release Date</key><date>2018-07-27T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NOVA</string>
+			<key>Sort Artist</key><string>RL Grime</string>
+			<key>Sort Name</key><string>Undo (feat. Jeremih &#38; Tory Lanez)</string>
+			<key>Persistent ID</key><string>0B9EEE3D3099692B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30568</key>
+		<dict>
+			<key>Track ID</key><integer>30568</integer>
+			<key>Name</key><string>Growing Pains</string>
+			<key>Artist</key><string>Alessia Cara</string>
+			<key>Album Artist</key><string>Alessia Cara</string>
+			<key>Composer</key><string>Andrew Wansel &#38; Warren Felder</string>
+			<key>Album</key><string>Growing Pains - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6968234</integer>
+			<key>Total Time</key><integer>193680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-15T12:13:41Z</date>
+			<key>Date Added</key><date>2018-06-15T12:13:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3613108274</integer>
+			<key>Play Date UTC</key><date>2018-06-29T13:11:14Z</date>
+			<key>Release Date</key><date>2018-06-15T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Growing Pains - Single</string>
+			<key>Sort Artist</key><string>Alessia Cara</string>
+			<key>Sort Name</key><string>Growing Pains</string>
+			<key>Persistent ID</key><string>15A64EE98EC8648B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30570</key>
+		<dict>
+			<key>Track ID</key><integer>30570</integer>
+			<key>Name</key><string>Blurry Eyes (feat. Runn)</string>
+			<key>Artist</key><string>Hotel Garuda</string>
+			<key>Album Artist</key><string>Hotel Garuda</string>
+			<key>Album</key><string>Blurry Eyes (feat. RUNN) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7418570</integer>
+			<key>Total Time</key><integer>205499</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-15T12:23:47Z</date>
+			<key>Date Added</key><date>2018-06-15T12:23:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3613125989</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:06:29Z</date>
+			<key>Release Date</key><date>2018-06-15T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blurry Eyes (feat. RUNN) - Single</string>
+			<key>Sort Artist</key><string>Hotel Garuda</string>
+			<key>Sort Name</key><string>Blurry Eyes (feat. Runn)</string>
+			<key>Persistent ID</key><string>871CC19DFC24279F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30572</key>
+		<dict>
+			<key>Track ID</key><integer>30572</integer>
+			<key>Name</key><string>That Something</string>
+			<key>Artist</key><string>With Confidence</string>
+			<key>Album Artist</key><string>With Confidence</string>
+			<key>Composer</key><string>With Confidence</string>
+			<key>Album</key><string>Love and Loathing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6659371</integer>
+			<key>Total Time</key><integer>168052</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-15T12:32:31Z</date>
+			<key>Date Added</key><date>2018-06-15T12:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3613122183</integer>
+			<key>Play Date UTC</key><date>2018-06-29T17:03:03Z</date>
+			<key>Release Date</key><date>2018-08-10T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love and Loathing</string>
+			<key>Sort Artist</key><string>With Confidence</string>
+			<key>Sort Name</key><string>That Something</string>
+			<key>Persistent ID</key><string>01C6C846F718A7AC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30610</key>
+		<dict>
+			<key>Track ID</key><integer>30610</integer>
+			<key>Name</key><string>APESHIT</string>
+			<key>Artist</key><string>THE CARTERS</string>
+			<key>Album Artist</key><string>THE CARTERS</string>
+			<key>Composer</key><string>Beyoncé, Pharrell Williams, S. Carter, Quavious Keyate Marshall &#38; Kiari Kendrell Cephus</string>
+			<key>Album</key><string>EVERYTHING IS LOVE</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9308583</integer>
+			<key>Total Time</key><integer>264853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-18T18:45:35Z</date>
+			<key>Date Added</key><date>2018-06-18T18:45:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3613127210</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:26:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-28T13:12:04Z</date>
+			<key>Release Date</key><date>2018-06-16T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>EVERYTHING IS LOVE</string>
+			<key>Sort Album Artist</key><string>CARTERS</string>
+			<key>Sort Artist</key><string>CARTERS</string>
+			<key>Sort Name</key><string>APESHIT</string>
+			<key>Persistent ID</key><string>F83D5F10637C49A3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30632</key>
+		<dict>
+			<key>Track ID</key><integer>30632</integer>
+			<key>Name</key><string>Talk With Your Hands</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>Talk With Your Hands - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6970378</integer>
+			<key>Total Time</key><integer>186253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-21T02:49:43Z</date>
+			<key>Date Added</key><date>2018-06-21T02:49:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3613122369</integer>
+			<key>Play Date UTC</key><date>2018-06-29T17:06:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-28T13:18:49Z</date>
+			<key>Release Date</key><date>2018-06-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Talk With Your Hands - Single</string>
+			<key>Sort Artist</key><string>Bad Bad Hats</string>
+			<key>Sort Name</key><string>Talk With Your Hands</string>
+			<key>Persistent ID</key><string>B424F2185710F14D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30798</key>
+		<dict>
+			<key>Track ID</key><integer>30798</integer>
+			<key>Name</key><string>Forever Always (feat. Rex Orange County, Chance the Rapper, Daniel Caesar, Madison Ryann Ward &#38; YEBBA)</string>
+			<key>Artist</key><string>Peter CottonTale</string>
+			<key>Album Artist</key><string>Peter CottonTale</string>
+			<key>Album</key><string>Forever Always (feat. Rex Orange County, Chance the Rapper, Daniel Caesar, Madison Ryann Ward &#38; YEBBA) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7699899</integer>
+			<key>Total Time</key><integer>215160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-22T19:44:35Z</date>
+			<key>Date Added</key><date>2018-06-22T19:44:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3613127600</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:33:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-28T13:19:00Z</date>
+			<key>Release Date</key><date>2018-06-22T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Forever Always (feat. Rex Orange County, Chance the Rapper, Daniel Caesar, Madison Ryann Ward &#38; YEBBA) - Single</string>
+			<key>Sort Artist</key><string>Peter CottonTale</string>
+			<key>Sort Name</key><string>Forever Always (feat. Rex Orange County, Chance the Rapper, Daniel Caesar, Madison Ryann Ward &#38; YEBBA)</string>
+			<key>Persistent ID</key><string>2F323F29A674C574</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30814</key>
+		<dict>
+			<key>Track ID</key><integer>30814</integer>
+			<key>Name</key><string>The First Cut Is the Deepest</string>
+			<key>Artist</key><string>Sheryl Crow</string>
+			<key>Album Artist</key><string>Sheryl Crow</string>
+			<key>Composer</key><string>Yusuf Islam</string>
+			<key>Album</key><string>The Very Best of Sheryl Crow</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7968360</integer>
+			<key>Total Time</key><integer>227400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-06-23T21:40:55Z</date>
+			<key>Date Added</key><date>2018-06-23T21:40:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3613126488</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:14:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-27T17:19:10Z</date>
+			<key>Release Date</key><date>2003-10-13T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best of Sheryl Crow</string>
+			<key>Sort Artist</key><string>Sheryl Crow</string>
+			<key>Sort Name</key><string>First Cut Is the Deepest</string>
+			<key>Persistent ID</key><string>FF0784A11B20A12A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30816</key>
+		<dict>
+			<key>Track ID</key><integer>30816</integer>
+			<key>Name</key><string>Hands Clean</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album Artist</key><string>Alanis Morissette</string>
+			<key>Composer</key><string>Alanis Morissette &#38; Alanis Morissette</string>
+			<key>Album</key><string>Under Rug Swept</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10160648</integer>
+			<key>Total Time</key><integer>271058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-06-23T21:44:43Z</date>
+			<key>Date Added</key><date>2018-06-23T21:44:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3613126260</integer>
+			<key>Play Date UTC</key><date>2018-06-29T18:11:00Z</date>
+			<key>Release Date</key><date>2002-01-08T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Under Rug Swept</string>
+			<key>Sort Artist</key><string>Alanis Morissette</string>
+			<key>Sort Name</key><string>Hands Clean</string>
+			<key>Persistent ID</key><string>E311D0612FCB3C32</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>81065</key>
+		<dict>
+			<key>Track ID</key><integer>81065</integer>
+			<key>Name</key><string>Karma</string>
+			<key>Artist</key><string>Queen Naija</string>
+			<key>Album Artist</key><string>Queen Naija</string>
+			<key>Composer</key><string>Rob Grimaldi, Queen Naija Bulls &#38; Jefferson Jean</string>
+			<key>Album</key><string>Karma - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6376107</integer>
+			<key>Total Time</key><integer>176076</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-29T22:26:00Z</date>
+			<key>Date Added</key><date>2018-06-29T22:26:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-06-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Karma - Single</string>
+			<key>Sort Artist</key><string>Queen Naija</string>
+			<key>Sort Name</key><string>Karma</string>
+			<key>Persistent ID</key><string>17E9E7487F09CBDF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>74704</integer>
+			<key>Playlist Persistent ID</key><string>317E07F776CE71F6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11888</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14058</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30632</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30816</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>81065</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

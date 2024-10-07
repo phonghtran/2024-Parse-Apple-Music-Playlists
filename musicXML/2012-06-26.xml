@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-06-26T12:57:12Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35708</key>
+		<dict>
+			<key>Track ID</key><integer>35708</integer>
+			<key>Name</key><string>The Pocket</string>
+			<key>Artist</key><string>Andy Grammer</string>
+			<key>Album Artist</key><string>Andy Grammer</string>
+			<key>Composer</key><string>Andy Grammer</string>
+			<key>Album</key><string>Andy Grammer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7533458</integer>
+			<key>Total Time</key><integer>233795</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2012-06-13T04:43:11Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3423466986</integer>
+			<key>Play Date UTC</key><date>2012-06-25T16:03:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-06-22T03:37:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Pocket</string>
+			<key>Persistent ID</key><string>EF1061192DC170D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Andy%20Grammer%20-%20Andy%20Grammer/07%20The%20Pocket.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35858</key>
+		<dict>
+			<key>Track ID</key><integer>35858</integer>
+			<key>Name</key><string>Generals</string>
+			<key>Artist</key><string>The Mynabirds</string>
+			<key>Album</key><string>GENERALS</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9062153</integer>
+			<key>Total Time</key><integer>223608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-15T11:33:13Z</date>
+			<key>Date Added</key><date>2012-06-15T11:54:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.saddle-creek.com</string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3423422749</integer>
+			<key>Play Date UTC</key><date>2012-06-25T03:45:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-06-22T03:33:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7737</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Mynabirds</string>
+			<key>Persistent ID</key><string>3735FEB5A3AA26CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/03%20Generals.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>110206</key>
+		<dict>
+			<key>Track ID</key><integer>110206</integer>
+			<key>Name</key><string>Le Fils De Jaques Dutronc</string>
+			<key>Artist</key><string>King Khan</string>
+			<key>Album</key><string>What Is (With The Shrines)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4433919</integer>
+			<key>Total Time</key><integer>164675</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2012-06-19T09:33:00Z</date>
+			<key>Date Added</key><date>2012-06-19T12:41:15Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3423471098</integer>
+			<key>Play Date UTC</key><date>2012-06-25T17:11:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0657FC8631C2F18C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/King%20Khan%20-%20What%20Is%20(With%20The%20Shrines)%20(2007)/09%20-%20Le%20Fils%20De%20Jaques%20Dutronc.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>409235</key>
+		<dict>
+			<key>Track ID</key><integer>409235</integer>
+			<key>Name</key><string>Dare Seize the Fire </string>
+			<key>Artist</key><string>Daydream Vacation</string>
+			<key>Album</key><string>Dare Seize the Fire</string>
+			<key>Genre</key><string>Boing Boing</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9314364</integer>
+			<key>Total Time</key><integer>232803</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2012-06-21T03:10:03Z</date>
+			<key>Date Added</key><date>2012-06-21T03:11:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3423466752</integer>
+			<key>Play Date UTC</key><date>2012-06-25T15:59:12Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6007</integer>
+			<key>Persistent ID</key><string>EDEE62D66380FC5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Daydream%20Vacation%20-%20Dare%20Seize%20the%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>409240</key>
+		<dict>
+			<key>Track ID</key><integer>409240</integer>
+			<key>Name</key><string>Everything Changes</string>
+			<key>Artist</key><string>Eytan and The Embassy</string>
+			<key>Album Artist</key><string>Eytan and The Embassy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10050987</integer>
+			<key>Total Time</key><integer>248842</integer>
+			<key>Date Modified</key><date>2012-06-19T22:45:50Z</date>
+			<key>Date Added</key><date>2012-06-21T03:11:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3423462313</integer>
+			<key>Play Date UTC</key><date>2012-06-25T14:45:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-25T03:40:11Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3EE5D7D6084A2CBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Everything%20Changes.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>766967</key>
+		<dict>
+			<key>Track ID</key><integer>766967</integer>
+			<key>Name</key><string>Go!</string>
+			<key>Artist</key><string>Killer Mike</string>
+			<key>Album Artist</key><string>Killer Mike</string>
+			<key>Album</key><string>R.A.P. Music</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4672126</integer>
+			<key>Total Time</key><integer>114233</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-22T22:10:08Z</date>
+			<key>Date Added</key><date>2012-06-23T04:41:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3423488824</integer>
+			<key>Play Date UTC</key><date>2012-06-25T22:07:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C59FEA829E961135</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/R.A.P.%20Music/03%20Go!.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>766997</key>
+		<dict>
+			<key>Track ID</key><integer>766997</integer>
+			<key>Name</key><string>Butane (Champion's Anthem) [feat. El-P]</string>
+			<key>Artist</key><string>Killer Mike</string>
+			<key>Album Artist</key><string>Killer Mike</string>
+			<key>Album</key><string>R.A.P. Music</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8024350</integer>
+			<key>Total Time</key><integer>198034</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-22T22:10:24Z</date>
+			<key>Date Added</key><date>2012-06-23T04:41:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3423467191</integer>
+			<key>Play Date UTC</key><date>2012-06-25T16:06:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>032F5C8F1E49320E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/R.A.P.%20Music/09%20Butane%20(Champion's%20Anthem)%20%5Bfeat..mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>81871</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35708</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35858</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>110206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>409235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>409240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>766967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>766997</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

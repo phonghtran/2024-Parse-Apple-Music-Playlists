@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-12-09T20:50:47Z</date>
+	<key>Application Version</key><string>1.3.0.138</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>30039</key>
+		<dict>
+			<key>Track ID</key><integer>30039</integer>
+			<key>Name</key><string>Feel It (feat. Yung Baby Tate)</string>
+			<key>Artist</key><string>Georgia</string>
+			<key>Album Artist</key><string>Georgia</string>
+			<key>Composer</key><string>Baby Tate, Georgia Barnes &#38; Toddla T</string>
+			<key>Album</key><string>Feel It (feat. Yung Baby Tate) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6090249</integer>
+			<key>Total Time</key><integer>166500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-20T05:06:39Z</date>
+			<key>Date Added</key><date>2020-09-20T05:06:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3753197749</integer>
+			<key>Play Date UTC</key><date>2022-12-06T23:55:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-21T22:19:21Z</date>
+			<key>Release Date</key><date>2020-09-17T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feel It (feat. Yung Baby Tate) - Single</string>
+			<key>Sort Artist</key><string>Georgia</string>
+			<key>Sort Name</key><string>Feel It (feat. Yung Baby Tate)</string>
+			<key>Persistent ID</key><string>17F58B8A0F767883</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30128</key>
+		<dict>
+			<key>Track ID</key><integer>30128</integer>
+			<key>Name</key><string>Around Your Room</string>
+			<key>Artist</key><string>Kississippi</string>
+			<key>Album Artist</key><string>Kississippi</string>
+			<key>Composer</key><string>Zoe Allaire Reynolds &#38; Sarah Alyse Tudzin</string>
+			<key>Album</key><string>Around Your Room - Single</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7612544</integer>
+			<key>Total Time</key><integer>210693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2020-10-13T17:50:57Z</date>
+			<key>Date Added</key><date>2020-10-13T17:50:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3753197352</integer>
+			<key>Play Date UTC</key><date>2022-12-06T23:49:12Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-01-10T16:40:03Z</date>
+			<key>Release Date</key><date>2021-05-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Around Your Room - Single</string>
+			<key>Sort Artist</key><string>Kississippi</string>
+			<key>Sort Name</key><string>Around Your Room</string>
+			<key>Persistent ID</key><string>2ED18CE93CFF8068</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40326</key>
+		<dict>
+			<key>Track ID</key><integer>40326</integer>
+			<key>Name</key><string>Linda</string>
+			<key>Artist</key><string>Tokischa &#38; ROSALÍA</string>
+			<key>Album Artist</key><string>Tokischa &#38; ROSALÍA</string>
+			<key>Composer</key><string>Leonardo Felipe Yasmil "Leo RD", Tokischa, ROSALÍA &#38; Raymi Miguel Paulus Torres</string>
+			<key>Album</key><string>Linda - Single</string>
+			<key>Genre</key><string>Urbano latino</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5284006</integer>
+			<key>Total Time</key><integer>144019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-03T18:49:25Z</date>
+			<key>Date Added</key><date>2021-09-03T18:49:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3715584012</integer>
+			<key>Play Date UTC</key><date>2021-09-27T14:40:12Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-25T17:53:06Z</date>
+			<key>Release Date</key><date>2021-09-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Linda - Single</string>
+			<key>Sort Artist</key><string>Tokischa &#38; ROSALÍA</string>
+			<key>Sort Name</key><string>Linda</string>
+			<key>Persistent ID</key><string>8CFA73DA3CBCDF1D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46500</key>
+		<dict>
+			<key>Track ID</key><integer>46500</integer>
+			<key>Name</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix]</string>
+			<key>Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Album Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Composer</key><string>Äyanna, Summer Walker, William Grigahcine, Nicholas Audino, Nina Simone, Andrew Macdonald, Lewis Hughes, Ayanna Christie &#38; Sodamola Oluseye Idris Desmond</string>
+			<key>Album</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix] - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>44912640</integer>
+			<key>Total Time</key><integer>230918</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-27T13:53:44Z</date>
+			<key>Date Added</key><date>2022-10-27T12:53:39Z</date>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3753197582</integer>
+			<key>Play Date UTC</key><date>2022-12-06T23:53:02Z</date>
+			<key>Release Date</key><date>2022-10-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix] - Single</string>
+			<key>Sort Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Sort Name</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix]</string>
+			<key>Persistent ID</key><string>F270A6649C7BE5BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/SPINALL,%20A%CC%88yanna%20&#38;%20DJ%20Snake/Power%20(Remember%20Who%20You%20Are)%20%5Bfeat.%20Summer%20Walker%5D%20%5BFlippersworld%20Remix%5D%20-%20Single/01%20Power%20(Remember%20Who%20You%20Are)%20%5Bfeat.%20Summer%20Walker%5D%20%5BFlippersworld%20Remix%5D%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46575</key>
+		<dict>
+			<key>Track ID</key><integer>46575</integer>
+			<key>Name</key><string>No Time</string>
+			<key>Artist</key><string>Bad Milk &#38; Niisey</string>
+			<key>Album Artist</key><string>Bad Milk &#38; Niisey</string>
+			<key>Composer</key><string>Owen Roberts &#38; Aniis Allen</string>
+			<key>Album</key><string>No Time - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>34074624</integer>
+			<key>Total Time</key><integer>169682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-10-28T14:23:47Z</date>
+			<key>Date Added</key><date>2022-10-28T13:23:42Z</date>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3753348672</integer>
+			<key>Play Date UTC</key><date>2022-12-08T17:51:12Z</date>
+			<key>Release Date</key><date>2020-08-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Time - Single</string>
+			<key>Sort Artist</key><string>Bad Milk &#38; Niisey</string>
+			<key>Sort Name</key><string>No Time</string>
+			<key>Persistent ID</key><string>EF6E99404B2CFD20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Bad%20Milk%20&#38;%20Niisey/No%20Time%20-%20Single/01%20No%20Time.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46788</key>
+		<dict>
+			<key>Track ID</key><integer>46788</integer>
+			<key>Name</key><string>Better Thangs (Remix) [feat. GloRilla]</string>
+			<key>Artist</key><string>Ciara &#38; Summer Walker</string>
+			<key>Album Artist</key><string>Ciara &#38; Summer Walker</string>
+			<key>Composer</key><string>Summer Walker, Ciara Wilson, Kevin Yancey, Theron Thomas, Kasey Philips, Claudell M. Mosanto, Ayanna Christie, Cori P Alexander &#38; Gloria Woods</string>
+			<key>Album</key><string>Better Thangs (Remix) [feat. GloRilla] - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>47513600</integer>
+			<key>Total Time</key><integer>215060</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-06T21:35:58Z</date>
+			<key>Date Added</key><date>2022-11-06T21:35:53Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3752477713</integer>
+			<key>Play Date UTC</key><date>2022-11-28T15:55:13Z</date>
+			<key>Release Date</key><date>2022-11-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Better Thangs (Remix) [feat. GloRilla] - Single</string>
+			<key>Sort Artist</key><string>Ciara &#38; Summer Walker</string>
+			<key>Sort Name</key><string>Better Thangs (Remix) [feat. GloRilla]</string>
+			<key>Persistent ID</key><string>1C551BA648B92006</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Ciara%20&#38;%20Summer%20Walker/Better%20Thangs%20(Remix)%20%5Bfeat.%20GloRilla%5D%20-%20Single/01%20Better%20Thangs%20(Remix)%20%5Bfeat.%20GloRilla%5D%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46794</key>
+		<dict>
+			<key>Track ID</key><integer>46794</integer>
+			<key>Name</key><string>loving u is harder</string>
+			<key>Artist</key><string>SEB</string>
+			<key>Album Artist</key><string>SEB</string>
+			<key>Composer</key><string>SEB</string>
+			<key>Album</key><string>loving u is harder - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>28733440</integer>
+			<key>Total Time</key><integer>147426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-06T22:40:19Z</date>
+			<key>Date Added</key><date>2022-11-06T22:40:14Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3752234228</integer>
+			<key>Play Date UTC</key><date>2022-11-25T20:17:08Z</date>
+			<key>Release Date</key><date>2022-11-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>loving u is harder - Single</string>
+			<key>Sort Artist</key><string>SEB</string>
+			<key>Sort Name</key><string>loving u is harder</string>
+			<key>Persistent ID</key><string>291DFCC98C0A93E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/SEB/loving%20u%20is%20harder%20-%20Single/01%20loving%20u%20is%20harder%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47194</key>
+		<dict>
+			<key>Track ID</key><integer>47194</integer>
+			<key>Name</key><string>what's your number (feat. COCONA &#38; OLNL)</string>
+			<key>Artist</key><string>dnss</string>
+			<key>Album Artist</key><string>dnss</string>
+			<key>Album</key><string>PERSONA : 3AM - EP</string>
+			<key>Genre</key><string>Korean Hip-Hop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>57266176</integer>
+			<key>Total Time</key><integer>161020</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-21T05:11:18Z</date>
+			<key>Date Added</key><date>2022-11-21T05:11:13Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3753197910</integer>
+			<key>Play Date UTC</key><date>2022-12-06T23:58:30Z</date>
+			<key>Release Date</key><date>2022-11-15T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PERSONA : 3AM - EP</string>
+			<key>Sort Artist</key><string>dnss</string>
+			<key>Sort Name</key><string>what's your number (feat. COCONA &#38; OLNL)</string>
+			<key>Persistent ID</key><string>AFDA17DD4058CE51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/dnss/PERSONA%20_%203AM%20-%20EP/05%20what's%20your%20number%20(feat.%20COCONA%20&#38;%20OLNL).movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>112832</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46788</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40326</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

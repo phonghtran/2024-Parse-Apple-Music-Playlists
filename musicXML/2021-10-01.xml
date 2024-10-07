@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-10-01T15:52:48Z</date>
+	<key>Application Version</key><string>1.1.6.37</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16987</key>
+		<dict>
+			<key>Track ID</key><integer>16987</integer>
+			<key>Name</key><string>Barely Breathing</string>
+			<key>Artist</key><string>Duncan Sheik</string>
+			<key>Album</key><string>Duncan Sheik</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4087808</integer>
+			<key>Total Time</key><integer>255216</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-01-07T16:28:08Z</date>
+			<key>Date Added</key><date>2010-06-17T00:12:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3715769434</integer>
+			<key>Play Date UTC</key><date>2021-09-29T18:10:34Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-01-06T08:38:10Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2234</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42AEA021E98BD49D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>23475</key>
+		<dict>
+			<key>Track ID</key><integer>23475</integer>
+			<key>Name</key><string>All Night (BTS World Original Soundtrack) [Pt. 3]</string>
+			<key>Artist</key><string>BTS &#38; Juice WRLD</string>
+			<key>Album Artist</key><string>BTS &#38; Juice WRLD</string>
+			<key>Composer</key><string>Juice WRLD, Powers Pleasant, Marric Antonio Strobert, RM &#38; SUGA</string>
+			<key>Album</key><string>All Night (BTS World Original Soundtrack) [Pt. 3] - Single</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7720158</integer>
+			<key>Total Time</key><integer>216874</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-06-21T12:38:47Z</date>
+			<key>Date Added</key><date>2019-06-21T12:38:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>129</integer>
+			<key>Play Date</key><integer>3715927566</integer>
+			<key>Play Date UTC</key><date>2021-10-01T14:06:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-06T00:56:22Z</date>
+			<key>Release Date</key><date>2019-06-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All Night (BTS World Original Soundtrack) [Pt. 3] - Single</string>
+			<key>Sort Artist</key><string>BTS &#38; Juice WRLD</string>
+			<key>Sort Name</key><string>All Night (BTS World Original Soundtrack) [Pt. 3]</string>
+			<key>Persistent ID</key><string>3B7B5B9B46562218</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>25279</key>
+		<dict>
+			<key>Track ID</key><integer>25279</integer>
+			<key>Name</key><string>Blank Space</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>1989 (Deluxe)</string>
+			<key>Genre</key><string>POP: Folky Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9402771</integer>
+			<key>Total Time</key><integer>231862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-30T05:21:55Z</date>
+			<key>Date Added</key><date>2014-10-30T03:22:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>176</integer>
+			<key>Play Date</key><integer>3715839883</integer>
+			<key>Play Date UTC</key><date>2021-09-30T13:44:43Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B50BBF616F5DE1B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>42845</key>
+		<dict>
+			<key>Track ID</key><integer>42845</integer>
+			<key>Name</key><string>STEREOTYPE</string>
+			<key>Artist</key><string>STAYC</string>
+			<key>Album Artist</key><string>STAYC</string>
+			<key>Album</key><string>STEREOTYPE - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6880223</integer>
+			<key>Total Time</key><integer>191696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-13T20:22:41Z</date>
+			<key>Date Added</key><date>2021-09-13T20:22:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3715581982</integer>
+			<key>Play Date UTC</key><date>2021-09-27T14:06:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-26T19:19:11Z</date>
+			<key>Release Date</key><date>2021-09-06T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>STEREOTYPE - EP</string>
+			<key>Sort Artist</key><string>STAYC</string>
+			<key>Sort Name</key><string>STEREOTYPE</string>
+			<key>Persistent ID</key><string>BE71E158D93A1CF8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42899</key>
+		<dict>
+			<key>Track ID</key><integer>42899</integer>
+			<key>Name</key><string>Bouncin</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Composer</key><string>Tinashe Kachingwe, Jade Mckenzie &#38; David Wilson</string>
+			<key>Album</key><string>333</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6447539</integer>
+			<key>Total Time</key><integer>175092</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-13T21:43:28Z</date>
+			<key>Date Added</key><date>2021-09-13T21:43:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3715928543</integer>
+			<key>Play Date UTC</key><date>2021-10-01T14:22:23Z</date>
+			<key>Release Date</key><date>2021-07-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>333</string>
+			<key>Sort Artist</key><string>Tinashe</string>
+			<key>Sort Name</key><string>Bouncin</string>
+			<key>Persistent ID</key><string>9013679D2CFFE831</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>110008</key>
+		<dict>
+			<key>Track ID</key><integer>110008</integer>
+			<key>Name</key><string>LOST IN THE CITADEL</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill &#38; John Cunningham</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6284168</integer>
+			<key>Total Time</key><integer>170323</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-24T14:19:11Z</date>
+			<key>Date Added</key><date>2021-09-24T14:19:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3715763879</integer>
+			<key>Play Date UTC</key><date>2021-09-29T16:37:59Z</date>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>LOST IN THE CITADEL</string>
+			<key>Persistent ID</key><string>4AE7681A06361F79</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112264</key>
+		<dict>
+			<key>Track ID</key><integer>112264</integer>
+			<key>Name</key><string>Latch (feat. Sam Smith)</string>
+			<key>Artist</key><string>Disclosure</string>
+			<key>Album Artist</key><string>Disclosure</string>
+			<key>Composer</key><string>Sam Smith, Howard Lawrence, Guy Lawrence &#38; James Napier</string>
+			<key>Album</key><string>Settle (Deluxe Version)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9244852</integer>
+			<key>Total Time</key><integer>255867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-25T21:44:51Z</date>
+			<key>Date Added</key><date>2021-09-25T21:44:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3715765629</integer>
+			<key>Play Date UTC</key><date>2021-09-29T17:07:09Z</date>
+			<key>Release Date</key><date>2012-10-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Settle (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Disclosure</string>
+			<key>Sort Name</key><string>Latch (feat. Sam Smith)</string>
+			<key>Persistent ID</key><string>37FEB46B0BA47A10</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112267</key>
+		<dict>
+			<key>Track ID</key><integer>112267</integer>
+			<key>Name</key><string>You &#38; Me (feat. Eliza Doolittle) [Baauer Remix]</string>
+			<key>Artist</key><string>Disclosure</string>
+			<key>Album Artist</key><string>Disclosure</string>
+			<key>Composer</key><string>Howard Lawrence, Guy Lawrence, James Napier &#38; Eliza Caird</string>
+			<key>Album</key><string>Settle (The Remixes)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8550181</integer>
+			<key>Total Time</key><integer>242056</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-09-25T21:46:53Z</date>
+			<key>Date Added</key><date>2021-09-25T21:46:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3715927349</integer>
+			<key>Play Date UTC</key><date>2021-10-01T14:02:29Z</date>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Settle (The Remixes)</string>
+			<key>Sort Artist</key><string>Disclosure</string>
+			<key>Sort Name</key><string>You &#38; Me (feat. Eliza Doolittle) [Baauer Remix]</string>
+			<key>Persistent ID</key><string>D154C36D5CBE688E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112429</key>
+		<dict>
+			<key>Track ID</key><integer>112429</integer>
+			<key>Name</key><string>Bitter Sweet Symphony</string>
+			<key>Artist</key><string>The Verve</string>
+			<key>Album Artist</key><string>The Verve</string>
+			<key>Composer</key><string>Mick Jagger, Richard Ashcroft &#38; Keith Richards</string>
+			<key>Album</key><string>Urban Hymns (Deluxe / Remastered 2016)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12809755</integer>
+			<key>Total Time</key><integer>357267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-26T03:33:13Z</date>
+			<key>Date Added</key><date>2021-09-26T03:33:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3715927923</integer>
+			<key>Play Date UTC</key><date>2021-10-01T14:12:03Z</date>
+			<key>Release Date</key><date>1997-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Urban Hymns (Deluxe / Remastered 2016)</string>
+			<key>Sort Album Artist</key><string>Verve</string>
+			<key>Sort Artist</key><string>Verve</string>
+			<key>Sort Name</key><string>Bitter Sweet Symphony</string>
+			<key>Persistent ID</key><string>11BC07DC8013AA2C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112450</key>
+		<dict>
+			<key>Track ID</key><integer>112450</integer>
+			<key>Name</key><string>Roll to Me</string>
+			<key>Artist</key><string>Del Amitri</string>
+			<key>Album Artist</key><string>Del Amitri</string>
+			<key>Album</key><string>Roll to Me - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5525225</integer>
+			<key>Total Time</key><integer>134440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-29T18:10:48Z</date>
+			<key>Date Added</key><date>2021-09-26T03:43:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3715769556</integer>
+			<key>Play Date UTC</key><date>2021-09-29T18:12:36Z</date>
+			<key>Release Date</key><date>1995-02-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5306</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Roll to Me - EP</string>
+			<key>Sort Artist</key><string>Del Amitri</string>
+			<key>Sort Name</key><string>Roll to Me</string>
+			<key>Persistent ID</key><string>8F729AA34BA82A78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Compilations/Roll%20to%20Me%20-%20EP/01%20Roll%20to%20Me.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>114085</key>
+		<dict>
+			<key>Track ID</key><integer>114085</integer>
+			<key>Name</key><string>Burn Out</string>
+			<key>Artist</key><string>Nao</string>
+			<key>Album Artist</key><string>Nao</string>
+			<key>Composer</key><string>Neo Joshua, Leyla Fahm, Jonah Stevens, Michael Orabiyi &#38; Nija Charles</string>
+			<key>Album</key><string>And Then Life Was Beautiful</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7011444</integer>
+			<key>Total Time</key><integer>199773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-27T17:35:24Z</date>
+			<key>Date Added</key><date>2021-09-27T17:35:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3715932589</integer>
+			<key>Play Date UTC</key><date>2021-10-01T15:29:49Z</date>
+			<key>Release Date</key><date>2021-09-24T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>And Then Life Was Beautiful</string>
+			<key>Sort Artist</key><string>Nao</string>
+			<key>Sort Name</key><string>Burn Out</string>
+			<key>Persistent ID</key><string>9029E9E9FE79AA7F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>114560</key>
+		<dict>
+			<key>Track ID</key><integer>114560</integer>
+			<key>Name</key><string>THE TASTE (feat. BJ the Chicago Kid &#38; Papi Beatz)</string>
+			<key>Artist</key><string>VIC MENSA</string>
+			<key>Album Artist</key><string>VIC MENSA</string>
+			<key>Composer</key><string>Victor Mensah, Bryan Sledge, Malik Yusef, Fya Man, Taylor Iman &#38; Charity Croff</string>
+			<key>Album</key><string>THE TASTE (feat. BJ the Chicago Kid &#38; Papi Beatz) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6701127</integer>
+			<key>Total Time</key><integer>186195</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-27T17:43:15Z</date>
+			<key>Date Added</key><date>2021-09-27T17:43:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3715928109</integer>
+			<key>Play Date UTC</key><date>2021-10-01T14:15:09Z</date>
+			<key>Release Date</key><date>2021-09-22T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TASTE (feat. BJ the Chicago Kid &#38; Papi Beatz) - Single</string>
+			<key>Sort Artist</key><string>VIC MENSA</string>
+			<key>Sort Name</key><string>TASTE (feat. BJ the Chicago Kid &#38; Papi Beatz)</string>
+			<key>Persistent ID</key><string>B7BEAEF84D4F12B5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>116733</key>
+		<dict>
+			<key>Track ID</key><integer>116733</integer>
+			<key>Name</key><string>22 Break</string>
+			<key>Artist</key><string>Oh Wonder</string>
+			<key>Album Artist</key><string>Oh Wonder</string>
+			<key>Composer</key><string>Josephine Vander West &#38; Anthony Vander West</string>
+			<key>Album</key><string>22 Break</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7501012</integer>
+			<key>Total Time</key><integer>202085</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2021-09-28T16:27:49Z</date>
+			<key>Date Added</key><date>2021-09-28T16:27:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3715764081</integer>
+			<key>Play Date UTC</key><date>2021-09-29T16:41:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>22 Break</string>
+			<key>Sort Artist</key><string>Oh Wonder</string>
+			<key>Sort Name</key><string>22 Break</string>
+			<key>Persistent ID</key><string>6E972DD9C58B34C0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>129619</key>
+		<dict>
+			<key>Track ID</key><integer>129619</integer>
+			<key>Name</key><string>Michael Sam</string>
+			<key>Artist</key><string>Figgy Baby</string>
+			<key>Album Artist</key><string>Figgy Baby</string>
+			<key>Composer</key><string>Andrew Jeffrey Figueroa &#38; Dee Minor</string>
+			<key>Album</key><string>Michael Sam - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6082594</integer>
+			<key>Total Time</key><integer>169353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-09-30T12:44:26Z</date>
+			<key>Date Added</key><date>2021-09-30T12:44:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3715928368</integer>
+			<key>Play Date UTC</key><date>2021-10-01T14:19:28Z</date>
+			<key>Release Date</key><date>2019-11-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Michael Sam - Single</string>
+			<key>Sort Artist</key><string>Figgy Baby</string>
+			<key>Sort Name</key><string>Michael Sam</string>
+			<key>Persistent ID</key><string>E2EB3632FAF078E1</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102857</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>42845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>110008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129619</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,3806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-06-26T04:31:37Z</date>
+	<key>Application Version</key><string>11.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6191</key>
+		<dict>
+			<key>Track ID</key><integer>6191</integer>
+			<key>Name</key><string>Black River</string>
+			<key>Artist</key><string>Amos Lee</string>
+			<key>Album</key><string>Amos Lee</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7461125</integer>
+			<key>Total Time</key><integer>211146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-23T17:49:13Z</date>
+			<key>Date Added</key><date>2010-06-16T22:07:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>184</integer>
+			<key>Play Date</key><integer>3485525434</integer>
+			<key>Play Date UTC</key><date>2014-06-13T22:30:34Z</date>
+			<key>Skip Count</key><integer>24</integer>
+			<key>Skip Date</key><date>2014-05-25T13:28:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>885</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97B6CB42966B5847</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Amos%20Lee/Amos%20Lee/09%20Black%20River.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6241</key>
+		<dict>
+			<key>Track ID</key><integer>6241</integer>
+			<key>Name</key><string>Heretics</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Armchair Apocrypha</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7511366</integer>
+			<key>Total Time</key><integer>213800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-06-26T03:45:18Z</date>
+			<key>Date Added</key><date>2010-06-16T22:07:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3485494008</integer>
+			<key>Play Date UTC</key><date>2014-06-13T13:46:48Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3959</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Bird, Andrew</string>
+			<key>Sort Artist</key><string>Bird, Andrew</string>
+			<key>Persistent ID</key><string>CECBECF857299650</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Andrew%20Bird/Armchair%20Apocrypha/04%20Heretics.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6457</key>
+		<dict>
+			<key>Track ID</key><integer>6457</integer>
+			<key>Name</key><string>The Shining</string>
+			<key>Artist</key><string>Badly Drawn Boy</string>
+			<key>Album</key><string>Chilled 01.1</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6178037</integer>
+			<key>Total Time</key><integer>318850</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-25T05:13:29Z</date>
+			<key>Date Added</key><date>2010-06-16T22:08:05Z</date>
+			<key>Bit Rate</key><integer>154</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>202</integer>
+			<key>Play Date</key><integer>3485528923</integer>
+			<key>Play Date UTC</key><date>2014-06-13T23:28:43Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-06-13T23:12:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>669</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Shining</string>
+			<key>Persistent ID</key><string>0D0AA40E74EC1689</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Chilled%2001.1/12%20The%20Shining.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6525</key>
+		<dict>
+			<key>Track ID</key><integer>6525</integer>
+			<key>Name</key><string>Sunscreen Song</string>
+			<key>Artist</key><string>Baz Luhrman</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5291127</integer>
+			<key>Total Time</key><integer>297639</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-25T05:45:43Z</date>
+			<key>Date Added</key><date>2010-06-16T22:08:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3485487321</integer>
+			<key>Play Date UTC</key><date>2014-06-13T11:55:21Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>259</integer>
+			<key>Persistent ID</key><string>393A60122F38A049</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Baz%20Luhrman/Unknown%20Album/03%20Sunscreen%20Song.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6725</key>
+		<dict>
+			<key>Track ID</key><integer>6725</integer>
+			<key>Name</key><string>I Can't Make Me</string>
+			<key>Artist</key><string>Butterfly Boucher</string>
+			<key>Album</key><string>Flutterby</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8757203</integer>
+			<key>Total Time</key><integer>237653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2014-06-26T03:48:39Z</date>
+			<key>Date Added</key><date>2010-06-16T22:10:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3483866289</integer>
+			<key>Play Date UTC</key><date>2014-05-25T17:38:09Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2014-06-26T03:50:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5049</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2ACF6E705CE63B09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Butterfly%20Boucher/Flutterby/03%20I%20Can't%20Make%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6793</key>
+		<dict>
+			<key>Track ID</key><integer>6793</integer>
+			<key>Name</key><string>Anthems for a Seventeen Year Old Girl</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It in People</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9332362</integer>
+			<key>Total Time</key><integer>275693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:17Z</date>
+			<key>Date Added</key><date>2010-06-16T22:10:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 7</string>
+			<key>Play Count</key><integer>162</integer>
+			<key>Play Date</key><integer>3485530378</integer>
+			<key>Play Date UTC</key><date>2014-06-13T23:52:58Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2014-06-26T04:02:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2628</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45DD19F99E24FB67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20in%20People/1-07%20Anthems%20for%20a%20Seventeen%20Year%20Old%20Girl.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6949</key>
+		<dict>
+			<key>Track ID</key><integer>6949</integer>
+			<key>Name</key><string>Sleep on the Left Side</string>
+			<key>Artist</key><string>Cornershop</string>
+			<key>Album</key><string>When I Was Born for the 7th Time</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8919119</integer>
+			<key>Total Time</key><integer>245906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:34Z</date>
+			<key>Date Added</key><date>2010-06-16T22:11:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>94</integer>
+			<key>Play Date</key><integer>3485524179</integer>
+			<key>Play Date UTC</key><date>2014-06-13T22:09:39Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2014-06-26T03:35:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2686</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C8ACD0882474D84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cornershop/When%20I%20Was%20Born%20for%20the%207th%20Time/01%20Sleep%20on%20the%20Left%20Side.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6969</key>
+		<dict>
+			<key>Track ID</key><integer>6969</integer>
+			<key>Name</key><string>Mr. Jones</string>
+			<key>Artist</key><string>Counting Crows</string>
+			<key>Album</key><string>1994-04-16: Suddenly Beautiful: The Whisky, LA, USA</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9992467</integer>
+			<key>Total Time</key><integer>272506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2014-05-27T04:40:20Z</date>
+			<key>Date Added</key><date>2010-06-16T22:11:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>172</integer>
+			<key>Play Date</key><integer>3486308302</integer>
+			<key>Play Date UTC</key><date>2014-06-22T23:58:22Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2014-03-12T05:16:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4049</integer>
+			<key>Persistent ID</key><string>5773D3300A3FC148</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Counting%20Crows/1994-04-16_%20Suddenly%20Beautiful_%20The%20Whisky,%20LA,%20USA/06%20Mr.%20Jones.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6995</key>
+		<dict>
+			<key>Track ID</key><integer>6995</integer>
+			<key>Name</key><string>The Recluse</string>
+			<key>Artist</key><string>Cursive</string>
+			<key>Album Artist</key><string>Cursive</string>
+			<key>Album</key><string>The Ugly Organ</string>
+			<key>Genre</key><string>Pop, Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6985609</integer>
+			<key>Total Time</key><integer>183266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-12-22T18:54:22Z</date>
+			<key>Date Added</key><date>2010-06-16T22:11:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3485489075</integer>
+			<key>Play Date UTC</key><date>2014-06-13T12:24:35Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ugly Organ</string>
+			<key>Sort Album Artist</key><string>Cursive</string>
+			<key>Sort Artist</key><string>Cursive</string>
+			<key>Sort Name</key><string>Recluse</string>
+			<key>Persistent ID</key><string>2E67CD28FBE9E4FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cursive/The%20Ugly%20Organ/04%20The%20Recluse.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7015</key>
+		<dict>
+			<key>Track ID</key><integer>7015</integer>
+			<key>Name</key><string>Take Five</string>
+			<key>Artist</key><string>Dave Brubeck</string>
+			<key>Album</key><string>Time Signatures: A Career Retrospective</string>
+			<key>Genre</key><string>Jazz, Jazz Music</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>11253888</integer>
+			<key>Total Time</key><integer>325970</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2014-06-14T13:11:24Z</date>
+			<key>Date Added</key><date>2010-06-16T22:12:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>177</integer>
+			<key>Play Date</key><integer>3485528604</integer>
+			<key>Play Date UTC</key><date>2014-06-13T23:23:24Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1116</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6BDFBF25C8924013</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dave%20Brubeck/Time%20Signatures_%20A%20Career%20Retrospective/2-09%20Take%20Five.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7027</key>
+		<dict>
+			<key>Track ID</key><integer>7027</integer>
+			<key>Name</key><string>Satellite</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Album</key><string>Under the Table &#38; Dreaming</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6349833</integer>
+			<key>Total Time</key><integer>291631</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-25T08:24:57Z</date>
+			<key>Date Added</key><date>2010-06-16T22:12:10Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>106</integer>
+			<key>Play Date</key><integer>3483861374</integer>
+			<key>Play Date UTC</key><date>2014-05-25T16:16:14Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10626</integer>
+			<key>Persistent ID</key><string>2E6985329A9DF064</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dave%20Matthews%20Band/Under%20the%20Table%20&#38;%20Dreaming/03%20Satellite.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7201</key>
+		<dict>
+			<key>Track ID</key><integer>7201</integer>
+			<key>Name</key><string>Little Brother</string>
+			<key>Artist</key><string>The Eames Era</string>
+			<key>Album</key><string>Heroes + Sheroes</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>5739805</integer>
+			<key>Total Time</key><integer>158068</integer>
+			<key>Start Time</key><integer>23000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-06-26T03:44:55Z</date>
+			<key>Date Added</key><date>2010-06-16T22:13:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3485488170</integer>
+			<key>Play Date UTC</key><date>2014-06-13T12:09:30Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8206</integer>
+			<key>Sort Artist</key><string>Eames Era</string>
+			<key>Persistent ID</key><string>3F97D17B013A349F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Eames%20Era/Heroes%20+%20Sheroes/01%20Little%20Brother.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7287</key>
+		<dict>
+			<key>Track ID</key><integer>7287</integer>
+			<key>Name</key><string>I Will Buy You a New Life</string>
+			<key>Artist</key><string>Everclear</string>
+			<key>Album</key><string>So Much for the Afterglow</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8538401</integer>
+			<key>Total Time</key><integer>238122</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-25T09:47:46Z</date>
+			<key>Date Added</key><date>2010-06-16T22:13:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>133</integer>
+			<key>Play Date</key><integer>3485546502</integer>
+			<key>Play Date UTC</key><date>2014-06-14T04:21:42Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6411</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D3991395DCED294</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Everclear/So%20Much%20for%20the%20Afterglow/05%20I%20Will%20Buy%20You%20a%20New%20Life.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7313</key>
+		<dict>
+			<key>Track ID</key><integer>7313</integer>
+			<key>Name</key><string>Hum Hallelujah</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album</key><string>Infinity on High</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8410178</integer>
+			<key>Total Time</key><integer>230506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-06-13T23:02:43Z</date>
+			<key>Date Added</key><date>2010-06-16T22:13:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>254</integer>
+			<key>Play Date</key><integer>3485527596</integer>
+			<key>Play Date UTC</key><date>2014-06-13T23:06:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9634</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8EE44F8BE6E35DEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Infinity%20on%20High/05%20Hum%20Hallelujah.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7347</key>
+		<dict>
+			<key>Track ID</key><integer>7347</integer>
+			<key>Name</key><string>Right Here, Right Now</string>
+			<key>Artist</key><string>Fatboy Slim</string>
+			<key>Album</key><string>Why Try Harder: The Greatest Hits</string>
+			<key>Genre</key><string>Beat</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8005734</integer>
+			<key>Total Time</key><integer>235586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-25T09:59:32Z</date>
+			<key>Date Added</key><date>2010-06-16T22:13:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>157</integer>
+			<key>Play Date</key><integer>3485487557</integer>
+			<key>Play Date UTC</key><date>2014-06-13T11:59:17Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3891</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>34A7F11129F93161</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Why%20Try%20Harder_%20The%20Greatest%20Hits/08%20Right%20Here,%20Right%20Now.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7395</key>
+		<dict>
+			<key>Track ID</key><integer>7395</integer>
+			<key>Name</key><string>What's So Different</string>
+			<key>Artist</key><string>Ginuwine</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4628076</integer>
+			<key>Total Time</key><integer>230191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-25T10:36:17Z</date>
+			<key>Date Added</key><date>2010-06-16T22:13:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>82</integer>
+			<key>Play Date</key><integer>3485494853</integer>
+			<key>Play Date UTC</key><date>2014-06-13T14:00:53Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-06-14T02:28:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2022</integer>
+			<key>Persistent ID</key><string>979657305E3ABDAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ginuwine/Unknown%20Album/04%20What's%20So%20Different.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7455</key>
+		<dict>
+			<key>Track ID</key><integer>7455</integer>
+			<key>Name</key><string>Now That You Got It</string>
+			<key>Artist</key><string>Gwen Stefani</string>
+			<key>Album Artist</key><string>Gwen Stefani</string>
+			<key>Album</key><string>The Sweet Escape</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6808116</integer>
+			<key>Total Time</key><integer>178720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-26T11:10:10Z</date>
+			<key>Date Added</key><date>2010-06-16T22:13:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com</string>
+			<key>Play Count</key><integer>93</integer>
+			<key>Play Date</key><integer>3483860377</integer>
+			<key>Play Date UTC</key><date>2014-05-25T15:59:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4749</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Escape</string>
+			<key>Sort Album Artist</key><string>Stefani, Gwen</string>
+			<key>Sort Artist</key><string>Stefani, Gwen</string>
+			<key>Persistent ID</key><string>3BAC51611B773592</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Sweet%20Escape/05%20Now%20That%20You%20Got%20It.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7475</key>
+		<dict>
+			<key>Track ID</key><integer>7475</integer>
+			<key>Name</key><string>First... and Then</string>
+			<key>Artist</key><string>Handsome Boy Modeling School</string>
+			<key>Album</key><string>White People Instrumental</string>
+			<key>Genre</key><string>Pop, Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9130566</integer>
+			<key>Total Time</key><integer>259400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-06-26T04:02:09Z</date>
+			<key>Date Added</key><date>2010-06-16T22:14:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3485545258</integer>
+			<key>Play Date UTC</key><date>2014-06-14T04:00:58Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-06-26T04:09:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3448</integer>
+			<key>Persistent ID</key><string>44C0DDAACCA081A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Handsome%20Boy%20Modeling%20School/White%20People%20Instrumental/11%20First...%20and%20Then.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7529</key>
+		<dict>
+			<key>Track ID</key><integer>7529</integer>
+			<key>Name</key><string>Sunday Morning Song</string>
+			<key>Artist</key><string>Howie Day</string>
+			<key>Album Artist</key><string>Howie Day</string>
+			<key>Album</key><string>Stop All the World Now</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8397727</integer>
+			<key>Total Time</key><integer>237826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-25T08:27:28Z</date>
+			<key>Date Added</key><date>2010-06-16T22:14:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3483857959</integer>
+			<key>Play Date UTC</key><date>2014-05-25T15:19:19Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2014-05-23T22:52:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2238</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Day, Howie</string>
+			<key>Sort Artist</key><string>Day, Howie</string>
+			<key>Persistent ID</key><string>F902D92734184C3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Howie%20Day/Stop%20All%20the%20World%20Now/05%20Sunday%20Morning%20Song.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7539</key>
+		<dict>
+			<key>Track ID</key><integer>7539</integer>
+			<key>Name</key><string>But It's Alright</string>
+			<key>Artist</key><string>Huey Lewis &#38; The News</string>
+			<key>Album Artist</key><string>Huey Lewis &#38; The News</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>5603188</integer>
+			<key>Total Time</key><integer>172546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-06-26T03:44:19Z</date>
+			<key>Date Added</key><date>2010-06-16T22:14:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>?</string>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3475211022</integer>
+			<key>Play Date UTC</key><date>2014-02-14T13:23:42Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Lewis, Huey and News, The</string>
+			<key>Sort Artist</key><string>Lewis, Huey and News, The</string>
+			<key>Persistent ID</key><string>D5CB5550360C4B24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Greatest%20Hits/18%20But%20It's%20Alright.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7649</key>
+		<dict>
+			<key>Track ID</key><integer>7649</integer>
+			<key>Name</key><string>Màiyá táng</string>
+			<key>Artist</key><string>Jay Chou</string>
+			<key>Album Artist</key><string>Jay Chou</string>
+			<key>Album</key><string>11 yuè de Chopin</string>
+			<key>Genre</key><string>R&#38;B </string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9092058</integer>
+			<key>Total Time</key><integer>258373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-06-26T03:42:21Z</date>
+			<key>Date Added</key><date>2010-06-16T22:14:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>#aznmp3@irc.rizon.net</string>
+			<key>Play Count</key><integer>102</integer>
+			<key>Play Date</key><integer>3485544742</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:52:22Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2014-06-26T03:42:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6540</integer>
+			<key>Sort Album Artist</key><string>Chou, Jay</string>
+			<key>Sort Artist</key><string>Chou, Jay</string>
+			<key>Persistent ID</key><string>95F92DA165437863</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jay%20Chou/11%20yue%CC%80%20de%20Chopin/09%20Ma%CC%80iya%CC%81%20ta%CC%81ng.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7699</key>
+		<dict>
+			<key>Track ID</key><integer>7699</integer>
+			<key>Name</key><string>Save Room</string>
+			<key>Artist</key><string>John Legend</string>
+			<key>Album</key><string>Once Again</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8365509</integer>
+			<key>Total Time</key><integer>235840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-06-26T03:43:42Z</date>
+			<key>Date Added</key><date>2010-06-16T22:16:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>127</integer>
+			<key>Play Date</key><integer>3484547581</integer>
+			<key>Play Date UTC</key><date>2014-06-02T14:53:01Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2586</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>440C6B9C68370663</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/John%20Legend/Once%20Again/01%20Save%20Room.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7771</key>
+		<dict>
+			<key>Track ID</key><integer>7771</integer>
+			<key>Name</key><string>Last Goodbye</string>
+			<key>Artist</key><string>Kenny Wayne Shepherd</string>
+			<key>Album</key><string>Live On</string>
+			<key>Genre</key><string>Pop, Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9899671</integer>
+			<key>Total Time</key><integer>273600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:19Z</date>
+			<key>Date Added</key><date>2010-06-16T22:16:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>81</integer>
+			<key>Play Date</key><integer>3485494471</integer>
+			<key>Play Date UTC</key><date>2014-06-13T13:54:31Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-05-27T00:05:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3345</integer>
+			<key>Persistent ID</key><string>F8EEF0AD4A8D4EDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kenny%20Wayne%20Shepherd/Live%20On/04%20Last%20Goodbye.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7811</key>
+		<dict>
+			<key>Track ID</key><integer>7811</integer>
+			<key>Name</key><string>Doo Wop (That Thing)</string>
+			<key>Artist</key><string>Lauryn Hill</string>
+			<key>Album</key><string>The Miseducation of Lauryn Hill</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>11089780</integer>
+			<key>Total Time</key><integer>320266</integer>
+			<key>Stop Time</key><integer>236000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-05-24T21:55:56Z</date>
+			<key>Date Added</key><date>2010-06-16T22:17:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3485539543</integer>
+			<key>Play Date UTC</key><date>2014-06-14T02:25:43Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1403</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Miseducation of Lauryn Hill</string>
+			<key>Persistent ID</key><string>14068C51F2E8705D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Miseducation%20of%20Lauryn%20Hill/05%20Doo%20Wop%20(That%20Thing).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7953</key>
+		<dict>
+			<key>Track ID</key><integer>7953</integer>
+			<key>Name</key><string>She Moves in Her Own Way</string>
+			<key>Artist</key><string>The Kooks</string>
+			<key>Album</key><string>Inside In/Inside Out</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6675754</integer>
+			<key>Total Time</key><integer>170200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-25T13:08:41Z</date>
+			<key>Date Added</key><date>2010-06-16T22:17:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>No comments.</string>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3485525793</integer>
+			<key>Play Date UTC</key><date>2014-06-13T22:36:33Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6592</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Kooks</string>
+			<key>Persistent ID</key><string>6F1FDFB01977F8AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Kooks/Inside%20In_Inside%20Out/07%20She%20Moves%20in%20Her%20Own%20Way.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8027</key>
+		<dict>
+			<key>Track ID</key><integer>8027</integer>
+			<key>Name</key><string>Underneath It All</string>
+			<key>Artist</key><string>No Doubt feat. Lady Saw</string>
+			<key>Album Artist</key><string>No Doubt</string>
+			<key>Album</key><string>Rock Steady</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>11080980</integer>
+			<key>Total Time</key><integer>302040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-26T06:25:50Z</date>
+			<key>Date Added</key><date>2010-06-16T22:17:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3483875925</integer>
+			<key>Play Date UTC</key><date>2014-05-25T20:18:45Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4232</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>No Doubt</string>
+			<key>Sort Artist</key><string>No Doubt feat. Lady Saw</string>
+			<key>Persistent ID</key><string>076C3AC4B8C0CEED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Rock%20Steady/05%20Underneath%20It%20All.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8061</key>
+		<dict>
+			<key>Track ID</key><integer>8061</integer>
+			<key>Name</key><string>Sex and Candy</string>
+			<key>Artist</key><string>Marcy Playground</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Buzz (disc 2)</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6489596</integer>
+			<key>Total Time</key><integer>170920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-05-24T21:34:15Z</date>
+			<key>Date Added</key><date>2010-06-16T22:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>95</integer>
+			<key>Play Date</key><integer>3485546673</integer>
+			<key>Play Date UTC</key><date>2014-06-14T04:24:33Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2235</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Buzz (disc 2)</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Sort Artist</key><string>Marcy Playground</string>
+			<key>Persistent ID</key><string>27D65D184CDFDD6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Buzz%20(disc%202)/03%20Sex%20and%20Candy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8081</key>
+		<dict>
+			<key>Track ID</key><integer>8081</integer>
+			<key>Name</key><string>Always Be My Baby</string>
+			<key>Artist</key><string>Mariah Carey</string>
+			<key>Album</key><string>Daydream</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9132527</integer>
+			<key>Total Time</key><integer>257866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2014-05-24T21:37:06Z</date>
+			<key>Date Added</key><date>2010-06-16T22:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>189</integer>
+			<key>Play Date</key><integer>3483978480</integer>
+			<key>Play Date UTC</key><date>2014-05-27T00:48:00Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2252</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C48D21748C66DAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Mariah%20Carey/Daydream/05%20Always%20Be%20My%20Baby.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8175</key>
+		<dict>
+			<key>Track ID</key><integer>8175</integer>
+			<key>Name</key><string>Remember the Time</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>HIStory: Past, Present and Future, Book I</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8733556</integer>
+			<key>Total Time</key><integer>240240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-26T04:09:41Z</date>
+			<key>Date Added</key><date>2010-06-16T22:18:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>171</integer>
+			<key>Play Date</key><integer>3486379632</integer>
+			<key>Play Date UTC</key><date>2014-06-23T19:47:12Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2215</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78660AA88096FA2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/HIStory_%20Past,%20Present%20and%20Future,%20Book%20I/1-12%20Remember%20the%20Time.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8303</key>
+		<dict>
+			<key>Track ID</key><integer>8303</integer>
+			<key>Name</key><string>That Teenage Feeling</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Fox Confessor Brings the Flood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6209747</integer>
+			<key>Total Time</key><integer>162933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-25T07:16:57Z</date>
+			<key>Date Added</key><date>2010-06-16T22:19:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3485539719</integer>
+			<key>Play Date UTC</key><date>2014-06-14T02:28:39Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7054</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Case, Neko</string>
+			<key>Sort Artist</key><string>Case, Neko</string>
+			<key>Persistent ID</key><string>14F3C35498D392E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Neko%20Case/Fox%20Confessor%20Brings%20the%20Flood/05%20That%20Teenage%20Feeling.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8363</key>
+		<dict>
+			<key>Track ID</key><integer>8363</integer>
+			<key>Name</key><string>Someday We'll Know</string>
+			<key>Artist</key><string>New Radicals</string>
+			<key>Album Artist</key><string>New Radicals</string>
+			<key>Album</key><string>Maybe You've Been Brainwashed Too</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8170386</integer>
+			<key>Total Time</key><integer>219133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-06-20T22:53:28Z</date>
+			<key>Date Added</key><date>2010-06-16T22:19:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3486131830</integer>
+			<key>Play Date UTC</key><date>2014-06-20T22:57:10Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3665</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Radicals</string>
+			<key>Sort Artist</key><string>New Radicals</string>
+			<key>Persistent ID</key><string>BA3C0B53E8300A74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/New%20Radicals/Maybe%20You've%20Been%20Brainwashed%20Too/06%20Someday%20We'll%20Know.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8367</key>
+		<dict>
+			<key>Track ID</key><integer>8367</integer>
+			<key>Name</key><string>Hindi Sad Diamonds</string>
+			<key>Artist</key><string>Nicole Kidman &#38; John Leguizamo, Alka Yagnik</string>
+			<key>Album</key><string>Somethin' Stupid</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7703293</integer>
+			<key>Total Time</key><integer>208160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Date Modified</key><date>2014-06-26T04:10:14Z</date>
+			<key>Date Added</key><date>2010-06-16T22:19:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>114</integer>
+			<key>Play Date</key><integer>3486582822</integer>
+			<key>Play Date UTC</key><date>2014-06-26T04:13:42Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6715</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8F010050B601674A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Somethin'%20Stupid/06%20Hindi%20Sad%20Diamonds.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8399</key>
+		<dict>
+			<key>Track ID</key><integer>8399</integer>
+			<key>Name</key><string>El Lado Oscuro de Mi Compadre</string>
+			<key>Artist</key><string>Terrestre</string>
+			<key>Album Artist</key><string>Nortec Collective</string>
+			<key>Album</key><string>The Tijuana Sessions, Volume 1</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9636250</integer>
+			<key>Total Time</key><integer>274466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2014-06-26T03:41:24Z</date>
+			<key>Date Added</key><date>2010-06-16T22:19:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3485541587</integer>
+			<key>Play Date UTC</key><date>2014-06-14T02:59:47Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2014-06-26T03:41:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1768</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Tijuana Sessions, Volume 1</string>
+			<key>Sort Album Artist</key><string>Nortec Collective</string>
+			<key>Sort Artist</key><string>Terrestre</string>
+			<key>Persistent ID</key><string>CC4D54D82E871D50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Tijuana%20Sessions,%20Volume%201/09%20El%20Lado%20Oscuro%20de%20Mi%20Compadre.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9027</key>
+		<dict>
+			<key>Track ID</key><integer>9027</integer>
+			<key>Name</key><string>Airport Taxi Reception</string>
+			<key>Artist</key><string>Sondre Lerche and The Faces Down</string>
+			<key>Album</key><string>Phantom Punch</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>4769741</integer>
+			<key>Total Time</key><integer>148281</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-06-26T04:29:18Z</date>
+			<key>Date Added</key><date>2010-06-16T22:23:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>81</integer>
+			<key>Play Date</key><integer>3483863071</integer>
+			<key>Play Date UTC</key><date>2014-05-25T16:44:31Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11014</integer>
+			<key>Persistent ID</key><string>E0ABE6768C3AEA70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Sondre%20Lerche%20and%20The%20Faces%20Down/Phantom%20Punch/01%20Airport%20Taxi%20Reception.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9039</key>
+		<dict>
+			<key>Track ID</key><integer>9039</integer>
+			<key>Name</key><string>Circles</string>
+			<key>Artist</key><string>Soul Coughing</string>
+			<key>Album</key><string>El Oso</string>
+			<key>Genre</key><string>Alt. Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6853635</integer>
+			<key>Total Time</key><integer>186640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-26T16:59:51Z</date>
+			<key>Date Added</key><date>2010-06-16T22:23:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000744 00000769 00001727 000015A4 00024A35 0002230E 00007DE3 00008000 00024A35 00029810</string>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3485531462</integer>
+			<key>Play Date UTC</key><date>2014-06-14T00:11:02Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2500</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D47E0E95DDF5408F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Soul%20Coughing/El%20Oso/03%20Circles.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9065</key>
+		<dict>
+			<key>Track ID</key><integer>9065</integer>
+			<key>Name</key><string>Tempted (94)</string>
+			<key>Artist</key><string>Squeeze</string>
+			<key>Album</key><string>Reality Bites</string>
+			<key>Genre</key><string>Slow Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8809032</integer>
+			<key>Total Time</key><integer>246133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2014-05-25T05:32:05Z</date>
+			<key>Date Added</key><date>2010-06-16T22:23:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>140</integer>
+			<key>Play Date</key><integer>3486044519</integer>
+			<key>Play Date UTC</key><date>2014-06-19T22:41:59Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3091</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>573511BA6B8F5EFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Reality%20Bites/13%20Tempted%20(94).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9151</key>
+		<dict>
+			<key>Track ID</key><integer>9151</integer>
+			<key>Name</key><string>Someday</string>
+			<key>Artist</key><string>Sugar Ray</string>
+			<key>Album Artist</key><string>Sugar Ray</string>
+			<key>Album</key><string>14:59</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8571735</integer>
+			<key>Total Time</key><integer>242719</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-05-20T22:56:31Z</date>
+			<key>Date Added</key><date>2010-06-16T22:23:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000A9C 00000B7E 0000408F 000046F5 0001CC0D 00032EB1 00008000 00008000 00010C4E 00010C4E</string>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3486045503</integer>
+			<key>Play Date UTC</key><date>2014-06-19T22:58:23Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-06-26T03:57:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4473</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Sugar Ray</string>
+			<key>Sort Artist</key><string>Sugar Ray</string>
+			<key>Persistent ID</key><string>238714BB86AF9C13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Sugar%20Ray/14_59/06%20Someday.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9191</key>
+		<dict>
+			<key>Track ID</key><integer>9191</integer>
+			<key>Name</key><string>It's Love You're On</string>
+			<key>Artist</key><string>The Redwalls</string>
+			<key>Album</key><string>Universal Blues</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6293876</integer>
+			<key>Total Time</key><integer>165040</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-26T08:31:28Z</date>
+			<key>Date Added</key><date>2010-06-16T22:23:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>86</integer>
+			<key>Play Date</key><integer>3485531633</integer>
+			<key>Play Date UTC</key><date>2014-06-14T00:13:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8930</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Redwalls</string>
+			<key>Persistent ID</key><string>90D151F760BF8E66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Redwalls/Universal%20Blues/06%20It's%20Love%20You're%20On.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9315</key>
+		<dict>
+			<key>Track ID</key><integer>9315</integer>
+			<key>Name</key><string>World Spins Madly On</string>
+			<key>Artist</key><string>The Weepies</string>
+			<key>Album</key><string>Say I Am You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>5906937</integer>
+			<key>Total Time</key><integer>165133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-24T21:44:49Z</date>
+			<key>Date Added</key><date>2010-06-16T22:24:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>180</integer>
+			<key>Play Date</key><integer>3485543674</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:34:34Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2014-06-26T03:41:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Weepies</string>
+			<key>Persistent ID</key><string>1E97E68B6C3B2F11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Weepies/Say%20I%20Am%20You/03%20World%20Spins%20Madly%20On.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9461</key>
+		<dict>
+			<key>Track ID</key><integer>9461</integer>
+			<key>Name</key><string>Sorry (Acoustic)</string>
+			<key>Artist</key><string>Unknown Artist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2708073</integer>
+			<key>Total Time</key><integer>168594</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:47Z</date>
+			<key>Date Added</key><date>2010-06-16T22:24:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3483851308</integer>
+			<key>Play Date UTC</key><date>2014-05-25T13:28:28Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2014-06-26T03:35:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2138</integer>
+			<key>Persistent ID</key><string>8B2EC0D8CE507BB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/06%20Sorry%20(Acoustic).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9783</key>
+		<dict>
+			<key>Track ID</key><integer>9783</integer>
+			<key>Name</key><string>Your Ex-Lover Is Dead</string>
+			<key>Artist</key><string>Stars</string>
+			<key>Album</key><string>Set Yourself on Fire</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8968003</integer>
+			<key>Total Time</key><integer>255800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:54Z</date>
+			<key>Date Added</key><date>2010-06-16T22:25:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3485456919</integer>
+			<key>Play Date UTC</key><date>2014-06-13T03:28:39Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2014-06-26T03:51:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3107</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>516E32729F5B4033</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Stars/Set%20Yourself%20on%20Fire/01%20Your%20Ex-Lover%20Is%20Dead.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10405</key>
+		<dict>
+			<key>Track ID</key><integer>10405</integer>
+			<key>Name</key><string>Never Can Say Goodbye (feat. Talib Kweli)</string>
+			<key>Artist</key><string>Rhymefest</string>
+			<key>Album Artist</key><string>Rhymefest</string>
+			<key>Album</key><string>Mark Ronson Presents Rhymefest: Man in the Mirror</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3083293</integer>
+			<key>Total Time</key><integer>153626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-26T08:36:57Z</date>
+			<key>Date Added</key><date>2010-06-16T22:25:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Mark Ronson presents Rhymefest: MAN IN THE MIRROR (The Michael Jackson Dedication Album) -FOR PROMOTIONAL USE ONLY-</string>
+			<key>Play Count</key><integer>111</integer>
+			<key>Play Date</key><integer>3485544239</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:43:59Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-06-26T04:29:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6283</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Rhymefest</string>
+			<key>Sort Artist</key><string>Rhymefest</string>
+			<key>Persistent ID</key><string>9AC5B04E5E6A6A25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Mark%20Ronson%20Presents%20Rhymefest_%20Man%20in%20the%20Mirror/07%20Never%20Can%20Say%20Goodbye%20(feat.%20Talib%20Kweli).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10429</key>
+		<dict>
+			<key>Track ID</key><integer>10429</integer>
+			<key>Name</key><string>Wish I Could Forget</string>
+			<key>Artist</key><string>The Weepies</string>
+			<key>Album</key><string>Hideaway</string>
+			<key>Genre</key><string>Pop-Folk</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6561196</integer>
+			<key>Total Time</key><integer>178960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:09Z</date>
+			<key>Date Added</key><date>2010-06-16T22:25:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>228</integer>
+			<key>Play Date</key><integer>3485493512</integer>
+			<key>Play Date UTC</key><date>2014-06-13T13:38:32Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2014-06-26T03:35:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2573</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Weepies</string>
+			<key>Persistent ID</key><string>5B1970CA96AAD7A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Weepies/Hideaway/04%20Wish%20I%20Could%20Forget.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10579</key>
+		<dict>
+			<key>Track ID</key><integer>10579</integer>
+			<key>Name</key><string>Another Day</string>
+			<key>Artist</key><string>Jamie Lidell</string>
+			<key>Album</key><string>Jim</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8069970</integer>
+			<key>Total Time</key><integer>228906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-24T15:24:22Z</date>
+			<key>Date Added</key><date>2010-06-16T22:28:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>221</integer>
+			<key>Play Date</key><integer>3485530607</integer>
+			<key>Play Date UTC</key><date>2014-06-13T23:56:47Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4145</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>724DF6DD48D6EA98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Jim/01%20Another%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10833</key>
+		<dict>
+			<key>Track ID</key><integer>10833</integer>
+			<key>Name</key><string>Life and Limb</string>
+			<key>Artist</key><string>Fugazi</string>
+			<key>Album</key><string>The Argument</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6914560</integer>
+			<key>Total Time</key><integer>189693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-24T15:18:37Z</date>
+			<key>Date Added</key><date>2010-06-16T22:29:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>128</integer>
+			<key>Play Date</key><integer>3485494198</integer>
+			<key>Play Date UTC</key><date>2014-06-13T13:49:58Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1706</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Argument</string>
+			<key>Persistent ID</key><string>4782774C4833F513</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Fugazi/The%20Argument/05%20Life%20and%20Limb.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10995</key>
+		<dict>
+			<key>Track ID</key><integer>10995</integer>
+			<key>Name</key><string>Tell Me Why</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album</key><string>Fearless</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7201653</integer>
+			<key>Total Time</key><integer>201533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-26T04:27:55Z</date>
+			<key>Date Added</key><date>2010-06-16T22:31:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>HULLO</string>
+			<key>Play Count</key><integer>197</integer>
+			<key>Play Date</key><integer>3484586344</integer>
+			<key>Play Date UTC</key><date>2014-06-03T01:39:04Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8653</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB9DB59EF1067975</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Fearless/08%20Tell%20Me%20Why.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11299</key>
+		<dict>
+			<key>Track ID</key><integer>11299</integer>
+			<key>Name</key><string>Let's Take a Walk</string>
+			<key>Artist</key><string>Raphael Saadiq</string>
+			<key>Album</key><string>The Way I See It</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>5397924</integer>
+			<key>Total Time</key><integer>148240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-05-20T23:10:39Z</date>
+			<key>Date Added</key><date>2010-06-16T22:32:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>156</integer>
+			<key>Play Date</key><integer>3486218529</integer>
+			<key>Play Date UTC</key><date>2014-06-21T23:02:09Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-06-26T03:53:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4459</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Way I See It</string>
+			<key>Persistent ID</key><string>F18A6DBEA5B1D750</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Raphael%20Saadiq/The%20Way%20I%20See%20It/10%20Let's%20Take%20a%20Walk.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11471</key>
+		<dict>
+			<key>Track ID</key><integer>11471</integer>
+			<key>Name</key><string>Carry You</string>
+			<key>Artist</key><string>Dispatch</string>
+			<key>Album</key><string>Who Are We Living For?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7298030</integer>
+			<key>Total Time</key><integer>191533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-05-26T20:04:07Z</date>
+			<key>Date Added</key><date>2010-06-16T22:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>205</integer>
+			<key>Play Date</key><integer>3486563588</integer>
+			<key>Play Date UTC</key><date>2014-06-25T22:53:08Z</date>
+			<key>Skip Count</key><integer>20</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1256</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7AE40F5EAF83B1EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dispatch/Who%20Are%20We%20Living%20For_/07%20Carry%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11587</key>
+		<dict>
+			<key>Track ID</key><integer>11587</integer>
+			<key>Name</key><string>December</string>
+			<key>Artist</key><string>Collective Soul</string>
+			<key>Album</key><string>Rocktopia</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10243108</integer>
+			<key>Total Time</key><integer>284951</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-06-23T02:14:42Z</date>
+			<key>Date Added</key><date>2010-06-16T22:33:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>130</integer>
+			<key>Play Date</key><integer>3486316770</integer>
+			<key>Play Date UTC</key><date>2014-06-23T02:19:30Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2014-06-26T04:29:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3941</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8CB9E26EC0237A9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Rocktopia/2-06%20December.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11771</key>
+		<dict>
+			<key>Track ID</key><integer>11771</integer>
+			<key>Name</key><string>Fluorescent Adolescent</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6314359</integer>
+			<key>Total Time</key><integer>179533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-06-26T04:00:28Z</date>
+			<key>Date Added</key><date>2010-06-16T22:34:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3485495184</integer>
+			<key>Play Date UTC</key><date>2014-06-13T14:06:24Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6817</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCEF580D217E15A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/05%20Fluorescent%20Adolescent.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11925</key>
+		<dict>
+			<key>Track ID</key><integer>11925</integer>
+			<key>Name</key><string>Little You and I</string>
+			<key>Artist</key><string>Jason Mraz</string>
+			<key>Album Artist</key><string>Jason Mraz</string>
+			<key>Album</key><string>Live &#38; Acoustic</string>
+			<key>Genre</key><string>Acoustic</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>11683703</integer>
+			<key>Total Time</key><integer>337466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-26T03:52:03Z</date>
+			<key>Date Added</key><date>2010-06-16T22:35:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3483863957</integer>
+			<key>Play Date UTC</key><date>2014-05-25T16:59:17Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1638</integer>
+			<key>Sort Album Artist</key><string>Mraz, Jason</string>
+			<key>Sort Artist</key><string>Mraz, Jason</string>
+			<key>Persistent ID</key><string>FF92E6B03434BFFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jason%20Mraz/Live%20&#38;%20Acoustic/03%20Little%20You%20and%20I.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12031</key>
+		<dict>
+			<key>Track ID</key><integer>12031</integer>
+			<key>Name</key><string>Wonderwall</string>
+			<key>Artist</key><string>Oasis</string>
+			<key>Album Artist</key><string>Oasis</string>
+			<key>Album</key><string>(What's the Story) Morning Glory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9482826</integer>
+			<key>Total Time</key><integer>258733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2014-06-26T03:40:47Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped by-  Zod</string>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3485531276</integer>
+			<key>Play Date UTC</key><date>2014-06-14T00:07:56Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2014-06-26T04:14:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2899</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Oasis</string>
+			<key>Sort Artist</key><string>Oasis</string>
+			<key>Persistent ID</key><string>66FA4014527DD23D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Oasis/(What's%20the%20Story)%20Morning%20Glory_/03%20Wonderwall.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12093</key>
+		<dict>
+			<key>Track ID</key><integer>12093</integer>
+			<key>Name</key><string>Dance All Night</string>
+			<key>Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+			<key>Album Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+			<key>Album</key><string>Cold Roses</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7380703</integer>
+			<key>Total Time</key><integer>193666</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-23T17:26:03Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3485527940</integer>
+			<key>Play Date UTC</key><date>2014-06-13T23:12:20Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5826</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Adams, Ryan &#38; Cardinals, The</string>
+			<key>Sort Artist</key><string>Adams, Ryan &#38; Cardinals, The</string>
+			<key>Persistent ID</key><string>3FD87AEAEF49CEF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ryan%20Adams%20&#38;%20The%20Cardinals/Cold%20Roses/2-06%20Dance%20All%20Night.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12155</key>
+		<dict>
+			<key>Track ID</key><integer>12155</integer>
+			<key>Name</key><string>October, First Account</string>
+			<key>Artist</key><string>Be Your Own Pet</string>
+			<key>Album</key><string>be your own PET</string>
+			<key>Genre</key><string>Indie Rock, Noise Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6531480</integer>
+			<key>Total Time</key><integer>179093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-06-26T04:07:30Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3485543325</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:28:45Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>21533</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>757BC66465E4EB4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Be%20Your%20Own%20Pet/be%20your%20own%20PET/12%20October,%20First%20Account.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12159</key>
+		<dict>
+			<key>Track ID</key><integer>12159</integer>
+			<key>Name</key><string>BTK Blues</string>
+			<key>Artist</key><string>Pink Nasty</string>
+			<key>Album Artist</key><string>Pink Nasty</string>
+			<key>Album</key><string>Mold the Gold</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8632321</integer>
+			<key>Total Time</key><integer>237893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-06-26T04:07:27Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3486583279</integer>
+			<key>Play Date UTC</key><date>2014-06-26T04:21:19Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5233</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Nasty, Pink</string>
+			<key>Sort Artist</key><string>Nasty, Pink</string>
+			<key>Persistent ID</key><string>EA4F1759BF05A97C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Pink%20Nasty/Mold%20the%20Gold/02%20BTK%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12209</key>
+		<dict>
+			<key>Track ID</key><integer>12209</integer>
+			<key>Name</key><string>Before the Gold Rush</string>
+			<key>Artist</key><string>The Envy Corps</string>
+			<key>Album</key><string>Dwell</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7483752</integer>
+			<key>Total Time</key><integer>203613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-26T04:08:55Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3485545461</integer>
+			<key>Play Date UTC</key><date>2014-06-14T04:04:21Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-06-26T04:30:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3346</integer>
+			<key>Sort Artist</key><string>Envy Corps</string>
+			<key>Persistent ID</key><string>0DDA39875DDFB3A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Envy%20Corps/Dwell/05%20Before%20the%20Gold%20Rush.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12239</key>
+		<dict>
+			<key>Track ID</key><integer>12239</integer>
+			<key>Name</key><string>Alice</string>
+			<key>Artist</key><string>Pogo</string>
+			<key>Album</key><string>Wonderland</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2738416</integer>
+			<key>Total Time</key><integer>164048</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-24T14:36:02Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Free download from http://www.last.fm/music/Pogo</string>
+			<key>Play Count</key><integer>118</integer>
+			<key>Play Date</key><integer>3484041446</integer>
+			<key>Play Date UTC</key><date>2014-05-27T18:17:26Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>460</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BFA0383EF8A19A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Pogo/Wonderland/01%20Alice.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12285</key>
+		<dict>
+			<key>Track ID</key><integer>12285</integer>
+			<key>Name</key><string>Right as Rain</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album</key><string>19</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7081504</integer>
+			<key>Total Time</key><integer>197346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-26T04:14:03Z</date>
+			<key>Date Added</key><date>2010-06-16T22:36:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>186</integer>
+			<key>Play Date</key><integer>3486583041</integer>
+			<key>Play Date UTC</key><date>2014-06-26T04:17:21Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5857</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45DD81C47CAB2008</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Adele/19/08%20Right%20as%20Rain.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12415</key>
+		<dict>
+			<key>Track ID</key><integer>12415</integer>
+			<key>Name</key><string>The River</string>
+			<key>Artist</key><string>Anathallo</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Fly53 &#38; Clash Magazine Present The Very Best Of 2009</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10069116</integer>
+			<key>Total Time</key><integer>283133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-23T02:04:22Z</date>
+			<key>Date Added</key><date>2010-06-16T22:37:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>106</integer>
+			<key>Play Date</key><integer>3486316148</integer>
+			<key>Play Date UTC</key><date>2014-06-23T02:09:08Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3211</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Sort Artist</key><string>Anathallo</string>
+			<key>Sort Name</key><string>River</string>
+			<key>Persistent ID</key><string>9197BFB47A2230E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Fly53%20&#38;%20Clash%20Magazine%20Present%20The%20Very%20Best%20Of%202009/14%20The%20River.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12493</key>
+		<dict>
+			<key>Track ID</key><integer>12493</integer>
+			<key>Name</key><string>Flex</string>
+			<key>Artist</key><string>Doomtree</string>
+			<key>Album</key><string>False Hopes</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6567739</integer>
+			<key>Total Time</key><integer>181525</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-06-26T03:39:25Z</date>
+			<key>Date Added</key><date>2010-06-16T22:37:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3486550769</integer>
+			<key>Play Date UTC</key><date>2014-06-25T19:19:29Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-06-26T03:39:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5987</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C21C372FE2891E1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Doomtree/False%20Hopes/01%20Flex.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12745</key>
+		<dict>
+			<key>Track ID</key><integer>12745</integer>
+			<key>Name</key><string>Same Old Lines</string>
+			<key>Artist</key><string>Rod Thomas</string>
+			<key>Album</key><string>Until Something Fits</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6567927</integer>
+			<key>Total Time</key><integer>184453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-26T03:40:33Z</date>
+			<key>Date Added</key><date>2010-06-16T22:37:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>145</integer>
+			<key>Play Date</key><integer>3485543509</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:31:49Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2014-06-26T03:42:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2446</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E09493A803CB4CAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Rod%20Thomas/Until%20Something%20Fits/03%20Same%20Old%20Lines.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12913</key>
+		<dict>
+			<key>Track ID</key><integer>12913</integer>
+			<key>Name</key><string>Jumping Bean</string>
+			<key>Artist</key><string>nelo</string>
+			<key>Album Artist</key><string>nelo</string>
+			<key>Album</key><string>nelo</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10371058</integer>
+			<key>Total Time</key><integer>297506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-26T03:59:23Z</date>
+			<key>Date Added</key><date>2010-06-16T22:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3483864483</integer>
+			<key>Play Date UTC</key><date>2014-05-25T17:08:03Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2957</integer>
+			<key>Sort Album Artist</key><string>nelo</string>
+			<key>Sort Artist</key><string>nelo</string>
+			<key>Persistent ID</key><string>9A70EB964F9C5300</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/nelo/nelo/02%20Jumping%20Bean.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13341</key>
+		<dict>
+			<key>Track ID</key><integer>13341</integer>
+			<key>Name</key><string>Closing the Doors</string>
+			<key>Artist</key><string>Caroline Smith And The Good Night Sleeps</string>
+			<key>Album</key><string>Backyard Tent Set</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7253682</integer>
+			<key>Total Time</key><integer>190360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-22T04:08:46Z</date>
+			<key>Date Added</key><date>2009-08-28T22:05:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>181</integer>
+			<key>Play Date</key><integer>3486237119</integer>
+			<key>Play Date UTC</key><date>2014-06-22T04:11:59Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2014-05-23T22:46:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1876</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E1AC0986CFAD3E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Caroline%20Smith%20And%20The%20Good%20Night%20Sleeps/Backyard%20Tent%20Set/04%20Closing%20the%20Doors.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13547</key>
+		<dict>
+			<key>Track ID</key><integer>13547</integer>
+			<key>Name</key><string>What You Do</string>
+			<key>Artist</key><string>Chrisette Michele</string>
+			<key>Album</key><string>Epiphany</string>
+			<key>Genre</key><string>R&#38;B - Soul</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7195956</integer>
+			<key>Total Time</key><integer>202093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-26T03:42:52Z</date>
+			<key>Date Added</key><date>2010-06-16T22:44:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>174</integer>
+			<key>Play Date</key><integer>3486563140</integer>
+			<key>Play Date UTC</key><date>2014-06-25T22:45:40Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-06-26T03:43:11Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4796</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE9F000E5C3BA24C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Chrisette%20Michele/Epiphany/03%20What%20You%20Do.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13775</key>
+		<dict>
+			<key>Track ID</key><integer>13775</integer>
+			<key>Name</key><string>Unpredictable</string>
+			<key>Artist</key><string>Francesca Battistelli</string>
+			<key>Composer</key><string>Battistelli, Pardo</string>
+			<key>Album</key><string>My Paper Heart</string>
+			<key>Genre</key><string>Christian/Gospel</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6691475</integer>
+			<key>Total Time</key><integer>178600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-26T03:42:43Z</date>
+			<key>Date Added</key><date>2010-06-16T22:50:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 000023D1 0000225C 00005782 00004E9B 0000C395 0000C37E 00008000 00008000 0000C350 0000C350</string>
+			<key>Play Count</key><integer>176</integer>
+			<key>Play Date</key><integer>3484569666</integer>
+			<key>Play Date UTC</key><date>2014-06-02T21:01:06Z</date>
+			<key>Skip Count</key><integer>21</integer>
+			<key>Skip Date</key><date>2014-06-26T03:42:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11034</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D89F2CE3A8EA627</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Francesca%20Battistelli/My%20Paper%20Heart/03%20Unpredictable.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13811</key>
+		<dict>
+			<key>Track ID</key><integer>13811</integer>
+			<key>Name</key><string>Everyday</string>
+			<key>Artist</key><string>Lucy Pearl</string>
+			<key>Album</key><string>Lucy Pearl</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8814067</integer>
+			<key>Total Time</key><integer>240374</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:25Z</date>
+			<key>Date Added</key><date>2010-06-16T22:51:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>by Dr.E</string>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3485543915</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:38:35Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3369</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4CF4B6B3BC10AC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Lucy%20Pearl/Lucy%20Pearl/05%20Everyday.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13933</key>
+		<dict>
+			<key>Track ID</key><integer>13933</integer>
+			<key>Name</key><string>Tears Dry on Their Own</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back to Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4509304</integer>
+			<key>Total Time</key><integer>184816</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-23T17:54:03Z</date>
+			<key>Date Added</key><date>2010-06-16T22:52:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com</string>
+			<key>Play Count</key><integer>117</integer>
+			<key>Play Date</key><integer>3485524364</integer>
+			<key>Play Date UTC</key><date>2014-06-13T22:12:44Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D62CCDD34FC8564</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Amy%20Winehouse/Back%20to%20Black/1-07%20Tears%20Dry%20on%20Their%20Own.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14045</key>
+		<dict>
+			<key>Track ID</key><integer>14045</integer>
+			<key>Name</key><string>On to the Next One</string>
+			<key>Artist</key><string>Jay-Z</string>
+			<key>Album Artist</key><string>Jay-Z</string>
+			<key>Album</key><string>The Blueprint 3</string>
+			<key>Genre</key><string>Rap/Hip-Hop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9138681</integer>
+			<key>Total Time</key><integer>256104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-05-26T19:59:51Z</date>
+			<key>Date Added</key><date>2010-06-16T22:55:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>209</integer>
+			<key>Play Date</key><integer>3483977214</integer>
+			<key>Play Date UTC</key><date>2014-05-27T00:26:54Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2014-06-26T04:31:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12628</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueprint 3</string>
+			<key>Persistent ID</key><string>49E66F684B6517D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Blueprint%203/07%20On%20to%20the%20Next%20One.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14063</key>
+		<dict>
+			<key>Track ID</key><integer>14063</integer>
+			<key>Name</key><string>I Get Lonely</string>
+			<key>Artist</key><string>Janet Jackson</string>
+			<key>Album</key><string>Number Ones</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8486812</integer>
+			<key>Total Time</key><integer>241406</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-23T22:51:34Z</date>
+			<key>Date Added</key><date>2010-06-16T22:55:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>267</integer>
+			<key>Play Date</key><integer>3486443930</integer>
+			<key>Play Date UTC</key><date>2014-06-24T13:38:50Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2313</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9027DB8EA507F09A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Janet%20Jackson/Number%20Ones/2-09%20I%20Get%20Lonely.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14175</key>
+		<dict>
+			<key>Track ID</key><integer>14175</integer>
+			<key>Name</key><string>Come Out, Come Out</string>
+			<key>Artist</key><string>I Was Totally Destroying It</string>
+			<key>Album</key><string>Horror Vacui</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7571479</integer>
+			<key>Total Time</key><integer>197109</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-26T03:56:47Z</date>
+			<key>Date Added</key><date>2010-06-16T22:56:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>150</integer>
+			<key>Play Date</key><integer>3485541800</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:03:20Z</date>
+			<key>Skip Count</key><integer>26</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8153</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E389DB4E2E493E16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/I%20Was%20Totally%20Destroying%20It/Horror%20Vacui/08%20Come%20Out,%20Come%20Out.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14719</key>
+		<dict>
+			<key>Track ID</key><integer>14719</integer>
+			<key>Name</key><string>Give Me One Reason</string>
+			<key>Artist</key><string>Tracy Chapman</string>
+			<key>Album</key><string>New Beginning</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10147478</integer>
+			<key>Total Time</key><integer>268560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2014-06-26T04:29:37Z</date>
+			<key>Date Added</key><date>2010-11-05T13:03:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>81</integer>
+			<key>Play Date</key><integer>3483878104</integer>
+			<key>Play Date UTC</key><date>2014-05-25T20:55:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>971F53A1385CFD18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tracy%20Chapman/New%20Beginning/09%20Give%20Me%20One%20Reason.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14767</key>
+		<dict>
+			<key>Track ID</key><integer>14767</integer>
+			<key>Name</key><string>All of the Lights</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album</key><string>My Beautiful Dark Twisted Fantasy</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10880751</integer>
+			<key>Total Time</key><integer>299613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-06-26T03:43:21Z</date>
+			<key>Date Added</key><date>2010-11-26T02:26:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>151</integer>
+			<key>Play Date</key><integer>3486217481</integer>
+			<key>Play Date UTC</key><date>2014-06-21T22:44:41Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2014-01-28T14:58:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8296</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Beautiful Dark Twisted Fantasy</string>
+			<key>Persistent ID</key><string>C390573E4F6C9018</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/My%20Beautiful%20Dark%20Twisted%20Fantasy/05%20All%20of%20the%20Lights.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15013</key>
+		<dict>
+			<key>Track ID</key><integer>15013</integer>
+			<key>Name</key><string>Matches to Paper Dolls</string>
+			<key>Artist</key><string>Dessa</string>
+			<key>Album</key><string>A Badly Broken Code</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8044856</integer>
+			<key>Total Time</key><integer>211285</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-06-18T03:48:43Z</date>
+			<key>Date Added</key><date>2011-01-24T15:57:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>179</integer>
+			<key>Play Date</key><integer>3485924757</integer>
+			<key>Play Date UTC</key><date>2014-06-18T13:25:57Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-06-13T13:54:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5915</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Badly Broken Code</string>
+			<key>Persistent ID</key><string>D0BB090FD1391D3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dessa/A%20Badly%20Broken%20Code/07%20Matches%20to%20Paper%20Dolls.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15041</key>
+		<dict>
+			<key>Track ID</key><integer>15041</integer>
+			<key>Name</key><string>Still Fighting It</string>
+			<key>Artist</key><string>Mosaic Whispers</string>
+			<key>Composer</key><string>Ben Folds</string>
+			<key>Album</key><string>Ben Folds Presents: University A Cappella!</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9490216</integer>
+			<key>Total Time</key><integer>269840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-06-26T03:34:54Z</date>
+			<key>Date Added</key><date>2011-02-09T09:31:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 210849201</string>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3486583548</integer>
+			<key>Play Date UTC</key><date>2014-06-26T04:25:48Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2014-06-14T02:25:54Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5326</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E6F207B3BE5806F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Ben%20Folds%20Presents_%20University%20A%20Cappella!/05%20Still%20Fighting%20It.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15805</key>
+		<dict>
+			<key>Track ID</key><integer>15805</integer>
+			<key>Name</key><string>Trouble on My Mind</string>
+			<key>Artist</key><string>Pusha T feat. Tyler, the Creator</string>
+			<key>Album Artist</key><string>Pusha T</string>
+			<key>Album</key><string>Fear of God II: Let Us Pray</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7601576</integer>
+			<key>Total Time</key><integer>216528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-26T03:52:19Z</date>
+			<key>Date Added</key><date>2011-07-13T12:36:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EARMILK.COM</string>
+			<key>Play Count</key><integer>87</integer>
+			<key>Play Date</key><integer>3485456161</integer>
+			<key>Play Date UTC</key><date>2014-06-13T03:16:01Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2583</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Pusha T</string>
+			<key>Sort Artist</key><string>Pusha T feat. Tyler, the Creator</string>
+			<key>Persistent ID</key><string>355C09DB3A3E8122</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Fear%20of%20God%20II_%20Let%20Us%20Pray/03%20Trouble%20on%20My%20Mind.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15835</key>
+		<dict>
+			<key>Track ID</key><integer>15835</integer>
+			<key>Name</key><string>Modern Art</string>
+			<key>Artist</key><string>Black Lips</string>
+			<key>Album</key><string>Spex CD #97</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>4522348</integer>
+			<key>Total Time</key><integer>124146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-26T04:00:06Z</date>
+			<key>Date Added</key><date>2011-07-26T17:32:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>148</integer>
+			<key>Play Date</key><integer>3483866052</integer>
+			<key>Play Date UTC</key><date>2014-05-25T17:34:12Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11223</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>18C644D265F8B2A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Spex%20CD%20%2397/07%20Modern%20Art.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16007</key>
+		<dict>
+			<key>Track ID</key><integer>16007</integer>
+			<key>Name</key><string>The Naturist</string>
+			<key>Artist</key><string>Ham Sandwich</string>
+			<key>Album</key><string>White Fox</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7226781</integer>
+			<key>Total Time</key><integer>203480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-06-26T03:35:01Z</date>
+			<key>Date Added</key><date>2011-08-29T17:53:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>173</integer>
+			<key>Play Date</key><integer>3485525223</integer>
+			<key>Play Date UTC</key><date>2014-06-13T22:27:03Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2014-06-26T03:35:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4698</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Naturist</string>
+			<key>Persistent ID</key><string>C10F3201BAF6E394</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ham%20Sandwich/White%20Fox/01%20The%20Naturist.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16221</key>
+		<dict>
+			<key>Track ID</key><integer>16221</integer>
+			<key>Name</key><string>My Own Worst Enemy</string>
+			<key>Artist</key><string>Lit</string>
+			<key>Album Artist</key><string>Lit</string>
+			<key>Album</key><string>A Place in the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6468199</integer>
+			<key>Total Time</key><integer>171133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2014-06-26T03:56:39Z</date>
+			<key>Date Added</key><date>2011-10-03T03:54:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3485544086</integer>
+			<key>Play Date UTC</key><date>2014-06-14T03:41:26Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11168</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Place in the Sun</string>
+			<key>Sort Album Artist</key><string>Lit</string>
+			<key>Sort Artist</key><string>Lit</string>
+			<key>Persistent ID</key><string>2975859AB872C32F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Lit/A%20Place%20in%20the%20Sun/02%20My%20Own%20Worst%20Enemy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16319</key>
+		<dict>
+			<key>Track ID</key><integer>16319</integer>
+			<key>Name</key><string>By Your Hand</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album</key><string>Hello Sadness</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8965998</integer>
+			<key>Total Time</key><integer>247320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-26T03:38:43Z</date>
+			<key>Date Added</key><date>2011-10-07T00:15:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3484929091</integer>
+			<key>Play Date UTC</key><date>2014-06-07T00:51:31Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5529</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DE5FBF26F47AB7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Los%20Campesinos!/Hello%20Sadness/01%20By%20Your%20Hand.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16413</key>
+		<dict>
+			<key>Track ID</key><integer>16413</integer>
+			<key>Name</key><string>Dreaming of Love and Drugs (Rihanna x Kesha x Beyonce x Nicki Minaj)</string>
+			<key>Artist</key><string>The Musicmatician</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3462246</integer>
+			<key>Total Time</key><integer>215719</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-23T21:49:48Z</date>
+			<key>Date Added</key><date>2011-11-06T13:15:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Instrumental courtesy of YouTube user ddd94100.  Songs include Rihanna feat. Calvin Harris "We Found Love", Kesha "Your Love is My Drug", Beyonce and Nicki Minaj "Sweet Dreams" (Lil Wayne Remix)</string>
+			<key>Play Count</key><integer>135</integer>
+			<key>Play Date</key><integer>3483940566</integer>
+			<key>Play Date UTC</key><date>2014-05-26T14:16:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Musicmatician</string>
+			<key>Persistent ID</key><string>C2266201CE176852</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Musicmatician/Unknown%20Album/Dreaming%20of%20Love%20and%20Drugs%20(Rihanna%20x%20Kesha%20x%20Beyonce%20x%20Nicki%20Minaj).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16493</key>
+		<dict>
+			<key>Track ID</key><integer>16493</integer>
+			<key>Name</key><string>White Lie</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>Waves: White Lie</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7599922</integer>
+			<key>Total Time</key><integer>190950</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>200</integer>
+			<key>Date Modified</key><date>2014-06-26T03:44:51Z</date>
+			<key>Date Added</key><date>2011-11-27T22:24:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>127</integer>
+			<key>Play Date</key><integer>3485545652</integer>
+			<key>Play Date UTC</key><date>2014-06-14T04:07:32Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-12-20T17:55:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8629</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5625630C5C8C0C64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jhameel/Waves_%20White%20Lie/02%20White%20Lie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16573</key>
+		<dict>
+			<key>Track ID</key><integer>16573</integer>
+			<key>Name</key><string>Organ Donor</string>
+			<key>Artist</key><string>DJ Shadow</string>
+			<key>Album Artist</key><string>DJ Shadow</string>
+			<key>Album</key><string>Reconstructed: The Definitive DJ Shadow</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3512339</integer>
+			<key>Total Time</key><integer>218853</integer>
+			<key>Disc Number</key><integer>8</integer>
+			<key>Disc Count</key><integer>9</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-23T21:47:02Z</date>
+			<key>Date Added</key><date>2011-12-05T00:57:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3482935717</integer>
+			<key>Play Date UTC</key><date>2014-05-14T23:08:37Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2112</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Shadow, DJ</string>
+			<key>Sort Artist</key><string>Shadow, DJ</string>
+			<key>Persistent ID</key><string>C1B4E21613C8F3B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Reconstructed_%20The%20Definitive%20DJ%20Shadow/8-18%20Organ%20Donor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16619</key>
+		<dict>
+			<key>Track ID</key><integer>16619</integer>
+			<key>Name</key><string>Wishery</string>
+			<key>Artist</key><string>Pogo</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8401111</integer>
+			<key>Total Time</key><integer>209763</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-23T21:46:24Z</date>
+			<key>Date Added</key><date>2011-12-15T23:29:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.pogomix.net/</string>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3472977105</integer>
+			<key>Play Date UTC</key><date>2014-01-19T16:51:45Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-06-26T03:51:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4989</integer>
+			<key>Persistent ID</key><string>C7056B04E1373E62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Pogo/Unknown%20Album/Wishery.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16671</key>
+		<dict>
+			<key>Track ID</key><integer>16671</integer>
+			<key>Name</key><string>Generator ^ First Floor</string>
+			<key>Artist</key><string>Freelance Whales</string>
+			<key>Album</key><string>Weathervanes</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7788811</integer>
+			<key>Total Time</key><integer>187810</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-06-14T15:14:10Z</date>
+			<key>Date Added</key><date>2012-01-08T22:53:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>127</integer>
+			<key>Play Date</key><integer>3485147896</integer>
+			<key>Play Date UTC</key><date>2014-06-09T13:38:16Z</date>
+			<key>Skip Count</key><integer>20</integer>
+			<key>Skip Date</key><date>2014-06-26T03:32:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4467</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>01AA8F435FFBE23E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Freelance%20Whales/Weathervanes/01%20Generator%20%5E%20First%20Floor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16689</key>
+		<dict>
+			<key>Track ID</key><integer>16689</integer>
+			<key>Name</key><string>Shuffle</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind of Fix</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8225165</integer>
+			<key>Total Time</key><integer>235293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-26T04:29:11Z</date>
+			<key>Date Added</key><date>2012-01-08T22:53:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>156</integer>
+			<key>Play Date</key><integer>3474722068</integer>
+			<key>Play Date UTC</key><date>2014-02-08T21:34:28Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6749</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Different Kind of Fix</string>
+			<key>Persistent ID</key><string>ED213DD7FBE0EBE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Bombay%20Bicycle%20Club/A%20Different%20Kind%20of%20Fix/06%20Shuffle.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16795</key>
+		<dict>
+			<key>Track ID</key><integer>16795</integer>
+			<key>Name</key><string>Keep Me in Mind</string>
+			<key>Artist</key><string>The Bamboos</string>
+			<key>Album</key><string>4</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9007932</integer>
+			<key>Total Time</key><integer>256305</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-06-26T03:30:40Z</date>
+			<key>Date Added</key><date>2012-01-25T12:57:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Imaginariums</string>
+			<key>Play Count</key><integer>154</integer>
+			<key>Play Date</key><integer>3484020028</integer>
+			<key>Play Date UTC</key><date>2014-05-27T12:20:28Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2014-06-26T03:30:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3529</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Bamboos</string>
+			<key>Persistent ID</key><string>991D6555141CCC20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Bamboos/4/11%20Keep%20Me%20in%20Mind.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16815</key>
+		<dict>
+			<key>Track ID</key><integer>16815</integer>
+			<key>Name</key><string>Lost+One</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>Pigeons and Planes mixtape</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5887587</integer>
+			<key>Total Time</key><integer>153547</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-23T21:42:24Z</date>
+			<key>Date Added</key><date>2012-01-31T16:32:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>199</integer>
+			<key>Play Date</key><integer>3483885281</integer>
+			<key>Play Date UTC</key><date>2014-05-25T22:54:41Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2013-09-25T17:26:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7795</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D63136D096041F6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jhameel/Pigeons%20and%20Planes%20mixtape/Lost+One.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16859</key>
+		<dict>
+			<key>Track ID</key><integer>16859</integer>
+			<key>Name</key><string>Pieces</string>
+			<key>Artist</key><string>The Bridges</string>
+			<key>Composer</key><string>Isaaca Byrd</string>
+			<key>Album</key><string>Limits of the Sky</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6152837</integer>
+			<key>Total Time</key><integer>170106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-05-26T20:07:18Z</date>
+			<key>Date Added</key><date>2012-02-07T12:22:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205971582</string>
+			<key>Play Count</key><integer>183</integer>
+			<key>Play Date</key><integer>3485144986</integer>
+			<key>Play Date UTC</key><date>2014-06-09T12:49:46Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2014-06-26T04:29:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9167</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Bridges</string>
+			<key>Persistent ID</key><string>0C561C6150F8B666</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Bridges/Limits%20of%20the%20Sky/03%20Pieces.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16899</key>
+		<dict>
+			<key>Track ID</key><integer>16899</integer>
+			<key>Name</key><string>BAD BOY</string>
+			<key>Artist</key><string>Big Bang</string>
+			<key>Album</key><string>Alive [5th Mini Album]</string>
+			<key>Genre</key><string>Dance Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8317572</integer>
+			<key>Total Time</key><integer>236817</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-06-26T03:30:54Z</date>
+			<key>Date Added</key><date>2012-03-05T15:57:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>254</integer>
+			<key>Play Date</key><integer>3486494508</integer>
+			<key>Play Date UTC</key><date>2014-06-25T03:41:48Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2014-06-26T03:30:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5750</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>503E8F6CB7BB5073</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Big%20Bang/Alive%20%5B5th%20Mini%20Album%5D/04%20BAD%20BOY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17095</key>
+		<dict>
+			<key>Track ID</key><integer>17095</integer>
+			<key>Name</key><string>Origins</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album</key><string>Young and Old</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7975565</integer>
+			<key>Total Time</key><integer>208139</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-06-26T03:31:08Z</date>
+			<key>Date Added</key><date>2012-03-09T11:05:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>202</integer>
+			<key>Play Date</key><integer>3485178016</integer>
+			<key>Play Date UTC</key><date>2014-06-09T22:00:16Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2014-06-26T04:31:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9647</integer>
+			<key>Persistent ID</key><string>B13FDC97E750E673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tennis/Young%20and%20Old/02%20Origins.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17713</key>
+		<dict>
+			<key>Track ID</key><integer>17713</integer>
+			<key>Name</key><string>Fleet</string>
+			<key>Artist</key><string>Guillemots</string>
+			<key>Album</key><string>Hello Land!</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9997332</integer>
+			<key>Total Time</key><integer>283040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-06-26T03:33:04Z</date>
+			<key>Date Added</key><date>2012-06-29T11:06:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3482176640</integer>
+			<key>Play Date UTC</key><date>2014-05-06T04:17:20Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-05-23T23:23:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1913</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DFE17A6CE0D3A91D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Guillemots/Hello%20Land!/03%20Fleet.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17867</key>
+		<dict>
+			<key>Track ID</key><integer>17867</integer>
+			<key>Name</key><string>Au Cinema</string>
+			<key>Artist</key><string>Lianne La Havas</string>
+			<key>Album</key><string>Is Your Love Big Enough?</string>
+			<key>Genre</key><string>Neo-Soul</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8932449</integer>
+			<key>Total Time</key><integer>257946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-06-26T03:33:50Z</date>
+			<key>Date Added</key><date>2012-08-20T01:16:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Play Count</key><integer>89</integer>
+			<key>Play Date</key><integer>3485328291</integer>
+			<key>Play Date UTC</key><date>2014-06-11T15:44:51Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-06-26T04:06:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2779</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E705C38317C1F21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Is%20Your%20Love%20Big%20Enough_/04%20Au%20Cinema.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17905</key>
+		<dict>
+			<key>Track ID</key><integer>17905</integer>
+			<key>Name</key><string>Wide Awake for the Finale (Madeon x Katy Perry)</string>
+			<key>Artist</key><string>TeeTs</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8241438</integer>
+			<key>Total Time</key><integer>205505</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-23T21:20:31Z</date>
+			<key>Date Added</key><date>2012-08-20T01:16:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EARMILK.COM</string>
+			<key>Play Count</key><integer>222</integer>
+			<key>Play Date</key><integer>3486135599</integer>
+			<key>Play Date UTC</key><date>2014-06-20T23:59:59Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2014-06-26T04:05:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9918</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5EC88F5A93AC64FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/TeeTs/Unknown%20Album/Wide%20Awake%20for%20the%20Finale%20(Madeon%20x%20Katy%20Perry).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17965</key>
+		<dict>
+			<key>Track ID</key><integer>17965</integer>
+			<key>Name</key><string>Thinkin Bout You (Frank Ocean Cover)</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10010249</integer>
+			<key>Total Time</key><integer>289388</integer>
+			<key>Start Time</key><integer>7000</integer>
+			<key>Stop Time</key><integer>285000</integer>
+			<key>Date Modified</key><date>2013-10-23T21:18:54Z</date>
+			<key>Date Added</key><date>2012-09-29T13:45:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>83</integer>
+			<key>Play Date</key><integer>3482174545</integer>
+			<key>Play Date UTC</key><date>2014-05-06T03:42:25Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1816</integer>
+			<key>Persistent ID</key><string>0B55461137258B75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Yuna/Unknown%20Album/Thinkin%20Bout%20You%20(Frank%20Ocean%20Cover).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18523</key>
+		<dict>
+			<key>Track ID</key><integer>18523</integer>
+			<key>Name</key><string>Super America</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>It Hurts - EP</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8169290</integer>
+			<key>Total Time</key><integer>230080</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-05-20T02:10:52Z</date>
+			<key>Date Added</key><date>2013-03-02T16:44:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://badbadhats.bandcamp.com</string>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3485281468</integer>
+			<key>Play Date UTC</key><date>2014-06-11T02:44:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4441</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EBE29D2E731781E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Bad%20Bad%20Hats/It%20Hurts%20-%20EP/02%20Super%20America.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18825</key>
+		<dict>
+			<key>Track ID</key><integer>18825</integer>
+			<key>Name</key><string>Norgaard</string>
+			<key>Artist</key><string>The Vaccines</string>
+			<key>Composer</key><string>The Vaccines</string>
+			<key>Album</key><string>Home Is Where The Start Is (Home Demos 2009 - 2012)</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2394966</integer>
+			<key>Total Time</key><integer>99343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-23T20:57:32Z</date>
+			<key>Date Added</key><date>2013-05-25T17:37:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>113</integer>
+			<key>Play Date</key><integer>3485447069</integer>
+			<key>Play Date UTC</key><date>2014-06-13T00:44:29Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2014-06-26T03:28:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15321</integer>
+			<key>Sort Artist</key><string>Vaccines</string>
+			<key>Sort Composer</key><string>Vaccines</string>
+			<key>Persistent ID</key><string>75A8B9FE883063BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Vaccines/Home%20Is%20Where%20The%20Start%20Is%20(Home%20Demos%202009%20-%202012)/08%20Norgaard.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19111</key>
+		<dict>
+			<key>Track ID</key><integer>19111</integer>
+			<key>Name</key><string>smalltalk (Four Tet remix)</string>
+			<key>Artist</key><string>ultraísta</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>12602751</integer>
+			<key>Total Time</key><integer>367333</integer>
+			<key>Stop Time</key><integer>357000</integer>
+			<key>Date Modified</key><date>2013-10-23T20:48:56Z</date>
+			<key>Date Added</key><date>2013-08-11T22:01:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>102</integer>
+			<key>Play Date</key><integer>3486529039</integer>
+			<key>Play Date UTC</key><date>2014-06-25T13:17:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2716</integer>
+			<key>Persistent ID</key><string>67B55328C3AE3B55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/ultrai%CC%81sta/Unknown%20Album/smalltalk%20(Four%20Tet%20remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19251</key>
+		<dict>
+			<key>Track ID</key><integer>19251</integer>
+			<key>Name</key><string>All That I Need</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>11582076</integer>
+			<key>Total Time</key><integer>313842</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-05-26T19:52:01Z</date>
+			<key>Date Added</key><date>2013-08-23T21:41:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3483961038</integer>
+			<key>Play Date UTC</key><date>2014-05-26T19:57:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-06-26T03:49:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C250BE3EEF47AD63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tedeschi%20Trucks%20Band/Made%20Up%20Mind/08%20All%20That%20I%20Need.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19589</key>
+		<dict>
+			<key>Track ID</key><integer>19589</integer>
+			<key>Name</key><string>Cured Of Youth</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album Artist</key><string>Tennis</string>
+			<key>Album</key><string>Small Sound</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7153672</integer>
+			<key>Total Time</key><integer>174680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-13T16:34:13Z</date>
+			<key>Date Added</key><date>2013-11-13T14:58:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3485181030</integer>
+			<key>Play Date UTC</key><date>2014-06-09T22:50:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7324BA56ED4A699E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tennis/Small%20Sound/03%20Cured%20Of%20Youth.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20549</key>
+		<dict>
+			<key>Track ID</key><integer>20549</integer>
+			<key>Name</key><string>All The Places</string>
+			<key>Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album</key><string>MADE IN HEIGHTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3633390</integer>
+			<key>Total Time</key><integer>217678</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-04-13T14:49:57Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://madeinheights.bandcamp.com</string>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3486525253</integer>
+			<key>Play Date UTC</key><date>2014-06-25T12:14:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-06-26T04:30:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68923DEDD1E3889E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/MADE%20IN%20HEIGHTS/MADE%20IN%20HEIGHTS/01%20All%20The%20Places.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ZZ - Top 100 - 2014-06-25</string>
+			<key>Playlist ID</key><integer>667787</integer>
+			<key>Playlist Persistent ID</key><string>339D083BCEC718E6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14767</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9783</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

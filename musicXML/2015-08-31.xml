@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-09-01T03:23:45Z</date>
+	<key>Application Version</key><string>12.2.2.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>44312</key>
+		<dict>
+			<key>Track ID</key><integer>44312</integer>
+			<key>Name</key><string>Alright</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>K. Duckworth, P. Williams &#38; M. Spears</string>
+			<key>Album</key><string>To Pimp a Butterfly</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7808746</integer>
+			<key>Total Time</key><integer>219337</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:07:20Z</date>
+			<key>Date Added</key><date>2015-03-25T04:20:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3523851920</integer>
+			<key>Play Date UTC</key><date>2015-08-31T14:45:20Z</date>
+			<key>Release Date</key><date>2015-03-23T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3116</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Pimp a Butterfly</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Composer</key><string>K. Duckworth, P. Williams &#38; M. Spears</string>
+			<key>Sort Name</key><string>Alright</string>
+			<key>Persistent ID</key><string>4D8A1B9DFB260E2F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kendrick%20Lamar/To%20Pimp%20a%20Butterfly/07%20Alright.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>45096</key>
+		<dict>
+			<key>Track ID</key><integer>45096</integer>
+			<key>Name</key><string>Midnight</string>
+			<key>Artist</key><string>Lianne La Havas</string>
+			<key>Album Artist</key><string>Lianne La Havas</string>
+			<key>Album</key><string>Blood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7533762</integer>
+			<key>Total Time</key><integer>209786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T15:56:04Z</date>
+			<key>Date Added</key><date>2015-07-31T03:05:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3523813534</integer>
+			<key>Play Date UTC</key><date>2015-08-31T04:05:34Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-08-23T17:55:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4830</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood</string>
+			<key>Sort Artist</key><string>Lianne La Havas</string>
+			<key>Sort Name</key><string>Midnight</string>
+			<key>Persistent ID</key><string>D14BC237ADB16F88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Lianne%20La%20Havas/Blood/06%20Midnight.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>45106</key>
+		<dict>
+			<key>Track ID</key><integer>45106</integer>
+			<key>Name</key><string>Getting Ready to Get Down</string>
+			<key>Artist</key><string>Josh Ritter</string>
+			<key>Album Artist</key><string>Josh Ritter</string>
+			<key>Album</key><string>Getting Ready to Get Down - Single</string>
+			<key>Genre</key><string>Folk-Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6978007</integer>
+			<key>Total Time</key><integer>196196</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-04T14:35:41Z</date>
+			<key>Date Added</key><date>2015-08-04T14:35:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3523415285</integer>
+			<key>Play Date UTC</key><date>2015-08-26T13:28:05Z</date>
+			<key>Release Date</key><date>2015-07-31T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getting Ready to Get Down - Single</string>
+			<key>Sort Artist</key><string>Josh Ritter</string>
+			<key>Sort Name</key><string>Getting Ready to Get Down</string>
+			<key>Persistent ID</key><string>A1EE7CFC8CCF30D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45136</key>
+		<dict>
+			<key>Track ID</key><integer>45136</integer>
+			<key>Name</key><string>Sway(ve)</string>
+			<key>Artist</key><string>Night Beds</string>
+			<key>Album Artist</key><string>Night Beds</string>
+			<key>Album</key><string>Ivywild</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7862185</integer>
+			<key>Total Time</key><integer>219786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-08T15:21:36Z</date>
+			<key>Date Added</key><date>2015-08-08T15:21:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3523814196</integer>
+			<key>Play Date UTC</key><date>2015-08-31T04:16:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ivywild</string>
+			<key>Sort Artist</key><string>Night Beds</string>
+			<key>Sort Name</key><string>Sway(ve)</string>
+			<key>Persistent ID</key><string>C51ABB093305E638</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45138</key>
+		<dict>
+			<key>Track ID</key><integer>45138</integer>
+			<key>Name</key><string>[9-6] Slack-Jaw</string>
+			<key>Artist</key><string>Night Beds</string>
+			<key>Album Artist</key><string>Night Beds</string>
+			<key>Album</key><string>Ivywild</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7836324</integer>
+			<key>Total Time</key><integer>220746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-08T15:21:36Z</date>
+			<key>Date Added</key><date>2015-08-08T15:21:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3523813324</integer>
+			<key>Play Date UTC</key><date>2015-08-31T04:02:04Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-08-23T18:20:07Z</date>
+			<key>Release Date</key><date>2015-08-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ivywild</string>
+			<key>Sort Artist</key><string>Night Beds</string>
+			<key>Sort Name</key><string>[9-6] Slack-Jaw</string>
+			<key>Persistent ID</key><string>517C1A329581055F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45174</key>
+		<dict>
+			<key>Track ID</key><integer>45174</integer>
+			<key>Name</key><string>The Commander Thinks Aloud</string>
+			<key>Artist</key><string>The Long Winters</string>
+			<key>Album Artist</key><string>The Long Winters</string>
+			<key>Album</key><string>Ultimatum - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12464193</integer>
+			<key>Total Time</key><integer>326053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-08-14T16:36:38Z</date>
+			<key>Date Added</key><date>2015-08-14T16:36:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3523814522</integer>
+			<key>Play Date UTC</key><date>2015-08-31T04:22:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ultimatum - EP</string>
+			<key>Sort Album Artist</key><string>Long Winters</string>
+			<key>Sort Artist</key><string>Long Winters</string>
+			<key>Sort Name</key><string>Commander Thinks Aloud</string>
+			<key>Persistent ID</key><string>3F2F9F081E355918</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45208</key>
+		<dict>
+			<key>Track ID</key><integer>45208</integer>
+			<key>Name</key><string>Willing &#38; Able (feat. Kwabs)</string>
+			<key>Artist</key><string>Disclosure</string>
+			<key>Album Artist</key><string>Disclosure</string>
+			<key>Composer</key><string>Guy Lawrence, Howard Lawrence, James Napier &#38; Kwabena Adjepong</string>
+			<key>Album</key><string>Willing &#38; Able (feat. Kwabs) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10786945</integer>
+			<key>Total Time</key><integer>292759</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T17:15:07Z</date>
+			<key>Date Added</key><date>2015-08-15T17:15:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3523849063</integer>
+			<key>Play Date UTC</key><date>2015-08-31T13:57:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-19T05:23:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Willing &#38; Able (feat. Kwabs) - Single</string>
+			<key>Sort Artist</key><string>Disclosure</string>
+			<key>Sort Name</key><string>Willing &#38; Able (feat. Kwabs)</string>
+			<key>Persistent ID</key><string>6CAC241299ED3319</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45210</key>
+		<dict>
+			<key>Track ID</key><integer>45210</integer>
+			<key>Name</key><string>In Time</string>
+			<key>Artist</key><string>FKA twigs</string>
+			<key>Album Artist</key><string>FKA twigs</string>
+			<key>Composer</key><string>Joel Compass, Tahliah Debrett Barnett &#38; Tic Timmaz Zolleyn</string>
+			<key>Album</key><string>M3LL155X - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9549819</integer>
+			<key>Total Time</key><integer>272246</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T17:24:33Z</date>
+			<key>Date Added</key><date>2015-08-15T17:24:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3523848584</integer>
+			<key>Play Date UTC</key><date>2015-08-31T13:49:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>M3LL155X - EP</string>
+			<key>Sort Artist</key><string>FKA twigs</string>
+			<key>Sort Name</key><string>In Time</string>
+			<key>Persistent ID</key><string>E49E485649839832</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45212</key>
+		<dict>
+			<key>Track ID</key><integer>45212</integer>
+			<key>Name</key><string>Promises</string>
+			<key>Artist</key><string>Autre Ne Veut</string>
+			<key>Album Artist</key><string>Autre Ne Veut</string>
+			<key>Album</key><string>Anxiety</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4768498</integer>
+			<key>Total Time</key><integer>124760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-15T17:36:00Z</date>
+			<key>Date Added</key><date>2015-08-15T17:36:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3523814647</integer>
+			<key>Play Date UTC</key><date>2015-08-31T04:24:07Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Anxiety</string>
+			<key>Sort Artist</key><string>Autre Ne Veut</string>
+			<key>Sort Name</key><string>Promises</string>
+			<key>Persistent ID</key><string>67074839289168E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45214</key>
+		<dict>
+			<key>Track ID</key><integer>45214</integer>
+			<key>Name</key><string>Can't Have</string>
+			<key>Artist</key><string>Steven A. Clark</string>
+			<key>Album Artist</key><string>Steven A. Clark</string>
+			<key>Album</key><string>The Lonely Roller</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10045759</integer>
+			<key>Total Time</key><integer>288506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T17:41:34Z</date>
+			<key>Date Added</key><date>2015-08-15T17:41:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3523848312</integer>
+			<key>Play Date UTC</key><date>2015-08-31T13:45:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-27T01:41:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lonely Roller</string>
+			<key>Sort Artist</key><string>Steven A. Clark</string>
+			<key>Sort Name</key><string>Can't Have</string>
+			<key>Persistent ID</key><string>8406D0BE4BCF9556</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45216</key>
+		<dict>
+			<key>Track ID</key><integer>45216</integer>
+			<key>Name</key><string>Walks All Over You</string>
+			<key>Artist</key><string>Catey Shaw</string>
+			<key>Album Artist</key><string>Catey Shaw</string>
+			<key>Album</key><string>Walks All Over You - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6850123</integer>
+			<key>Total Time</key><integer>186000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T17:45:19Z</date>
+			<key>Date Added</key><date>2015-08-15T17:45:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3523848770</integer>
+			<key>Play Date UTC</key><date>2015-08-31T13:52:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Walks All Over You - Single</string>
+			<key>Sort Artist</key><string>Catey Shaw</string>
+			<key>Sort Name</key><string>Walks All Over You</string>
+			<key>Persistent ID</key><string>32B8D49C31E74D1D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45230</key>
+		<dict>
+			<key>Track ID</key><integer>45230</integer>
+			<key>Name</key><string>Dissolve</string>
+			<key>Artist</key><string>Absofacto</string>
+			<key>Album Artist</key><string>Absofacto</string>
+			<key>Album</key><string>Dissolve - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9397449</integer>
+			<key>Total Time</key><integer>268499</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T17:55:30Z</date>
+			<key>Date Added</key><date>2015-08-15T17:55:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3523847076</integer>
+			<key>Play Date UTC</key><date>2015-08-31T13:24:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-27T01:41:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dissolve - Single</string>
+			<key>Sort Artist</key><string>Absofacto</string>
+			<key>Sort Name</key><string>Dissolve</string>
+			<key>Persistent ID</key><string>B6403CB4220788B1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45232</key>
+		<dict>
+			<key>Track ID</key><integer>45232</integer>
+			<key>Name</key><string>Never Ending Circles</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Album Artist</key><string>CHVRCHES</string>
+			<key>Composer</key><string>Iain Cook, Martin Doherty &#38; Lauren Mayberry</string>
+			<key>Album</key><string>Never Ending Circles - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6718720</integer>
+			<key>Total Time</key><integer>186649</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-15T20:59:57Z</date>
+			<key>Date Added</key><date>2015-08-15T20:59:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3523850234</integer>
+			<key>Play Date UTC</key><date>2015-08-31T14:17:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-27T01:41:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Never Ending Circles - Single</string>
+			<key>Sort Artist</key><string>CHVRCHES</string>
+			<key>Sort Name</key><string>Never Ending Circles</string>
+			<key>Persistent ID</key><string>6BF39BA0A55A2ECB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45240</key>
+		<dict>
+			<key>Track ID</key><integer>45240</integer>
+			<key>Name</key><string>Go with It (feat. Vic Mensa)</string>
+			<key>Artist</key><string>The Internet</string>
+			<key>Album Artist</key><string>The Internet</string>
+			<key>Composer</key><string>Vic Mensa, Sydney Bennett, Nicholas Eaholtz, Cisco Adler, Matthew Martin, Patrick Paige II, Christopher Smith &#38; Dave Rosser</string>
+			<key>Album</key><string>Ego Death</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9889696</integer>
+			<key>Total Time</key><integer>267104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-17T04:56:48Z</date>
+			<key>Date Added</key><date>2015-08-17T04:56:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3523849398</integer>
+			<key>Play Date UTC</key><date>2015-08-31T14:03:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-08-24T15:38:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ego Death</string>
+			<key>Sort Album Artist</key><string>Internet</string>
+			<key>Sort Artist</key><string>Internet</string>
+			<key>Sort Name</key><string>Go with It (feat. Vic Mensa)</string>
+			<key>Persistent ID</key><string>96814EE7B43CFF8E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45246</key>
+		<dict>
+			<key>Track ID</key><integer>45246</integer>
+			<key>Name</key><string>Girl (feat. KAYTRANADA)</string>
+			<key>Artist</key><string>The Internet</string>
+			<key>Album Artist</key><string>The Internet</string>
+			<key>Composer</key><string>Sydney Bennett, Kevin Celestin &#38; Christian Jones</string>
+			<key>Album</key><string>Ego Death</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14068630</integer>
+			<key>Total Time</key><integer>416322</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-17T04:56:48Z</date>
+			<key>Date Added</key><date>2015-08-17T04:56:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3523850048</integer>
+			<key>Play Date UTC</key><date>2015-08-31T14:14:08Z</date>
+			<key>Skip Date</key><date>2015-08-19T05:24:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ego Death</string>
+			<key>Sort Album Artist</key><string>Internet</string>
+			<key>Sort Artist</key><string>Internet</string>
+			<key>Sort Name</key><string>Girl (feat. KAYTRANADA)</string>
+			<key>Persistent ID</key><string>EB0F4A59D461C6B7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45294</key>
+		<dict>
+			<key>Track ID</key><integer>45294</integer>
+			<key>Name</key><string>Trying</string>
+			<key>Artist</key><string>Bully</string>
+			<key>Album Artist</key><string>Bully</string>
+			<key>Composer</key><string>Alicia Bognanno</string>
+			<key>Album</key><string>Feels Like</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8877163</integer>
+			<key>Total Time</key><integer>233133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T05:38:01Z</date>
+			<key>Date Added</key><date>2015-08-18T05:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3523849632</integer>
+			<key>Play Date UTC</key><date>2015-08-31T14:07:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-26T05:25:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feels Like</string>
+			<key>Sort Artist</key><string>Bully</string>
+			<key>Sort Name</key><string>Trying</string>
+			<key>Persistent ID</key><string>A681F46A9C9C83D1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45296</key>
+		<dict>
+			<key>Track ID</key><integer>45296</integer>
+			<key>Name</key><string>NoLo</string>
+			<key>Artist</key><string>Grace Mitchell</string>
+			<key>Album Artist</key><string>Grace Mitchell</string>
+			<key>Composer</key><string>Grace Mitchell, Mark Foster, Isom Innis, Annaliese Schiersch, Morgan Taylor Reid &#38; Isley Juber</string>
+			<key>Album</key><string>Raceday - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9404877</integer>
+			<key>Total Time</key><integer>265993</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-23T17:40:05Z</date>
+			<key>Date Added</key><date>2015-08-23T17:40:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3523895101</integer>
+			<key>Play Date UTC</key><date>2015-09-01T02:45:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raceday - EP</string>
+			<key>Sort Artist</key><string>Grace Mitchell</string>
+			<key>Sort Name</key><string>NoLo</string>
+			<key>Persistent ID</key><string>15CE8C635747F055</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45302</key>
+		<dict>
+			<key>Track ID</key><integer>45302</integer>
+			<key>Name</key><string>Jitter</string>
+			<key>Artist</key><string>Grace Mitchell</string>
+			<key>Album Artist</key><string>Grace Mitchell</string>
+			<key>Composer</key><string>Grace Mitchell, Mark Foster &#38; Isom Innis</string>
+			<key>Album</key><string>Raceday - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8765003</integer>
+			<key>Total Time</key><integer>247470</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-23T17:40:07Z</date>
+			<key>Date Added</key><date>2015-08-23T17:40:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3523897330</integer>
+			<key>Play Date UTC</key><date>2015-09-01T03:22:10Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raceday - EP</string>
+			<key>Sort Artist</key><string>Grace Mitchell</string>
+			<key>Sort Name</key><string>Jitter</string>
+			<key>Persistent ID</key><string>C4E77C232CFEB9B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45308</key>
+		<dict>
+			<key>Track ID</key><integer>45308</integer>
+			<key>Name</key><string>Snakeskin</string>
+			<key>Artist</key><string>Deerhunter</string>
+			<key>Album Artist</key><string>Deerhunter</string>
+			<key>Album</key><string>Fading Frontier</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10061903</integer>
+			<key>Total Time</key><integer>260707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-23T17:40:28Z</date>
+			<key>Date Added</key><date>2015-08-23T17:40:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3523895361</integer>
+			<key>Play Date UTC</key><date>2015-09-01T02:49:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-27T15:09:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fading Frontier</string>
+			<key>Sort Artist</key><string>Deerhunter</string>
+			<key>Sort Name</key><string>Snakeskin</string>
+			<key>Persistent ID</key><string>69E8FB501ED7563A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45310</key>
+		<dict>
+			<key>Track ID</key><integer>45310</integer>
+			<key>Name</key><string>Gibraltar</string>
+			<key>Artist</key><string>Beirut</string>
+			<key>Album Artist</key><string>Beirut</string>
+			<key>Album</key><string>No No No</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7903389</integer>
+			<key>Total Time</key><integer>221613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-23T17:40:43Z</date>
+			<key>Date Added</key><date>2015-08-23T17:40:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3523896284</integer>
+			<key>Play Date UTC</key><date>2015-09-01T03:04:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No No No</string>
+			<key>Sort Artist</key><string>Beirut</string>
+			<key>Sort Name</key><string>Gibraltar</string>
+			<key>Persistent ID</key><string>3F435448EAC38582</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45312</key>
+		<dict>
+			<key>Track ID</key><integer>45312</integer>
+			<key>Name</key><string>Catch</string>
+			<key>Artist</key><string>Dresses</string>
+			<key>Album Artist</key><string>Dresses</string>
+			<key>Album</key><string>Catch - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8770502</integer>
+			<key>Total Time</key><integer>231120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-23T17:57:36Z</date>
+			<key>Date Added</key><date>2015-08-23T17:57:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3523896515</integer>
+			<key>Play Date UTC</key><date>2015-09-01T03:08:35Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Catch - Single</string>
+			<key>Sort Artist</key><string>Dresses</string>
+			<key>Sort Name</key><string>Catch</string>
+			<key>Persistent ID</key><string>B32F09B672C48558</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45314</key>
+		<dict>
+			<key>Track ID</key><integer>45314</integer>
+			<key>Name</key><string>Happy Song</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Composer</key><string>Oliver Sykes, Matthew Stephen Nicholls, Matthew Kean, Lee David Malia &#38; Jona Weinhofen</string>
+			<key>Album</key><string>Happy Song - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8552014</integer>
+			<key>Total Time</key><integer>239386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-25T14:34:49Z</date>
+			<key>Date Added</key><date>2015-08-25T14:34:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3523896754</integer>
+			<key>Play Date UTC</key><date>2015-09-01T03:12:34Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Happy Song - Single</string>
+			<key>Sort Artist</key><string>Bring Me the Horizon</string>
+			<key>Sort Name</key><string>Happy Song</string>
+			<key>Persistent ID</key><string>608A021985266937</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>129531</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45096</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45174</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45214</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45308</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44312</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

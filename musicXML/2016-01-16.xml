@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-01-16T09:08:09Z</date>
+	<key>Application Version</key><string>12.5.4.42</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>A4463A0B4393DE9D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>44863</key>
+		<dict>
+			<key>Track ID</key><integer>44863</integer>
+			<key>Name</key><string>We Can't Move to This</string>
+			<key>Artist</key><string>Ellie Goulding</string>
+			<key>Album Artist</key><string>Ellie Goulding</string>
+			<key>Composer</key><string>Ellie Goulding, Fred Gibson, Alex Gibson, Greg Kurstin &#38; Maureen "Mozella" McDonald</string>
+			<key>Album</key><string>Delirium (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8468981</integer>
+			<key>Total Time</key><integer>208319</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-09T04:08:53Z</date>
+			<key>Date Added</key><date>2015-11-09T05:08:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3567323750</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:15:50Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-01-12T15:51:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Delirium (Deluxe)</string>
+			<key>Sort Artist</key><string>Ellie Goulding</string>
+			<key>Sort Name</key><string>We Can't Move to This</string>
+			<key>Persistent ID</key><string>EE23B54B518FF512</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47899</key>
+		<dict>
+			<key>Track ID</key><integer>47899</integer>
+			<key>Name</key><string>Shotgun (feat. Syd)</string>
+			<key>Artist</key><string>Little Simz</string>
+			<key>Album Artist</key><string>Little Simz</string>
+			<key>Album</key><string>Stillness in Wonderland</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6784066</integer>
+			<key>Total Time</key><integer>188089</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-20T22:24:41Z</date>
+			<key>Date Added</key><date>2016-12-20T22:24:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3567327287</integer>
+			<key>Play Date UTC</key><date>2017-01-15T20:14:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stillness in Wonderland</string>
+			<key>Sort Artist</key><string>Little Simz</string>
+			<key>Sort Name</key><string>Shotgun (feat. Syd)</string>
+			<key>Persistent ID</key><string>07125D740C5BA214</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47947</key>
+		<dict>
+			<key>Track ID</key><integer>47947</integer>
+			<key>Name</key><string>Call Ticketron</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run the Jewels 3</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7097018</integer>
+			<key>Total Time</key><integer>198640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-25T10:46:04Z</date>
+			<key>Date Added</key><date>2016-12-25T10:46:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3567368936</integer>
+			<key>Play Date UTC</key><date>2017-01-16T07:48:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Run the Jewels 3</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Sort Name</key><string>Call Ticketron</string>
+			<key>Persistent ID</key><string>7181A31D7C1730DC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48135</key>
+		<dict>
+			<key>Track ID</key><integer>48135</integer>
+			<key>Name</key><string>One</string>
+			<key>Artist</key><string>Jefe</string>
+			<key>Album Artist</key><string>Jefe</string>
+			<key>Album</key><string>The World Is Yours</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5639045</integer>
+			<key>Total Time</key><integer>154720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-08T08:48:45Z</date>
+			<key>Date Added</key><date>2017-01-08T08:48:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3567326087</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:54:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World Is Yours</string>
+			<key>Sort Artist</key><string>Jefe</string>
+			<key>Sort Name</key><string>One</string>
+			<key>Persistent ID</key><string>8374681094C1D1A2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48139</key>
+		<dict>
+			<key>Track ID</key><integer>48139</integer>
+			<key>Name</key><string>Undercover</string>
+			<key>Artist</key><string>Kehlani</string>
+			<key>Album Artist</key><string>Kehlani</string>
+			<key>Album</key><string>SweetSexySavage (Deluxe)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6722931</integer>
+			<key>Total Time</key><integer>183283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-08T09:31:52Z</date>
+			<key>Date Added</key><date>2017-01-08T09:31:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3567323767</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:16:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-01-16T09:05:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SweetSexySavage (Deluxe)</string>
+			<key>Sort Artist</key><string>Kehlani</string>
+			<key>Sort Name</key><string>Undercover</string>
+			<key>Persistent ID</key><string>714A8D7E5B9B611B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48143</key>
+		<dict>
+			<key>Track ID</key><integer>48143</integer>
+			<key>Name</key><string>미친거 아니야? GO CRAZY!</string>
+			<key>Artist</key><string>2PM</string>
+			<key>Album Artist</key><string>2PM</string>
+			<key>Album</key><string>미친거 아니야? GO CRAZY!</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8409314</integer>
+			<key>Total Time</key><integer>239262</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2017-01-11T05:46:22Z</date>
+			<key>Date Added</key><date>2017-01-11T05:46:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3567323768</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:16:08Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>미친거 아니야? GO CRAZY!</string>
+			<key>Sort Artist</key><string>2PM</string>
+			<key>Sort Name</key><string>미친거 아니야? GO CRAZY!</string>
+			<key>Persistent ID</key><string>0EC2612F073116FA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48145</key>
+		<dict>
+			<key>Track ID</key><integer>48145</integer>
+			<key>Name</key><string>신속히 RUSH</string>
+			<key>Artist</key><string>MONSTA X</string>
+			<key>Album Artist</key><string>MONSTA X</string>
+			<key>Album</key><string>RUSH - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8202690</integer>
+			<key>Total Time</key><integer>222526</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-01-11T06:12:39Z</date>
+			<key>Date Added</key><date>2017-01-11T06:12:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3567323769</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:16:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>RUSH - EP</string>
+			<key>Sort Artist</key><string>MONSTA X</string>
+			<key>Sort Name</key><string>신속히 RUSH</string>
+			<key>Persistent ID</key><string>B14347447495B2A9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48147</key>
+		<dict>
+			<key>Track ID</key><integer>48147</integer>
+			<key>Name</key><string>OgeulOgeul</string>
+			<key>Artist</key><string>박경</string>
+			<key>Album Artist</key><string>박경</string>
+			<key>Album</key><string>OgeulOgeul - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7392919</integer>
+			<key>Total Time</key><integer>204003</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-11T06:55:08Z</date>
+			<key>Date Added</key><date>2017-01-11T06:55:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3567323770</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:16:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-15T19:15:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OgeulOgeul - Single</string>
+			<key>Sort Artist</key><string>박경</string>
+			<key>Sort Name</key><string>OgeulOgeul</string>
+			<key>Persistent ID</key><string>E5B97484BD0D0631</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48149</key>
+		<dict>
+			<key>Track ID</key><integer>48149</integer>
+			<key>Name</key><string>Nobody Else but You (feat. Yazz &#38; Sierra McClain)</string>
+			<key>Artist</key><string>Empire Cast</string>
+			<key>Album Artist</key><string>Empire Cast</string>
+			<key>Composer</key><string>Rodney Jerkins, Desmond Barnes &#38; David "Davy" Nathan</string>
+			<key>Album</key><string>Nobody Else but You (feat. Yazz &#38; Sierra McClain) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6146464</integer>
+			<key>Total Time</key><integer>170333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-11T07:14:26Z</date>
+			<key>Date Added</key><date>2017-01-11T07:14:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3567327457</integer>
+			<key>Play Date UTC</key><date>2017-01-15T20:17:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nobody Else but You (feat. Yazz &#38; Sierra McClain) - Single</string>
+			<key>Sort Artist</key><string>Empire Cast</string>
+			<key>Sort Name</key><string>Nobody Else but You (feat. Yazz &#38; Sierra McClain)</string>
+			<key>Persistent ID</key><string>2BD869B6C83C3B86</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48151</key>
+		<dict>
+			<key>Track ID</key><integer>48151</integer>
+			<key>Name</key><string>I.D.C.B.U</string>
+			<key>Artist</key><string>SIBA</string>
+			<key>Album Artist</key><string>SIBA</string>
+			<key>Album</key><string>My Life with Jessie, My Friends and the Rest of the World - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7763631</integer>
+			<key>Total Time</key><integer>217436</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-11T07:40:04Z</date>
+			<key>Date Added</key><date>2017-01-11T07:40:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3567327098</integer>
+			<key>Play Date UTC</key><date>2017-01-15T20:11:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Life with Jessie, My Friends and the Rest of the World - EP</string>
+			<key>Sort Artist</key><string>SIBA</string>
+			<key>Sort Name</key><string>I.D.C.B.U</string>
+			<key>Persistent ID</key><string>2224A3C341BE4F65</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48153</key>
+		<dict>
+			<key>Track ID</key><integer>48153</integer>
+			<key>Name</key><string>Both (feat. Drake)</string>
+			<key>Artist</key><string>Gucci Mane</string>
+			<key>Album Artist</key><string>Gucci Mane</string>
+			<key>Album</key><string>The Return of East Atlanta Santa</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6896869</integer>
+			<key>Total Time</key><integer>190312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-11T08:02:23Z</date>
+			<key>Date Added</key><date>2017-01-11T08:02:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3567325880</integer>
+			<key>Play Date UTC</key><date>2017-01-15T19:51:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-13T06:16:18Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Return of East Atlanta Santa</string>
+			<key>Sort Artist</key><string>Gucci Mane</string>
+			<key>Sort Name</key><string>Both (feat. Drake)</string>
+			<key>Persistent ID</key><string>7EDE4EEB2724DC9A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48279</key>
+		<dict>
+			<key>Track ID</key><integer>48279</integer>
+			<key>Name</key><string>Repeat (feat. Jessie Reyez)</string>
+			<key>Artist</key><string>Allan Rayman</string>
+			<key>Album Artist</key><string>Allan Rayman</string>
+			<key>Composer</key><string>Allan Rayman, Jessie Reyez, Spencer Muscio, Mikhaïl Nesterov &#38; Kenwyn Kipenji</string>
+			<key>Album</key><string>Roadhouse 01</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8017426</integer>
+			<key>Total Time</key><integer>225882</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-16T02:20:51Z</date>
+			<key>Date Added</key><date>2017-01-16T02:20:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3567370425</integer>
+			<key>Play Date UTC</key><date>2017-01-16T08:13:45Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Roadhouse 01</string>
+			<key>Sort Artist</key><string>Allan Rayman</string>
+			<key>Sort Name</key><string>Repeat (feat. Jessie Reyez)</string>
+			<key>Persistent ID</key><string>AFFC868647DA671C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48281</key>
+		<dict>
+			<key>Track ID</key><integer>48281</integer>
+			<key>Name</key><string>Love Like We Used To (feat. Nateur) [Party Pupils Remix]</string>
+			<key>Artist</key><string>Captain Cuts</string>
+			<key>Album Artist</key><string>Captain Cuts</string>
+			<key>Composer</key><string>Ryan Rabin, Ryan McMahon, Benjamin Berger &#38; Nate Cyphert</string>
+			<key>Album</key><string>Love Like We Used To (feat. Nateur) [Party Pupils Remix] - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7754353</integer>
+			<key>Total Time</key><integer>217530</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-16T03:30:59Z</date>
+			<key>Date Added</key><date>2017-01-16T03:30:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3567353624</integer>
+			<key>Play Date UTC</key><date>2017-01-16T03:33:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Like We Used To (feat. Nateur) [Party Pupils Remix] - Single</string>
+			<key>Sort Artist</key><string>Captain Cuts</string>
+			<key>Sort Name</key><string>Love Like We Used To (feat. Nateur) [Party Pupils Remix]</string>
+			<key>Persistent ID</key><string>0A2FF32303B41E68</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48283</key>
+		<dict>
+			<key>Track ID</key><integer>48283</integer>
+			<key>Name</key><string>Jump (feat. Gizzle)</string>
+			<key>Artist</key><string>Lupe Fiasco</string>
+			<key>Album Artist</key><string>Lupe Fiasco</string>
+			<key>Album</key><string>DROGAS Light</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9650427</integer>
+			<key>Total Time</key><integer>274910</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-16T03:47:58Z</date>
+			<key>Date Added</key><date>2017-01-16T03:47:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3567370917</integer>
+			<key>Play Date UTC</key><date>2017-01-16T08:21:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DROGAS Light</string>
+			<key>Sort Artist</key><string>Lupe Fiasco</string>
+			<key>Sort Name</key><string>Jump (feat. Gizzle)</string>
+			<key>Persistent ID</key><string>1A04CE2388D571CB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48285</key>
+		<dict>
+			<key>Track ID</key><integer>48285</integer>
+			<key>Name</key><string>T-Shirt</string>
+			<key>Artist</key><string>Migos</string>
+			<key>Album Artist</key><string>Migos</string>
+			<key>Album</key><string>Culture</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8522709</integer>
+			<key>Total Time</key><integer>242407</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-16T03:53:32Z</date>
+			<key>Date Added</key><date>2017-01-16T03:53:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3567371160</integer>
+			<key>Play Date UTC</key><date>2017-01-16T08:26:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Culture</string>
+			<key>Sort Artist</key><string>Migos</string>
+			<key>Sort Name</key><string>T-Shirt</string>
+			<key>Persistent ID</key><string>8F6B7EC5C761BBA3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112773</key>
+		<dict>
+			<key>Track ID</key><integer>112773</integer>
+			<key>Name</key><string>Caroline</string>
+			<key>Artist</key><string>Aminé</string>
+			<key>Album Artist</key><string>Aminé</string>
+			<key>Composer</key><string>Adam Daniel &#38; Irvin Mejia</string>
+			<key>Album</key><string>Caroline - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7615979</integer>
+			<key>Total Time</key><integer>209747</integer>
+			<key>Start Time</key><integer>16000</integer>
+			<key>Stop Time</key><integer>176000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-16T07:23:11Z</date>
+			<key>Date Added</key><date>2017-01-16T07:23:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3567367555</integer>
+			<key>Play Date UTC</key><date>2017-01-16T07:25:55Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-01-16T07:26:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Caroline - Single</string>
+			<key>Sort Artist</key><string>Aminé</string>
+			<key>Sort Name</key><string>Caroline</string>
+			<key>Persistent ID</key><string>F07058E0BD337DF6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>122569</integer>
+			<key>Playlist Persistent ID</key><string>7982F8E2C5AE70EC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>112773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47947</integer>
+				</dict>
+			</array>
+			<key>Loved</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

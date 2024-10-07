@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-03-19T11:30:28Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>34409</key>
+		<dict>
+			<key>Track ID</key><integer>34409</integer>
+			<key>Name</key><string>BAD BOY</string>
+			<key>Artist</key><string>Big Bang</string>
+			<key>Album Artist</key><string>Big Bang</string>
+			<key>Album</key><string>Alive [5th Mini Album]</string>
+			<key>Genre</key><string>Dance Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9666250</integer>
+			<key>Total Time</key><integer>236878</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-28T13:59:44Z</date>
+			<key>Date Added</key><date>2012-03-05T17:57:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3414945701</integer>
+			<key>Play Date UTC</key><date>2012-03-19T01:01:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C76C7195EE6FC65B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/BIG%20BANG%20-%20Alive%20(5th%20Mini%20Album)%20%5Bwww.k2nblog.com%5D/04.BAD%20BOY.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34577</key>
+		<dict>
+			<key>Track ID</key><integer>34577</integer>
+			<key>Name</key><string>Oh My!</string>
+			<key>Artist</key><string>Lex Land</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3094406</integer>
+			<key>Total Time</key><integer>128835</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:33Z</date>
+			<key>Date Added</key><date>2012-03-09T13:03:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3414946087</integer>
+			<key>Play Date UTC</key><date>2012-03-19T01:08:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-13T19:07:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5190</integer>
+			<key>Persistent ID</key><string>ED46C1FBDD959A7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/Lex_Land-Oh_My!.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34623</key>
+		<dict>
+			<key>Track ID</key><integer>34623</integer>
+			<key>Name</key><string>Play Catch</string>
+			<key>Artist</key><string>Rockwell Knuckles</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5168642</integer>
+			<key>Total Time</key><integer>258298</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:26Z</date>
+			<key>Date Added</key><date>2012-03-09T13:04:19Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3414946676</integer>
+			<key>Play Date UTC</key><date>2012-03-19T01:17:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-03-19T00:09:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5887</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>1D0BA5F67F5020FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/Rockwell_Knuckles-Play_Catch.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34637</key>
+		<dict>
+			<key>Track ID</key><integer>34637</integer>
+			<key>Name</key><string>Two Cousins</string>
+			<key>Artist</key><string>Slow Club</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9209923</integer>
+			<key>Total Time</key><integer>230191</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:28Z</date>
+			<key>Date Added</key><date>2012-03-09T13:04:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3414946418</integer>
+			<key>Play Date UTC</key><date>2012-03-19T01:13:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7558</integer>
+			<key>Persistent ID</key><string>831B601E707C8718</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/Slow_Club-Two_Cousins.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34699</key>
+		<dict>
+			<key>Track ID</key><integer>34699</integer>
+			<key>Name</key><string>Wishing Well</string>
+			<key>Artist</key><string>Cheyenne Marie Mize</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3077443</integer>
+			<key>Total Time</key><integer>128130</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:26Z</date>
+			<key>Date Added</key><date>2012-03-09T13:04:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3414944559</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:42:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-03-18T23:59:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4588</integer>
+			<key>Persistent ID</key><string>FC7BD9DDB7D697D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/Cheyenne_Marie_Mize-Wishing_Well.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34753</key>
+		<dict>
+			<key>Track ID</key><integer>34753</integer>
+			<key>Name</key><string>Don't Break The Needle</string>
+			<key>Artist</key><string>J Roddy Walston And The Business</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3374290</integer>
+			<key>Total Time</key><integer>168594</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:56Z</date>
+			<key>Date Added</key><date>2012-03-09T13:05:13Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3414945464</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:57:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-12T05:05:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5495</integer>
+			<key>Persistent ID</key><string>52637F30504311E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/J_Roddy_Walston_And_The_Business-Don't_Break_the_Needle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34819</key>
+		<dict>
+			<key>Track ID</key><integer>34819</integer>
+			<key>Name</key><string>Paper Tiger</string>
+			<key>Artist</key><string>Rosi Golan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3676195</integer>
+			<key>Total Time</key><integer>153077</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:37Z</date>
+			<key>Date Added</key><date>2012-03-09T13:05:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3414932388</integer>
+			<key>Play Date UTC</key><date>2012-03-18T21:19:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-19T00:37:02Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2418</integer>
+			<key>Persistent ID</key><string>2606846ADA6FE03B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/Rosi_Golan-Paper_Tiger.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34857</key>
+		<dict>
+			<key>Track ID</key><integer>34857</integer>
+			<key>Name</key><string>Origins</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3333856</integer>
+			<key>Total Time</key><integer>208222</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:40Z</date>
+			<key>Date Added</key><date>2012-03-09T13:05:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3414944430</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:40:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-16T23:14:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0195EAC1BAE3EAB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/Tennis-Origins.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34973</key>
+		<dict>
+			<key>Track ID</key><integer>34973</integer>
+			<key>Name</key><string>You Are Invisible</string>
+			<key>Artist</key><string>Anya Marina</string>
+			<key>Album Artist</key><string>Anya Marina</string>
+			<key>Album</key><string>Felony Flats</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7617437</integer>
+			<key>Total Time</key><integer>231262</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-03-14T15:52:09Z</date>
+			<key>Date Added</key><date>2012-03-14T15:52:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 228324806</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3414944790</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:46:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-15T21:58:31Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>881ADE4B8942BD27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Anya%20Marina/Felony%20Flats/07%20-%20You%20Are%20Invisible.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35009</key>
+		<dict>
+			<key>Track ID</key><integer>35009</integer>
+			<key>Name</key><string>Deeper Conversation</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album Artist</key><string>Yuna</string>
+			<key>Album</key><string>Decorate EP</string>
+			<key>Genre</key><string>localmedia4u.blogspot.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6189810</integer>
+			<key>Total Time</key><integer>257306</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-25T09:06:54Z</date>
+			<key>Date Added</key><date>2012-03-14T16:00:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>localmedia4u.blogspot.com</string>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3414945958</integer>
+			<key>Play Date UTC</key><date>2012-03-19T01:05:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F50A2B768FE77ACC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yuna%20-%20Decorate%20EP%20(2011)-MP3/02.%20YUNA%20-%20Deeper%20Conversation.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35015</key>
+		<dict>
+			<key>Track ID</key><integer>35015</integer>
+			<key>Name</key><string>Fears And Frustrations</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album Artist</key><string>Yuna</string>
+			<key>Album</key><string>Decorate EP</string>
+			<key>Genre</key><string>localmedia4u.blogspot.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6606724</integer>
+			<key>Total Time</key><integer>274677</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-25T09:07:00Z</date>
+			<key>Date Added</key><date>2012-03-14T16:00:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>localmedia4u.blogspot.com</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3414945064</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:51:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3736A2E774C54844</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yuna%20-%20Decorate%20EP%20(2011)-MP3/05.%20YUNA%20-%20Fears%20And%20Frustrations.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35019</key>
+		<dict>
+			<key>Track ID</key><integer>35019</integer>
+			<key>Name</key><string>Don't Say U Need Me</string>
+			<key>Artist</key><string>Res</string>
+			<key>Album</key><string>A Box Of Chocolates</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3405965</integer>
+			<key>Total Time</key><integer>105221</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-23T14:46:52Z</date>
+			<key>Date Added</key><date>2012-03-14T16:00:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3414942288</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:04:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-19T00:36:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Box Of Chocolates</string>
+			<key>Persistent ID</key><string>EC53419FC268EE98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/A%20Box%20Of%20Chocolates/02%20Don't%20Say%20U%20Need%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35035</key>
+		<dict>
+			<key>Track ID</key><integer>35035</integer>
+			<key>Name</key><string>Golden Boys</string>
+			<key>Artist</key><string>Res</string>
+			<key>Album</key><string>A Box Of Chocolates</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3273890</integer>
+			<key>Total Time</key><integer>101093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-23T14:49:18Z</date>
+			<key>Date Added</key><date>2012-03-14T16:00:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3414946188</integer>
+			<key>Play Date UTC</key><date>2012-03-19T01:09:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Box Of Chocolates</string>
+			<key>Persistent ID</key><string>96FDA51E2E69CD78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/A%20Box%20Of%20Chocolates/10%20Golden%20Boys.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35091</key>
+		<dict>
+			<key>Track ID</key><integer>35091</integer>
+			<key>Name</key><string>Glad You Came</string>
+			<key>Artist</key><string>The Wanted</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6163468</integer>
+			<key>Total Time</key><integer>198086</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-03-18T04:06:25Z</date>
+			<key>Date Added</key><date>2012-03-18T03:58:46Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>MCG - http://downbox.me/music/ 
+Bubanee - http://bubanee.blogspot.com.au/ 
+TheLocalBay - http://hashmagnetgrabber.blogspot.com.au/</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3414944213</integer>
+			<key>Play Date UTC</key><date>2012-03-19T00:36:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Wanted</string>
+			<key>Persistent ID</key><string>C7E3FD8695AE121F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/USA%20Top%2040%20Singles%20Chart%2010-March-2012%20%5BBubanee%5D/04%20-%20Glad%20You%20Came.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>80221</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>34409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35091</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

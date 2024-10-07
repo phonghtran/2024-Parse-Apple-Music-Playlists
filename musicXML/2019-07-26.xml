@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-07-26T13:46:00Z</date>
+	<key>Application Version</key><string>12.9.5.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>1BA1574FA2FAD306</string>
+	<key>Tracks</key>
+	<dict>
+		<key>34058</key>
+		<dict>
+			<key>Track ID</key><integer>34058</integer>
+			<key>Name</key><string>Every Way</string>
+			<key>Artist</key><string>hvdson</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3787518</integer>
+			<key>Total Time</key><integer>233456</integer>
+			<key>Start Time</key><integer>50000</integer>
+			<key>Date Modified</key><date>2019-06-29T17:38:22Z</date>
+			<key>Date Added</key><date>2019-06-29T17:31:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3646850269</integer>
+			<key>Play Date UTC</key><date>2019-07-25T01:57:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-06-29T17:51:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C35DABE591250E64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/Music/Hvdson/Unknown%20Album/Every%20Way.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34098</key>
+		<dict>
+			<key>Track ID</key><integer>34098</integer>
+			<key>Name</key><string>Will We Talk?</string>
+			<key>Artist</key><string>Sam Fender</string>
+			<key>Album Artist</key><string>Sam Fender</string>
+			<key>Composer</key><string>Sam Fender</string>
+			<key>Album</key><string>Hypersonic Missiles</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5848184</integer>
+			<key>Total Time</key><integer>162600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-05T19:14:18Z</date>
+			<key>Date Added</key><date>2019-07-05T19:14:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3646901663</integer>
+			<key>Play Date UTC</key><date>2019-07-25T16:14:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-14T16:17:48Z</date>
+			<key>Release Date</key><date>2019-08-09T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hypersonic Missiles</string>
+			<key>Sort Artist</key><string>Sam Fender</string>
+			<key>Sort Name</key><string>Will We Talk?</string>
+			<key>Persistent ID</key><string>E7F29928EC25F8EB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34100</key>
+		<dict>
+			<key>Track ID</key><integer>34100</integer>
+			<key>Name</key><string>Again (feat. SYRE)</string>
+			<key>Artist</key><string>Jaden</string>
+			<key>Album Artist</key><string>Jaden</string>
+			<key>Composer</key><string>Jaden &#38; Hugo Chan</string>
+			<key>Album</key><string>ERYS (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9495492</integer>
+			<key>Total Time</key><integer>269816</integer>
+			<key>Stop Time</key><integer>224500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-05T19:20:50Z</date>
+			<key>Date Added</key><date>2019-07-05T19:20:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3646719324</integer>
+			<key>Play Date UTC</key><date>2019-07-23T13:35:24Z</date>
+			<key>Release Date</key><date>2019-07-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ERYS (Deluxe)</string>
+			<key>Sort Artist</key><string>Jaden</string>
+			<key>Sort Name</key><string>Again (feat. SYRE)</string>
+			<key>Persistent ID</key><string>E1D1A09F4EBF5697</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34104</key>
+		<dict>
+			<key>Track ID</key><integer>34104</integer>
+			<key>Name</key><string>LET ME BE</string>
+			<key>Artist</key><string>Luke Christopher</string>
+			<key>Album Artist</key><string>Luke Christopher</string>
+			<key>Composer</key><string>Luke Christopher</string>
+			<key>Album</key><string>LET ME BE - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4771363</integer>
+			<key>Total Time</key><integer>127347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-05T19:29:05Z</date>
+			<key>Date Added</key><date>2019-07-05T19:29:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3646734419</integer>
+			<key>Play Date UTC</key><date>2019-07-23T17:46:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-21T22:35:16Z</date>
+			<key>Release Date</key><date>2019-07-05T00:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LET ME BE - Single</string>
+			<key>Sort Artist</key><string>Luke Christopher</string>
+			<key>Sort Name</key><string>LET ME BE</string>
+			<key>Persistent ID</key><string>BC8FBB186591F0FA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34272</key>
+		<dict>
+			<key>Track ID</key><integer>34272</integer>
+			<key>Name</key><string>Antisocial</string>
+			<key>Artist</key><string>Ed Sheeran &#38; Travis Scott</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Album</key><string>No.6 Collaborations Project</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5780394</integer>
+			<key>Total Time</key><integer>161747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-12T17:48:27Z</date>
+			<key>Date Added</key><date>2019-07-12T17:48:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3646841851</integer>
+			<key>Play Date UTC</key><date>2019-07-24T23:37:31Z</date>
+			<key>Release Date</key><date>2019-07-12T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No.6 Collaborations Project</string>
+			<key>Sort Artist</key><string>Ed Sheeran &#38; Travis Scott</string>
+			<key>Sort Name</key><string>Antisocial</string>
+			<key>Persistent ID</key><string>1D8AB48916F5EA97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34288</key>
+		<dict>
+			<key>Track ID</key><integer>34288</integer>
+			<key>Name</key><string>10 Bands (feat. Timbaland)</string>
+			<key>Artist</key><string>Joyner Lucas</string>
+			<key>Album Artist</key><string>Joyner Lucas</string>
+			<key>Composer</key><string>Gary Lucas &#38; Timothy Mosley</string>
+			<key>Album</key><string>10 Bands (feat. Timbaland) - Single</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7629422</integer>
+			<key>Total Time</key><integer>214155</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-13T17:10:47Z</date>
+			<key>Date Added</key><date>2019-07-13T17:10:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3646840778</integer>
+			<key>Play Date UTC</key><date>2019-07-24T23:19:38Z</date>
+			<key>Release Date</key><date>2019-07-11T00:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>10 Bands (feat. Timbaland) - Single</string>
+			<key>Sort Artist</key><string>Joyner Lucas</string>
+			<key>Sort Name</key><string>10 Bands (feat. Timbaland)</string>
+			<key>Persistent ID</key><string>B0253197F1711CC2</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34322</key>
+		<dict>
+			<key>Track ID</key><integer>34322</integer>
+			<key>Name</key><string>I</string>
+			<key>Artist</key><string>Jaden</string>
+			<key>Album Artist</key><string>Jaden</string>
+			<key>Composer</key><string>Jaden, Jasper Harris &#38; Peder Losnegård</string>
+			<key>Album</key><string>ERYS (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4850646</integer>
+			<key>Total Time</key><integer>130345</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-15T12:18:03Z</date>
+			<key>Date Added</key><date>2019-07-15T12:18:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3646842144</integer>
+			<key>Play Date UTC</key><date>2019-07-24T23:42:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-17T15:08:29Z</date>
+			<key>Release Date</key><date>2019-07-05T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ERYS (Deluxe)</string>
+			<key>Sort Artist</key><string>Jaden</string>
+			<key>Sort Name</key><string>I</string>
+			<key>Persistent ID</key><string>43829348F2C349FF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34338</key>
+		<dict>
+			<key>Track ID</key><integer>34338</integer>
+			<key>Name</key><string>Church (feat. EARTHGANG)</string>
+			<key>Artist</key><string>Samm Henshaw</string>
+			<key>Album Artist</key><string>Samm Henshaw</string>
+			<key>Composer</key><string>Samm Henshaw, Josh Grant, Dean Carlos McIntosh, Olu O. Fann &#38; Eian Undrai Parker</string>
+			<key>Album</key><string>Church (feat. EARTHGANG) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8091055</integer>
+			<key>Total Time</key><integer>228118</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-17T01:07:46Z</date>
+			<key>Date Added</key><date>2019-07-17T01:07:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3646840092</integer>
+			<key>Play Date UTC</key><date>2019-07-24T23:08:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-23T18:29:29Z</date>
+			<key>Release Date</key><date>2019-01-18T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Church (feat. EARTHGANG) - Single</string>
+			<key>Sort Artist</key><string>Samm Henshaw</string>
+			<key>Sort Name</key><string>Church (feat. EARTHGANG)</string>
+			<key>Persistent ID</key><string>545106683DD0B2E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34562</key>
+		<dict>
+			<key>Track ID</key><integer>34562</integer>
+			<key>Name</key><string>How Do You Sleep?</string>
+			<key>Artist</key><string>Sam Smith</string>
+			<key>Album Artist</key><string>Sam Smith</string>
+			<key>Composer</key><string>Sam Smith, Ilya Salmanzadeh, Savan Kotecha &#38; Max Martin</string>
+			<key>Album</key><string>How Do You Sleep? - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7263103</integer>
+			<key>Total Time</key><integer>202205</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-21T22:45:14Z</date>
+			<key>Date Added</key><date>2019-07-21T22:45:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646721084</integer>
+			<key>Play Date UTC</key><date>2019-07-23T14:04:44Z</date>
+			<key>Release Date</key><date>2019-07-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How Do You Sleep? - Single</string>
+			<key>Sort Artist</key><string>Sam Smith</string>
+			<key>Sort Name</key><string>How Do You Sleep?</string>
+			<key>Persistent ID</key><string>F66EEA052066F63B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34566</key>
+		<dict>
+			<key>Track ID</key><integer>34566</integer>
+			<key>Name</key><string>Wam</string>
+			<key>Artist</key><string>A$AP Ferg &#38; MadeinTYO</string>
+			<key>Album Artist</key><string>A$AP Ferg &#38; MadeinTYO</string>
+			<key>Composer</key><string>Darold Brown</string>
+			<key>Album</key><string>Wam - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5775863</integer>
+			<key>Total Time</key><integer>162000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-21T23:36:43Z</date>
+			<key>Date Added</key><date>2019-07-21T23:36:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3646841690</integer>
+			<key>Play Date UTC</key><date>2019-07-24T23:34:50Z</date>
+			<key>Release Date</key><date>2019-07-14T00:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wam - Single</string>
+			<key>Sort Artist</key><string>A$AP Ferg &#38; MadeinTYO</string>
+			<key>Sort Name</key><string>Wam</string>
+			<key>Persistent ID</key><string>2E156C66C115655A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34568</key>
+		<dict>
+			<key>Track ID</key><integer>34568</integer>
+			<key>Name</key><string>Gone</string>
+			<key>Artist</key><string>Charli XCX &#38; Christine and the Queens</string>
+			<key>Album Artist</key><string>Charli XCX</string>
+			<key>Composer</key><string>Charlotte Aitchison, Héloïse Letissier, Linus Wiklund, Nicolas Petitfrère &#38; Noonie Bao</string>
+			<key>Album</key><string>Charli</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8667074</integer>
+			<key>Total Time</key><integer>245480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-21T23:47:17Z</date>
+			<key>Date Added</key><date>2019-07-21T23:47:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3646850143</integer>
+			<key>Play Date UTC</key><date>2019-07-25T01:55:43Z</date>
+			<key>Release Date</key><date>2019-07-19T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Charli</string>
+			<key>Sort Artist</key><string>Charli XCX &#38; Christine and the Queens</string>
+			<key>Sort Name</key><string>Gone</string>
+			<key>Persistent ID</key><string>1F933DC9B5FF7FDE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34570</key>
+		<dict>
+			<key>Track ID</key><integer>34570</integer>
+			<key>Name</key><string>Acid Dreams</string>
+			<key>Artist</key><string>MAX &#38; Felly</string>
+			<key>Album Artist</key><string>MAX &#38; Felly</string>
+			<key>Composer</key><string>Christian Felner, Maxwell Schneider, Ryan Siegel, Alexander Jerard Lewis &#38; Ivan Jackson Rosenberg</string>
+			<key>Album</key><string>Acid Dreams - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6618723</integer>
+			<key>Total Time</key><integer>183930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-22T02:08:53Z</date>
+			<key>Date Added</key><date>2019-07-22T02:08:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3646894081</integer>
+			<key>Play Date UTC</key><date>2019-07-25T14:08:01Z</date>
+			<key>Release Date</key><date>2019-07-19T00:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Acid Dreams - Single</string>
+			<key>Sort Artist</key><string>MAX &#38; Felly</string>
+			<key>Sort Name</key><string>Acid Dreams</string>
+			<key>Persistent ID</key><string>0304D2A73E69EA03</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34572</key>
+		<dict>
+			<key>Track ID</key><integer>34572</integer>
+			<key>Name</key><string>Champion</string>
+			<key>Artist</key><string>Bishop Briggs</string>
+			<key>Album Artist</key><string>Bishop Briggs</string>
+			<key>Composer</key><string>Joel Little, Sarah Grace McLaughlin &#38; Kristine Flaherty</string>
+			<key>Album</key><string>Champion - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6202336</integer>
+			<key>Total Time</key><integer>173119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-22T02:09:08Z</date>
+			<key>Date Added</key><date>2019-07-22T02:09:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3646841528</integer>
+			<key>Play Date UTC</key><date>2019-07-24T23:32:08Z</date>
+			<key>Release Date</key><date>2019-07-17T00:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Champion - Single</string>
+			<key>Sort Artist</key><string>Bishop Briggs</string>
+			<key>Sort Name</key><string>Champion</string>
+			<key>Persistent ID</key><string>89FED1709A83608F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>78627</integer>
+			<key>Playlist Persistent ID</key><string>317E07F776CE71F6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>34058</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34322</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34562</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

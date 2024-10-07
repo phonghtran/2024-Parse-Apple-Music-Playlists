@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-02-24T03:34:54Z</date>
+	<key>Application Version</key><string>12.1.0.50</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>46391</key>
+		<dict>
+			<key>Track ID</key><integer>46391</integer>
+			<key>Name</key><string>Why Try</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Benjamin Levin, Ryan "Ryghtous" Tedder, Ammar Malik &#38; Noel Zancanella</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7537309</integer>
+			<key>Total Time</key><integer>211871</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-02-12T04:21:40Z</date>
+			<key>Date Added</key><date>2014-08-27T02:51:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3507048967</integer>
+			<key>Play Date UTC</key><date>2015-02-18T02:16:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-11-04T04:39:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4074</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7C1C04AE58D9506</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Ariana%20Grande/My%20Everything%20(Deluxe)/04%20Why%20Try.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>172907</key>
+		<dict>
+			<key>Track ID</key><integer>172907</integer>
+			<key>Name</key><string>GDFR (Feat. Sage The Gemini &#38; Lookas) (K. Theory Remix)</string>
+			<key>Artist</key><string>Flo Rida</string>
+			<key>Album Artist</key><string>Flo Rida</string>
+			<key>Album</key><string>GDFR (Remixes) WEB</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7526542</integer>
+			<key>Total Time</key><integer>188055</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-02-14T20:13:26Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>L E V</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507049841</integer>
+			<key>Play Date UTC</key><date>2015-02-18T02:30:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-02-14T20:29:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C5B1F0D2ACED4ADF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Flo%20Rida/GDFR%20(Remixes)%20WEB/1-04%20GDFR%20(Feat.%20Sage%20The%20Gemini%20&#38;%20Lookas)%20(K.%20Theory%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>172936</key>
+		<dict>
+			<key>Track ID</key><integer>172936</integer>
+			<key>Name</key><string>The City (feat. Phoebe Ryan)</string>
+			<key>Artist</key><string>Skizzy Mars</string>
+			<key>Album Artist</key><string>Skizzy Mars</string>
+			<key>Album</key><string>The Red Balloon Project</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9329721</integer>
+			<key>Total Time</key><integer>229955</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-14T20:06:36Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3507569099</integer>
+			<key>Play Date UTC</key><date>2015-02-24T02:44:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-02-14T20:29:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Red Balloon Project</string>
+			<key>Sort Name</key><string>City (feat. Phoebe Ryan)</string>
+			<key>Persistent ID</key><string>6020899079781F25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Skizzy%20Mars/The%20Red%20Balloon%20Project/02%20The%20City%20(feat.%20Phoebe%20Ryan).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>172941</key>
+		<dict>
+			<key>Track ID</key><integer>172941</integer>
+			<key>Name</key><string>Be Lazy</string>
+			<key>Artist</key><string>Skizzy Mars</string>
+			<key>Album Artist</key><string>Skizzy Mars</string>
+			<key>Album</key><string>The Red Balloon Project</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8184471</integer>
+			<key>Total Time</key><integer>201325</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-14T20:06:36Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3507221313</integer>
+			<key>Play Date UTC</key><date>2015-02-20T02:08:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Red Balloon Project</string>
+			<key>Persistent ID</key><string>5D870604B9D42ABA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Skizzy%20Mars/The%20Red%20Balloon%20Project/03%20Be%20Lazy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>172994</key>
+		<dict>
+			<key>Track ID</key><integer>172994</integer>
+			<key>Name</key><string>Am I Safe</string>
+			<key>Artist</key><string>Ryan Adams</string>
+			<key>Album Artist</key><string>Ryan Adams</string>
+			<key>Album</key><string>Ryan Adams</string>
+			<key>Genre</key><string>Country / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10990593</integer>
+			<key>Total Time</key><integer>273031</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-02-14T20:05:26Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3507571484</integer>
+			<key>Play Date UTC</key><date>2015-02-24T03:24:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3EDB4CD5C10BBCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Ryan%20Adams/Ryan%20Adams/04%20Am%20I%20Safe.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173142</key>
+		<dict>
+			<key>Track ID</key><integer>173142</integer>
+			<key>Name</key><string>Body Language (feat. Usher &#38; Tinashe)</string>
+			<key>Artist</key><string>Kid Ink, Brian Todd Collins, Mikkel Storleer Eriksen, Stargate, Cashmere Cat, Tor Erik Hermansen, Magnus August Hoiberg, Usher Raymond &#38; Tinashe Kachingwe</string>
+			<key>Album Artist</key><string>Kid Ink</string>
+			<key>Composer</key><string>Brian Todd Collins, Mikkel Storleer Eriksen, Tor Erik Hermansen, Magnus August Hoiberg, Usher Raymond &#38; Tinashe Kachingwe</string>
+			<key>Album</key><string>Full Speed</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8515257</integer>
+			<key>Total Time</key><integer>206315</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-14T20:03:51Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3507571891</integer>
+			<key>Play Date UTC</key><date>2015-02-24T03:31:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A10EC05ED97D7A3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kid%20Ink/Full%20Speed/04%20Body%20Language%20(feat.%20Usher%20&#38;%20Tinashe).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173157</key>
+		<dict>
+			<key>Track ID</key><integer>173157</integer>
+			<key>Name</key><string>Be Real (feat. Dej Loaf)</string>
+			<key>Artist</key><string>Kid Ink</string>
+			<key>Album Artist</key><string>Kid Ink</string>
+			<key>Composer</key><string>N/A</string>
+			<key>Album</key><string>Full Speed</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8534554</integer>
+			<key>Total Time</key><integer>206811</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-14T20:03:58Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3507047530</integer>
+			<key>Play Date UTC</key><date>2015-02-18T01:52:10Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>652DE3B1439B7D59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kid%20Ink/Full%20Speed/07%20Be%20Real%20(feat.%20Dej%20Loaf).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173202</key>
+		<dict>
+			<key>Track ID</key><integer>173202</integer>
+			<key>Name</key><string>Blessings (feat. Drake &#38; Kanye West)</string>
+			<key>Artist</key><string>Big Sean</string>
+			<key>Album Artist</key><string>Big Sean</string>
+			<key>Composer</key><string>Sean Anderson, ANDERSON HERNANDEZ, Kanye West, Allen Ritter &#38; Aubrey Drake Graham</string>
+			<key>Album</key><string>Blessings (Extended Version) [feat. Drake &#38; Kanye West] - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12435960</integer>
+			<key>Total Time</key><integer>302001</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-14T20:02:09Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3507050143</integer>
+			<key>Play Date UTC</key><date>2015-02-18T02:35:43Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8D1C2A7EC4EBCC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Big%20Sean/Blessings%20(Extended%20Version)%20%5Bfeat.%20Drake%20&#38;%20Kanye%20West%5D%20-%20Single/01%20Blessings%20(feat.%20Drake%20&#38;%20Kanye%20West).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173249</key>
+		<dict>
+			<key>Track ID</key><integer>173249</integer>
+			<key>Name</key><string>Pay No Mind</string>
+			<key>Artist</key><string>Madeon Feat. Passion Pit</string>
+			<key>Album</key><string>Adventure</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9989340</integer>
+			<key>Total Time</key><integer>249547</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-14T20:00:51Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3507219279</integer>
+			<key>Play Date UTC</key><date>2015-02-20T01:34:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2DBE0AC60317243</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Madeon%20Feat.%20Passion%20Pit/Adventure/05%20Pay%20No%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173256</key>
+		<dict>
+			<key>Track ID</key><integer>173256</integer>
+			<key>Name</key><string>Animal Fear</string>
+			<key>Artist</key><string>Marika Hackman</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3307307</integer>
+			<key>Total Time</key><integer>206053</integer>
+			<key>Date Modified</key><date>2015-02-14T20:19:09Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3507569534</integer>
+			<key>Play Date UTC</key><date>2015-02-24T02:52:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>ACD5B2EE505DAC34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Marika%20Hackman/Unknown%20Album/Animal%20Fear.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173261</key>
+		<dict>
+			<key>Track ID</key><integer>173261</integer>
+			<key>Name</key><string>Paper Trail$</string>
+			<key>Artist</key><string>Joey Bada$$</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3211174</integer>
+			<key>Total Time</key><integer>200045</integer>
+			<key>Date Modified</key><date>2015-02-14T20:19:02Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507571684</integer>
+			<key>Play Date UTC</key><date>2015-02-24T03:28:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D0ABB51AE2091456</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Joey%20Bada$$/Unknown%20Album/Paper%20Trail$.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173266</key>
+		<dict>
+			<key>Track ID</key><integer>173266</integer>
+			<key>Name</key><string>Attak ft Danny Brown</string>
+			<key>Artist</key><string>Rustie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3021999</integer>
+			<key>Total Time</key><integer>188212</integer>
+			<key>Date Modified</key><date>2015-02-14T20:19:15Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3507570033</integer>
+			<key>Play Date UTC</key><date>2015-02-24T03:00:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A6C52F6C4181B29B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Rustie/Unknown%20Album/Attak%20ft%20Danny%20Brown.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173302</key>
+		<dict>
+			<key>Track ID</key><integer>173302</integer>
+			<key>Name</key><string>07. Doing It</string>
+			<key>Artist</key><string>Charli XCX</string>
+			<key>Album</key><string>Sucker (Deluxe)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9223176</integer>
+			<key>Total Time</key><integer>228504</integer>
+			<key>Date Modified</key><date>2015-01-26T15:38:23Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3507047262</integer>
+			<key>Play Date UTC</key><date>2015-02-18T01:47:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D614D155352DD7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Charli%20XCX/Sucker%20(Deluxe)/07.%20Doing%20It.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173332</key>
+		<dict>
+			<key>Track ID</key><integer>173332</integer>
+			<key>Name</key><string>13. Need Ur Luv</string>
+			<key>Artist</key><string>Charli XCX</string>
+			<key>Album</key><string>Sucker (Deluxe)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9245256</integer>
+			<key>Total Time</key><integer>229056</integer>
+			<key>Date Modified</key><date>2015-01-26T15:38:24Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3507569328</integer>
+			<key>Play Date UTC</key><date>2015-02-24T02:48:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D07AC116A02B3D5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Charli%20XCX/Sucker%20(Deluxe)/13.%20Need%20Ur%20Luv.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173342</key>
+		<dict>
+			<key>Track ID</key><integer>173342</integer>
+			<key>Name</key><string>15. Break The Rules (Femme Remix)</string>
+			<key>Artist</key><string>Charli XCX</string>
+			<key>Album</key><string>Sucker (Deluxe)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9482376</integer>
+			<key>Total Time</key><integer>234984</integer>
+			<key>Date Modified</key><date>2015-01-26T15:38:25Z</date>
+			<key>Date Added</key><date>2015-02-14T20:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3507126638</integer>
+			<key>Play Date UTC</key><date>2015-02-18T23:50:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB351D09E4C712EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Charli%20XCX/Sucker%20(Deluxe)/15.%20Break%20The%20Rules%20(Femme%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>182196</key>
+		<dict>
+			<key>Track ID</key><integer>182196</integer>
+			<key>Name</key><string>Pray to God ft. HAIM</string>
+			<key>Artist</key><string>Calvin Harris</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7887943</integer>
+			<key>Total Time</key><integer>242912</integer>
+			<key>Start Time</key><integer>12000</integer>
+			<key>Date Modified</key><date>2015-02-16T05:48:20Z</date>
+			<key>Date Added</key><date>2015-02-16T05:47:44Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507046562</integer>
+			<key>Play Date UTC</key><date>2015-02-18T01:36:02Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>BFBDB521459A9EAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Calvin%20Harris/Unknown%20Album/Pray%20to%20God%20ft.%20HAIM.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>121423</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>173302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172936</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173256</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173142</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

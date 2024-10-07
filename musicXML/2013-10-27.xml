@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-10-30T18:01:44Z</date>
+	<key>Application Version</key><string>11.1.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35439</key>
+		<dict>
+			<key>Track ID</key><integer>35439</integer>
+			<key>Name</key><string>Finding Something to Do</string>
+			<key>Artist</key><string>hellogoodbye</string>
+			<key>Album Artist</key><string>hellogoodbye</string>
+			<key>Album</key><string>Would It Kill You?</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6719452</integer>
+			<key>Total Time</key><integer>175320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-23T21:39:23Z</date>
+			<key>Date Added</key><date>2012-03-09T13:03:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3465818726</integer>
+			<key>Play Date UTC</key><date>2013-10-28T22:25:26Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-06T06:04:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8181</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>hellogoodbye</string>
+			<key>Sort Artist</key><string>hellogoodbye</string>
+			<key>Persistent ID</key><string>F45D500B0DDE62D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/hellogoodbye/Would%20It%20Kill%20You_/01%20Finding%20Something%20to%20Do.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36127</key>
+		<dict>
+			<key>Track ID</key><integer>36127</integer>
+			<key>Name</key><string>Blue Eyed Crazy</string>
+			<key>Artist</key><string>The Glorious Veins</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7206450</integer>
+			<key>Total Time</key><integer>202840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-23T21:35:25Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3465818358</integer>
+			<key>Play Date UTC</key><date>2013-10-28T22:19:18Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-06T15:08:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2698</integer>
+			<key>Sort Artist</key><string>Glorious Veins</string>
+			<key>Persistent ID</key><string>C441D838CFCC56AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Glorious%20Veins/Unknown%20Album/13%20Blue%20Eyed%20Crazy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36817</key>
+		<dict>
+			<key>Track ID</key><integer>36817</integer>
+			<key>Name</key><string>Song 11</string>
+			<key>Artist</key><string>Late Cambrian</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9454467</integer>
+			<key>Total Time</key><integer>255013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>111</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-25T13:23:26Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3465811498</integer>
+			<key>Play Date UTC</key><date>2013-10-28T20:24:58Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-10-08T13:21:54Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6287</integer>
+			<key>Persistent ID</key><string>4FAEDF95860245A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Late%20Cambrian/Unknown%20Album/111%20Song%2011.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37467</key>
+		<dict>
+			<key>Track ID</key><integer>37467</integer>
+			<key>Name</key><string>Poetic Justice</string>
+			<key>Artist</key><string>Kendrick Lamar feat. Drake</string>
+			<key>Album</key><string>good kid, m.A.A.d city</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10469806</integer>
+			<key>Total Time</key><integer>300165</integer>
+			<key>Stop Time</key><integer>258000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-23T21:16:02Z</date>
+			<key>Date Added</key><date>2012-11-03T14:31:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3465810902</integer>
+			<key>Play Date UTC</key><date>2013-10-28T20:15:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1455</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>65126CF8B1F169A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/good%20kid,%20m.A.A.d%20city/06%20Poetic%20Justice.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39237</key>
+		<dict>
+			<key>Track ID</key><integer>39237</integer>
+			<key>Name</key><string>Mason Jar</string>
+			<key>Artist</key><string>Smallpools</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7940429</integer>
+			<key>Total Time</key><integer>219560</integer>
+			<key>Date Modified</key><date>2013-10-26T10:20:59Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3465816692</integer>
+			<key>Play Date UTC</key><date>2013-10-28T21:51:32Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-10-28T22:31:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8949</integer>
+			<key>Persistent ID</key><string>99898BC832287946</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Smallpools/Unknown%20Album/Mason%20Jar.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39479</key>
+		<dict>
+			<key>Track ID</key><integer>39479</integer>
+			<key>Name</key><string>Around my Head</string>
+			<key>Artist</key><string>Cage The Elephant</string>
+			<key>Album</key><string>Thank You, Happy Birthday</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6856057</integer>
+			<key>Total Time</key><integer>191600</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-23T20:45:15Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3465810644</integer>
+			<key>Play Date UTC</key><date>2013-10-28T20:10:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14227</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69EDA3B372BF97BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cage%20The%20Elephant/Thank%20You,%20Happy%20Birthday/09%20Around%20my%20Head.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39625</key>
+		<dict>
+			<key>Track ID</key><integer>39625</integer>
+			<key>Name</key><string>Part of Me</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9383293</integer>
+			<key>Total Time</key><integer>248402</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-26T11:56:45Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3465817542</integer>
+			<key>Play Date UTC</key><date>2013-10-28T22:05:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-08T13:04:37Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2515</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8581CA603AE5D520</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tedeschi%20Trucks%20Band/Made%20Up%20Mind/05%20Part%20of%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39631</key>
+		<dict>
+			<key>Track ID</key><integer>39631</integer>
+			<key>Name</key><string>All That I Need</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>11582076</integer>
+			<key>Total Time</key><integer>313842</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-23T20:44:25Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3465819040</integer>
+			<key>Play Date UTC</key><date>2013-10-28T22:30:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-04T03:41:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C250BE3EEF47AD63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tedeschi%20Trucks%20Band/Made%20Up%20Mind/08%20All%20That%20I%20Need.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39729</key>
+		<dict>
+			<key>Track ID</key><integer>39729</integer>
+			<key>Name</key><string>Cry No More</string>
+			<key>Artist</key><string>VAULTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7023903</integer>
+			<key>Total Time</key><integer>219167</integer>
+			<key>Date Modified</key><date>2013-10-23T20:44:07Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3465817761</integer>
+			<key>Play Date UTC</key><date>2013-10-28T22:09:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2822</integer>
+			<key>Persistent ID</key><string>D2D90D55D6FE91CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/VAULTS/Unknown%20Album/Cry%20No%20More.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39731</key>
+		<dict>
+			<key>Track ID</key><integer>39731</integer>
+			<key>Name</key><string>Undiscovered</string>
+			<key>Artist</key><string>Laura Welsh</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5566903</integer>
+			<key>Total Time</key><integer>173635</integer>
+			<key>Date Modified</key><date>2013-10-23T20:44:24Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3465816866</integer>
+			<key>Play Date UTC</key><date>2013-10-28T21:54:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-08T13:04:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4155</integer>
+			<key>Persistent ID</key><string>872D45B25DF9D8DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Laura%20Welsh/Unknown%20Album/Undiscovered.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39777</key>
+		<dict>
+			<key>Track ID</key><integer>39777</integer>
+			<key>Name</key><string>Team</string>
+			<key>Artist</key><string>Lorde</string>
+			<key>Album Artist</key><string>Lorde</string>
+			<key>Composer</key><string>Ella Yelich O'Connor, Joel Little</string>
+			<key>Album</key><string>Pure Heroine</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7027361</integer>
+			<key>Total Time</key><integer>193058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-23T20:42:57Z</date>
+			<key>Date Added</key><date>2013-10-02T13:38:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>...::: sa1sa :::...</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3465818551</integer>
+			<key>Play Date UTC</key><date>2013-10-28T22:22:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3294</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>590028F54E5E8A29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Lorde/Pure%20Heroine/06%20Team.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39785</key>
+		<dict>
+			<key>Track ID</key><integer>39785</integer>
+			<key>Name</key><string>The Mother We Share (Moonboots Remix)</string>
+			<key>Artist</key><string>Chvrches</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13876113</integer>
+			<key>Total Time</key><integer>317648</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2013-10-23T20:42:49Z</date>
+			<key>Date Added</key><date>2013-10-04T20:47:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Bbm - Ebm</string>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3465876593</integer>
+			<key>Play Date UTC</key><date>2013-10-29T14:29:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-05T04:54:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4345</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Mother We Share (Moonboots Remix)</string>
+			<key>Persistent ID</key><string>503991C1D3580C94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Chvrches/Unknown%20Album/The%20Mother%20We%20Share%20(Moonboots%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39787</key>
+		<dict>
+			<key>Track ID</key><integer>39787</integer>
+			<key>Name</key><string>Nostalgia</string>
+			<key>Artist</key><string>Pusha T</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7627260</integer>
+			<key>Total Time</key><integer>216453</integer>
+			<key>Date Modified</key><date>2013-10-23T20:42:49Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3465817082</integer>
+			<key>Play Date UTC</key><date>2013-10-28T21:58:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6405</integer>
+			<key>Persistent ID</key><string>D834B44DF1730158</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Pusha%20T/Unknown%20Album/Nostalgia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39789</key>
+		<dict>
+			<key>Track ID</key><integer>39789</integer>
+			<key>Name</key><string>Mean Streets</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6514829</integer>
+			<key>Total Time</key><integer>203258</integer>
+			<key>Date Modified</key><date>2013-10-23T20:42:56Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3465816229</integer>
+			<key>Play Date UTC</key><date>2013-10-28T21:43:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4328</integer>
+			<key>Persistent ID</key><string>805F9D94738E1383</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tennis/Unknown%20Album/Mean%20Streets.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39821</key>
+		<dict>
+			<key>Track ID</key><integer>39821</integer>
+			<key>Name</key><string>Smokin &#38; Drinkin</string>
+			<key>Artist</key><string>Danny Brown</string>
+			<key>Album</key><string>Old</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6938265</integer>
+			<key>Total Time</key><integer>173191</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-23T20:42:35Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3465811243</integer>
+			<key>Play Date UTC</key><date>2013-10-28T20:20:43Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3900</integer>
+			<key>Persistent ID</key><string>6696DB9F219F9C0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Danny%20Brown/Old/Smokin%20&#38;%20Drinkin.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44225</key>
+		<dict>
+			<key>Track ID</key><integer>44225</integer>
+			<key>Name</key><string>Over Your Head (B.o.B &#38; 2 Chainz vs Chromeo)</string>
+			<key>Artist</key><string>The Hood Internet</string>
+			<key>Album</key><string>thehoodinternet.com</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8522981</integer>
+			<key>Total Time</key><integer>211461</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2013-10-15T15:55:31Z</date>
+			<key>Date Added</key><date>2013-10-15T15:56:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3465926155</integer>
+			<key>Play Date UTC</key><date>2013-10-30T04:15:55Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6775</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hood Internet</string>
+			<key>Persistent ID</key><string>0125A51096DB9999</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Hood%20Internet/thehoodinternet.com/Over%20Your%20Head%20(B.o.B%20&#38;%202%20Chainz%20vs%20Chromeo).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44445</key>
+		<dict>
+			<key>Track ID</key><integer>44445</integer>
+			<key>Name</key><string>Eyes Open</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9774867</integer>
+			<key>Total Time</key><integer>244114</integer>
+			<key>Date Modified</key><date>2013-10-21T21:06:46Z</date>
+			<key>Date Added</key><date>2013-10-21T21:05:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3465970172</integer>
+			<key>Play Date UTC</key><date>2013-10-30T16:29:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>712E0D2FD7B286B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Taylor%20Swift/Unknown%20Album/Eyes%20Open.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44467</key>
+		<dict>
+			<key>Track ID</key><integer>44467</integer>
+			<key>Name</key><string>Piano Hits feat. Isaac Gale, Lizzo, &#38; Sims</string>
+			<key>Artist</key><string>P.O.S.</string>
+			<key>Album</key><string>WDELH/MDS/RMX</string>
+			<key>Genre</key><string>Rap/Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8863406</integer>
+			<key>Total Time</key><integer>167967</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2013-10-30T04:11:32Z</date>
+			<key>Date Added</key><date>2013-10-22T16:27:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3465971954</integer>
+			<key>Play Date UTC</key><date>2013-10-30T16:59:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2987</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C7A32506E9D194D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/P.O.S_/WDELH_MDS_RMX/11%20Piano%20Hits%20feat.%20Isaac%20Gale,%20Lizzo,%20&#38;%20Sims.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>279332</key>
+		<dict>
+			<key>Track ID</key><integer>279332</integer>
+			<key>Name</key><string>Avocado, Baby</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album Artist</key><string>Los Campesinos!</string>
+			<key>Album</key><string>NO BLUES</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11103767</integer>
+			<key>Total Time</key><integer>276271</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-29T20:39:20Z</date>
+			<key>Date Added</key><date>2013-10-29T20:40:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3465928171</integer>
+			<key>Play Date UTC</key><date>2013-10-30T04:49:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75F29A2236DED038</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Los%20Campesinos!/NO%20BLUES/07%20Avocado,%20Baby.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>361742</key>
+		<dict>
+			<key>Track ID</key><integer>361742</integer>
+			<key>Name</key><string>How We Land (ft. Justin Vernon of Bon Iver)</string>
+			<key>Artist</key><string>P.O.S.</string>
+			<key>Album</key><string>We Don't Even Live Here</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7456011</integer>
+			<key>Total Time</key><integer>240953</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-30T04:32:38Z</date>
+			<key>Date Added</key><date>2013-10-30T04:39:03Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3465964232</integer>
+			<key>Play Date UTC</key><date>2013-10-30T14:50:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A7A57B7048DBFC4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/P.O.S_/We%20Don't%20Even%20Live%20Here/03%20How%20We%20Land%20(ft.%20Justin%20Vernon%20of%20Bon%20Iver).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>122258</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>279332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>361742</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

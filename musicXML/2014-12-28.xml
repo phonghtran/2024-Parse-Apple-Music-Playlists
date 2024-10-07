@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-12-29T16:52:26Z</date>
+	<key>Application Version</key><string>12.0.1.26</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>50029</key>
+		<dict>
+			<key>Track ID</key><integer>50029</integer>
+			<key>Name</key><string>I Wish You Would</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>1989 (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8426830</integer>
+			<key>Total Time</key><integer>207464</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-30T04:21:50Z</date>
+			<key>Date Added</key><date>2014-10-30T04:22:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3502695050</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:50:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-11-25T13:18:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2234BF3B3316EE73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Taylor%20Swift/1989%20(Deluxe)/07%20I%20Wish%20You%20Would.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50293</key>
+		<dict>
+			<key>Track ID</key><integer>50293</integer>
+			<key>Name</key><string>All My Love (feat. Ariana Grande)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Album</key><string>The Hunger Games: Mockingjay, Part 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3408893</integer>
+			<key>Total Time</key><integer>212401</integer>
+			<key>Date Modified</key><date>2014-11-25T13:14:30Z</date>
+			<key>Date Added</key><date>2014-11-20T05:39:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>98</integer>
+			<key>Play Date</key><integer>3502628206</integer>
+			<key>Play Date UTC</key><date>2014-12-28T22:16:46Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-12-15T14:47:16Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Hunger Games: Mockingjay, Part 1</string>
+			<key>Persistent ID</key><string>7341E9F6E786DDF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Compilations/The%20Hunger%20Games_%20Mockingjay,%20Part%201/All%20My%20Love%20(feat.%20Ariana%20Grande).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50521</key>
+		<dict>
+			<key>Track ID</key><integer>50521</integer>
+			<key>Name</key><string>The Trouble</string>
+			<key>Artist</key><string>Pogo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5820028</integer>
+			<key>Total Time</key><integer>193175</integer>
+			<key>Date Modified</key><date>2014-12-02T05:51:35Z</date>
+			<key>Date Added</key><date>2014-12-02T04:40:14Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3502694628</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:43:48Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Trouble</string>
+			<key>Persistent ID</key><string>5821F6DFD52BF51E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Pogo/Unknown%20Album/The%20Trouble.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50761</key>
+		<dict>
+			<key>Track ID</key><integer>50761</integer>
+			<key>Name</key><string>I'm Callin'</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Composer</key><string>Aliana Joy Riley/Patrick Riley</string>
+			<key>Album</key><string>Ritual In Repeat</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8578088</integer>
+			<key>Total Time</key><integer>214439</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2014-12-14T05:04:15Z</date>
+			<key>Date Added</key><date>2014-12-14T05:05:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3502694842</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:47:22Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D364439EB1D046F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Tennis/Ritual%20In%20Repeat/04%20I'm%20Callin'.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50763</key>
+		<dict>
+			<key>Track ID</key><integer>50763</integer>
+			<key>Name</key><string>Bad Girls</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Composer</key><string>Aliana Joy Riley/Patrick Riley</string>
+			<key>Album</key><string>Ritual In Repeat</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10851784</integer>
+			<key>Total Time</key><integer>271281</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2014-12-14T05:04:26Z</date>
+			<key>Date Added</key><date>2014-12-14T05:05:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3502631186</integer>
+			<key>Play Date UTC</key><date>2014-12-28T23:06:26Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>626F678C67CCDBB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Tennis/Ritual%20In%20Repeat/05%20Bad%20Girls.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50811</key>
+		<dict>
+			<key>Track ID</key><integer>50811</integer>
+			<key>Name</key><string>Say No Diggity (ODESZA // Blackstreet)</string>
+			<key>Artist</key><string>whitepandamusic</string>
+			<key>Album</key><string>www.thewhitepanda.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8537009</integer>
+			<key>Total Time</key><integer>213420</integer>
+			<key>Date Modified</key><date>2014-12-17T05:51:04Z</date>
+			<key>Date Added</key><date>2014-12-17T05:51:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3502629299</integer>
+			<key>Play Date UTC</key><date>2014-12-28T22:34:59Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>90F9846F910DBDBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/whitepandamusic/www.thewhitepanda.com/Say%20No%20Diggity%20(ODESZA%20__%20Blackstreet).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50881</key>
+		<dict>
+			<key>Track ID</key><integer>50881</integer>
+			<key>Name</key><string>Santa Tell Me</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Album</key><string>Santa Tell Me - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8182849</integer>
+			<key>Total Time</key><integer>204225</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-12-22T16:57:38Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3502693166</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:19:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-12-23T01:20:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7D4DA61CC2A2E65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Ariana%20Grande/Santa%20Tell%20Me%20-%20Single/01%20Santa%20Tell%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50883</key>
+		<dict>
+			<key>Track ID</key><integer>50883</integer>
+			<key>Name</key><string>Beggin For Thread</string>
+			<key>Artist</key><string>Banks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7758617</integer>
+			<key>Total Time</key><integer>255216</integer>
+			<key>Date Modified</key><date>2014-12-22T16:58:40Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3502693524</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:25:24Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>0BE1548943B48C1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Banks/Unknown%20Album/Beggin%20For%20Thread.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50885</key>
+		<dict>
+			<key>Track ID</key><integer>50885</integer>
+			<key>Name</key><string>The Party Line</string>
+			<key>Artist</key><string>Belle &#38; Sebastian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8643598</integer>
+			<key>Total Time</key><integer>330344</integer>
+			<key>Start Time</key><integer>14000</integer>
+			<key>Stop Time</key><integer>260900</integer>
+			<key>Date Modified</key><date>2014-12-22T23:24:45Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3502693771</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:29:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-12-22T16:57:54Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Sort Name</key><string>Party Line</string>
+			<key>Persistent ID</key><string>61119FA7E9949F5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Belle%20&#38;%20Sebastian/Unknown%20Album/The%20Party%20Line.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50889</key>
+		<dict>
+			<key>Track ID</key><integer>50889</integer>
+			<key>Name</key><string>Back To The Ordinary</string>
+			<key>Artist</key><string>Kid Astray</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3047879</integer>
+			<key>Total Time</key><integer>190484</integer>
+			<key>Date Modified</key><date>2014-12-22T17:21:55Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3502693962</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:32:42Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>081522E5C763F225</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Kid%20Astray/Unknown%20Album/Back%20To%20The%20Ordinary.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50891</key>
+		<dict>
+			<key>Track ID</key><integer>50891</integer>
+			<key>Name</key><string>Bleach (feat. Danny Score)</string>
+			<key>Artist</key><string>Jez Dior</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7024296</integer>
+			<key>Total Time</key><integer>222850</integer>
+			<key>Date Modified</key><date>2014-12-22T16:56:22Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3502628428</integer>
+			<key>Play Date UTC</key><date>2014-12-28T22:20:28Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>D7ECF2519DE45F1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Jez%20Dior/Unknown%20Album/Bleach%20(feat.%20Danny%20Score).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50893</key>
+		<dict>
+			<key>Track ID</key><integer>50893</integer>
+			<key>Name</key><string>Where We're Going</string>
+			<key>Artist</key><string>DAE</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6662574</integer>
+			<key>Total Time</key><integer>209475</integer>
+			<key>Date Modified</key><date>2014-12-22T16:56:43Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3502629758</integer>
+			<key>Play Date UTC</key><date>2014-12-28T22:42:38Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>BE8F2EA1E3543142</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/DAE/Unknown%20Album/Where%20We're%20Going.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50895</key>
+		<dict>
+			<key>Track ID</key><integer>50895</integer>
+			<key>Name</key><string>Silences</string>
+			<key>Artist</key><string>HOLY ESQUE</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6803130</integer>
+			<key>Total Time</key><integer>222197</integer>
+			<key>Date Modified</key><date>2014-12-22T16:56:26Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3502627590</integer>
+			<key>Play Date UTC</key><date>2014-12-28T22:06:30Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>B7F01F354639C2D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/HOLY%20ESQUE/Unknown%20Album/Silences.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50897</key>
+		<dict>
+			<key>Track ID</key><integer>50897</integer>
+			<key>Name</key><string>Luxury ft. Audra Mae</string>
+			<key>Artist</key><string>Jon Bellion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3906578</integer>
+			<key>Total Time</key><integer>243513</integer>
+			<key>Date Modified</key><date>2014-12-22T16:58:26Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3502694422</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:40:22Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>56F0F154C5F17227</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Jon%20Bellion/Unknown%20Album/Luxury%20ft.%20Audra%20Mae.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50901</key>
+		<dict>
+			<key>Track ID</key><integer>50901</integer>
+			<key>Name</key><string>I Will Be There</string>
+			<key>Artist</key><string>Odessa</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4405403</integer>
+			<key>Total Time</key><integer>275330</integer>
+			<key>Date Modified</key><date>2014-12-22T16:56:11Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3502692293</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:04:53Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>4044CDB437060611</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Odessa/Unknown%20Album/I%20Will%20Be%20There.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50905</key>
+		<dict>
+			<key>Track ID</key><integer>50905</integer>
+			<key>Name</key><string>Switch Lanes</string>
+			<key>Artist</key><string>Tkay Maidza</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3146633</integer>
+			<key>Total Time</key><integer>196022</integer>
+			<key>Date Modified</key><date>2014-12-22T17:12:20Z</date>
+			<key>Date Added</key><date>2014-12-22T17:11:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3502627993</integer>
+			<key>Play Date UTC</key><date>2014-12-28T22:13:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-12-22T17:12:03Z</date>
+			<key>Persistent ID</key><string>1420FB07D8EEF91E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Tkay%20Maidza/Unknown%20Album/Switch%20Lanes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50907</key>
+		<dict>
+			<key>Track ID</key><integer>50907</integer>
+			<key>Name</key><string>Howl At That Moon (Single)</string>
+			<key>Artist</key><string>Bomba de Luz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6796494</integer>
+			<key>Total Time</key><integer>217338</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-12-22T18:16:43Z</date>
+			<key>Date Added</key><date>2014-12-22T18:17:06Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://bombadeluz.bandcamp.com</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3502694179</integer>
+			<key>Play Date UTC</key><date>2014-12-29T16:36:19Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2014-12-23T22:58:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7649E679E6E731C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/Music/Macbook%20Air%20Library/Music/Bomba%20de%20Luz/Unknown%20Album/Howl%20At%20That%20Moon%20(Single).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>134879</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>50293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50897</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

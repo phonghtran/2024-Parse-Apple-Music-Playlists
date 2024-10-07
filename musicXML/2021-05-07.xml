@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-05-07T13:00:23Z</date>
+	<key>Application Version</key><string>1.1.3.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>D6CBA4F122AC58C8</string>
+	<key>Tracks</key>
+	<dict>
+		<key>37561</key>
+		<dict>
+			<key>Track ID</key><integer>37561</integer>
+			<key>Name</key><string>ONE (Lucid Dream)</string>
+			<key>Artist</key><string>Golden Child</string>
+			<key>Album Artist</key><string>Golden Child</string>
+			<key>Album</key><string>Golden Child 4th Mini Album : Take a Leap</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8691742</integer>
+			<key>Total Time</key><integer>235653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-21T23:57:23Z</date>
+			<key>Date Added</key><date>2020-09-21T23:57:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3703219817</integer>
+			<key>Play Date UTC</key><date>2021-05-07T12:10:17Z</date>
+			<key>Release Date</key><date>2020-06-23T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Golden Child 4th Mini Album : Take a Leap</string>
+			<key>Sort Artist</key><string>Golden Child</string>
+			<key>Sort Name</key><string>ONE (Lucid Dream)</string>
+			<key>Persistent ID</key><string>BB9F46247A96A7C3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39099</key>
+		<dict>
+			<key>Track ID</key><integer>39099</integer>
+			<key>Name</key><string>Big Cat Judgement Day</string>
+			<key>Artist</key><string>With Confidence</string>
+			<key>Album Artist</key><string>With Confidence</string>
+			<key>Composer</key><string>Scott McLaughlin, Jose Inigo del Carmen, Joshua Brozzesi &#38; Jayden Seeley</string>
+			<key>Album</key><string>Big Cat Judgement Day - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5914730</integer>
+			<key>Total Time</key><integer>151407</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-03T14:50:19Z</date>
+			<key>Date Added</key><date>2021-04-03T14:50:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3702883341</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:42:21Z</date>
+			<key>Release Date</key><date>2021-03-31T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Cat Judgement Day - Single</string>
+			<key>Sort Artist</key><string>With Confidence</string>
+			<key>Sort Name</key><string>Big Cat Judgement Day</string>
+			<key>Persistent ID</key><string>A419CCB17F72A5B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39111</key>
+		<dict>
+			<key>Track ID</key><integer>39111</integer>
+			<key>Name</key><string>What's Wrong</string>
+			<key>Artist</key><string>half•alive</string>
+			<key>Album Artist</key><string>half•alive</string>
+			<key>Composer</key><string>J. Tyler Johnson, Joshua William Taylor, Brett Kramer, Mark Williams &#38; Raul Cubina</string>
+			<key>Album</key><string>What's Wrong - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6383431</integer>
+			<key>Total Time</key><integer>177187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-04T03:28:17Z</date>
+			<key>Date Added</key><date>2021-04-04T03:28:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3702883189</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:39:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-05T20:01:27Z</date>
+			<key>Release Date</key><date>2021-04-02T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What's Wrong - Single</string>
+			<key>Sort Artist</key><string>half•alive</string>
+			<key>Sort Name</key><string>What's Wrong</string>
+			<key>Persistent ID</key><string>017B468516F72EFE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39132</key>
+		<dict>
+			<key>Track ID</key><integer>39132</integer>
+			<key>Name</key><string>You</string>
+			<key>Artist</key><string>Regard, Troye Sivan &#38; Tate McRae</string>
+			<key>Album Artist</key><string>Regard, Troye Sivan &#38; Tate McRae</string>
+			<key>Composer</key><string>Regard, Troye Sivan, Tate McRae, Koda, Tom Mann, Frederik Castenschiold Eichen &#38; SAKIMA</string>
+			<key>Album</key><string>You - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8246862</integer>
+			<key>Total Time</key><integer>233386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-17T03:57:23Z</date>
+			<key>Date Added</key><date>2021-04-17T03:57:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3702883012</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:36:52Z</date>
+			<key>Release Date</key><date>2021-04-16T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You - Single</string>
+			<key>Sort Artist</key><string>Regard, Troye Sivan &#38; Tate McRae</string>
+			<key>Sort Name</key><string>You</string>
+			<key>Persistent ID</key><string>38A92717D366A9BE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39135</key>
+		<dict>
+			<key>Track ID</key><integer>39135</integer>
+			<key>Name</key><string>South</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Composer</key><string>Hippo Campus</string>
+			<key>Album</key><string>South - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8128175</integer>
+			<key>Total Time</key><integer>231469</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-04-22T03:10:53Z</date>
+			<key>Date Added</key><date>2021-04-22T03:10:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3702882571</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:29:31Z</date>
+			<key>Release Date</key><date>2015-10-02T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>South - EP</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>South</string>
+			<key>Persistent ID</key><string>D3ED3484B999DCC7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39138</key>
+		<dict>
+			<key>Track ID</key><integer>39138</integer>
+			<key>Name</key><string>Doodoodoo</string>
+			<key>Artist</key><string>Curtis Waters</string>
+			<key>Album Artist</key><string>Curtis Waters</string>
+			<key>Composer</key><string>Abhinav Bastakoti</string>
+			<key>Album</key><string>Doodoodoo - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6357504</integer>
+			<key>Total Time</key><integer>173638</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-22T03:27:44Z</date>
+			<key>Date Added</key><date>2021-04-22T03:27:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3702883514</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:45:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-30T21:49:29Z</date>
+			<key>Release Date</key><date>2021-01-20T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Doodoodoo - Single</string>
+			<key>Sort Artist</key><string>Curtis Waters</string>
+			<key>Sort Name</key><string>Doodoodoo</string>
+			<key>Persistent ID</key><string>4E20E7616DBB6200</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39141</key>
+		<dict>
+			<key>Track ID</key><integer>39141</integer>
+			<key>Name</key><string>Chicken</string>
+			<key>Artist</key><string>Your Neighbors</string>
+			<key>Album Artist</key><string>Your Neighbors</string>
+			<key>Composer</key><string>Edward Philip Walker Robinson</string>
+			<key>Album</key><string>Chicken - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7526352</integer>
+			<key>Total Time</key><integer>207849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-04-26T21:28:03Z</date>
+			<key>Date Added</key><date>2021-04-26T21:28:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3702882779</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:32:59Z</date>
+			<key>Release Date</key><date>2018-04-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chicken - Single</string>
+			<key>Sort Artist</key><string>Your Neighbors</string>
+			<key>Sort Name</key><string>Chicken</string>
+			<key>Persistent ID</key><string>8A116355A384B44F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39147</key>
+		<dict>
+			<key>Track ID</key><integer>39147</integer>
+			<key>Name</key><string>Lay It Down</string>
+			<key>Artist</key><string>Steelix</string>
+			<key>Album</key><string>Steelix</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4723773</integer>
+			<key>Total Time</key><integer>188568</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-27T12:57:29Z</date>
+			<key>Date Added</key><date>2021-04-27T00:54:25Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3702708552</integer>
+			<key>Play Date UTC</key><date>2021-05-01T14:09:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-27T13:59:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50605EC833E06282</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>39150</key>
+		<dict>
+			<key>Track ID</key><integer>39150</integer>
+			<key>Name</key><string>Inside Out</string>
+			<key>Artist</key><string>NU'EST</string>
+			<key>Album Artist</key><string>NU'EST</string>
+			<key>Composer</key><string>BUMZU, BAEKHO, G-high (MonoTree), Innerchild (MonoTree), Jay&#38;Rudy, Anchor (PRISMFILTER) &#38; JR</string>
+			<key>Album</key><string>The 2nd Album 'Romanticize'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7063063</integer>
+			<key>Total Time</key><integer>197307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-27T13:59:27Z</date>
+			<key>Date Added</key><date>2021-04-27T13:59:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3702708155</integer>
+			<key>Play Date UTC</key><date>2021-05-01T14:02:35Z</date>
+			<key>Release Date</key><date>2021-04-19T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2nd Album 'Romanticize'</string>
+			<key>Sort Artist</key><string>NU'EST</string>
+			<key>Sort Name</key><string>Inside Out</string>
+			<key>Persistent ID</key><string>21D7B36D24086060</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39153</key>
+		<dict>
+			<key>Track ID</key><integer>39153</integer>
+			<key>Name</key><string>MY TREASURE</string>
+			<key>Artist</key><string>TREASURE</string>
+			<key>Album Artist</key><string>TREASURE</string>
+			<key>Album</key><string>THE FIRST STEP : TREASURE EFFECT</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7010243</integer>
+			<key>Total Time</key><integer>195982</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-29T16:06:17Z</date>
+			<key>Date Added</key><date>2021-04-29T16:06:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3702882340</integer>
+			<key>Play Date UTC</key><date>2021-05-03T14:25:40Z</date>
+			<key>Release Date</key><date>2021-01-11T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FIRST STEP : TREASURE EFFECT</string>
+			<key>Sort Artist</key><string>TREASURE</string>
+			<key>Sort Name</key><string>MY TREASURE</string>
+			<key>Persistent ID</key><string>CA07307E8DE338B2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>1638615</key>
+		<dict>
+			<key>Track ID</key><integer>1638615</integer>
+			<key>Name</key><string>Be Yourself</string>
+			<key>Artist</key><string>CHUNG HA</string>
+			<key>Album Artist</key><string>CHUNG HA</string>
+			<key>Album</key><string>Be Yourself - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7399180</integer>
+			<key>Total Time</key><integer>205187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-05T01:55:31Z</date>
+			<key>Date Added</key><date>2021-05-05T01:55:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3703009610</integer>
+			<key>Play Date UTC</key><date>2021-05-05T01:46:50Z</date>
+			<key>Release Date</key><date>2020-06-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Be Yourself - Single</string>
+			<key>Sort Artist</key><string>CHUNG HA</string>
+			<key>Sort Name</key><string>Be Yourself</string>
+			<key>Persistent ID</key><string>2C40946556F739A5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>58183</integer>
+			<key>Playlist Persistent ID</key><string>48F478A1CDDA2F8F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1638615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37561</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

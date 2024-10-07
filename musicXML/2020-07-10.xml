@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-07-10T13:31:37Z</date>
+	<key>Application Version</key><string>1.0.5.14</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>F8DCF45698080FD9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35078</key>
+		<dict>
+			<key>Track ID</key><integer>35078</integer>
+			<key>Name</key><string>Ya Ya Ya</string>
+			<key>Artist</key><string>EXO</string>
+			<key>Album Artist</key><string>EXO</string>
+			<key>Composer</key><string>Dwayne "Dem Jointz" Abernathy Jr., Ryan S. Jhun, David Brown, Charles Hinshaw, Allen Gordon, Jr., Cheryl Gamble, Tamara Johnson, Andrea Martin &#38; Ivan Matias</string>
+			<key>Album</key><string>OBSESSION - The 6th Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7904910</integer>
+			<key>Total Time</key><integer>222040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-01T15:04:55Z</date>
+			<key>Date Added</key><date>2019-12-01T15:04:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>78</integer>
+			<key>Play Date</key><integer>3677043297</integer>
+			<key>Play Date UTC</key><date>2020-07-08T12:54:57Z</date>
+			<key>Release Date</key><date>2019-11-27T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OBSESSION - The 6th Album</string>
+			<key>Sort Artist</key><string>EXO</string>
+			<key>Sort Name</key><string>Ya Ya Ya</string>
+			<key>Persistent ID</key><string>F63BA320D3F32C81</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>35408</key>
+		<dict>
+			<key>Track ID</key><integer>35408</integer>
+			<key>Name</key><string>Blueberry Faygo</string>
+			<key>Artist</key><string>Lil Mosey</string>
+			<key>Album Artist</key><string>Lil Mosey</string>
+			<key>Composer</key><string>Lathan Echols &#38; Callan Wong</string>
+			<key>Album</key><string>Blueberry Faygo - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5833342</integer>
+			<key>Total Time</key><integer>162547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-02-08T20:52:51Z</date>
+			<key>Date Added</key><date>2020-02-08T20:52:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>83</integer>
+			<key>Play Date</key><integer>3677211666</integer>
+			<key>Play Date UTC</key><date>2020-07-10T11:41:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-03T02:28:05Z</date>
+			<key>Release Date</key><date>2020-02-07T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueberry Faygo - Single</string>
+			<key>Sort Artist</key><string>Lil Mosey</string>
+			<key>Sort Name</key><string>Blueberry Faygo</string>
+			<key>Persistent ID</key><string>587E9F7E3BB4F596</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36514</key>
+		<dict>
+			<key>Track ID</key><integer>36514</integer>
+			<key>Name</key><string>Tinted Eyes (feat. blackbear &#38; 24kGoldn)</string>
+			<key>Artist</key><string>DVBBS</string>
+			<key>Album Artist</key><string>DVBBS</string>
+			<key>Composer</key><string>Golden Landis Von Jones, Benjamin Shubert, Christopher van den Hoef, Andrew Bullimore, Christian Michael Dold, Alexandre van den Hoef &#38; Matthew Musto</string>
+			<key>Album</key><string>Tinted Eyes (feat. blackbear &#38; 24kGoldn) - Single</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6273188</integer>
+			<key>Total Time</key><integer>175082</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-06T00:02:30Z</date>
+			<key>Date Added</key><date>2020-06-06T00:02:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3677129344</integer>
+			<key>Play Date UTC</key><date>2020-07-09T12:49:04Z</date>
+			<key>Release Date</key><date>2020-06-05T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tinted Eyes (feat. blackbear &#38; 24kGoldn) - Single</string>
+			<key>Sort Artist</key><string>DVBBS</string>
+			<key>Sort Name</key><string>Tinted Eyes (feat. blackbear &#38; 24kGoldn)</string>
+			<key>Persistent ID</key><string>044ADBD58F388AF1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36624</key>
+		<dict>
+			<key>Track ID</key><integer>36624</integer>
+			<key>Name</key><string>Up From Here</string>
+			<key>Artist</key><string>WayV</string>
+			<key>Album Artist</key><string>WayV</string>
+			<key>Composer</key><string>Candace Sosa, Johan Gustafsson, Pontus Petersson &#38; Jordan Young(pka DJ Swivel)</string>
+			<key>Album</key><string>Awaken The World - The 1st Album</string>
+			<key>Genre</key><string>Mandopop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8958907</integer>
+			<key>Total Time</key><integer>241293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-10T21:42:13Z</date>
+			<key>Date Added</key><date>2020-06-10T21:42:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3677216388</integer>
+			<key>Play Date UTC</key><date>2020-07-10T12:59:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-20T16:31:05Z</date>
+			<key>Release Date</key><date>2020-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Awaken The World - The 1st Album</string>
+			<key>Sort Artist</key><string>WayV</string>
+			<key>Sort Name</key><string>Up From Here</string>
+			<key>Persistent ID</key><string>2BABCE161B5FF930</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37720</key>
+		<dict>
+			<key>Track ID</key><integer>37720</integer>
+			<key>Name</key><string>BLACK PARADE</string>
+			<key>Artist</key><string>Beyoncé</string>
+			<key>Album Artist</key><string>Beyoncé</string>
+			<key>Composer</key><string>Beyoncé, S. Carter, Denisia ""@blu_june" Andrews for @NOVAWAV, Brittany "@chi_coney" Coney for @NOVAWAV, Kim "Kaydence" Krysiuk, Rickie Caso Tice, Akil “fresh” King &#38; Derek James Dixie</string>
+			<key>Album</key><string>BLACK PARADE - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9848951</integer>
+			<key>Total Time</key><integer>281273</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-21T00:35:23Z</date>
+			<key>Date Added</key><date>2020-06-21T00:35:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3677212867</integer>
+			<key>Play Date UTC</key><date>2020-07-10T12:01:07Z</date>
+			<key>Release Date</key><date>2020-06-19T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BLACK PARADE - Single</string>
+			<key>Sort Artist</key><string>Beyoncé</string>
+			<key>Sort Name</key><string>BLACK PARADE</string>
+			<key>Persistent ID</key><string>EAB004E3FC605B49</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>87342</key>
+		<dict>
+			<key>Track ID</key><integer>87342</integer>
+			<key>Name</key><string>WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez &#38; Lil Wayne]</string>
+			<key>Artist</key><string>Jack Harlow</string>
+			<key>Album Artist</key><string>Jack Harlow</string>
+			<key>Composer</key><string>Jack Harlow, Tahj Morgan, Darryl Clemons &#38; John W. Lucas</string>
+			<key>Album</key><string>WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez &#38; Lil Wayne] - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8060421</integer>
+			<key>Total Time</key><integer>227478</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-26T19:12:13Z</date>
+			<key>Date Added</key><date>2020-06-26T19:12:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3677128788</integer>
+			<key>Play Date UTC</key><date>2020-07-09T12:39:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-28T19:10:50Z</date>
+			<key>Release Date</key><date>2020-06-24T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez &#38; Lil Wayne] - Single</string>
+			<key>Sort Artist</key><string>Jack Harlow</string>
+			<key>Sort Name</key><string>WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez &#38; Lil Wayne]</string>
+			<key>Persistent ID</key><string>0E2BC0E64A51D477</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>87399</key>
+		<dict>
+			<key>Track ID</key><integer>87399</integer>
+			<key>Name</key><string>Medusa</string>
+			<key>Artist</key><string>GRiZ &#38; Wreckno</string>
+			<key>Album Artist</key><string>GRiZ &#38; Wreckno</string>
+			<key>Composer</key><string>Grant Kwiecinski &#38; Brandon Wisniski</string>
+			<key>Album</key><string>Medusa - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6978441</integer>
+			<key>Total Time</key><integer>190800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-26T19:34:05Z</date>
+			<key>Date Added</key><date>2020-06-26T19:34:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3676969593</integer>
+			<key>Play Date UTC</key><date>2020-07-07T16:26:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-08T15:31:30Z</date>
+			<key>Release Date</key><date>2020-06-25T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Medusa - Single</string>
+			<key>Sort Artist</key><string>GRiZ &#38; Wreckno</string>
+			<key>Sort Name</key><string>Medusa</string>
+			<key>Persistent ID</key><string>6EEB750814FD10DC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>87411</key>
+		<dict>
+			<key>Track ID</key><integer>87411</integer>
+			<key>Name</key><string>Overkill</string>
+			<key>Artist</key><string>Holly Humberstone</string>
+			<key>Album Artist</key><string>Holly Humberstone</string>
+			<key>Composer</key><string>Holly Ffion Humberstone, Robert James Milton &#38; Benjamin Francis Leftwich</string>
+			<key>Album</key><string>Overkill - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6817371</integer>
+			<key>Total Time</key><integer>186569</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-26T19:40:28Z</date>
+			<key>Date Added</key><date>2020-06-26T19:40:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3677211852</integer>
+			<key>Play Date UTC</key><date>2020-07-10T11:44:12Z</date>
+			<key>Release Date</key><date>2020-06-26T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Overkill - Single</string>
+			<key>Sort Artist</key><string>Holly Humberstone</string>
+			<key>Sort Name</key><string>Overkill</string>
+			<key>Persistent ID</key><string>D357D46A30B33442</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>87437</key>
+		<dict>
+			<key>Track ID</key><integer>87437</integer>
+			<key>Name</key><string>Past Life</string>
+			<key>Artist</key><string>Trevor Daniel &#38; Selena Gomez</string>
+			<key>Album Artist</key><string>Trevor Daniel &#38; Selena Gomez</string>
+			<key>Composer</key><string>Selena Gomez, FINNEAS, Sean Myer, Trevor Daniel Neill, Caroline Pennell, Mick Coogan &#38; Jay Stolar</string>
+			<key>Album</key><string>Past Life - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6571464</integer>
+			<key>Total Time</key><integer>186480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-26T19:56:32Z</date>
+			<key>Date Added</key><date>2020-06-26T19:56:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3677212247</integer>
+			<key>Play Date UTC</key><date>2020-07-10T11:50:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-03T14:03:43Z</date>
+			<key>Release Date</key><date>2020-06-26T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Past Life - Single</string>
+			<key>Sort Artist</key><string>Trevor Daniel &#38; Selena Gomez</string>
+			<key>Sort Name</key><string>Past Life</string>
+			<key>Persistent ID</key><string>6BD2CF3DE7F4B72B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>88484</key>
+		<dict>
+			<key>Track ID</key><integer>88484</integer>
+			<key>Name</key><string>Cherry Pie (feat. Pharrell Williams)</string>
+			<key>Artist</key><string>Buju Banton</string>
+			<key>Album Artist</key><string>Buju Banton</string>
+			<key>Composer</key><string>Pharrell Williams, MARK ANTHONY MYRIE, Chad Hugo, Markeemo Myrie, Jermaine Reid &#38; Roger Mitchell</string>
+			<key>Album</key><string>Upside Down 2020</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7652614</integer>
+			<key>Total Time</key><integer>215621</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-28T01:42:50Z</date>
+			<key>Date Added</key><date>2020-06-28T01:42:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3677212585</integer>
+			<key>Play Date UTC</key><date>2020-07-10T11:56:25Z</date>
+			<key>Release Date</key><date>2020-06-26T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Upside Down 2020</string>
+			<key>Sort Artist</key><string>Buju Banton</string>
+			<key>Sort Name</key><string>Cherry Pie (feat. Pharrell Williams)</string>
+			<key>Persistent ID</key><string>924798ECCEB31A32</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>89216</key>
+		<dict>
+			<key>Track ID</key><integer>89216</integer>
+			<key>Name</key><string>Back It Up (feat. Flo Milli)</string>
+			<key>Artist</key><string>Trap Beckham</string>
+			<key>Album Artist</key><string>Trap Beckham</string>
+			<key>Album</key><string>Back It Up (feat. Flo Milli) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6574421</integer>
+			<key>Total Time</key><integer>185318</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-28T22:44:08Z</date>
+			<key>Date Added</key><date>2020-06-28T22:44:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3677213052</integer>
+			<key>Play Date UTC</key><date>2020-07-10T12:04:12Z</date>
+			<key>Release Date</key><date>2020-02-28T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back It Up (feat. Flo Milli) - Single</string>
+			<key>Sort Artist</key><string>Trap Beckham</string>
+			<key>Sort Name</key><string>Back It Up (feat. Flo Milli)</string>
+			<key>Persistent ID</key><string>15591DD0F9DE3C04</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>92442</key>
+		<dict>
+			<key>Track ID</key><integer>92442</integer>
+			<key>Name</key><string>Things I Never Said</string>
+			<key>Artist</key><string>JORDY</string>
+			<key>Album Artist</key><string>JORDY</string>
+			<key>Composer</key><string>Jordan Shulman, Ionut Madalin Rosioru, Emily Kocontes, Erik Frank Tchatchoua &#38; Stefan Roscovan</string>
+			<key>Album</key><string>Better By Myself - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6113420</integer>
+			<key>Total Time</key><integer>168235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-02T02:38:41Z</date>
+			<key>Date Added</key><date>2020-07-02T02:38:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3677159219</integer>
+			<key>Play Date UTC</key><date>2020-07-09T21:06:59Z</date>
+			<key>Release Date</key><date>2020-06-26T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Better By Myself - EP</string>
+			<key>Sort Artist</key><string>JORDY</string>
+			<key>Sort Name</key><string>Things I Never Said</string>
+			<key>Persistent ID</key><string>E79DA40370560437</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>111778</key>
+		<dict>
+			<key>Track ID</key><integer>111778</integer>
+			<key>Name</key><string>All Hands On Deck (Giraffage Remix)</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Composer</key><string>N/A, Tinashe, Mikkel S. Eriksen, Tor Erik Hermansen, Magnus August Hoiberg &#38; Bleta Rexha</string>
+			<key>Album</key><string>All Hands On Deck (Giraffage Remix) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6916710</integer>
+			<key>Total Time</key><integer>191511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2020-07-03T14:01:08Z</date>
+			<key>Date Added</key><date>2020-07-03T14:01:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3677212061</integer>
+			<key>Play Date UTC</key><date>2020-07-10T11:47:41Z</date>
+			<key>Release Date</key><date>2015-05-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All Hands On Deck (Giraffage Remix) - Single</string>
+			<key>Sort Artist</key><string>Tinashe</string>
+			<key>Sort Name</key><string>All Hands On Deck (Giraffage Remix)</string>
+			<key>Persistent ID</key><string>D60FCC5375DF04A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112717</key>
+		<dict>
+			<key>Track ID</key><integer>112717</integer>
+			<key>Name</key><string>Mahogany</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Album Artist</key><string>Lil Wayne</string>
+			<key>Composer</key><string>Dwayne Carter, Byron Thomas, Jeremy Fedryk, David Jackson &#38; Eryn Allen Kane</string>
+			<key>Album</key><string>Funeral (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6432673</integer>
+			<key>Total Time</key><integer>177867</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T16:06:50Z</date>
+			<key>Date Added</key><date>2020-07-03T16:06:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3676967790</integer>
+			<key>Play Date UTC</key><date>2020-07-07T15:56:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-06T17:16:58Z</date>
+			<key>Release Date</key><date>2020-01-31T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Funeral (Deluxe)</string>
+			<key>Sort Artist</key><string>Lil Wayne</string>
+			<key>Sort Name</key><string>Mahogany</string>
+			<key>Persistent ID</key><string>9291F07BD770B7ED</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113209</key>
+		<dict>
+			<key>Track ID</key><integer>113209</integer>
+			<key>Name</key><string>West Ten</string>
+			<key>Artist</key><string>AJ Tracey &#38; Mabel</string>
+			<key>Album Artist</key><string>AJ Tracey &#38; Mabel</string>
+			<key>Composer</key><string>AJ Tracey, Mabel, F/red, KAMILLE &#38; Take A Daytrip</string>
+			<key>Album</key><string>West Ten - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7598907</integer>
+			<key>Total Time</key><integer>213692</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T16:52:51Z</date>
+			<key>Date Added</key><date>2020-07-03T16:52:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3677129002</integer>
+			<key>Play Date UTC</key><date>2020-07-09T12:43:22Z</date>
+			<key>Release Date</key><date>2020-07-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>West Ten - Single</string>
+			<key>Sort Artist</key><string>AJ Tracey &#38; Mabel</string>
+			<key>Sort Name</key><string>West Ten</string>
+			<key>Persistent ID</key><string>5E32CF89048E7971</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113371</key>
+		<dict>
+			<key>Track ID</key><integer>113371</integer>
+			<key>Name</key><string>Head &#38; Heart (feat. MNEK)</string>
+			<key>Artist</key><string>Joel Corry</string>
+			<key>Album Artist</key><string>Joel Corry</string>
+			<key>Album</key><string>Head &#38; Heart (feat. MNEK) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6020923</integer>
+			<key>Total Time</key><integer>166028</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T17:04:45Z</date>
+			<key>Date Added</key><date>2020-07-03T17:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3676970378</integer>
+			<key>Play Date UTC</key><date>2020-07-07T16:39:38Z</date>
+			<key>Release Date</key><date>2020-07-03T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head &#38; Heart (feat. MNEK) - Single</string>
+			<key>Sort Artist</key><string>Joel Corry</string>
+			<key>Sort Name</key><string>Head &#38; Heart (feat. MNEK)</string>
+			<key>Persistent ID</key><string>7747173C056068C7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>129185</key>
+		<dict>
+			<key>Track ID</key><integer>129185</integer>
+			<key>Name</key><string>Lingo Starr: RETURN of the DRAGON</string>
+			<key>Artist</key><string>tobi lou</string>
+			<key>Album Artist</key><string>tobi lou</string>
+			<key>Composer</key><string>tobi lou &#38; Noa James</string>
+			<key>Album</key><string>Lingo Starr - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4568837</integer>
+			<key>Total Time</key><integer>122156</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-06T15:14:28Z</date>
+			<key>Date Added</key><date>2020-07-06T15:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3677212370</integer>
+			<key>Play Date UTC</key><date>2020-07-10T11:52:50Z</date>
+			<key>Release Date</key><date>2020-07-03T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lingo Starr - Single</string>
+			<key>Sort Artist</key><string>tobi lou</string>
+			<key>Sort Name</key><string>Lingo Starr: RETURN of the DRAGON</string>
+			<key>Persistent ID</key><string>079BD10AA854E2FC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>84773</integer>
+			<key>Playlist Persistent ID</key><string>B653AA145AEACFC4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36624</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>92442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>88484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>89216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35078</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111778</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129185</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-05-14T11:22:37Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11611</key>
+		<dict>
+			<key>Track ID</key><integer>11611</integer>
+			<key>Name</key><string>First ...and Then</string>
+			<key>Artist</key><string>Handsome Boy Modeling School</string>
+			<key>Album</key><string>White People: Instrumental</string>
+			<key>Genre</key><string>Pop, Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4153692</integer>
+			<key>Total Time</key><integer>259448</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-07-19T15:58:19Z</date>
+			<key>Date Added</key><date>2010-06-17T12:14:11Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3419752726</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:18:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-12T11:44:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3766</integer>
+			<key>Persistent ID</key><string>4365062C04774065</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Handsome%20Boy%20Modeling%20School%20-%20First%20...and%20Then.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12267</key>
+		<dict>
+			<key>Track ID</key><integer>12267</integer>
+			<key>Name</key><string>Mai Ya Tang</string>
+			<key>Artist</key><string>Jay Chou</string>
+			<key>Album</key><string>November's Chopin</string>
+			<key>Genre</key><string>R&#38;B </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6241390</integer>
+			<key>Total Time</key><integer>260336</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-19T15:57:16Z</date>
+			<key>Date Added</key><date>2010-06-17T12:14:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>#aznmp3@irc.rizon.net</string>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3419752986</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:23:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-05-12T05:09:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5824</integer>
+			<key>Persistent ID</key><string>8F57B04A8B8B45D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jay%20Chou%20-%20November's%20Chopin%20%5B192kbps%5D/09%20Mai%20Ya%20Tang.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14533</key>
+		<dict>
+			<key>Track ID</key><integer>14533</integer>
+			<key>Name</key><string>Hindi Sad Diamonds</string>
+			<key>Artist</key><string>Nicole Kidman &#38; John Leguizamo ft. Alka Yagnik</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4231168</integer>
+			<key>Total Time</key><integer>210155</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2008-07-19T15:54:27Z</date>
+			<key>Date Added</key><date>2010-06-17T12:19:43Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3419753337</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:28:57Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2012-05-12T05:03:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11534</integer>
+			<key>Persistent ID</key><string>2069B55269EB3F56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Nicole%20Kidman%20&#38;%20John%20Leguizamo%20ft.%20Alka%20Yagnik%20-%20Hindi%20Sad%20Diamonds.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28027</key>
+		<dict>
+			<key>Track ID</key><integer>28027</integer>
+			<key>Name</key><string>If</string>
+			<key>Artist</key><string>Janet Jackson</string>
+			<key>Album</key><string>Number Ones</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7592965</integer>
+			<key>Total Time</key><integer>272195</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-19T15:06:49Z</date>
+			<key>Date Added</key><date>2010-06-17T12:55:51Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3419751931</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:05:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6C712BD65E313561</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Janet.Jackson.-.Number.Ones.2CDs.(2009).LanzaMp3.CoM/201-janet_jackson-if.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32525</key>
+		<dict>
+			<key>Track ID</key><integer>32525</integer>
+			<key>Name</key><string>Gotta Have It</string>
+			<key>Artist</key><string>Jay-Z and Kanye West</string>
+			<key>Album Artist</key><string>Jay-Z and Kanye West (Deluxe Version)</string>
+			<key>Composer</key><string>Kanye West, Shawn Carter, Pharrell Williams, James Brown, Joseph Roach, Tony Pinckney &#38; Fred Wesley</string>
+			<key>Album</key><string>Watch the Throne  (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5731191</integer>
+			<key>Total Time</key><integer>140736</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-29T19:57:37Z</date>
+			<key>Date Added</key><date>2011-08-29T20:05:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>www.RapGodFathers.info
+twitter.com/RapGodFathers</string>
+			<key>Play Count</key><integer>92</integer>
+			<key>Play Date</key><integer>3419753127</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:25:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-04T17:23:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B05B4873845E607</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jay-Z%20and%20Kanye%20West%20-%20Watch%20the%20Throne%20(Deluxe%20Version)%20(RapGodFathers.info)/04-Jay-Z%20and%20Kanye%20West%20-%20Gotta%20Have%20It-RGF.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499270</key>
+		<dict>
+			<key>Track ID</key><integer>499270</integer>
+			<key>Name</key><string>Run Rumspringa</string>
+			<key>Artist</key><string>Alex Winston</string>
+			<key>Album</key><string>King Con </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8482318</integer>
+			<key>Total Time</key><integer>211800</integer>
+			<key>Date Modified</key><date>2012-04-24T00:44:02Z</date>
+			<key>Date Added</key><date>2012-04-22T15:09:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3419669904</integer>
+			<key>Play Date UTC</key><date>2012-05-12T17:18:24Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2012-05-10T02:41:12Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>34CBF82C1D30FE1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Alex%20Winston-King%20Con%20(2012)%20320Kbit(mp3)%20DMT/11%20-%20Run%20Rumspringa.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781676</key>
+		<dict>
+			<key>Track ID</key><integer>2781676</integer>
+			<key>Name</key><string>Abracadabra</string>
+			<key>Artist</key><string>Brown Eyed Girls</string>
+			<key>Album Artist</key><string>브라운아이드걸스</string>
+			<key>Album</key><string>Sound G.</string>
+			<key>Genre</key><string>KPop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7369368</integer>
+			<key>Total Time</key><integer>182282</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2012-05-07T01:22:14Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3419669691</integer>
+			<key>Play Date UTC</key><date>2012-05-12T17:14:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-08T13:47:47Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B91470DC7FD1D64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Brown%20Eyed%20Girls%20-%20Abracadabra.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781749</key>
+		<dict>
+			<key>Track ID</key><integer>2781749</integer>
+			<key>Name</key><string>Every Single Night</string>
+			<key>Artist</key><string>Fiona Apple</string>
+			<key>Album Artist</key><string>Fiona Apple</string>
+			<key>Composer</key><string>george.ortha@ferialaw.com Feria Tantoco Robeniol Law Offices 09228750275 09209517019 orcullo.ii.tanya.cabbab.enzo.gio.iana Demonoid</string>
+			<key>Album</key><string>Every Single Night</string>
+			<key>Grouping</key><string>george.ortha@ferialaw.com Feria Tantoco Robeniol Law Offices 09228750275 09209517019 orcullo.ii.tanya.cabbab.enzo.gio.iana Demonoid</string>
+			<key>Genre</key><string>george.ortha@ferialaw.com Feria Tantoco Robeniol Law Offices 09228750275 09209517019 orcullo.ii.tanya.cabbab.enzo.gio.iana Demonoid</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5484536</integer>
+			<key>Total Time</key><integer>212297</integer>
+			<key>Stop Time</key><integer>208000</integer>
+			<key>Date Modified</key><date>2012-05-13T16:33:02Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:51Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>george.ortha@ferialaw.com Feria Tantoco Robeniol Law Offices 09228750275 09209517019 orcullo.ii.tanya.cabbab.enzo.gio.iana Demonoid</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3419753550</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:32:30Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2012-05-12T17:22:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B42727B8D221562D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Fiona%20Apple%20-%20Every%20Single%20Night%20george.ortha@ferialaw.com%20Feria%20Tantoco%20Robeniol%20Law%20Offices%2009228750275%2009209517019%20orcullo.ii.tanya.cabbab.enzo.gio.iana%20Demonoid/Fiona%20Apple%20-%20Every%20Single%20Night%20george.ortha@ferialaw.com%20Feria%20Tantoco%20Robeniol%20Law%20Offices%2009228750275%2009209517019%20orcullo.ii.tanya.cabbab.enzo.gio.iana%20Demonoid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781755</key>
+		<dict>
+			<key>Track ID</key><integer>2781755</integer>
+			<key>Name</key><string>I DON'T LIKE (RMX)</string>
+			<key>Artist</key><string>Kanye West Ft. Pusha T, Chief Keef, Big Sean, Jadakiss</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Album</key><string>I DON'T LIKE (RMX)</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11382417</integer>
+			<key>Total Time</key><integer>283689</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-07T01:03:42Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>pusha t, chief keef, big sean, jadakiss </string>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3419751659</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:00:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-08T13:53:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53579248E6DFB47D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kanye%20West%20Ft_%20Pusha%20T_%20Chief%20Keef_%20Big%20Sean_%20Jadakiss%20--%20I%20DON_T%20LIKE%20(RMX).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781767</key>
+		<dict>
+			<key>Track ID</key><integer>2781767</integer>
+			<key>Name</key><string>What U Want</string>
+			<key>Artist</key><string>Kenna</string>
+			<key>Album</key><string>Land 2 Air Chronicles I (Chaos &#38; The Darkness)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6169296</integer>
+			<key>Total Time</key><integer>204382</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-05-07T01:16:07Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:51Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Enjoy! | www.d-fiend.com</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3419752467</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:14:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4BC60D8EEF291F76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kenna_Land_2_Air_Chronicles_I_Chaos_and_The_Darkness/03-kenna-what_u_want.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781812</key>
+		<dict>
+			<key>Track ID</key><integer>2781812</integer>
+			<key>Name</key><string>I Wonder Who She's Kissing Now</string>
+			<key>Artist</key><string>TV Girl</string>
+			<key>Album</key><string>The Wild, The Innocent, The TV Shuffle</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4459164</integer>
+			<key>Total Time</key><integer>172068</integer>
+			<key>Date Modified</key><date>2012-05-07T01:59:23Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3419753721</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:35:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8842</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wild, The Innocent, The TV Shuffle</string>
+			<key>Persistent ID</key><string>88D61BC58752E7F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/TV%20Girl%20-%20I%20Wonder%20Who%20Shes%20Kissing%20Now.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781836</key>
+		<dict>
+			<key>Track ID</key><integer>2781836</integer>
+			<key>Name</key><string>Fading Flower (Produced By Andre Harris &#38; Guy Sebastian)</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album</key><string>Yuna</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5554617</integer>
+			<key>Total Time</key><integer>196571</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-07T01:42:17Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:52Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3419655562</integer>
+			<key>Play Date UTC</key><date>2012-05-12T13:19:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-12T17:29:35Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>70EA36792468758E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yuna-Yuna-2012-C4/09-yuna-fading_flower_(produced_by_andre_harris_and_guy_sebastian).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2781839</key>
+		<dict>
+			<key>Track ID</key><integer>2781839</integer>
+			<key>Name</key><string>See You Go (Produced By Pharrell)</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album</key><string>Yuna</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7130141</integer>
+			<key>Total Time</key><integer>247118</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-07T01:42:22Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:52Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3419752317</integer>
+			<key>Play Date UTC</key><date>2012-05-13T16:11:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-08T13:47:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B67C39C12DA3905E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yuna-Yuna-2012-C4/10-yuna-see_you_go_(produced_by_pharrell).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>80929</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2781812</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2781839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2781676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2781749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2781755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2781767</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2781836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28027</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

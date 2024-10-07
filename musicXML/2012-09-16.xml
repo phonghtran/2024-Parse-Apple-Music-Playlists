@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-09-16T21:36:27Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>23733</key>
+		<dict>
+			<key>Track ID</key><integer>23733</integer>
+			<key>Name</key><string>Sunday Morning</string>
+			<key>Artist</key><string>Maroon5</string>
+			<key>Album</key><string>Songs About Jane</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5911074</integer>
+			<key>Total Time</key><integer>246204</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2008-07-19T15:55:47Z</date>
+			<key>Date Added</key><date>2010-06-17T12:35:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3430594181</integer>
+			<key>Play Date UTC</key><date>2012-09-16T03:49:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4954</integer>
+			<key>Persistent ID</key><string>14B9E356A1271588</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Maroon5%20-%20Sunday%20Morning.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31241</key>
+		<dict>
+			<key>Track ID</key><integer>31241</integer>
+			<key>Name</key><string>Cold Water</string>
+			<key>Artist</key><string>Lulu &#38; The Lampshades</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5939822</integer>
+			<key>Total Time</key><integer>194377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T05:14:31Z</date>
+			<key>Date Added</key><date>2011-06-01T06:29:03Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3430593923</integer>
+			<key>Play Date UTC</key><date>2012-09-16T03:45:23Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-09-16T03:50:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F67A514DB103F370</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/29%20-%20Lulu%20&#38;%20The%20Lampshades%20-%20Cold%20Water.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31571</key>
+		<dict>
+			<key>Track ID</key><integer>31571</integer>
+			<key>Name</key><string>I Don't Wanna Care Right Now Ft. MDMA (Produced By The Audibles)</string>
+			<key>Artist</key><string>Lupe Fiasco</string>
+			<key>Album</key><string>Lasers</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6045673</integer>
+			<key>Total Time</key><integer>255738</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-29T20:41:10Z</date>
+			<key>Date Added</key><date>2011-06-29T20:40:46Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://mp3ville.blogspot.com/</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3430593542</integer>
+			<key>Play Date UTC</key><date>2012-09-16T03:39:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-06-23T20:42:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E623303444752859</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Lupe%20Fiasco-%20Lasers%20(Deluxe%20Edition)%20%5BNew%202011%5D-%20Mp3ViLLe/04-lupe_fiasco-i_dont_wanna_care_right_now_ft._mdma_(produced_by_the_audibles).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33423</key>
+		<dict>
+			<key>Track ID</key><integer>33423</integer>
+			<key>Name</key><string>The XX Gon Give It To Ya [DMX x The XX]</string>
+			<key>Artist</key><string>The Hood Internet</string>
+			<key>Album</key><string>The Mixtape Volume Five</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5633036</integer>
+			<key>Total Time</key><integer>138031</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-04T01:27:46Z</date>
+			<key>Date Added</key><date>2011-11-28T00:24:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>thehoodinternet.com</string>
+			<key>Play Count</key><integer>65</integer>
+			<key>Play Date</key><integer>3430579021</integer>
+			<key>Play Date UTC</key><date>2012-09-15T23:37:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-09-16T03:50:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4442</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mixtape Volume Five</string>
+			<key>Sort Artist</key><string>Hood Internet</string>
+			<key>Sort Name</key><string>XX Gon Give It To Ya [DMX x The XX]</string>
+			<key>Persistent ID</key><string>4EC6BAB7AF48F6A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/hood_internet_mixtape_five/29%20The%20XX%20Gon%20Give%20It%20To%20Ya%20%5BDMX%20x%20The%20XX%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34845</key>
+		<dict>
+			<key>Track ID</key><integer>34845</integer>
+			<key>Name</key><string>It's Alive !</string>
+			<key>Artist</key><string>Chill Bump</string>
+			<key>Album</key><string>Back To The Grain</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7924786</integer>
+			<key>Total Time</key><integer>192052</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-05T02:18:58Z</date>
+			<key>Date Added</key><date>2012-04-05T02:59:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://chillbump.bandcamp.com</string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3430578358</integer>
+			<key>Play Date UTC</key><date>2012-09-15T23:25:58Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E928534575E4957E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/Rizzle%20Kicks%20-%20Stereo%20Typical%20+%20Bonus%20Tracks%20(2011)/06%20Its%20Alive%20.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36627</key>
+		<dict>
+			<key>Track ID</key><integer>36627</integer>
+			<key>Name</key><string>Wide Awake for the Finale (Madeon x Katy Perry)</string>
+			<key>Artist</key><string>TeeTs</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8233602</integer>
+			<key>Total Time</key><integer>205505</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-20T03:16:41Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EARMILK.COM</string>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3430578883</integer>
+			<key>Play Date UTC</key><date>2012-09-15T23:34:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-09-16T03:50:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67FB175382AE68B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Madeon-x-Katy-Perry---Wide-Awake-for-the-Finale-(TeeTs-Mashup)--EM0712.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36709</key>
+		<dict>
+			<key>Track ID</key><integer>36709</integer>
+			<key>Name</key><string>Octopus</string>
+			<key>Artist</key><string>Bloc Party</string>
+			<key>Album Artist</key><string>Bloc Party</string>
+			<key>Album</key><string>Four (Deluxe Edition)</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7458773</integer>
+			<key>Total Time</key><integer>186000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-09-05T04:55:56Z</date>
+			<key>Date Added</key><date>2012-09-07T13:00:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>### kat.ph ###</string>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3430593728</integer>
+			<key>Play Date UTC</key><date>2012-09-16T03:42:08Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4CB8893A26CED58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Bloc%20Party%20-%20Four%20%5BDeluxe%5D%202012/Four/03%20Octopus.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36721</key>
+		<dict>
+			<key>Track ID</key><integer>36721</integer>
+			<key>Name</key><string>One of a Kind</string>
+			<key>Artist</key><string>G-Dragon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8350006</integer>
+			<key>Total Time</key><integer>208488</integer>
+			<key>Date Modified</key><date>2012-09-05T21:10:45Z</date>
+			<key>Date Added</key><date>2012-09-07T13:00:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3430572122</integer>
+			<key>Play Date UTC</key><date>2012-09-15T21:42:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>536CBC79427D0000</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/G-DRAGON%20-%20ONE%20OF%20A%20KIND.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36761</key>
+		<dict>
+			<key>Track ID</key><integer>36761</integer>
+			<key>Name</key><string>Second Hand</string>
+			<key>Artist</key><string>We Were Evergreen</string>
+			<key>Album Artist</key><string>We Were Evergreen</string>
+			<key>Composer</key><string>michael liot, Fabienne Débarre &#38; William Serfass</string>
+			<key>Album</key><string>Baby Blue - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8775279</integer>
+			<key>Total Time</key><integer>242000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-09-11T04:00:36Z</date>
+			<key>Date Added</key><date>2012-09-11T04:00:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3430593279</integer>
+			<key>Play Date UTC</key><date>2012-09-16T03:34:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-09-16T03:50:19Z</date>
+			<key>Release Date</key><date>2012-06-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3868</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72DD97FE6303CC6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/Phong/Music/iTunes/iTunes%20Music/We%20Were%20Evergreen/Baby%20Blue%20-%20Single/02%20Second%20Hand.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>36777</key>
+		<dict>
+			<key>Track ID</key><integer>36777</integer>
+			<key>Name</key><string>For Youth</string>
+			<key>Artist</key><string>Coast Jumper</string>
+			<key>Album</key><string>Grand Opening</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13392549</integer>
+			<key>Total Time</key><integer>314435</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-09-11T09:20:08Z</date>
+			<key>Date Added</key><date>2012-09-11T04:39:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://coastjumper.com</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3430577920</integer>
+			<key>Play Date UTC</key><date>2012-09-15T23:18:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-09-13T20:29:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BE613A2CCFD7DD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Coast%20Jumper%20-%20Grand%20Opening/Coast%20Jumper%20-%20Grand%20Opening%20-%2002%20For%20Youth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>36801</key>
+		<dict>
+			<key>Track ID</key><integer>36801</integer>
+			<key>Name</key><string>Top Down</string>
+			<key>Artist</key><string>Marijuana Deathsquads</string>
+			<key>Album</key><string>Tamper, Disable, Destroy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8145034</integer>
+			<key>Total Time</key><integer>200672</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-09-07T16:00:48Z</date>
+			<key>Date Added</key><date>2012-09-12T12:36:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3430580609</integer>
+			<key>Play Date UTC</key><date>2012-09-16T00:03:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2263</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E03C10C13CBC2965</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/MDS_TamperDisableDestroy/04%20Top%20Down%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83854</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23733</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

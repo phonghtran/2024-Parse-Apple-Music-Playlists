@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:44:15Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>30855</key>
+		<dict>
+			<key>Track ID</key><integer>30855</integer>
+			<key>Name</key><string>Voice Yr Choice</string>
+			<key>Artist</key><string>The Go! Team</string>
+			<key>Album</key><string>Rolling Blackouts - mu-sique.com</string>
+			<key>Genre</key><string>µ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7710648</integer>
+			<key>Total Time</key><integer>214800</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-07T05:38:09Z</date>
+			<key>Date Added</key><date>2011-05-07T06:36:39Z</date>
+			<key>Bit Rate</key><integer>286</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>mu-sique.com</string>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3405793275</integer>
+			<key>Play Date UTC</key><date>2011-12-04T03:41:15Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-11-20T21:46:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Go! Team</string>
+			<key>Persistent ID</key><string>42E6001F9F22AB3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/go%20team%20-%20%20Voice%20Yr%20Choice.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30869</key>
+		<dict>
+			<key>Track ID</key><integer>30869</integer>
+			<key>Name</key><string>Night by Night (NEUS 'Dubstep' Remix)</string>
+			<key>Artist</key><string>Chromeo</string>
+			<key>Album</key><string>NEUS Remixes</string>
+			<key>Genre</key><string>Electronic, World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8919992</integer>
+			<key>Total Time</key><integer>222902</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-07T06:28:00Z</date>
+			<key>Date Added</key><date>2011-05-07T06:36:40Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3407783190</integer>
+			<key>Play Date UTC</key><date>2011-12-27T04:26:30Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-12-18T07:21:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4C4EF48345F7015</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Chromeo--Night_by_Night_NEUS_Dubstep_Remix.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30877</key>
+		<dict>
+			<key>Track ID</key><integer>30877</integer>
+			<key>Name</key><string>Tattooed (Jordin Sparks vs The Ceasars)</string>
+			<key>Artist</key><string>Divide &#38; Kreate</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7149150</integer>
+			<key>Total Time</key><integer>223346</integer>
+			<key>Date Modified</key><date>2011-05-10T06:13:19Z</date>
+			<key>Date Added</key><date>2011-05-10T06:24:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>The Ceasars 'Sort it out'
+vs
+Jordin Sparks 'Tattoo'</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3404621459</integer>
+			<key>Play Date UTC</key><date>2011-11-20T14:10:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-22T18:50:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2553535D2300C4C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/divide%20&#38;%20kreate/Divide_&#38;_Kreate_-_Tattooed.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30909</key>
+		<dict>
+			<key>Track ID</key><integer>30909</integer>
+			<key>Name</key><string>Sju sorger</string>
+			<key>Artist</key><string>Veronica Maggio</string>
+			<key>Composer</key><string>DONAR</string>
+			<key>Album</key><string>Satan i gatan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9535557</integer>
+			<key>Total Time</key><integer>237453</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:10:15Z</date>
+			<key>Date Added</key><date>2011-05-13T17:01:29Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3406704122</integer>
+			<key>Play Date UTC</key><date>2011-12-14T16:42:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-06-28T23:36:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D5061F8BA4C4060</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Veronica%20Maggio%20-%202011%20-%20Satan%20i%20gatan/09%20Veronica%20Maggio-Sju%20sorger.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30949</key>
+		<dict>
+			<key>Track ID</key><integer>30949</integer>
+			<key>Name</key><string>Stutter (Feat. Mystikal)</string>
+			<key>Artist</key><string>Joe</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5485580</integer>
+			<key>Total Time</key><integer>214883</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-05-25T15:11:45Z</date>
+			<key>Date Added</key><date>2011-05-25T15:12:05Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com</string>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3402890633</integer>
+			<key>Play Date UTC</key><date>2011-10-31T13:23:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-06T18:33:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>384E27EF9DF4EF5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/08-joe-stutter_(feat._mystikal).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30957</key>
+		<dict>
+			<key>Track ID</key><integer>30957</integer>
+			<key>Name</key><string>1,000 Ships</string>
+			<key>Artist</key><string>Rachel Platten</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6676216</integer>
+			<key>Total Time</key><integer>200933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:08Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:02Z</date>
+			<key>Bit Rate</key><integer>264</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3402549483</integer>
+			<key>Play Date UTC</key><date>2011-10-27T14:38:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>63600C3706DA7AD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/02%20-%20Rachel%20Platten%20-%201,000%20Ships.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30977</key>
+		<dict>
+			<key>Track ID</key><integer>30977</integer>
+			<key>Name</key><string>Balloon</string>
+			<key>Artist</key><string>Echo And The Empress</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6405811</integer>
+			<key>Total Time</key><integer>191111</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:20Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:03Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3406764079</integer>
+			<key>Play Date UTC</key><date>2011-12-15T09:21:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-06-24T17:04:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>41757D8D9276C8A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/16%20-%20Echo%20And%20The%20Empress%20-%20Balloon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30981</key>
+		<dict>
+			<key>Track ID</key><integer>30981</integer>
+			<key>Name</key><string>Beautiful Trash</string>
+			<key>Artist</key><string>Lanu</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5957598</integer>
+			<key>Total Time</key><integer>204773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:22Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:03Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3408351474</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:17:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-08-09T23:56:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7DB5A66798137653</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/18%20-%20Lanu%20-%20Beautiful%20Trash.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31009</key>
+		<dict>
+			<key>Track ID</key><integer>31009</integer>
+			<key>Name</key><string>Dressed Sharply</string>
+			<key>Artist</key><string>An Horse</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7544115</integer>
+			<key>Total Time</key><integer>208613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>36</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:37Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>287</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3405336040</integer>
+			<key>Play Date UTC</key><date>2011-11-28T20:40:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-10-31T21:50:11Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Horse</string>
+			<key>Persistent ID</key><string>4D4B759208BE8FCD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/36%20-%20An%20Horse%20-%20Dressed%20Sharply.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31013</key>
+		<dict>
+			<key>Track ID</key><integer>31013</integer>
+			<key>Name</key><string>Expanding Anyway</string>
+			<key>Artist</key><string>Morning Teleportation</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7485439</integer>
+			<key>Total Time</key><integer>221831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>38</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:39Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3401740596</integer>
+			<key>Play Date UTC</key><date>2011-10-18T05:56:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-06-23T22:51:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D77B9C15ED72F05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/38%20-%20Morning%20Teleportation%20-%20Expanding%20Anyway.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31023</key>
+		<dict>
+			<key>Track ID</key><integer>31023</integer>
+			<key>Name</key><string>Good Day</string>
+			<key>Artist</key><string>The Gaddabouts</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3993508</integer>
+			<key>Total Time</key><integer>144901</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>43</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:43Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3399356247</integer>
+			<key>Play Date UTC</key><date>2011-09-20T15:37:27Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Gaddabouts</string>
+			<key>Persistent ID</key><string>D4375DB4B1CEEEBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/43%20-%20The%20Gaddabouts%20-%20Good%20Day.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31027</key>
+		<dict>
+			<key>Track ID</key><integer>31027</integer>
+			<key>Name</key><string>Helena Beat</string>
+			<key>Artist</key><string>Foster The People</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8763939</integer>
+			<key>Total Time</key><integer>275200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>47</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:46Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3403496395</integer>
+			<key>Play Date UTC</key><date>2011-11-07T13:39:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>082C5404BD128932</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/47%20-%20Foster%20The%20People%20-%20Helena%20Beat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31033</key>
+		<dict>
+			<key>Track ID</key><integer>31033</integer>
+			<key>Name</key><string>I Need Your Mind</string>
+			<key>Artist</key><string>Singing Adams</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9140584</integer>
+			<key>Total Time</key><integer>285152</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>52</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:50Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:05Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3391168472</integer>
+			<key>Play Date UTC</key><date>2011-06-17T21:14:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-21T06:10:12Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4DFA2F1560A31222</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/52%20-%20Singing%20Adams%20-%20I%20Need%20Your%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31039</key>
+		<dict>
+			<key>Track ID</key><integer>31039</integer>
+			<key>Name</key><string>Ivaloo</string>
+			<key>Artist</key><string>The Submarines</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8635126</integer>
+			<key>Total Time</key><integer>254511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>56</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:53Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:05Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3392122447</integer>
+			<key>Play Date UTC</key><date>2011-06-28T22:14:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-31T21:50:27Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Submarines</string>
+			<key>Persistent ID</key><string>BDDB07A4320512E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/56%20-%20The%20Submarines%20-%20Ivaloo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31047</key>
+		<dict>
+			<key>Track ID</key><integer>31047</integer>
+			<key>Name</key><string>Lions In Cages</string>
+			<key>Artist</key><string>Wolf Gang</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8689198</integer>
+			<key>Total Time</key><integer>261694</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>62</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:58Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:05Z</date>
+			<key>Bit Rate</key><integer>264</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3391153726</integer>
+			<key>Play Date UTC</key><date>2011-06-17T17:08:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4761EFF6EF669717</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/62%20-%20Wolf%20Gang%20-%20Lions%20In%20Cages.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31049</key>
+		<dict>
+			<key>Track ID</key><integer>31049</integer>
+			<key>Name</key><string>Little Surprise</string>
+			<key>Artist</key><string>The Wave Pictures</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5057486</integer>
+			<key>Total Time</key><integer>166452</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>64</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:00Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:05Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3391266979</integer>
+			<key>Play Date UTC</key><date>2011-06-19T00:36:19Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Wave Pictures</string>
+			<key>Persistent ID</key><string>27612B4AD5FFB61B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/64%20-%20The%20Wave%20Pictures%20-%20Little%20Surprise.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31075</key>
+		<dict>
+			<key>Track ID</key><integer>31075</integer>
+			<key>Name</key><string>Rising</string>
+			<key>Artist</key><string>Son Lux</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8934790</integer>
+			<key>Total Time</key><integer>269557</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>82</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:13Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:06Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3391159896</integer>
+			<key>Play Date UTC</key><date>2011-06-17T18:51:36Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FD04704844D4FF9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/82%20-%20Son%20Lux%20-%20Rising.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31083</key>
+		<dict>
+			<key>Track ID</key><integer>31083</integer>
+			<key>Name</key><string>Silver Screen</string>
+			<key>Artist</key><string>Beat Connection</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8892258</integer>
+			<key>Total Time</key><integer>266919</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>87</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:18Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:06Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3404234361</integer>
+			<key>Play Date UTC</key><date>2011-11-16T02:39:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-06-27T21:07:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C5669C314C6B8882</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/87%20-%20Beat%20Connection%20-%20Silver%20Screen.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31089</key>
+		<dict>
+			<key>Track ID</key><integer>31089</integer>
+			<key>Name</key><string>Some Boys</string>
+			<key>Artist</key><string>Death Cab For Cutie</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6111499</integer>
+			<key>Total Time</key><integer>187376</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>91</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:21Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:06Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3391153263</integer>
+			<key>Play Date UTC</key><date>2011-06-17T17:01:03Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F5E36BCB541B643A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/91%20-%20Death%20Cab%20For%20Cutie%20-%20Some%20Boys.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31105</key>
+		<dict>
+			<key>Track ID</key><integer>31105</integer>
+			<key>Name</key><string>Sydney (I'll Come Running)</string>
+			<key>Artist</key><string>Brett Dennen</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7339841</integer>
+			<key>Total Time</key><integer>229485</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>101</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:29Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:06Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3408356566</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:42:46Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-06T06:33:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8AA30BF087539D25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/101%20-%20Brett%20Dennen%20-%20Sydney%20(I'll%20Come%20Running).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31123</key>
+		<dict>
+			<key>Track ID</key><integer>31123</integer>
+			<key>Name</key><string>The Sweetest Thing (Richard Hawley Remix)</string>
+			<key>Artist</key><string>Camera Obscura</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8527628</integer>
+			<key>Total Time</key><integer>248555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>112</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:39Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:07Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3407201708</integer>
+			<key>Play Date UTC</key><date>2011-12-20T10:55:08Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-07-11T14:33:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Sweetest Thing (Richard Hawley Remix)</string>
+			<key>Persistent ID</key><string>31A8CAE2F6046D06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/112%20-%20Camera%20Obscura%20-%20The%20Sweetest%20Thing%20(Richard%20Hawley%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31125</key>
+		<dict>
+			<key>Track ID</key><integer>31125</integer>
+			<key>Name</key><string>The Valley</string>
+			<key>Artist</key><string>Okkervil River</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8451014</integer>
+			<key>Total Time</key><integer>229616</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>113</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:40Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:07Z</date>
+			<key>Bit Rate</key><integer>292</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3400526477</integer>
+			<key>Play Date UTC</key><date>2011-10-04T04:41:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-06-09T13:59:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Valley</string>
+			<key>Persistent ID</key><string>4D08DFBC74D33144</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/113%20-%20Okkervil%20River%20-%20The%20Valley.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31141</key>
+		<dict>
+			<key>Track ID</key><integer>31141</integer>
+			<key>Name</key><string>Two Points</string>
+			<key>Artist</key><string>Norton</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6230176</integer>
+			<key>Total Time</key><integer>206236</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>121</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:47Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:07Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3406636554</integer>
+			<key>Play Date UTC</key><date>2011-12-13T21:55:54Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-06-29T19:26:52Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A18E874A20ED1C52</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/121%20-%20Norton%20-%20Two%20Points.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31151</key>
+		<dict>
+			<key>Track ID</key><integer>31151</integer>
+			<key>Name</key><string>Wilderness</string>
+			<key>Artist</key><string>Ghost Heart</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10616593</integer>
+			<key>Total Time</key><integer>332303</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>129</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:53Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:08Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3404271595</integer>
+			<key>Play Date UTC</key><date>2011-11-16T12:59:55Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-06-24T16:35:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6051AEEB2D67125C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/129%20-%20Ghost%20Heart%20-%20Wilderness.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-06-19</string>
+			<key>Playlist ID</key><integer>675871</integer>
+			<key>Playlist Persistent ID</key><string>66C9B0465AC41623</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31089</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

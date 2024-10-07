@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-07-21T17:19:26Z</date>
+	<key>Application Version</key><string>1.3.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16416</key>
+		<dict>
+			<key>Track ID</key><integer>16416</integer>
+			<key>Name</key><string>The Middle</string>
+			<key>Artist</key><string>Zedd, Maren Morris &#38; Grey</string>
+			<key>Album Artist</key><string>Zedd, Maren Morris &#38; Grey</string>
+			<key>Composer</key><string>Zedd, Kyle Trewartha, Michael Trewartha, Sarah Aarons, Stefan Johnson, Marcus Lomax &#38; Jordan K. Johnson</string>
+			<key>Album</key><string>The Middle - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>6669702</integer>
+			<key>Total Time</key><integer>184732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-13T03:03:09Z</date>
+			<key>Date Added</key><date>2018-01-26T17:52:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>212</integer>
+			<key>Play Date</key><integer>3772693238</integer>
+			<key>Play Date UTC</key><date>2023-07-20T14:20:38Z</date>
+			<key>Release Date</key><date>2018-01-23T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7203</integer>
+			<key>Sort Album</key><string>Middle - Single</string>
+			<key>Sort Artist</key><string>Zedd, Maren Morris &#38; Grey</string>
+			<key>Sort Name</key><string>Middle</string>
+			<key>Persistent ID</key><string>C4DEA94D5891016F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Zedd,%20Maren%20Morris%20&#38;%20Grey/The%20Middle%20-%20Single/01%20The%20Middle.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>45321</key>
+		<dict>
+			<key>Track ID</key><integer>45321</integer>
+			<key>Name</key><string>OMG</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, Jinsu Park, David Dawood, Gigi &#38; Hanni</string>
+			<key>Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>25772032</integer>
+			<key>Total Time</key><integer>212253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-01-14T21:29:11Z</date>
+			<key>Date Added</key><date>2023-01-14T22:29:08Z</date>
+			<key>Play Count</key><integer>163</integer>
+			<key>Play Date</key><integer>3772694372</integer>
+			<key>Play Date UTC</key><date>2023-07-20T14:39:32Z</date>
+			<key>Release Date</key><date>2023-01-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>OMG</string>
+			<key>Persistent ID</key><string>B4E76CD73B9EC8CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%20'OMG'%20-%20Single/01%20OMG%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>45642</key>
+		<dict>
+			<key>Track ID</key><integer>45642</integer>
+			<key>Name</key><string>FLASH</string>
+			<key>Artist</key><string>Rocket Punch</string>
+			<key>Album Artist</key><string>Rocket Punch</string>
+			<key>Album</key><string>FLASH - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>81981440</integer>
+			<key>Total Time</key><integer>200666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-02-13T16:07:08Z</date>
+			<key>Date Added</key><date>2023-02-13T17:07:01Z</date>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3772693053</integer>
+			<key>Play Date UTC</key><date>2023-07-20T14:17:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-02-20T03:52:41Z</date>
+			<key>Release Date</key><date>2022-08-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FLASH - Single</string>
+			<key>Sort Artist</key><string>Rocket Punch</string>
+			<key>Sort Name</key><string>FLASH</string>
+			<key>Persistent ID</key><string>F0B445A92C7A2D21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Rocket%20Punch/FLASH%20-%20Single/01%20FLASH.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46441</key>
+		<dict>
+			<key>Track ID</key><integer>46441</integer>
+			<key>Name</key><string>SET ME FREE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Melanie Fontana, Lindgren, Marty Maro, 별들의전쟁 * (GALACTIKA *) &#38; Jvde (GALACTIKA *)</string>
+			<key>Album</key><string>READY TO BE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>24756224</integer>
+			<key>Total Time</key><integer>181679</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-03-18T20:54:46Z</date>
+			<key>Date Added</key><date>2023-03-18T15:42:00Z</date>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3772694554</integer>
+			<key>Play Date UTC</key><date>2023-07-20T14:42:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-07-19T22:22:29Z</date>
+			<key>Release Date</key><date>2023-03-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>READY TO BE</string>
+			<key>Sort Artist</key><string>TWICE</string>
+			<key>Sort Name</key><string>SET ME FREE</string>
+			<key>Persistent ID</key><string>8703DFE5B2B5A31A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/TWICE/READY%20TO%20BE/01%20SET%20ME%20FREE%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47363</key>
+		<dict>
+			<key>Track ID</key><integer>47363</integer>
+			<key>Name</key><string>IYKYK (feat. Muni Long)</string>
+			<key>Artist</key><string>Alex Vaughn</string>
+			<key>Album Artist</key><string>Alex Vaughn</string>
+			<key>Composer</key><string>Nicholaus Williams, Alexandria V Wallace, Priscilla Renea, Miles Franklin, Justin Mitchell &#38; Marcus Fitzgerald Rucker</string>
+			<key>Album</key><string>The Hurtbook (Voice Notes)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6615255</integer>
+			<key>Total Time</key><integer>182900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-07T00:07:30Z</date>
+			<key>Date Added</key><date>2023-05-06T21:55:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3772694737</integer>
+			<key>Play Date UTC</key><date>2023-07-20T14:45:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-07-10T14:54:31Z</date>
+			<key>Release Date</key><date>2023-03-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4670</integer>
+			<key>Sort Album</key><string>Hurtbook (Voice Notes)</string>
+			<key>Sort Artist</key><string>Alex Vaughn</string>
+			<key>Sort Name</key><string>IYKYK (feat. Muni Long)</string>
+			<key>Persistent ID</key><string>5C8BE3BA4BFFD737</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Alex%20Vaughn/The%20Hurtbook%20(Voice%20Notes)/17%20IYKYK%20(feat.%20Muni%20Long).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47366</key>
+		<dict>
+			<key>Track ID</key><integer>47366</integer>
+			<key>Name</key><string>Disillusioned</string>
+			<key>Artist</key><string>Daniel Caesar &#38; serpentwithfeet</string>
+			<key>Album Artist</key><string>Daniel Caesar</string>
+			<key>Composer</key><string>Ashton Simmonds &#38; Josiah Wise</string>
+			<key>Album</key><string>NEVER ENOUGH (Bonus Version)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>8546345</integer>
+			<key>Total Time</key><integer>241232</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-07T00:07:29Z</date>
+			<key>Date Added</key><date>2023-05-06T21:55:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3772606949</integer>
+			<key>Play Date UTC</key><date>2023-07-19T14:22:29Z</date>
+			<key>Release Date</key><date>2023-04-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5548</integer>
+			<key>Sort Album</key><string>NEVER ENOUGH (Bonus Version)</string>
+			<key>Sort Artist</key><string>Daniel Caesar &#38; serpentwithfeet</string>
+			<key>Sort Name</key><string>Disillusioned</string>
+			<key>Persistent ID</key><string>8FA2FCE0750486C6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Daniel%20Caesar/NEVER%20ENOUGH%20(Bonus%20Version)/08%20Disillusioned.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47627</key>
+		<dict>
+			<key>Track ID</key><integer>47627</integer>
+			<key>Name</key><string>nice 2 me</string>
+			<key>Artist</key><string>piri &#38; Tommy Villiers</string>
+			<key>Album Artist</key><string>piri &#38; Tommy Villiers</string>
+			<key>Composer</key><string>Sophie McBurnie &#38; Thomas Villiers</string>
+			<key>Album</key><string>nice 2 me - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>6238673</integer>
+			<key>Total Time</key><integer>171622</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-29T12:51:22Z</date>
+			<key>Date Added</key><date>2023-05-28T23:42:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3772694909</integer>
+			<key>Play Date UTC</key><date>2023-07-20T14:48:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-07-10T14:54:50Z</date>
+			<key>Release Date</key><date>2023-05-24T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1747</integer>
+			<key>Sort Album</key><string>nice 2 me - Single</string>
+			<key>Sort Artist</key><string>piri &#38; Tommy Villiers</string>
+			<key>Sort Name</key><string>nice 2 me</string>
+			<key>Persistent ID</key><string>1BB2A36DC0AF492D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/piri%20&#38;%20Tommy%20Villiers/nice%202%20me%20-%20Single/01%20nice%202%20me.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48493</key>
+		<dict>
+			<key>Track ID</key><integer>48493</integer>
+			<key>Name</key><string>DON'T LET THE DEVIL (feat. thankugoodsir)</string>
+			<key>Artist</key><string>Killer Mike &#38; EL-P</string>
+			<key>Album Artist</key><string>Killer Mike</string>
+			<key>Composer</key><string>Michael Render, Dion Wilson, Jaime Meline, Torbitt Schwartz, Harold Lilly, Willie Cooper &#38; Marshall Boxley</string>
+			<key>Album</key><string>MICHAEL</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>6041147</integer>
+			<key>Total Time</key><integer>165653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-06-17T05:18:46Z</date>
+			<key>Date Added</key><date>2023-06-17T05:18:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3772605945</integer>
+			<key>Play Date UTC</key><date>2023-07-19T14:05:45Z</date>
+			<key>Release Date</key><date>2023-04-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2513</integer>
+			<key>Sort Album</key><string>MICHAEL</string>
+			<key>Sort Artist</key><string>Killer Mike &#38; EL-P</string>
+			<key>Sort Name</key><string>DON'T LET THE DEVIL (feat. thankugoodsir)</string>
+			<key>Persistent ID</key><string>6783038122BAFC6E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Killer%20Mike/MICHAEL/13%20DON'T%20LET%20THE%20DEVIL%20(feat.%20thankugoodsir).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49385</key>
+		<dict>
+			<key>Track ID</key><integer>49385</integer>
+			<key>Name</key><string>COUNTDOWN CITY</string>
+			<key>Artist</key><string>Mike Dimes</string>
+			<key>Album Artist</key><string>Mike Dimes</string>
+			<key>Composer</key><string>Michael Goode Jr., Powers Pleasant, Kevin Gomringer, Tim Gomringer &#38; Unknown Prod.</string>
+			<key>Album</key><string>TEXAS BOY</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5094588</integer>
+			<key>Total Time</key><integer>136891</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-07T16:30:33Z</date>
+			<key>Date Added</key><date>2023-07-07T16:30:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3772689416</integer>
+			<key>Play Date UTC</key><date>2023-07-20T13:16:56Z</date>
+			<key>Release Date</key><date>2023-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1995</integer>
+			<key>Sort Album</key><string>TEXAS BOY</string>
+			<key>Sort Artist</key><string>Mike Dimes</string>
+			<key>Sort Name</key><string>COUNTDOWN CITY</string>
+			<key>Persistent ID</key><string>A792768EEA8A3010</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Mike%20Dimes/TEXAS%20BOY/05%20COUNTDOWN%20CITY.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49394</key>
+		<dict>
+			<key>Track ID</key><integer>49394</integer>
+			<key>Name</key><string>FEELIN' ME</string>
+			<key>Artist</key><string>Mike Dimes</string>
+			<key>Album Artist</key><string>Mike Dimes</string>
+			<key>Composer</key><string>Michael Goode Jr., John Villanueva &#38; John Carolus</string>
+			<key>Album</key><string>TEXAS BOY</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4417042</integer>
+			<key>Total Time</key><integer>116425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-07T16:30:33Z</date>
+			<key>Date Added</key><date>2023-07-07T16:30:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3772713986</integer>
+			<key>Play Date UTC</key><date>2023-07-20T20:06:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-07-20T14:48:56Z</date>
+			<key>Release Date</key><date>2023-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2173</integer>
+			<key>Sort Album</key><string>TEXAS BOY</string>
+			<key>Sort Artist</key><string>Mike Dimes</string>
+			<key>Sort Name</key><string>FEELIN' ME</string>
+			<key>Persistent ID</key><string>B6E221D57DF6B4B9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Mike%20Dimes/TEXAS%20BOY/08%20FEELIN'%20ME.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49703</key>
+		<dict>
+			<key>Track ID</key><integer>49703</integer>
+			<key>Name</key><string>Super Shy</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim &#38; Danielle</string>
+			<key>Album</key><string>NewJeans 'Super Shy' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5731726</integer>
+			<key>Total Time</key><integer>154666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-10T05:16:42Z</date>
+			<key>Date Added</key><date>2023-07-10T05:16:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3772689753</integer>
+			<key>Play Date UTC</key><date>2023-07-20T13:22:33Z</date>
+			<key>Release Date</key><date>2023-07-07T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3058</integer>
+			<key>Sort Album</key><string>NewJeans 'Super Shy' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>Super Shy</string>
+			<key>Persistent ID</key><string>82EA4EB7311C1C06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%20'Super%20Shy'%20-%20Single/02%20Super%20Shy.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>129598</key>
+		<dict>
+			<key>Track ID</key><integer>129598</integer>
+			<key>Name</key><string>Lilith (Diablo IV Anthem)</string>
+			<key>Artist</key><string>Halsey, SUGA of BTS</string>
+			<key>Album Artist</key><string>Halsey, SUGA of BTS</string>
+			<key>Composer</key><string>Ashley Frangipane, Trent Reznor, Atticus Ross, Johnathan Carter Cunningham &#38; Min Yoon Gi</string>
+			<key>Album</key><string>Lilith (Diablo IV Anthem) - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>6592148</integer>
+			<key>Total Time</key><integer>180933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-17T20:10:33Z</date>
+			<key>Date Added</key><date>2023-07-17T20:10:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3772689279</integer>
+			<key>Play Date UTC</key><date>2023-07-20T13:14:39Z</date>
+			<key>Release Date</key><date>2023-06-05T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2644</integer>
+			<key>Sort Album</key><string>Lilith (Diablo IV Anthem) - Single</string>
+			<key>Sort Artist</key><string>Halsey, SUGA of BTS</string>
+			<key>Sort Name</key><string>Lilith (Diablo IV Anthem)</string>
+			<key>Persistent ID</key><string>5969DCB924ECB134</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Halsey,%20SUGA%20of%20BTS/Lilith%20(Diablo%20IV%20Anthem)%20-%20Single/01%20Lilith%20(Diablo%20IV%20Anthem)%201.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>136051</key>
+		<dict>
+			<key>Track ID</key><integer>136051</integer>
+			<key>Name</key><string>Seven</string>
+			<key>Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Album Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Composer</key><string>Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas &#38; Latto</string>
+			<key>Album</key><string>Seven - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6636560</integer>
+			<key>Total Time</key><integer>185295</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-20T12:34:58Z</date>
+			<key>Date Added</key><date>2023-07-20T12:34:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3772689098</integer>
+			<key>Play Date UTC</key><date>2023-07-20T13:11:38Z</date>
+			<key>Release Date</key><date>2023-07-14T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6262</integer>
+			<key>Sort Album</key><string>Seven - Single</string>
+			<key>Sort Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Sort Name</key><string>Seven</string>
+			<key>Persistent ID</key><string>974F2BBBE6B65CA4</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Jung%20Kook%20&#38;%20Latto/Seven%20-%20Single/01%20Seven.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>116612</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136051</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

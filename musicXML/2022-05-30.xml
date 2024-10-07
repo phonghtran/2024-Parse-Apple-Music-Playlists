@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-05-30T04:05:34Z</date>
+	<key>Application Version</key><string>1.2.3.56</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>42061</key>
+		<dict>
+			<key>Track ID</key><integer>42061</integer>
+			<key>Name</key><string>Original Sin</string>
+			<key>Artist</key><string>Sofi Tukker</string>
+			<key>Album Artist</key><string>Sofi Tukker</string>
+			<key>Composer</key><string>Sophie Hawley-Weld, Tucker Halpern &#38; Richard Beynon</string>
+			<key>Album</key><string>Original Sin - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6275050</integer>
+			<key>Total Time</key><integer>171599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-02-06T20:30:49Z</date>
+			<key>Date Added</key><date>2022-02-06T20:30:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>101</integer>
+			<key>Play Date</key><integer>3736318302</integer>
+			<key>Play Date UTC</key><date>2022-05-25T14:11:42Z</date>
+			<key>Release Date</key><date>2022-02-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1868</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Original Sin - Single</string>
+			<key>Sort Artist</key><string>Sofi Tukker</string>
+			<key>Sort Name</key><string>Original Sin</string>
+			<key>Persistent ID</key><string>67E6CD58942A91B3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43887</key>
+		<dict>
+			<key>Track ID</key><integer>43887</integer>
+			<key>Name</key><string>Where you are (feat. WILLOW)</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>Mura Masa, Paramore, PinkPantheress, Skrillex &#38; Willow</string>
+			<key>Album</key><string>Where you are (feat. WILLOW) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5606477</integer>
+			<key>Total Time</key><integer>153706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-25T01:52:46Z</date>
+			<key>Date Added</key><date>2022-04-25T01:52:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3736712140</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:35:40Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-05-23T18:10:32Z</date>
+			<key>Release Date</key><date>2022-04-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3909</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where you are (feat. WILLOW) - Single</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>Where you are (feat. WILLOW)</string>
+			<key>Persistent ID</key><string>3993FFD965182BCF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43945</key>
+		<dict>
+			<key>Track ID</key><integer>43945</integer>
+			<key>Name</key><string>Feet Don't Fail Me Now</string>
+			<key>Artist</key><string>Joy Crookes</string>
+			<key>Album Artist</key><string>Joy Crookes</string>
+			<key>Composer</key><string>Joy Crookes, Barney Lister &#38; Joel Pott</string>
+			<key>Album</key><string>Feet Don't Fail Me Now - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7110467</integer>
+			<key>Total Time</key><integer>198800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-04-28T03:26:55Z</date>
+			<key>Date Added</key><date>2022-04-28T03:26:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3736410050</integer>
+			<key>Play Date UTC</key><date>2022-05-26T15:40:50Z</date>
+			<key>Release Date</key><date>2021-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8348</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feet Don't Fail Me Now - Single</string>
+			<key>Sort Artist</key><string>Joy Crookes</string>
+			<key>Sort Name</key><string>Feet Don't Fail Me Now</string>
+			<key>Persistent ID</key><string>FC170147C1A404D4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>112354</key>
+		<dict>
+			<key>Track ID</key><integer>112354</integer>
+			<key>Name</key><string>Save Me</string>
+			<key>Artist</key><string>Steve Aoki &#38; HRVY</string>
+			<key>Album Artist</key><string>Steve Aoki &#38; HRVY</string>
+			<key>Composer</key><string>Steve Aoki, Max Styler, Harvey Leigh Cantwell, Gabrielle Aplin, Lewis Thompson &#38; Lawrie Gordon Prime-Martin</string>
+			<key>Album</key><string>Save Me - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6079763</integer>
+			<key>Total Time</key><integer>166466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-02T15:14:31Z</date>
+			<key>Date Added</key><date>2022-05-02T15:14:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3736711311</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:21:51Z</date>
+			<key>Release Date</key><date>2022-04-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3681</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Save Me - Single</string>
+			<key>Sort Artist</key><string>Steve Aoki &#38; HRVY</string>
+			<key>Sort Name</key><string>Save Me</string>
+			<key>Persistent ID</key><string>CC9F976EEF106C8E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>118688</key>
+		<dict>
+			<key>Track ID</key><integer>118688</integer>
+			<key>Name</key><string>U Got That</string>
+			<key>Artist</key><string>Halogen</string>
+			<key>Album Artist</key><string>Halogen</string>
+			<key>Composer</key><string>Alexander Dunsker &#38; James OSCAR Taylor IV</string>
+			<key>Album</key><string>U Got That - Single</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7299217</integer>
+			<key>Total Time</key><integer>187762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2022-05-11T23:22:54Z</date>
+			<key>Date Added</key><date>2022-05-11T23:22:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3736492672</integer>
+			<key>Play Date UTC</key><date>2022-05-27T14:37:52Z</date>
+			<key>Release Date</key><date>2019-09-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3329</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>U Got That - Single</string>
+			<key>Sort Artist</key><string>Halogen</string>
+			<key>Sort Name</key><string>U Got That</string>
+			<key>Persistent ID</key><string>0550AA712DE920F2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>120096</key>
+		<dict>
+			<key>Track ID</key><integer>120096</integer>
+			<key>Name</key><string>1x1</string>
+			<key>Artist</key><string>Galantis</string>
+			<key>Album Artist</key><string>Galantis</string>
+			<key>Composer</key><string>Christian Karlsson, Clementine Douglas, James Watts, Paul Harris &#38; Toby Scott</string>
+			<key>Album</key><string>1x1 - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5235698</integer>
+			<key>Total Time</key><integer>139436</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-14T16:09:18Z</date>
+			<key>Date Added</key><date>2022-05-14T16:09:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3736711985</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:33:05Z</date>
+			<key>Release Date</key><date>2022-05-13T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5044</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>1x1 - Single</string>
+			<key>Sort Artist</key><string>Galantis</string>
+			<key>Sort Name</key><string>1x1</string>
+			<key>Persistent ID</key><string>791A7824D42CABC1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>120099</key>
+		<dict>
+			<key>Track ID</key><integer>120099</integer>
+			<key>Name</key><string>Trees</string>
+			<key>Artist</key><string>Maude Latour</string>
+			<key>Album Artist</key><string>Maude Latour</string>
+			<key>Composer</key><string>Maude Latour &#38; Michael Adubato</string>
+			<key>Album</key><string>Trees - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7025359</integer>
+			<key>Total Time</key><integer>193005</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-14T16:09:18Z</date>
+			<key>Date Added</key><date>2022-05-14T16:09:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3736323536</integer>
+			<key>Play Date UTC</key><date>2022-05-25T15:38:56Z</date>
+			<key>Release Date</key><date>2022-05-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Trees - Single</string>
+			<key>Sort Artist</key><string>Maude Latour</string>
+			<key>Sort Name</key><string>Trees</string>
+			<key>Persistent ID</key><string>F6221BE078256496</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>120900</key>
+		<dict>
+			<key>Track ID</key><integer>120900</integer>
+			<key>Name</key><string>He Wasn't Man Enough</string>
+			<key>Artist</key><string>Toni Braxton</string>
+			<key>Album Artist</key><string>Toni Braxton</string>
+			<key>Composer</key><string>LaShawn "The Big Shiz" Daniels, Fred Jerkins III, Rodney Jerkins &#38; Harvey Mason, Jr.</string>
+			<key>Album</key><string>The Heat</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9871659</integer>
+			<key>Total Time</key><integer>261933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2022-05-17T13:07:26Z</date>
+			<key>Date Added</key><date>2022-05-17T13:07:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3736441578</integer>
+			<key>Play Date UTC</key><date>2022-05-27T00:26:18Z</date>
+			<key>Release Date</key><date>2000-04-25T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6644</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heat</string>
+			<key>Sort Artist</key><string>Toni Braxton</string>
+			<key>Sort Name</key><string>He Wasn't Man Enough</string>
+			<key>Persistent ID</key><string>F82E79846D87AC5F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>121239</key>
+		<dict>
+			<key>Track ID</key><integer>121239</integer>
+			<key>Name</key><string>Wraith</string>
+			<key>Artist</key><string>Chance the Rapper, VIC MENSA &#38; Smoko Ono</string>
+			<key>Album Artist</key><string>Chance the Rapper, VIC MENSA &#38; Smoko Ono</string>
+			<key>Composer</key><string>Chancelor Bennett &#38; Victor Mensah</string>
+			<key>Album</key><string>Wraith - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5487501</integer>
+			<key>Total Time</key><integer>147692</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-18T02:42:15Z</date>
+			<key>Date Added</key><date>2022-05-18T02:42:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3736712289</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:38:09Z</date>
+			<key>Release Date</key><date>2022-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1973</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wraith - Single</string>
+			<key>Sort Artist</key><string>Chance the Rapper, VIC MENSA &#38; Smoko Ono</string>
+			<key>Sort Name</key><string>Wraith</string>
+			<key>Persistent ID</key><string>27F1CE21C7446899</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>121341</key>
+		<dict>
+			<key>Track ID</key><integer>121341</integer>
+			<key>Name</key><string>Caught Up</string>
+			<key>Artist</key><string>Gryffin &#38; Olivia O'Brien</string>
+			<key>Album Artist</key><string>Gryffin &#38; Olivia O'Brien</string>
+			<key>Composer</key><string>Chloe George, Fran Hall, Dallas Koehlke &#38; Daniel Griffith</string>
+			<key>Album</key><string>Caught Up - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6380682</integer>
+			<key>Total Time</key><integer>173214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-18T12:42:22Z</date>
+			<key>Date Added</key><date>2022-05-18T12:42:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3736712463</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:41:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-05-23T17:41:28Z</date>
+			<key>Release Date</key><date>2022-05-13T12:00:00Z</date>
+			<key>Normalization</key><integer>5730</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Caught Up - Single</string>
+			<key>Sort Artist</key><string>Gryffin &#38; Olivia O'Brien</string>
+			<key>Sort Name</key><string>Caught Up</string>
+			<key>Persistent ID</key><string>D390AC717ADD9239</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122803</key>
+		<dict>
+			<key>Track ID</key><integer>122803</integer>
+			<key>Name</key><string>HOTEL LOBBY (Unc &#38; Phew)</string>
+			<key>Artist</key><string>Quavo &#38; Takeoff</string>
+			<key>Album Artist</key><string>Quavo &#38; Takeoff</string>
+			<key>Composer</key><string>Quavious Keyate Marshall, Kirsnick Khari Ball, Shane Lindstrom, Keanu Torres &#38; Fabio Aguilar</string>
+			<key>Album</key><string>HOTEL LOBBY (Unc &#38; Phew) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5313502</integer>
+			<key>Total Time</key><integer>142657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-20T14:00:28Z</date>
+			<key>Date Added</key><date>2022-05-20T14:00:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3736711456</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:24:16Z</date>
+			<key>Release Date</key><date>2022-05-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HOTEL LOBBY (Unc and Phew) - Single</string>
+			<key>Sort Artist</key><string>Quavo &#38; Takeoff</string>
+			<key>Sort Name</key><string>HOTEL LOBBY (Unc and Phew)</string>
+			<key>Persistent ID</key><string>0B7B8C8B893EEB7E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122806</key>
+		<dict>
+			<key>Track ID</key><integer>122806</integer>
+			<key>Name</key><string>Dope (feat. JID)</string>
+			<key>Artist</key><string>John Legend</string>
+			<key>Album Artist</key><string>John Legend</string>
+			<key>Composer</key><string>John Stephens, Ryan Tedder, Charlie Puth, Ian Kirkpatrick &#38; Destin Route</string>
+			<key>Album</key><string>Dope (feat. JID) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6022268</integer>
+			<key>Total Time</key><integer>158745</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-20T14:01:29Z</date>
+			<key>Date Added</key><date>2022-05-20T14:01:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3736711614</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:26:54Z</date>
+			<key>Release Date</key><date>2022-05-18T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dope (feat. JID) - Single</string>
+			<key>Sort Artist</key><string>John Legend</string>
+			<key>Sort Name</key><string>Dope (feat. JID)</string>
+			<key>Persistent ID</key><string>BADB5465E8206ACC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122809</key>
+		<dict>
+			<key>Track ID</key><integer>122809</integer>
+			<key>Name</key><string>Turn Up The Sunshine</string>
+			<key>Artist</key><string>Diana Ross &#38; Tame Impala</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Jack Antonoff, Patrik Berger, Sam Dew &#38; Kevin Parker</string>
+			<key>Album</key><string>Minions: The Rise Of Gru (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8405113</integer>
+			<key>Total Time</key><integer>229611</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-20T14:17:25Z</date>
+			<key>Date Added</key><date>2022-05-20T14:17:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3736711844</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:30:44Z</date>
+			<key>Release Date</key><date>2022-05-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Minions: The Rise Of Gru (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Diana Ross &#38; Tame Impala</string>
+			<key>Sort Name</key><string>Turn Up The Sunshine</string>
+			<key>Persistent ID</key><string>5C77FDFEC81F1669</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122813</key>
+		<dict>
+			<key>Track ID</key><integer>122813</integer>
+			<key>Name</key><string>Hollow (feat. Emma Louise)</string>
+			<key>Artist</key><string>Flume</string>
+			<key>Album Artist</key><string>Flume</string>
+			<key>Composer</key><string>Harley Streten, Quinn Browning &#38; Emma Louise Lobb</string>
+			<key>Album</key><string>Palaces</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8545344</integer>
+			<key>Total Time</key><integer>233145</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-20T14:21:39Z</date>
+			<key>Date Added</key><date>2022-05-20T14:21:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3736326564</integer>
+			<key>Play Date UTC</key><date>2022-05-25T16:29:24Z</date>
+			<key>Release Date</key><date>2022-05-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Palaces</string>
+			<key>Sort Artist</key><string>Flume</string>
+			<key>Sort Name</key><string>Hollow (feat. Emma Louise)</string>
+			<key>Persistent ID</key><string>6AD19D2C53DE209D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122816</key>
+		<dict>
+			<key>Track ID</key><integer>122816</integer>
+			<key>Name</key><string>Selfish Soul</string>
+			<key>Artist</key><string>Sudan Archives</string>
+			<key>Album Artist</key><string>Sudan Archives</string>
+			<key>Composer</key><string>Brittney Parks, Ben Dickey &#38; Dexter Story</string>
+			<key>Album</key><string>Selfish Soul - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5628230</integer>
+			<key>Total Time</key><integer>142667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-20T15:20:47Z</date>
+			<key>Date Added</key><date>2022-05-20T15:20:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3736711145</integer>
+			<key>Play Date UTC</key><date>2022-05-30T03:19:05Z</date>
+			<key>Release Date</key><date>2022-05-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4122</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Selfish Soul - Single</string>
+			<key>Sort Artist</key><string>Sudan Archives</string>
+			<key>Sort Name</key><string>Selfish Soul</string>
+			<key>Persistent ID</key><string>E2F807BC5CE5A238</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>124510</key>
+		<dict>
+			<key>Track ID</key><integer>124510</integer>
+			<key>Name</key><string>Sweating</string>
+			<key>Artist</key><string>Alewya</string>
+			<key>Album Artist</key><string>Alewya</string>
+			<key>Composer</key><string>Alewya Demmisse &#38; Oliver Williams</string>
+			<key>Album</key><string>Sweating - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7309541</integer>
+			<key>Total Time</key><integer>204686</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-05-25T02:02:58Z</date>
+			<key>Date Added</key><date>2022-05-25T02:02:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3736337392</integer>
+			<key>Play Date UTC</key><date>2022-05-25T19:29:52Z</date>
+			<key>Release Date</key><date>2020-06-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweating - Single</string>
+			<key>Sort Artist</key><string>Alewya</string>
+			<key>Sort Name</key><string>Sweating</string>
+			<key>Persistent ID</key><string>0D3F036B9C319576</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>124804</key>
+		<dict>
+			<key>Track ID</key><integer>124804</integer>
+			<key>Name</key><string>Hit Em Where It Hurts</string>
+			<key>Artist</key><string>PawPaw Rod</string>
+			<key>Album Artist</key><string>PawPaw Rod</string>
+			<key>Composer</key><string>Rodney Hulsey II, Adam Moerder &#38; Nick Sylvester</string>
+			<key>Album</key><string>A PawPaw Rod EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5980778</integer>
+			<key>Total Time</key><integer>165499</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-05-26T16:04:57Z</date>
+			<key>Date Added</key><date>2022-05-26T16:04:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3736441316</integer>
+			<key>Play Date UTC</key><date>2022-05-27T00:21:56Z</date>
+			<key>Release Date</key><date>2020-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PawPaw Rod EP</string>
+			<key>Sort Artist</key><string>PawPaw Rod</string>
+			<key>Sort Name</key><string>Hit Em Where It Hurts</string>
+			<key>Persistent ID</key><string>00F6B85790B2C7FF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>107154</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>42061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43945</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120096</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122803</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122816</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124804</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

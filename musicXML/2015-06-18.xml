@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-06-18T14:49:57Z</date>
+	<key>Application Version</key><string>12.1.2.27</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>44124</key>
+		<dict>
+			<key>Track ID</key><integer>44124</integer>
+			<key>Name</key><string>Little Ballerina (feat. Rufus Wainwright)</string>
+			<key>Artist</key><string>Emile Haynie</string>
+			<key>Album Artist</key><string>Emile Haynie</string>
+			<key>Composer</key><string>Emile Haynie, Andrew Wyatt &#38; Nate Ruess</string>
+			<key>Album</key><string>We Fall</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10058406</integer>
+			<key>Total Time</key><integer>287370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:27:41Z</date>
+			<key>Date Added</key><date>2015-03-25T04:00:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3517305692</integer>
+			<key>Play Date UTC</key><date>2015-06-16T20:21:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-04-01T00:01:33Z</date>
+			<key>Release Date</key><date>2015-02-24T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5341</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Fall</string>
+			<key>Sort Artist</key><string>Emile Haynie</string>
+			<key>Sort Composer</key><string>Emile Haynie, Andrew Wyatt &#38; Nate Ruess</string>
+			<key>Sort Name</key><string>Little Ballerina (feat. Rufus Wainwright)</string>
+			<key>Persistent ID</key><string>1ABC093BEAD7A053</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Emile%20Haynie/We%20Fall/02%20Little%20Ballerina%20(feat.%20Rufus%20Wainwright).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44386</key>
+		<dict>
+			<key>Track ID</key><integer>44386</integer>
+			<key>Name</key><string>Never Let You Down</string>
+			<key>Artist</key><string>The Weepies</string>
+			<key>Album Artist</key><string>The Weepies</string>
+			<key>Album</key><string>Sirens</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5847596</integer>
+			<key>Total Time</key><integer>146181</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-05-09T05:00:22Z</date>
+			<key>Date Added</key><date>2015-05-09T05:16:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3517421828</integer>
+			<key>Play Date UTC</key><date>2015-06-18T04:37:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album Artist</key><string>Weepies</string>
+			<key>Sort Artist</key><string>Weepies</string>
+			<key>Persistent ID</key><string>4DABD3985307B6DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/The%20Weepies/Sirens/1-05%20Never%20Let%20You%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44430</key>
+		<dict>
+			<key>Track ID</key><integer>44430</integer>
+			<key>Name</key><string>Don't Dream It's Over ft. Ariana Grande</string>
+			<key>Artist</key><string>Miley Cyrus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3341694</integer>
+			<key>Total Time</key><integer>208666</integer>
+			<key>Date Modified</key><date>2015-05-23T23:20:01Z</date>
+			<key>Date Added</key><date>2015-05-23T23:21:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3517135499</integer>
+			<key>Play Date UTC</key><date>2015-06-14T21:04:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-06-16T20:33:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C8321B99784A2493</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Miley%20Cyrus/Unknown%20Album/Don't%20Dream%20It's%20Over%20ft.%20Ariana%20Grande.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44446</key>
+		<dict>
+			<key>Track ID</key><integer>44446</integer>
+			<key>Name</key><string>BBHMM$ feat. Skyzoo, K!NG Z3US, Yung Fusion, &#38; Emilio Rojas</string>
+			<key>Artist</key><string>Infuze, Father Dude, &#38; !llmind</string>
+			<key>Genre</key><string>HIp Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11534284</integer>
+			<key>Total Time</key><integer>255660</integer>
+			<key>Date Modified</key><date>2015-05-23T23:26:09Z</date>
+			<key>Date Added</key><date>2015-05-23T23:21:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3517135288</integer>
+			<key>Play Date UTC</key><date>2015-06-14T21:01:28Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2015-06-07T15:15:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11472</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F556BF42C9E4C5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Infuze,%20Father%20Dude,%20&#38;%20!llmind/Unknown%20Album/BBHMM$%20feat.%20Skyzoo,%20K!NG%20Z3US,%20Yung%20Fusion,%20&#38;%20Emilio%20Rojas.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44448</key>
+		<dict>
+			<key>Track ID</key><integer>44448</integer>
+			<key>Name</key><string>Golden Touch</string>
+			<key>Artist</key><string>Namie Amuro</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7042294</integer>
+			<key>Total Time</key><integer>223320</integer>
+			<key>Start Time</key><integer>14000</integer>
+			<key>Date Modified</key><date>2015-06-07T18:52:23Z</date>
+			<key>Date Added</key><date>2015-05-28T05:08:08Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3517135033</integer>
+			<key>Play Date UTC</key><date>2015-06-14T20:57:13Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2015-06-07T18:52:33Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6371CDFDB4A3E4D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Namie%20Amuro/Unknown%20Album/Golden%20Touch.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44452</key>
+		<dict>
+			<key>Track ID</key><integer>44452</integer>
+			<key>Name</key><string>Slip Slide</string>
+			<key>Artist</key><string>Donnie Trumpet &#38; The Social Experiment</string>
+			<key>Album Artist</key><string>Donnie Trumpet &#38; The Social Experiment</string>
+			<key>Album</key><string>Surf</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8492475</integer>
+			<key>Total Time</key><integer>239922</integer>
+			<key>Stop Time</key><integer>175000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-03T14:27:15Z</date>
+			<key>Date Added</key><date>2015-06-01T19:15:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3517125708</integer>
+			<key>Play Date UTC</key><date>2015-06-14T18:21:48Z</date>
+			<key>Release Date</key><date>2015-05-29T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Surf</string>
+			<key>Sort Artist</key><string>Donnie Trumpet &#38; The Social Experiment</string>
+			<key>Sort Name</key><string>Slip Slide</string>
+			<key>Persistent ID</key><string>1146C08DC8D07358</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Donnie%20Trumpet%20&#38;%20The%20Social%20Experiment/Surf/02%20Slip%20Slide.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44480</key>
+		<dict>
+			<key>Track ID</key><integer>44480</integer>
+			<key>Name</key><string>Inhale Exhale</string>
+			<key>Artist</key><string>Nao</string>
+			<key>Album Artist</key><string>Nao</string>
+			<key>Composer</key><string>Nao &#38; Grades</string>
+			<key>Album</key><string>February 15 - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6967256</integer>
+			<key>Total Time</key><integer>185146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-07T17:13:10Z</date>
+			<key>Date Added</key><date>2015-06-07T15:28:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3517125271</integer>
+			<key>Play Date UTC</key><date>2015-06-14T18:14:31Z</date>
+			<key>Release Date</key><date>2015-05-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3485</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>February 15 - EP</string>
+			<key>Sort Artist</key><string>Nao</string>
+			<key>Sort Composer</key><string>Nao &#38; Grades</string>
+			<key>Sort Name</key><string>Inhale Exhale</string>
+			<key>Persistent ID</key><string>7D9E6718983FB185</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Nao/February%2015%20-%20EP/01%20Inhale%20Exhale.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44490</key>
+		<dict>
+			<key>Track ID</key><integer>44490</integer>
+			<key>Name</key><string>Mine</string>
+			<key>Artist</key><string>Phoebe Ryan</string>
+			<key>Album Artist</key><string>Phoebe Ryan</string>
+			<key>Album</key><string>Mine - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9296181</integer>
+			<key>Total Time</key><integer>227030</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-07T16:11:39Z</date>
+			<key>Date Added</key><date>2015-06-07T16:54:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3517125086</integer>
+			<key>Play Date UTC</key><date>2015-06-14T18:11:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-06-07T16:58:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>521D4F0E732A2EC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Phoebe%20Ryan/Mine%20-%20Single/01%20Mine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44500</key>
+		<dict>
+			<key>Track ID</key><integer>44500</integer>
+			<key>Name</key><string>Should have known better</string>
+			<key>Artist</key><string>Sufjan Stevens</string>
+			<key>Album</key><string>Carrie &#38; Lowell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12310347</integer>
+			<key>Total Time</key><integer>307748</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2015-06-07T16:09:02Z</date>
+			<key>Date Added</key><date>2015-06-07T16:54:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3517060656</integer>
+			<key>Play Date UTC</key><date>2015-06-14T00:17:36Z</date>
+			<key>Persistent ID</key><string>81162075D6319A5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Sufjan%20Stevens/Carrie%20&#38;%20Lowell/02%20Should%20have%20known%20better.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44526</key>
+		<dict>
+			<key>Track ID</key><integer>44526</integer>
+			<key>Name</key><string>Wolves Without Teeth</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters &#38; Men</string>
+			<key>Album</key><string>Beneath the Skin (Deluxe Edition)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9411969</integer>
+			<key>Total Time</key><integer>233064</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-07T16:07:30Z</date>
+			<key>Date Added</key><date>2015-06-07T16:54:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>.::1914::.</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3517067194</integer>
+			<key>Play Date UTC</key><date>2015-06-14T02:06:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-06-16T20:24:27Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49B1E0B38A0B9E75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Of%20Monsters%20&#38;%20Men/Beneath%20the%20Skin%20(Deluxe%20Edition)/04%20Wolves%20Without%20Teeth.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44566</key>
+		<dict>
+			<key>Track ID</key><integer>44566</integer>
+			<key>Name</key><string>Back Home</string>
+			<key>Artist</key><string>ASAP Rocky</string>
+			<key>Album Artist</key><string>ASAP Rocky</string>
+			<key>Album</key><string>ALLA (At Long Last ASAP)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11359476</integer>
+			<key>Total Time</key><integer>278160</integer>
+			<key>Stop Time</key><integer>191100</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-18T04:34:33Z</date>
+			<key>Date Added</key><date>2015-06-07T16:54:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3517421681</integer>
+			<key>Play Date UTC</key><date>2015-06-18T04:34:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DB40BA035811BC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/ASAP%20Rocky/ALLA%20(At%20Long%20Last%20ASAP)/18%20Back%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44584</key>
+		<dict>
+			<key>Track ID</key><integer>44584</integer>
+			<key>Name</key><string>Sugar Coated</string>
+			<key>Artist</key><string>Jessie Jones</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3265930</integer>
+			<key>Total Time</key><integer>204068</integer>
+			<key>Date Modified</key><date>2015-06-07T16:54:44Z</date>
+			<key>Date Added</key><date>2015-06-07T16:54:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3517067959</integer>
+			<key>Play Date UTC</key><date>2015-06-14T02:19:19Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>072D4FDA2653D8C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Jessie%20Jones/Unknown%20Album/Sugar%20Coated.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143044</key>
+		<dict>
+			<key>Track ID</key><integer>143044</integer>
+			<key>Name</key><string>Hold Your Fire</string>
+			<key>Artist</key><string>Gay Nineties</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6055045</integer>
+			<key>Total Time</key><integer>186775</integer>
+			<key>Date Modified</key><date>2015-06-07T19:32:41Z</date>
+			<key>Date Added</key><date>2015-06-07T19:32:29Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3517306055</integer>
+			<key>Play Date UTC</key><date>2015-06-16T20:27:35Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2B3A85090C1E893F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Gay%20Nineties/Unknown%20Album/Hold%20Your%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143051</key>
+		<dict>
+			<key>Track ID</key><integer>143051</integer>
+			<key>Name</key><string>Hard Time</string>
+			<key>Artist</key><string>Seinabo Sey</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7236478</integer>
+			<key>Total Time</key><integer>213603</integer>
+			<key>Date Modified</key><date>2015-06-07T19:32:53Z</date>
+			<key>Date Added</key><date>2015-06-07T19:32:29Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3517306269</integer>
+			<key>Play Date UTC</key><date>2015-06-16T20:31:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-06-08T15:42:48Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1B29DC9CBB1C64FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Seinabo%20Sey/Unknown%20Album/Hard%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>128039</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143044</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44124</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

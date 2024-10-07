@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-11-18T20:14:47Z</date>
+	<key>Application Version</key><string>1.3.6.14</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15938</key>
+		<dict>
+			<key>Track ID</key><integer>15938</integer>
+			<key>Name</key><string>Runaway</string>
+			<key>Artist</key><string>The Corrs</string>
+			<key>Album Artist</key><string>The Corrs</string>
+			<key>Composer</key><string>Andrea Corr, Caroline Corr, Jim Corr &#38; Sharon Corr</string>
+			<key>Album</key><string>Forgiven, Not Forgotten</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9735347</integer>
+			<key>Total Time</key><integer>265133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-01-24T06:55:29Z</date>
+			<key>Date Added</key><date>2018-01-24T07:55:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3783062483</integer>
+			<key>Play Date UTC</key><date>2023-11-17T15:41:23Z</date>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Forgiven, Not Forgotten</string>
+			<key>Sort Album Artist</key><string>Corrs</string>
+			<key>Sort Artist</key><string>Corrs</string>
+			<key>Sort Name</key><string>Runaway</string>
+			<key>Persistent ID</key><string>173DD2030187B28C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26573</key>
+		<dict>
+			<key>Track ID</key><integer>26573</integer>
+			<key>Name</key><string>Alice</string>
+			<key>Artist</key><string>Moby</string>
+			<key>Album Artist</key><string>Moby</string>
+			<key>Album</key><string>Last Night</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8562510</integer>
+			<key>Total Time</key><integer>266936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-02-04T17:55:55Z</date>
+			<key>Date Added</key><date>2010-06-17T00:25:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3783062055</integer>
+			<key>Play Date UTC</key><date>2023-11-17T15:34:15Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>4580</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Moby</string>
+			<key>Sort Artist</key><string>Moby</string>
+			<key>Persistent ID</key><string>E98893C2D0422C8B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>27191</key>
+		<dict>
+			<key>Track ID</key><integer>27191</integer>
+			<key>Name</key><string>Rather Be feat. Jess Glynne</string>
+			<key>Artist</key><string>Clean Bandit, Jess Glynne</string>
+			<key>Album Artist</key><string>Clean Bandit</string>
+			<key>Album</key><string>New Eyes</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7429879</integer>
+			<key>Total Time</key><integer>226453</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2011-01-02T09:58:52Z</date>
+			<key>Date Added</key><date>2015-01-03T02:09:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3783069077</integer>
+			<key>Play Date UTC</key><date>2023-11-17T17:31:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-02-17T14:34:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC77409AD60A196E</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>42743</key>
+		<dict>
+			<key>Track ID</key><integer>42743</integer>
+			<key>Name</key><string>Faint</string>
+			<key>Artist</key><string>LINKIN PARK</string>
+			<key>Album Artist</key><string>LINKIN PARK</string>
+			<key>Composer</key><string>Brad Delson, Chester Charles Bennington, David Michael Farrell, Joseph Hahn, Michael Kenji Shinoda &#38; Robert Gregory Bourdon</string>
+			<key>Album</key><string>Meteora (Deluxe Edition)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5910721</integer>
+			<key>Total Time</key><integer>162205</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2022-08-30T02:33:05Z</date>
+			<key>Date Added</key><date>2022-08-30T02:33:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3783072068</integer>
+			<key>Play Date UTC</key><date>2023-11-17T18:21:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-13T02:06:30Z</date>
+			<key>Release Date</key><date>2003-03-25T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12971</integer>
+			<key>Sort Album</key><string>Meteora (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>LINKIN PARK</string>
+			<key>Sort Name</key><string>Faint</string>
+			<key>Persistent ID</key><string>6BB65ED4EA67C01D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/LINKIN%20PARK/Meteora%20(Deluxe%20Edition)/07%20Faint.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>43406</key>
+		<dict>
+			<key>Track ID</key><integer>43406</integer>
+			<key>Name</key><string>OMG</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, Jinsu Park, David Dawood, Gigi &#38; Hanni</string>
+			<key>Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>25772032</integer>
+			<key>Total Time</key><integer>212253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-01-14T21:29:11Z</date>
+			<key>Date Added</key><date>2023-01-14T22:29:08Z</date>
+			<key>Play Count</key><integer>218</integer>
+			<key>Play Date</key><integer>3783164146</integer>
+			<key>Play Date UTC</key><date>2023-11-18T19:55:46Z</date>
+			<key>Release Date</key><date>2023-01-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>OMG</string>
+			<key>Persistent ID</key><string>B4E76CD73B9EC8CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%20'OMG'%20-%20Single/01%20OMG%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>45905</key>
+		<dict>
+			<key>Track ID</key><integer>45905</integer>
+			<key>Name</key><string>Super Shy</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Erika de Casier, Kristine Bogan, Frankie Scoca, Gigi, Donghyun Kim &#38; Danielle</string>
+			<key>Album</key><string>NewJeans 'Super Shy' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5731726</integer>
+			<key>Total Time</key><integer>154666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-10T05:16:42Z</date>
+			<key>Date Added</key><date>2023-07-10T05:16:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3782973768</integer>
+			<key>Play Date UTC</key><date>2023-11-16T15:02:48Z</date>
+			<key>Release Date</key><date>2023-07-07T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3058</integer>
+			<key>Sort Album</key><string>NewJeans 'Super Shy' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>Super Shy</string>
+			<key>Persistent ID</key><string>82EA4EB7311C1C06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%20'Super%20Shy'%20-%20Single/02%20Super%20Shy.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46315</key>
+		<dict>
+			<key>Track ID</key><integer>46315</integer>
+			<key>Name</key><string>ETA</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, 250, Sungbeen Lim &#38; Gigi</string>
+			<key>Album</key><string>NewJeans 2nd EP 'Get Up'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5798617</integer>
+			<key>Total Time</key><integer>151373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-07-23T01:15:05Z</date>
+			<key>Date Added</key><date>2023-07-23T01:15:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3783068854</integer>
+			<key>Play Date UTC</key><date>2023-11-17T17:27:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-11-07T15:29:47Z</date>
+			<key>Release Date</key><date>2023-07-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4586</integer>
+			<key>Sort Album</key><string>NewJeans 2nd EP 'Get Up'</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>ETA</string>
+			<key>Persistent ID</key><string>1E184190B2C5490C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%202nd%20EP%20'Get%20Up'/03%20ETA.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47109</key>
+		<dict>
+			<key>Track ID</key><integer>47109</integer>
+			<key>Name</key><string>beside you</string>
+			<key>Artist</key><string>keshi</string>
+			<key>Album Artist</key><string>keshi</string>
+			<key>Composer</key><string>keshi &#38; Hugo Leclercq</string>
+			<key>Album</key><string>beside you - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>6046402</integer>
+			<key>Total Time</key><integer>166023</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-08-25T04:47:08Z</date>
+			<key>Date Added</key><date>2023-08-25T04:47:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3782973098</integer>
+			<key>Play Date UTC</key><date>2023-11-16T14:51:38Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2023-11-09T20:20:22Z</date>
+			<key>Release Date</key><date>2021-04-23T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3291</integer>
+			<key>Sort Album</key><string>beside you - Single</string>
+			<key>Sort Artist</key><string>keshi</string>
+			<key>Sort Name</key><string>beside you</string>
+			<key>Persistent ID</key><string>ECA229F068D10AB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/keshi/beside%20you%20-%20Single/01%20beside%20you.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48275</key>
+		<dict>
+			<key>Track ID</key><integer>48275</integer>
+			<key>Name</key><string>On + On</string>
+			<key>Artist</key><string>Austin Millz &#38; Justine Skye</string>
+			<key>Album Artist</key><string>Austin Millz</string>
+			<key>Composer</key><string>Austin Miller, Adam Korbesmeyer &#38; Jerry "JL" Lang II</string>
+			<key>Album</key><string>Breathwork - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>6177599</integer>
+			<key>Total Time</key><integer>169655</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-10-16T20:39:28Z</date>
+			<key>Date Added</key><date>2023-10-16T20:39:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3783062221</integer>
+			<key>Play Date UTC</key><date>2023-11-17T15:37:01Z</date>
+			<key>Release Date</key><date>2023-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1982</integer>
+			<key>Sort Album</key><string>Breathwork - EP</string>
+			<key>Sort Artist</key><string>Austin Millz &#38; Justine Skye</string>
+			<key>Sort Name</key><string>On + On</string>
+			<key>Persistent ID</key><string>8ECE74960AC377FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Austin%20Millz/Breathwork%20-%20EP/03%20On%20+%20On%201.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48278</key>
+		<dict>
+			<key>Track ID</key><integer>48278</integer>
+			<key>Name</key><string>Bad Behavior</string>
+			<key>Artist</key><string>Austin Millz &#38; Remi Wolf</string>
+			<key>Album Artist</key><string>Austin Millz &#38; Remi Wolf</string>
+			<key>Composer</key><string>Adam Korbesmeyer, Austin Millz, Jerry "JL" Lang II &#38; Michael Christofi</string>
+			<key>Album</key><string>Bad Behavior - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7266249</integer>
+			<key>Total Time</key><integer>202222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2023-10-16T20:39:48Z</date>
+			<key>Date Added</key><date>2023-10-16T20:39:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3782972158</integer>
+			<key>Play Date UTC</key><date>2023-11-16T14:35:58Z</date>
+			<key>Release Date</key><date>2019-11-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3094</integer>
+			<key>Sort Album</key><string>Bad Behavior - Single</string>
+			<key>Sort Artist</key><string>Austin Millz &#38; Remi Wolf</string>
+			<key>Sort Name</key><string>Bad Behavior</string>
+			<key>Persistent ID</key><string>320D0450B3578807</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Austin%20Millz%20&#38;%20Remi%20Wolf/Bad%20Behavior%20-%20Single/01%20Bad%20Behavior.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>131543</key>
+		<dict>
+			<key>Track ID</key><integer>131543</integer>
+			<key>Name</key><string>Cellulite</string>
+			<key>Artist</key><string>AUDREY NUNA</string>
+			<key>Album Artist</key><string>AUDREY NUNA</string>
+			<key>Composer</key><string>Audrey Chu, Anwar Sawyer, Enmanuel Mendez &#38; Myles William</string>
+			<key>Album</key><string>Cellulite - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6837800</integer>
+			<key>Total Time</key><integer>190398</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-06T20:15:50Z</date>
+			<key>Date Added</key><date>2023-11-06T20:15:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3782974911</integer>
+			<key>Play Date UTC</key><date>2023-11-16T15:21:51Z</date>
+			<key>Release Date</key><date>2023-11-03T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3027</integer>
+			<key>Sort Album</key><string>Cellulite - Single</string>
+			<key>Sort Artist</key><string>AUDREY NUNA</string>
+			<key>Sort Name</key><string>Cellulite</string>
+			<key>Persistent ID</key><string>AA99ECC28F246BEF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/AUDREY%20NUNA/Cellulite%20-%20Single/01%20Cellulite.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>134426</key>
+		<dict>
+			<key>Track ID</key><integer>134426</integer>
+			<key>Name</key><string>Hear Me Out</string>
+			<key>Artist</key><string>EXO</string>
+			<key>Album Artist</key><string>EXO</string>
+			<key>Composer</key><string>TAVE, Jeremy Tay Jasper, Tavaughn Young, Adrian Mckinnon, George Carroll, Sadé Munirah, GRADES, Yakob, Jack Rochon &#38; Michael Orabiyi</string>
+			<key>Album</key><string>EXIST - The 7th Album</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7416706</integer>
+			<key>Total Time</key><integer>204093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-08T16:01:19Z</date>
+			<key>Date Added</key><date>2023-11-08T16:01:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3782972579</integer>
+			<key>Play Date UTC</key><date>2023-11-16T14:42:59Z</date>
+			<key>Release Date</key><date>2023-06-30T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6603</integer>
+			<key>Sort Album</key><string>EXIST - The 7th Album</string>
+			<key>Sort Artist</key><string>EXO</string>
+			<key>Sort Name</key><string>Hear Me Out</string>
+			<key>Persistent ID</key><string>C3038BD6A48C832E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/EXO/EXIST%20-%20The%207th%20Album/03%20Hear%20Me%20Out%201.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135363</key>
+		<dict>
+			<key>Track ID</key><integer>135363</integer>
+			<key>Name</key><string>WYA</string>
+			<key>Artist</key><string>Jay Park &#38; NINGNING</string>
+			<key>Album Artist</key><string>Jay Park &#38; NINGNING</string>
+			<key>Album</key><string>WYA - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8068219</integer>
+			<key>Total Time</key><integer>223728</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-08T18:30:26Z</date>
+			<key>Date Added</key><date>2023-11-08T18:30:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3782972379</integer>
+			<key>Play Date UTC</key><date>2023-11-16T14:39:39Z</date>
+			<key>Release Date</key><date>2023-07-30T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2253</integer>
+			<key>Sort Album</key><string>WYA - Single</string>
+			<key>Sort Artist</key><string>Jay Park &#38; NINGNING</string>
+			<key>Sort Name</key><string>WYA</string>
+			<key>Persistent ID</key><string>FB73B57E76B7CF92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Jay%20Park%20&#38;%20NINGNING/WYA%20-%20Single/01%20WYA%201.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135658</key>
+		<dict>
+			<key>Track ID</key><integer>135658</integer>
+			<key>Name</key><string>wyd</string>
+			<key>Artist</key><string>Remi Wolf</string>
+			<key>Album Artist</key><string>Remi Wolf</string>
+			<key>Composer</key><string>Remi Wolf &#38; Jared Solomon</string>
+			<key>Album</key><string>Juno (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>7240004</integer>
+			<key>Total Time</key><integer>199160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-11-08T19:13:39Z</date>
+			<key>Date Added</key><date>2023-11-08T19:13:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3783071910</integer>
+			<key>Play Date UTC</key><date>2023-11-17T18:18:30Z</date>
+			<key>Release Date</key><date>2021-10-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4389</integer>
+			<key>Sort Album</key><string>Juno (Deluxe)</string>
+			<key>Sort Artist</key><string>Remi Wolf</string>
+			<key>Sort Name</key><string>wyd</string>
+			<key>Persistent ID</key><string>2B05F5CC67B0CF7B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Remi%20Wolf/Juno%20(Deluxe)/08%20wyd.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137489</key>
+		<dict>
+			<key>Track ID</key><integer>137489</integer>
+			<key>Name</key><string>Nothing to Lose</string>
+			<key>Artist</key><string>Vagabon</string>
+			<key>Album Artist</key><string>Vagabon</string>
+			<key>Composer</key><string>Laetitia Ange Tamko</string>
+			<key>Album</key><string>Sorry I Haven't Called</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>5296258</integer>
+			<key>Total Time</key><integer>142946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-09T15:30:51Z</date>
+			<key>Date Added</key><date>2023-11-09T15:30:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3782974724</integer>
+			<key>Play Date UTC</key><date>2023-11-16T15:18:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-11-16T23:13:01Z</date>
+			<key>Release Date</key><date>2023-01-12T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3488</integer>
+			<key>Sort Album</key><string>Sorry I Haven't Called</string>
+			<key>Sort Artist</key><string>Vagabon</string>
+			<key>Sort Name</key><string>Nothing to Lose</string>
+			<key>Persistent ID</key><string>F9DA33535419A9CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Vagabon/Sorry%20I%20Haven't%20Called/07%20Nothing%20to%20Lose.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>139386</key>
+		<dict>
+			<key>Track ID</key><integer>139386</integer>
+			<key>Name</key><string>alone</string>
+			<key>Artist</key><string>WILLOW</string>
+			<key>Album Artist</key><string>WILLOW</string>
+			<key>Composer</key><string>Willow Smith &#38; Eddie Benjamin</string>
+			<key>Album</key><string>alone - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5109267</integer>
+			<key>Total Time</key><integer>127280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-10T05:26:05Z</date>
+			<key>Date Added</key><date>2023-11-10T05:26:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3783071714</integer>
+			<key>Play Date UTC</key><date>2023-11-17T18:15:14Z</date>
+			<key>Release Date</key><date>2023-11-03T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2130</integer>
+			<key>Sort Album</key><string>alone - Single</string>
+			<key>Sort Artist</key><string>WILLOW</string>
+			<key>Sort Name</key><string>alone</string>
+			<key>Persistent ID</key><string>46ACB883C250FAF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/WILLOW/alone%20-%20Single/01%20alone.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>141521</key>
+		<dict>
+			<key>Track ID</key><integer>141521</integer>
+			<key>Name</key><string>True romance</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>Ben Sargeant, Daniel Aroseti, Danny Jones, Greg Kurstin, James Bourne, PinkPantheress &#38; Tom Fletcher</string>
+			<key>Album</key><string>Heaven knows</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5133539</integer>
+			<key>Total Time</key><integer>136573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-11T13:13:42Z</date>
+			<key>Date Added</key><date>2023-11-11T13:13:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3783071591</integer>
+			<key>Play Date UTC</key><date>2023-11-17T18:13:11Z</date>
+			<key>Release Date</key><date>2023-11-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6477</integer>
+			<key>Sort Album</key><string>Heaven knows</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>True romance</string>
+			<key>Persistent ID</key><string>4D36399057700241</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/PinkPantheress/Heaven%20knows/02%20True%20romance.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>142145</key>
+		<dict>
+			<key>Track ID</key><integer>142145</integer>
+			<key>Name</key><string>Mercury</string>
+			<key>Artist</key><string>Steve Lacy</string>
+			<key>Album Artist</key><string>Steve Lacy</string>
+			<key>Composer</key><string>Steve Lacy, Ely Rise, Dacoury Natche &#38; Britanny Fousheé</string>
+			<key>Album</key><string>Gemini Rights</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>10471879</integer>
+			<key>Total Time</key><integer>295411</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-11-12T22:05:19Z</date>
+			<key>Date Added</key><date>2023-11-12T22:05:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3782974585</integer>
+			<key>Play Date UTC</key><date>2023-11-16T15:16:25Z</date>
+			<key>Release Date</key><date>2022-05-19T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3611</integer>
+			<key>Sort Album</key><string>Gemini Rights</string>
+			<key>Sort Artist</key><string>Steve Lacy</string>
+			<key>Sort Name</key><string>Mercury</string>
+			<key>Persistent ID</key><string>08967102EF60403A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Steve%20Lacy/Gemini%20Rights/03%20Mercury.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>115750</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>43406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>134426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15938</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42743</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

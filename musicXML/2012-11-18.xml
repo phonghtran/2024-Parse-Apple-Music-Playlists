@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-11-18T22:23:13Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>32148</key>
+		<dict>
+			<key>Track ID</key><integer>32148</integer>
+			<key>Name</key><string>DJ (Madeon Remix)</string>
+			<key>Artist</key><string>Alphabeat</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3498646</integer>
+			<key>Total Time</key><integer>218017</integer>
+			<key>Date Modified</key><date>2011-08-25T15:09:22Z</date>
+			<key>Date Added</key><date>2011-08-25T15:12:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3436030913</integer>
+			<key>Play Date UTC</key><date>2012-11-18T03:01:53Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-11-09T00:30:45Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6670</integer>
+			<key>Persistent ID</key><string>5E5EECF4252E077F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/DJ-Madeon-Remix.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36982</key>
+		<dict>
+			<key>Track ID</key><integer>36982</integer>
+			<key>Name</key><string>Thrift Shop (feat. Wanz)</string>
+			<key>Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album</key><string>The Heist (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9533333</integer>
+			<key>Total Time</key><integer>235676</integer>
+			<key>Start Time</key><integer>3500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-07T03:35:18Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3436031145</integer>
+			<key>Play Date UTC</key><date>2012-11-18T03:05:45Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heist (Deluxe Edition)</string>
+			<key>Persistent ID</key><string>47F92D317AF5A9E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Macklemore%20&#38;%20Ryan%20Lewis%20-%20The%20Heist%20%5BDeluxe%20Edition%5D%20%5B2012%5D%20(iTunes+Extra%20videos+Digital%20Booklet)%20%5BF10%5D/03%20Thrift%20Shop%20(feat.%20Wanz).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36984</key>
+		<dict>
+			<key>Track ID</key><integer>36984</integer>
+			<key>Name</key><string>Thin Line (feat. Buffalo Madonna)</string>
+			<key>Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album</key><string>The Heist (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10355727</integer>
+			<key>Total Time</key><integer>256235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T15:01:38Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3436032234</integer>
+			<key>Play Date UTC</key><date>2012-11-18T03:23:54Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heist (Deluxe Edition)</string>
+			<key>Persistent ID</key><string>E9D52D18774AE4D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Macklemore%20&#38;%20Ryan%20Lewis%20-%20The%20Heist%20%5BDeluxe%20Edition%5D%20%5B2012%5D%20(iTunes+Extra%20videos+Digital%20Booklet)%20%5BF10%5D/04%20Thin%20Line%20(feat.%20Buffalo%20Madonna).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37020</key>
+		<dict>
+			<key>Track ID</key><integer>37020</integer>
+			<key>Name</key><string>Lying Together</string>
+			<key>Artist</key><string>French Kiwi Juice</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10921352</integer>
+			<key>Total Time</key><integer>270942</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T14:13:37Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3436027644</integer>
+			<key>Play Date UTC</key><date>2012-11-18T02:07:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C686923236C45F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/FKJ_Lying%20Together.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37022</key>
+		<dict>
+			<key>Track ID</key><integer>37022</integer>
+			<key>Name</key><string>Float (TheFatRat Remix)</string>
+			<key>Artist</key><string>Pacific Air</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10876347</integer>
+			<key>Total Time</key><integer>259578</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T14:10:43Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3436027907</integer>
+			<key>Play Date UTC</key><date>2012-11-18T02:11:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-11-17T00:30:31Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E1C257978D3E95E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Float%20(TheFatRat%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>84453</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36984</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

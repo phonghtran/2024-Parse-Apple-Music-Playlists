@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-02-17T14:07:08Z</date>
+	<key>Application Version</key><string>11.1.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>40071</key>
+		<dict>
+			<key>Track ID</key><integer>40071</integer>
+			<key>Name</key><string>You’ll Never Know</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Khristopher Riddick-Tynes, Leon Thomas, Kenneth Edmonds &#38; Antonio Dixon</string>
+			<key>Album</key><string>Yours Truly</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8619035</integer>
+			<key>Total Time</key><integer>214308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-12-22T16:22:46Z</date>
+			<key>Date Added</key><date>2013-12-22T18:41:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3475308732</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:32:12Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>030D92FFDFF3123C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/Yours%20Truly/09%20You_ll%20Never%20Know.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40139</key>
+		<dict>
+			<key>Track ID</key><integer>40139</integer>
+			<key>Name</key><string>Trophies</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4643982</integer>
+			<key>Total Time</key><integer>193410</integer>
+			<key>Date Modified</key><date>2014-01-03T14:24:39Z</date>
+			<key>Date Added</key><date>2014-01-04T07:31:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3475308926</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:35:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-02-06T00:17:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2674</integer>
+			<key>Persistent ID</key><string>FDB6FD2AD1C3E312</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Drake/Unknown%20Album/Trophies.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40175</key>
+		<dict>
+			<key>Track ID</key><integer>40175</integer>
+			<key>Name</key><string>Murda (Feat. Pusha T)</string>
+			<key>Artist</key><string>Kid Ink</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5242889</integer>
+			<key>Total Time</key><integer>218017</integer>
+			<key>Date Modified</key><date>2014-01-11T16:13:15Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3475308048</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:20:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>24CC3BE60302F6FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kid%20Ink/Unknown%20Album/Murda%20(Feat.%20Pusha%20T).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40179</key>
+		<dict>
+			<key>Track ID</key><integer>40179</integer>
+			<key>Name</key><string>Fall In Love</string>
+			<key>Artist</key><string>Phantogram</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3601400</integer>
+			<key>Total Time</key><integer>224444</integer>
+			<key>Date Modified</key><date>2014-01-11T16:13:27Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3475307429</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:10:29Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-01-16T00:12:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E179087E0E190A99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Phantogram/Unknown%20Album/Fall%20In%20Love.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40185</key>
+		<dict>
+			<key>Track ID</key><integer>40185</integer>
+			<key>Name</key><string>Murakami</string>
+			<key>Artist</key><string>Made In Heights</string>
+			<key>Album</key><string>Murakami</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10352915</integer>
+			<key>Total Time</key><integer>258768</integer>
+			<key>Date Modified</key><date>2014-01-11T15:15:08Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3475308307</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:25:07Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2014-02-15T18:58:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1945</integer>
+			<key>Persistent ID</key><string>7DB1E16AB89A2B0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Made%20In%20Heights/Murakami/Murakami.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40347</key>
+		<dict>
+			<key>Track ID</key><integer>40347</integer>
+			<key>Name</key><string>I Don't Need a Reason</string>
+			<key>Artist</key><string>Dizzee Rascal</string>
+			<key>Album Artist</key><string>Dizzee Rascal</string>
+			<key>Album</key><string>The Fifth</string>
+			<key>Genre</key><string>Hip-Hop/Alternative Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6404012</integer>
+			<key>Total Time</key><integer>197616</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-01-26T19:50:48Z</date>
+			<key>Date Added</key><date>2014-01-26T19:51:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3475308504</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:28:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-02-14T13:49:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fifth</string>
+			<key>Persistent ID</key><string>02349BB725851939</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dizzee%20Rascal/The%20Fifth/02%20I%20Don't%20Need%20a%20Reason.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40369</key>
+		<dict>
+			<key>Track ID</key><integer>40369</integer>
+			<key>Name</key><string>Life Keeps Moving On</string>
+			<key>Artist</key><string>Dizzee Rascal</string>
+			<key>Album Artist</key><string>Dizzee Rascal</string>
+			<key>Album</key><string>The Fifth</string>
+			<key>Genre</key><string>Hip-Hop/Alternative Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7557577</integer>
+			<key>Total Time</key><integer>233665</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-01-26T19:50:47Z</date>
+			<key>Date Added</key><date>2014-01-26T19:51:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3475307662</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:14:22Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fifth</string>
+			<key>Persistent ID</key><string>3C2C1B21D6B7CC6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dizzee%20Rascal/The%20Fifth/13%20Life%20Keeps%20Moving%20On.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40429</key>
+		<dict>
+			<key>Track ID</key><integer>40429</integer>
+			<key>Name</key><string>Local Girl</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6419127</integer>
+			<key>Total Time</key><integer>156133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-02-03T00:16:16Z</date>
+			<key>Date Added</key><date>2014-02-03T00:26:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3475307186</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:06:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-02-15T05:24:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You</string>
+			<key>Persistent ID</key><string>494F46F4452592EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Neko%20Case/The%20Worse%20Things%20Get,%20The%20Harder%20I%20Fight,%20The%20Harder%20I%20Fight,%20The%20More%20I%20Love%20You/1-10%20Local%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40441</key>
+		<dict>
+			<key>Track ID</key><integer>40441</integer>
+			<key>Name</key><string>Diane Young</string>
+			<key>Artist</key><string>Vampire Weekend</string>
+			<key>Album Artist</key><string>Vampire Weekend</string>
+			<key>Album</key><string>Modern Vampires Of The City</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6464286</integer>
+			<key>Total Time</key><integer>160104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-02-03T01:02:07Z</date>
+			<key>Date Added</key><date>2014-02-03T01:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>*** C A P A J E B O ***</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3475169407</integer>
+			<key>Play Date UTC</key><date>2014-02-14T02:50:07Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-02-15T05:24:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB2459F303F271FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Vampire%20Weekend/Modern%20Vampires%20Of%20The%20City/04%20Diane%20Young.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40477</key>
+		<dict>
+			<key>Track ID</key><integer>40477</integer>
+			<key>Name</key><string>Rigamortis</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4807760</integer>
+			<key>Total Time</key><integer>199888</integer>
+			<key>Start Time</key><integer>23000</integer>
+			<key>Stop Time</key><integer>191000</integer>
+			<key>Date Modified</key><date>2014-02-05T04:04:57Z</date>
+			<key>Date Added</key><date>2014-02-05T04:03:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3475307830</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:17:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-02-14T00:28:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4A81C5255A9B9BF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kendrick%20Lamar/Unknown%20Album/Rigamortis.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40569</key>
+		<dict>
+			<key>Track ID</key><integer>40569</integer>
+			<key>Name</key><string>Bo Peep (Do U Right)</string>
+			<key>Artist</key><string>Shlohmo &#38; Jeremih</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9184718</integer>
+			<key>Total Time</key><integer>229564</integer>
+			<key>Date Modified</key><date>2014-02-14T04:11:13Z</date>
+			<key>Date Added</key><date>2014-02-14T04:27:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3475307031</integer>
+			<key>Play Date UTC</key><date>2014-02-15T17:03:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2578</integer>
+			<key>Persistent ID</key><string>FC476605462A0A96</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Shlohmo%20&#38;%20Jeremih/Unknown%20Album/Bo%20Peep%20(Do%20U%20Right).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>119864</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40369</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

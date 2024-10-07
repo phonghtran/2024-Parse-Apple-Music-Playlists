@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-12-23T19:37:23Z</date>
+	<key>Application Version</key><string>1.4.2.83</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>45428</key>
+		<dict>
+			<key>Track ID</key><integer>45428</integer>
+			<key>Name</key><string>Bad Behavior</string>
+			<key>Artist</key><string>Austin Millz &#38; Remi Wolf</string>
+			<key>Album Artist</key><string>Austin Millz &#38; Remi Wolf</string>
+			<key>Composer</key><string>Adam Korbesmeyer, Austin Millz, Jerry "JL" Lang II &#38; Michael Christofi</string>
+			<key>Album</key><string>Bad Behavior - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7266249</integer>
+			<key>Total Time</key><integer>202222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2023-10-16T19:39:46Z</date>
+			<key>Date Added</key><date>2023-10-16T19:39:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3785833391</integer>
+			<key>Play Date UTC</key><date>2023-12-19T17:23:11Z</date>
+			<key>Release Date</key><date>2019-11-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bad Behavior - Single</string>
+			<key>Sort Artist</key><string>Austin Millz &#38; Remi Wolf</string>
+			<key>Sort Name</key><string>Bad Behavior</string>
+			<key>Persistent ID</key><string>256B56ED80EC2430</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45776</key>
+		<dict>
+			<key>Track ID</key><integer>45776</integer>
+			<key>Name</key><string>WYA</string>
+			<key>Artist</key><string>Jay Park &#38; NINGNING</string>
+			<key>Album Artist</key><string>Jay Park &#38; NINGNING</string>
+			<key>Album</key><string>WYA - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8068219</integer>
+			<key>Total Time</key><integer>223729</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-08T18:30:21Z</date>
+			<key>Date Added</key><date>2023-11-08T18:30:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3785660758</integer>
+			<key>Play Date UTC</key><date>2023-12-17T17:25:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-11-23T00:29:41Z</date>
+			<key>Release Date</key><date>2023-07-30T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WYA - Single</string>
+			<key>Sort Artist</key><string>Jay Park &#38; NINGNING</string>
+			<key>Sort Name</key><string>WYA</string>
+			<key>Persistent ID</key><string>1EA63F3CD20065E3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45778</key>
+		<dict>
+			<key>Track ID</key><integer>45778</integer>
+			<key>Name</key><string>wyd</string>
+			<key>Artist</key><string>Remi Wolf</string>
+			<key>Album Artist</key><string>Remi Wolf</string>
+			<key>Composer</key><string>Remi Wolf &#38; Jared Solomon</string>
+			<key>Album</key><string>Juno (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7240004</integer>
+			<key>Total Time</key><integer>199160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-11-08T19:13:35Z</date>
+			<key>Date Added</key><date>2023-11-08T19:13:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3785486406</integer>
+			<key>Play Date UTC</key><date>2023-12-15T17:00:06Z</date>
+			<key>Release Date</key><date>2021-10-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Juno (Deluxe)</string>
+			<key>Sort Artist</key><string>Remi Wolf</string>
+			<key>Sort Name</key><string>wyd</string>
+			<key>Persistent ID</key><string>C066DA90B93E551C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45982</key>
+		<dict>
+			<key>Track ID</key><integer>45982</integer>
+			<key>Name</key><string>True romance</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>Ben Sargeant, Daniel Aroesti, Danny Jones, Greg Kurstin, James Bourne, PinkPantheress &#38; Tom Fletcher</string>
+			<key>Album</key><string>Heaven knows</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5133566</integer>
+			<key>Total Time</key><integer>136573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-11-11T13:13:31Z</date>
+			<key>Date Added</key><date>2023-11-11T13:13:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3785660538</integer>
+			<key>Play Date UTC</key><date>2023-12-17T17:22:18Z</date>
+			<key>Release Date</key><date>2023-11-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heaven knows</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>True romance</string>
+			<key>Persistent ID</key><string>6EF73766689BED2C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46120</key>
+		<dict>
+			<key>Track ID</key><integer>46120</integer>
+			<key>Name</key><string>NVMD</string>
+			<key>Artist</key><string>Denise Julia</string>
+			<key>Album Artist</key><string>Denise Julia</string>
+			<key>Composer</key><string>Denise Julia</string>
+			<key>Album</key><string>NVMD - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6450926</integer>
+			<key>Total Time</key><integer>181224</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-11-21T21:13:37Z</date>
+			<key>Date Added</key><date>2023-11-21T21:13:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3785660207</integer>
+			<key>Play Date UTC</key><date>2023-12-17T17:16:47Z</date>
+			<key>Release Date</key><date>2022-02-03T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NVMD - Single</string>
+			<key>Sort Artist</key><string>Denise Julia</string>
+			<key>Sort Name</key><string>NVMD</string>
+			<key>Persistent ID</key><string>420134EB0A09262F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46124</key>
+		<dict>
+			<key>Track ID</key><integer>46124</integer>
+			<key>Name</key><string>Pick Up Your Phone (feat. MOON)</string>
+			<key>Artist</key><string>GroovyRoom &#38; Leellamarz</string>
+			<key>Album Artist</key><string>GroovyRoom &#38; Leellamarz</string>
+			<key>Album</key><string>Room Service</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6716076</integer>
+			<key>Total Time</key><integer>185729</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2023-11-21T21:15:39Z</date>
+			<key>Date Added</key><date>2023-11-21T21:15:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3785507720</integer>
+			<key>Play Date UTC</key><date>2023-12-15T22:55:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-11-21T21:14:02Z</date>
+			<key>Release Date</key><date>2019-09-09T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room Service</string>
+			<key>Sort Artist</key><string>GroovyRoom &#38; Leellamarz</string>
+			<key>Sort Name</key><string>Pick Up Your Phone (feat. MOON)</string>
+			<key>Persistent ID</key><string>2904572037821705</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46128</key>
+		<dict>
+			<key>Track ID</key><integer>46128</integer>
+			<key>Name</key><string>That Girl</string>
+			<key>Artist</key><string>Baby Tate</string>
+			<key>Album Artist</key><string>Baby Tate</string>
+			<key>Composer</key><string>Tate Farris</string>
+			<key>Album</key><string>GIRLS Deluxe</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10060060</integer>
+			<key>Total Time</key><integer>270187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2023-11-21T21:36:45Z</date>
+			<key>Date Added</key><date>2023-11-21T21:36:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3785507990</integer>
+			<key>Play Date UTC</key><date>2023-12-15T22:59:50Z</date>
+			<key>Release Date</key><date>2019-06-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GIRLS Deluxe</string>
+			<key>Sort Artist</key><string>Baby Tate</string>
+			<key>Sort Name</key><string>That Girl</string>
+			<key>Persistent ID</key><string>047D1F7ED157C4FB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122943</key>
+		<dict>
+			<key>Track ID</key><integer>122943</integer>
+			<key>Name</key><string>Steeeam</string>
+			<key>Artist</key><string>Shelly</string>
+			<key>Album Artist</key><string>Shelly</string>
+			<key>Composer</key><string>Claudia Mintz, Claire Cottrill, Noa Getzug &#38; Joshua Mehling</string>
+			<key>Album</key><string>Shelly - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6319519</integer>
+			<key>Total Time</key><integer>170893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2023-12-21T05:24:58Z</date>
+			<key>Date Added</key><date>2023-12-21T05:24:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-10-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Shelly - Single</string>
+			<key>Sort Artist</key><string>Shelly</string>
+			<key>Sort Name</key><string>Steeeam</string>
+			<key>Persistent ID</key><string>3F9D1E5318ABEDAE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>124273</key>
+		<dict>
+			<key>Track ID</key><integer>124273</integer>
+			<key>Name</key><string>Supermodel Avalanches</string>
+			<key>Artist</key><string>Royal Blood</string>
+			<key>Album Artist</key><string>Royal Blood</string>
+			<key>Composer</key><string>Mike Kerr &#38; Royal Blood</string>
+			<key>Album</key><string>Back To The Water Below (Bonus Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6861642</integer>
+			<key>Total Time</key><integer>190130</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-12-22T14:56:08Z</date>
+			<key>Date Added</key><date>2023-12-22T14:56:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2023-09-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back To The Water Below (Bonus Edition)</string>
+			<key>Sort Artist</key><string>Royal Blood</string>
+			<key>Sort Name</key><string>Supermodel Avalanches</string>
+			<key>Persistent ID</key><string>EAB35FC3181D4251</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>117494</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45778</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124273</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

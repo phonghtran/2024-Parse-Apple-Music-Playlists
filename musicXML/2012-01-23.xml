@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-26T15:31:10Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10774</key>
+		<dict>
+			<key>Track ID</key><integer>10774</integer>
+			<key>Name</key><string>Acoustic #3</string>
+			<key>Artist</key><string>Goo Goo Dolls</string>
+			<key>Album</key><string>Dizzy up the Girl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1871983</integer>
+			<key>Total Time</key><integer>116845</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2008-07-19T16:59:01Z</date>
+			<key>Date Added</key><date>2010-06-17T13:13:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3410411697</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:34:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-02-04T18:24:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>553</integer>
+			<key>Persistent ID</key><string>01943EF94FA2A0EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Goo%20Goo%20Dolls%20-%20Acoustic%203.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18486</key>
+		<dict>
+			<key>Track ID</key><integer>18486</integer>
+			<key>Name</key><string>Boo Boo Goo Goo</string>
+			<key>Artist</key><string>Caesars</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5606557</integer>
+			<key>Total Time</key><integer>216816</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-07-19T16:45:03Z</date>
+			<key>Date Added</key><date>2010-06-17T13:25:10Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3410411914</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:38:34Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2010-08-22T07:33:58Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9857</integer>
+			<key>Persistent ID</key><string>CA9FEBA0832DFFB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20March%202008/12%20-%20Caesars%20-%20Boo%20Boo%20Goo%20Goo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21192</key>
+		<dict>
+			<key>Track ID</key><integer>21192</integer>
+			<key>Name</key><string>The Devil's Crayon</string>
+			<key>Artist</key><string>Wild Beasts</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6098627</integer>
+			<key>Total Time</key><integer>216685</integer>
+			<key>Track Number</key><integer>99</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-05-23T17:40:03Z</date>
+			<key>Date Added</key><date>2010-06-17T13:31:12Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3410207122</integer>
+			<key>Play Date UTC</key><date>2012-01-24T05:45:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-01-24T23:03:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3203</integer>
+			<key>Sort Name</key><string>Devil's Crayon</string>
+			<key>Persistent ID</key><string>BDF9E38738615D7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20July%202008/99%20-%20Wild%20Beasts%20-%20The%20Devil's%20Crayon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24348</key>
+		<dict>
+			<key>Track ID</key><integer>24348</integer>
+			<key>Name</key><string>Love, Save the Empty</string>
+			<key>Artist</key><string>Erin McCarley</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7143552</integer>
+			<key>Total Time</key><integer>255111</integer>
+			<key>Date Modified</key><date>2009-08-03T04:05:06Z</date>
+			<key>Date Added</key><date>2010-06-17T13:37:15Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3410321172</integer>
+			<key>Play Date UTC</key><date>2012-01-25T13:26:12Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2012-01-24T23:07:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7089</integer>
+			<key>Persistent ID</key><string>4CF36C5F773769A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW%202009/5%20stars/Erin_McCarley-Love_Save_the_Empty.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31056</key>
+		<dict>
+			<key>Track ID</key><integer>31056</integer>
+			<key>Name</key><string>Abracadabra</string>
+			<key>Artist</key><string>Jessie J</string>
+			<key>Album Artist</key><string>Jessie J</string>
+			<key>Composer</key><string>Jessica Cornish, Lukasz Gottwald &#38; Claude Kelly</string>
+			<key>Album</key><string>Who You Are</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7876580</integer>
+			<key>Total Time</key><integer>230713</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-29T07:22:47Z</date>
+			<key>Date Added</key><date>2011-06-29T08:41:13Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3410320624</integer>
+			<key>Play Date UTC</key><date>2012-01-25T13:17:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-22T06:51:41Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7E44E4CB9A165D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jessie%20J%20-%20Who%20You%20Are%20(Deluxe)%20iTunesRip%202011%20%5BMJN%5D/03%20-%20Abracadabra.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34208</key>
+		<dict>
+			<key>Track ID</key><integer>34208</integer>
+			<key>Name</key><string>It's Getting Boring By The Sea</string>
+			<key>Artist</key><string>Blood Red Shoes</string>
+			<key>Album</key><string>Box of Secrets</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5591032</integer>
+			<key>Total Time</key><integer>176248</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-01-09T01:52:29Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:24Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3410345125</integer>
+			<key>Play Date UTC</key><date>2012-01-25T20:05:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10417</integer>
+			<key>Persistent ID</key><string>EB13B5093EC6DD56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Blood%20Red%20Shoes%20-%20Box%20Of%20Secrets%20%5B2008-MP3-V0%5D%20RiP-OiNK/09%20It's%20Getting%20Boring%20By%20The%20Sea.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34222</key>
+		<dict>
+			<key>Track ID</key><integer>34222</integer>
+			<key>Name</key><string>Do-Wah-Doo</string>
+			<key>Artist</key><string>Kate Nash</string>
+			<key>Album</key><string>My Best Friend Is You</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3937841</integer>
+			<key>Total Time</key><integer>154017</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-01-09T01:47:30Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:25Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>another djsforfun exclusive!
+
+From the first lines of the ebullient opener Paris, taken from Kate Nash's
+second album, it is apparent that Miss Nash has made the transition from bedroom
+blogger and ingenue to young woman on a mission. The song and the</string>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3410368771</integer>
+			<key>Play Date UTC</key><date>2012-01-26T02:39:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>790D35CBAF83EB72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Kate_Nash-My_Best_Friend_Is_You-(Retail)-2010-SOM/kate_nash-05-do-wah-doo-som.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34244</key>
+		<dict>
+			<key>Track ID</key><integer>34244</integer>
+			<key>Name</key><string>Generator ^ First Floor</string>
+			<key>Artist</key><string>Freelance Whales</string>
+			<key>Album Artist</key><string>Freelance Whales</string>
+			<key>Album</key><string>Weathervanes</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6280077</integer>
+			<key>Total Time</key><integer>188368</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2012-01-09T01:43:27Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:27Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3410411309</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:28:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>657D6FB98E4AD867</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Freelance%20Whales/Weathervanes/01%20Generator%20%5E%20First%20Floor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34266</key>
+		<dict>
+			<key>Track ID</key><integer>34266</integer>
+			<key>Name</key><string>Generator ^ Second Floor</string>
+			<key>Artist</key><string>Freelance Whales</string>
+			<key>Album Artist</key><string>Freelance Whales</string>
+			<key>Album</key><string>Weathervanes</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9008748</integer>
+			<key>Total Time</key><integer>271882</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2012-01-09T01:43:16Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3410411581</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:33:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00F526AEBD185424</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Freelance%20Whales/Weathervanes/12%20Generator%20%5E%20Second%20Floor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34280</key>
+		<dict>
+			<key>Track ID</key><integer>34280</integer>
+			<key>Name</key><string>Shuffle</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind Of Fix</string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7706824</integer>
+			<key>Total Time</key><integer>235337</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-01-09T01:40:07Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3410411120</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:25:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-12T20:40:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Different Kind Of Fix</string>
+			<key>Persistent ID</key><string>30467D928F266EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Bombay_Bicycle_Club-A_Different_Kind_Of_Fix-2011-SiRE/06-bombay_bicycle_club-shuffle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34298</key>
+		<dict>
+			<key>Track ID</key><integer>34298</integer>
+			<key>Name</key><string>Do You Want It All</string>
+			<key>Artist</key><string>Two Door Cinema Club</string>
+			<key>Album</key><string>Tourist History [Promo]</string>
+			<key>Genre</key><string>Indie, Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8632750</integer>
+			<key>Total Time</key><integer>209475</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-01-09T01:32:28Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>electrocircle.ru </string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3410361688</integer>
+			<key>Play Date UTC</key><date>2012-01-26T00:41:28Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-01-24T23:07:25Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35E5A118E7938EFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Two%20Door%20Cinema%20Club%20-%20Tourist%20History%20%20%5B2010%5D%5BEng%5D-%5BICEMAN%5D%5Bh33t%5D/03%20Do%20You%20Want%20It%20All.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34306</key>
+		<dict>
+			<key>Track ID</key><integer>34306</integer>
+			<key>Name</key><string>Undercover Martyn</string>
+			<key>Artist</key><string>Two Door Cinema Club</string>
+			<key>Album</key><string>Tourist History [Promo]</string>
+			<key>Genre</key><string>Indie, Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6981810</integer>
+			<key>Total Time</key><integer>168202</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-01-09T01:32:20Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>electrocircle.ru </string>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3410410885</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:21:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-01-23T20:27:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>268D18D2956CE8DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Two%20Door%20Cinema%20Club%20-%20Tourist%20History%20%20%5B2010%5D%5BEng%5D-%5BICEMAN%5D%5Bh33t%5D/07%20Undercover%20Martyn.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34348</key>
+		<dict>
+			<key>Track ID</key><integer>34348</integer>
+			<key>Name</key><string>Hello (Original Mix)</string>
+			<key>Artist</key><string>Martin Solveig feat. Dragonette</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5692466</integer>
+			<key>Total Time</key><integer>282200</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-01-09T02:29:42Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:30Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3410410717</integer>
+			<key>Play Date UTC</key><date>2012-01-26T14:18:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7153</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BFAD6F3006ACBBC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Martin%20Solveig%20-%20Hello.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good 1</string>
+			<key>Playlist ID</key><integer>1305268</integer>
+			<key>Playlist Persistent ID</key><string>363442B999C9F367</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>31056</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34208</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

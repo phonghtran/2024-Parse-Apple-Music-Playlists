@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-08-11T21:51:19Z</date>
+	<key>Application Version</key><string>11.0.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>36325</key>
+		<dict>
+			<key>Track ID</key><integer>36325</integer>
+			<key>Name</key><string>Mr. Cloud</string>
+			<key>Artist</key><string>The American Secrets</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6282913</integer>
+			<key>Total Time</key><integer>180349</integer>
+			<key>Date Modified</key><date>2013-01-07T13:35:49Z</date>
+			<key>Date Added</key><date>2012-03-09T13:05:42Z</date>
+			<key>Bit Rate</key><integer>278</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3458812575</integer>
+			<key>Play Date UTC</key><date>2013-08-08T18:16:15Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-01-26T17:32:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>American Secrets</string>
+			<key>Persistent ID</key><string>3EBEB8429965503B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/The_American_Secrets-Mr._Cloud.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39277</key>
+		<dict>
+			<key>Track ID</key><integer>39277</integer>
+			<key>Name</key><string>Super America</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>It Hurts - EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7414353</integer>
+			<key>Total Time</key><integer>230112</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-30T09:20:18Z</date>
+			<key>Date Added</key><date>2013-03-02T18:44:59Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://badbadhats.bandcamp.com</string>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3459066776</integer>
+			<key>Play Date UTC</key><date>2013-08-11T16:52:56Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCABD3C3618ED927</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP%20-%2002%20Super%20America.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40057</key>
+		<dict>
+			<key>Track ID</key><integer>40057</integer>
+			<key>Name</key><string>Norgaard</string>
+			<key>Artist</key><string>The Vaccines</string>
+			<key>Composer</key><string>The Vaccines</string>
+			<key>Album</key><string>Home Is Where The Start Is (Home Demos 2009 - 2012)</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2386518</integer>
+			<key>Total Time</key><integer>99343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-05-14T14:11:48Z</date>
+			<key>Date Added</key><date>2013-05-25T19:37:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>79</integer>
+			<key>Play Date</key><integer>3459069870</integer>
+			<key>Play Date UTC</key><date>2013-08-11T17:44:30Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2013-08-11T17:37:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15321</integer>
+			<key>Sort Artist</key><string>Vaccines</string>
+			<key>Sort Composer</key><string>Vaccines</string>
+			<key>Persistent ID</key><string>34A2A2AA81091FCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/The%20Vaccines/Home%20Is%20Where%20The%20Start%20Is%20(Home%20Demos%202009%20-%202012)/08%20Norgaard.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40191</key>
+		<dict>
+			<key>Track ID</key><integer>40191</integer>
+			<key>Name</key><string>Siren's Song</string>
+			<key>Artist</key><string>Rogue Wave</string>
+			<key>Album</key><string>Nightingale</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11151059</integer>
+			<key>Total Time</key><integer>300094</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-06-10T23:08:36Z</date>
+			<key>Date Added</key><date>2013-06-10T23:11:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Mr_Nicky</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3458819485</integer>
+			<key>Play Date UTC</key><date>2013-08-08T20:11:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-09T12:51:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E559EF25F2F49780</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Rogue%20Wave%20-%20Nightingale%202013%20-%20Mr_Nicky/sirens%20song.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40601</key>
+		<dict>
+			<key>Track ID</key><integer>40601</integer>
+			<key>Name</key><string>Beautiful Night</string>
+			<key>Artist</key><string>Beast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7297987</integer>
+			<key>Total Time</key><integer>227735</integer>
+			<key>Start Time</key><integer>4500</integer>
+			<key>Stop Time</key><integer>221500</integer>
+			<key>Date Modified</key><date>2013-07-15T20:28:33Z</date>
+			<key>Date Added</key><date>2013-07-15T19:43:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3458885648</integer>
+			<key>Play Date UTC</key><date>2013-08-09T14:34:08Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-07-20T18:19:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4BA7CB7B75254C8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Beast%20-%20Beautiful%20Night.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40637</key>
+		<dict>
+			<key>Track ID</key><integer>40637</integer>
+			<key>Name</key><string>Born Too Late</string>
+			<key>Artist</key><string>Dent May</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4515216</integer>
+			<key>Total Time</key><integer>281547</integer>
+			<key>Date Modified</key><date>2013-07-20T18:17:09Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:06Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3458819856</integer>
+			<key>Play Date UTC</key><date>2013-08-08T20:17:36Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-08-05T18:50:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B08ABE92143B6972</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Dent%20May%20-%20Born%20Too%20Late%20-%20360p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40645</key>
+		<dict>
+			<key>Track ID</key><integer>40645</integer>
+			<key>Name</key><string>Take a Card</string>
+			<key>Artist</key><string>The Preatures</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6741269</integer>
+			<key>Total Time</key><integer>210337</integer>
+			<key>Date Modified</key><date>2013-07-20T18:17:56Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3459063422</integer>
+			<key>Play Date UTC</key><date>2013-08-11T15:57:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-08-11T00:08:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Preatures</string>
+			<key>Persistent ID</key><string>D5AE4B78400637A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The%20Preatures%20-%20Take%20a%20Card%20-%20480p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40653</key>
+		<dict>
+			<key>Track ID</key><integer>40653</integer>
+			<key>Name</key><string>Stoopid</string>
+			<key>Artist</key><string>Wave Racer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3489958</integer>
+			<key>Total Time</key><integer>217469</integer>
+			<key>Date Modified</key><date>2013-07-20T18:18:34Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3458916716</integer>
+			<key>Play Date UTC</key><date>2013-08-09T23:11:56Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-08-08T19:36:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>091B9E88153104F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Wave%20Racer%20-%20Stoopid%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40659</key>
+		<dict>
+			<key>Track ID</key><integer>40659</integer>
+			<key>Name</key><string>Tennis Court</string>
+			<key>Artist</key><string>Lorde</string>
+			<key>Album Artist</key><string>Lorde</string>
+			<key>Album</key><string>Tennis Court - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8053398</integer>
+			<key>Total Time</key><integer>198948</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-20T18:01:24Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3458917321</integer>
+			<key>Play Date UTC</key><date>2013-08-09T23:22:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-07-21T15:31:01Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8B6E5020569A493</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Lorde%20-%20Tennis%20Court.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40711</key>
+		<dict>
+			<key>Track ID</key><integer>40711</integer>
+			<key>Name</key><string>Hot Like Fire</string>
+			<key>Artist</key><string>Angel Haze</string>
+			<key>Album Artist</key><string>Angel Haze</string>
+			<key>Album</key><string>RESERVATION</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8657726</integer>
+			<key>Total Time</key><integer>213577</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-13T13:43:46Z</date>
+			<key>Date Added</key><date>2013-07-20T18:21:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Direct Download via DJBooth.net</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3458812165</integer>
+			<key>Play Date UTC</key><date>2013-08-08T18:09:25Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6984</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16E317E17FE95671</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Angel%20Haze%20-%20RESERVATION/06%20Hot%20Like%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40735</key>
+		<dict>
+			<key>Track ID</key><integer>40735</integer>
+			<key>Name</key><string>Upper Echelon ft. T.I., 2 Chainz</string>
+			<key>Artist</key><string>Travi$ Scott</string>
+			<key>Album</key><string>Owl Pharaoh</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3723368</integer>
+			<key>Total Time</key><integer>173008</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-05-21T23:28:30Z</date>
+			<key>Date Added</key><date>2013-07-22T05:02:33Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3459069770</integer>
+			<key>Play Date UTC</key><date>2013-08-11T17:42:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-22T15:42:16Z</date>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>100589211A3A39DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Travi%20Scott%20-%20Owl%20Pharaoh%20(DatPiff.com)/03%20-%20Upper%20Echelon%20ft%20TI%202%20Chainz.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40845</key>
+		<dict>
+			<key>Track ID</key><integer>40845</integer>
+			<key>Name</key><string>Alone Together</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Album</key><string>Save Rock and Roll</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3349649</integer>
+			<key>Total Time</key><integer>203363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-27T04:14:48Z</date>
+			<key>Date Added</key><date>2013-07-29T17:37:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3458936356</integer>
+			<key>Play Date UTC</key><date>2013-08-10T04:39:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E76E12440A69786</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Fall%20Out%20Boy%20-%20Save%20Rock%20and%20Roll%20%5B2013-Album%5D%20WEB-DL%20Mp3%20CBR%20128Kbps%20NimitMak%20SilverRG/03%20-%20Alone%20Together.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40857</key>
+		<dict>
+			<key>Track ID</key><integer>40857</integer>
+			<key>Name</key><string>Young Volcanoes</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Album</key><string>Save Rock and Roll</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3369295</integer>
+			<key>Total Time</key><integer>204591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-27T04:14:47Z</date>
+			<key>Date Added</key><date>2013-07-29T17:37:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3459065034</integer>
+			<key>Play Date UTC</key><date>2013-08-11T16:23:54Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7E19E4A04010691</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Fall%20Out%20Boy%20-%20Save%20Rock%20and%20Roll%20%5B2013-Album%5D%20WEB-DL%20Mp3%20CBR%20128Kbps%20NimitMak%20SilverRG/09%20-%20Young%20Volcanoes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40883</key>
+		<dict>
+			<key>Track ID</key><integer>40883</integer>
+			<key>Name</key><string>Keep Diggin' (featuring Lizzo)</string>
+			<key>Artist</key><string>Mixed Blood Majority</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6576673</integer>
+			<key>Total Time</key><integer>220786</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-30T17:36:38Z</date>
+			<key>Date Added</key><date>2013-07-30T17:37:10Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://mixedbloodmajority.bandcamp.com</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3459069597</integer>
+			<key>Play Date UTC</key><date>2013-08-11T17:39:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5DA965CB3587533E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Mixed%20Blood%20Majority%20-%20Keep%20Diggin'%20(featuring%20Lizzo).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40911</key>
+		<dict>
+			<key>Track ID</key><integer>40911</integer>
+			<key>Name</key><string>Growl</string>
+			<key>Artist</key><string>EXO-K</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6670185</integer>
+			<key>Total Time</key><integer>208117</integer>
+			<key>Stop Time</key><integer>203500</integer>
+			<key>Date Modified</key><date>2013-07-31T22:32:40Z</date>
+			<key>Date Added</key><date>2013-07-31T22:30:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3459070073</integer>
+			<key>Play Date UTC</key><date>2013-08-11T17:47:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C46BC0D2C9001E34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/exo-k%20-%20growl.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>112739</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40911</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40735</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

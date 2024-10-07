@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-04-21T12:57:52Z</date>
+	<key>Application Version</key><string>11.1.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>20342</key>
+		<dict>
+			<key>Track ID</key><integer>20342</integer>
+			<key>Name</key><string>The Missing Year</string>
+			<key>Artist</key><string>Nightmare and the Cat</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9101321</integer>
+			<key>Total Time</key><integer>254186</integer>
+			<key>Date Modified</key><date>2013-10-26T06:24:10Z</date>
+			<key>Date Added</key><date>2012-03-09T11:04:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3480692082</integer>
+			<key>Play Date UTC</key><date>2014-04-18T23:54:42Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2014-04-16T23:08:37Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3078</integer>
+			<key>Sort Name</key><string>Missing Year</string>
+			<key>Persistent ID</key><string>4F72F2DB05A4C1C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Nightmare%20and%20the%20Cat/Unknown%20Album/The%20Missing%20Year.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40804</key>
+		<dict>
+			<key>Track ID</key><integer>40804</integer>
+			<key>Name</key><string>썸 (Feat. 릴보이 of 긱스)</string>
+			<key>Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album</key><string>썸</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8665369</integer>
+			<key>Total Time</key><integer>211435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-02-08T00:17:26Z</date>
+			<key>Date Added</key><date>2014-03-29T17:00:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://k2nblog.com</string>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3480845321</integer>
+			<key>Play Date UTC</key><date>2014-04-20T18:28:41Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2014-04-14T22:36:35Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7B412E17852AA7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B2%20&#38;%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%80%E1%85%A9%20(SoYou%20&#38;%20JunggiGo)/%E1%84%8A%E1%85%A5%E1%86%B7/1-01%20%E1%84%8A%E1%85%A5%E1%86%B7%20(Feat.%20%E1%84%85%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A9%E1%84%8B%E1%85%B5%20of%20%E1%84%80%E1%85%B5%E1%86%A8%E1%84%89%E1%85%B3).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40806</key>
+		<dict>
+			<key>Track ID</key><integer>40806</integer>
+			<key>Name</key><string>Blind (Twilight Mix)</string>
+			<key>Artist</key><string>정기고(Junggigo)</string>
+			<key>Album Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album</key><string>썸</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8626236</integer>
+			<key>Total Time</key><integer>210468</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-02-08T00:17:26Z</date>
+			<key>Date Added</key><date>2014-03-29T17:00:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://k2nblog.com</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3480695753</integer>
+			<key>Play Date UTC</key><date>2014-04-19T00:55:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-17T22:34:06Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09ECE7A424970EFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B2%20&#38;%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%80%E1%85%A9%20(SoYou%20&#38;%20JunggiGo)/%E1%84%8A%E1%85%A5%E1%86%B7/1-02%20Blind%20(Twilight%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40810</key>
+		<dict>
+			<key>Track ID</key><integer>40810</integer>
+			<key>Name</key><string>Coffee</string>
+			<key>Artist</key><string>Sylvan Esso</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4290602</integer>
+			<key>Total Time</key><integer>267520</integer>
+			<key>Date Modified</key><date>2014-03-29T20:09:14Z</date>
+			<key>Date Added</key><date>2014-03-29T20:08:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3480687917</integer>
+			<key>Play Date UTC</key><date>2014-04-18T22:45:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-13T20:44:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>840EC83CC957571D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Sylvan%20Esso/Unknown%20Album/Coffee.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40826</key>
+		<dict>
+			<key>Track ID</key><integer>40826</integer>
+			<key>Name</key><string>Need You Feat. Blu</string>
+			<key>Artist</key><string>L'Orange</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2726189</integer>
+			<key>Total Time</key><integer>169743</integer>
+			<key>Date Modified</key><date>2014-03-29T20:21:20Z</date>
+			<key>Date Added</key><date>2014-03-29T20:17:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3480845106</integer>
+			<key>Play Date UTC</key><date>2014-04-20T18:25:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-16T13:36:12Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1F3D8905243E9578</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/L'Orange/Unknown%20Album/Need%20You%20Feat.%20Blu.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40890</key>
+		<dict>
+			<key>Track ID</key><integer>40890</integer>
+			<key>Name</key><string>Tolerated (feat. Waka Flocka Flame) (DatPiff Exclusive)</string>
+			<key>Artist</key><string>Girl Talk &#38; Freeway</string>
+			<key>Album</key><string>Broken Ankles EP</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7922412</integer>
+			<key>Total Time</key><integer>195474</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Date Modified</key><date>2014-04-08T20:17:48Z</date>
+			<key>Date Added</key><date>2014-04-09T02:49:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Downloaded from DatPiff.com</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3480482367</integer>
+			<key>Play Date UTC</key><date>2014-04-16T13:39:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-19T00:01:50Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5754C625E77EA8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Broken%20Ankles%20EP/02%20Tolerated%20(feat.%20Waka%20Flocka%20Flame)%20(DatPiff%20Exclusive).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40894</key>
+		<dict>
+			<key>Track ID</key><integer>40894</integer>
+			<key>Name</key><string>I Can Hear Sweat (feat. Jadakiss) (DatPiff Exclusive)</string>
+			<key>Artist</key><string>Girl Talk &#38; Freeway</string>
+			<key>Album</key><string>Broken Ankles EP</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11016353</integer>
+			<key>Total Time</key><integer>272822</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Date Modified</key><date>2014-04-08T20:17:50Z</date>
+			<key>Date Added</key><date>2014-04-09T02:49:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Downloaded from DatPiff.com</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3480687242</integer>
+			<key>Play Date UTC</key><date>2014-04-18T22:34:02Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22F7D86477619096</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Compilations/Broken%20Ankles%20EP/04%20I%20Can%20Hear%20Sweat%20(feat.%20Jadakiss)%20(DatPiff%20Exclusive).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40900</key>
+		<dict>
+			<key>Track ID</key><integer>40900</integer>
+			<key>Name</key><string>My Friends Never Die</string>
+			<key>Artist</key><string>ODESZA</string>
+			<key>Album</key><string>My Friends Never Die</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6931506</integer>
+			<key>Total Time</key><integer>171572</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-31T20:50:26Z</date>
+			<key>Date Added</key><date>2014-04-09T03:40:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3480688088</integer>
+			<key>Play Date UTC</key><date>2014-04-18T22:48:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-13T20:44:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>184F68E34EBEE8D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/ODESZA/My%20Friends%20Never%20Die/01%20My%20Friends%20Never%20Die.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41120</key>
+		<dict>
+			<key>Track ID</key><integer>41120</integer>
+			<key>Name</key><string>Chatoyant (Beauty Bass)</string>
+			<key>Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album</key><string>MADE IN HEIGHTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3682066</integer>
+			<key>Total Time</key><integer>229485</integer>
+			<key>Date Modified</key><date>2014-04-13T15:01:17Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3480687649</integer>
+			<key>Play Date UTC</key><date>2014-04-18T22:40:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D1FBD58FD8CC3188</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/MADE%20IN%20HEIGHTS/MADE%20IN%20HEIGHTS/Chatoyant%20(Beauty%20Bass).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41132</key>
+		<dict>
+			<key>Track ID</key><integer>41132</integer>
+			<key>Name</key><string>Wildflowers (Exhale Efreet)</string>
+			<key>Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album</key><string>MADE IN HEIGHTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2948966</integer>
+			<key>Total Time</key><integer>183666</integer>
+			<key>Date Modified</key><date>2014-04-13T15:19:56Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3480688272</integer>
+			<key>Play Date UTC</key><date>2014-04-18T22:51:12Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F58FD84A63C4A215</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/MADE%20IN%20HEIGHTS/MADE%20IN%20HEIGHTS/Wildflowers%20(Exhale%20Efreet).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41134</key>
+		<dict>
+			<key>Track ID</key><integer>41134</integer>
+			<key>Name</key><string>Good Mistake</string>
+			<key>Artist</key><string>Mr Little Jeans</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4115101</integer>
+			<key>Total Time</key><integer>256548</integer>
+			<key>Date Modified</key><date>2014-04-13T15:01:06Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3480845577</integer>
+			<key>Play Date UTC</key><date>2014-04-20T18:32:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B9244F1328176529</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Mr%20Little%20Jeans/Unknown%20Album/Good%20Mistake.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41138</key>
+		<dict>
+			<key>Track ID</key><integer>41138</integer>
+			<key>Name</key><string>Dysnomia</string>
+			<key>Artist</key><string>Dawn of Midi</string>
+			<key>Album Artist</key><string>Dawn of Midi</string>
+			<key>Album</key><string>Dysnomia</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4102424</integer>
+			<key>Total Time</key><integer>253648</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-04-13T14:59:07Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://dawnofmidi.bandcamp.com</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3480692505</integer>
+			<key>Play Date UTC</key><date>2014-04-19T00:01:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-13T15:19:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1E2187A3652C16D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Dawn%20of%20Midi/Dysnomia/09%20Dysnomia.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41154</key>
+		<dict>
+			<key>Track ID</key><integer>41154</integer>
+			<key>Name</key><string>DEATH</string>
+			<key>Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album</key><string>DEATH</string>
+			<key>Genre</key><string>Pop Fiction</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10781333</integer>
+			<key>Total Time</key><integer>269479</integer>
+			<key>Start Time</key><integer>9000</integer>
+			<key>Date Modified</key><date>2014-04-13T15:02:02Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3480844936</integer>
+			<key>Play Date UTC</key><date>2014-04-20T18:22:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-13T15:02:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1912</integer>
+			<key>Persistent ID</key><string>E585E9684FEF75B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/MADE%20IN%20HEIGHTS/DEATH/DEATH.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41158</key>
+		<dict>
+			<key>Track ID</key><integer>41158</integer>
+			<key>Name</key><string>Fury Oh Fury</string>
+			<key>Artist</key><string>Nico Vega</string>
+			<key>Album Artist</key><string>Nico Vega</string>
+			<key>Composer</key><string>Tim Edgar, Aja Volkman, Dan Epand &#38; Rich Koehler</string>
+			<key>Album</key><string>Fury Oh Fury EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8076636</integer>
+			<key>Total Time</key><integer>228666</integer>
+			<key>Start Time</key><integer>8150</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-04-13T15:47:43Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3480689763</integer>
+			<key>Play Date UTC</key><date>2014-04-18T23:16:03Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2014-04-13T16:09:35Z</date>
+			<key>Release Date</key><date>2013-02-05T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11081</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97F8BC11C42A0609</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Nico%20Vega/Fury%20Oh%20Fury%20EP/01%20Fury%20Oh%20Fury.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41168</key>
+		<dict>
+			<key>Track ID</key><integer>41168</integer>
+			<key>Name</key><string>Artifice</string>
+			<key>Artist</key><string>SOHN</string>
+			<key>Album</key><string>Tremors</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8097104</integer>
+			<key>Total Time</key><integer>198556</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-04-13T14:32:25Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3480689481</integer>
+			<key>Play Date UTC</key><date>2014-04-18T23:11:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D9B0969F18DBA10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/SOHN/Tremors/03%20Artifice.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41178</key>
+		<dict>
+			<key>Track ID</key><integer>41178</integer>
+			<key>Name</key><string>Unkinder (A Tougher Love)</string>
+			<key>Artist</key><string>Galore</string>
+			<key>Album Artist</key><string>Galore</string>
+			<key>Album</key><string>Thumpers</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8894417</integer>
+			<key>Total Time</key><integer>222354</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2014-04-13T15:10:55Z</date>
+			<key>Date Added</key><date>2014-04-13T15:14:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3480695543</integer>
+			<key>Play Date UTC</key><date>2014-04-19T00:52:23Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2AB8A651E6377534</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Galore/Thumpers/04%20Unkinder%20(A%20Tougher%20Love).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>120274</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40804</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40826</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40810</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41178</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-03-17T04:20:57Z</date>
+	<key>Application Version</key><string>12.5.5.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>A4463A0B4393DE9D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>108450</key>
+		<dict>
+			<key>Track ID</key><integer>108450</integer>
+			<key>Name</key><string>Stay</string>
+			<key>Artist</key><string>Zedd &#38; Alessia Cara</string>
+			<key>Album Artist</key><string>Zedd &#38; Alessia Cara</string>
+			<key>Composer</key><string>Alessia Cara, Anton Zaslavski, Noonie Bao, Linus Wiklund, Sarah Aarons &#38; Anders Froen</string>
+			<key>Album</key><string>Stay - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7595302</integer>
+			<key>Total Time</key><integer>210091</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-02-25T18:14:20Z</date>
+			<key>Date Added</key><date>2017-02-25T17:14:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3572502949</integer>
+			<key>Play Date UTC</key><date>2017-03-16T16:55:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-03-14T01:22:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stay - Single</string>
+			<key>Sort Artist</key><string>Zedd &#38; Alessia Cara</string>
+			<key>Sort Name</key><string>Stay</string>
+			<key>Persistent ID</key><string>655A8005F65E99AA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>128340</key>
+		<dict>
+			<key>Track ID</key><integer>128340</integer>
+			<key>Name</key><string>Peaceful Road</string>
+			<key>Artist</key><string>City and Colour</string>
+			<key>Album Artist</key><string>City and Colour</string>
+			<key>Album</key><string>Peaceful Road - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10391853</integer>
+			<key>Total Time</key><integer>278247</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-04T23:05:50Z</date>
+			<key>Date Added</key><date>2017-03-04T22:05:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3572493976</integer>
+			<key>Play Date UTC</key><date>2017-03-16T14:26:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-09T17:30:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Peaceful Road - Single</string>
+			<key>Sort Artist</key><string>City and Colour</string>
+			<key>Sort Name</key><string>Peaceful Road</string>
+			<key>Persistent ID</key><string>D773DCBCBFB42BC7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>128691</key>
+		<dict>
+			<key>Track ID</key><integer>128691</integer>
+			<key>Name</key><string>Feel It Still</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Album</key><string>Feel It Still - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5942393</integer>
+			<key>Total Time</key><integer>163268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-04T23:39:33Z</date>
+			<key>Date Added</key><date>2017-03-04T22:39:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3572457713</integer>
+			<key>Play Date UTC</key><date>2017-03-16T04:21:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feel It Still - Single</string>
+			<key>Sort Artist</key><string>Portugal. The Man</string>
+			<key>Sort Name</key><string>Feel It Still</string>
+			<key>Persistent ID</key><string>31D4B7CE7E5EFE81</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>130819</key>
+		<dict>
+			<key>Track ID</key><integer>130819</integer>
+			<key>Name</key><string>마지막 첫사랑 My First and Last</string>
+			<key>Artist</key><string>NCT DREAM</string>
+			<key>Album Artist</key><string>NCT DREAM</string>
+			<key>Album</key><string>The First - The 1st Single Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7195880</integer>
+			<key>Total Time</key><integer>201980</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-07T18:00:34Z</date>
+			<key>Date Added</key><date>2017-03-07T17:00:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3572498261</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:37:41Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>First - The 1st Single Album</string>
+			<key>Sort Artist</key><string>NCT DREAM</string>
+			<key>Sort Name</key><string>마지막 첫사랑 My First and Last</string>
+			<key>Persistent ID</key><string>93EAA21357FA88FF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>130826</key>
+		<dict>
+			<key>Track ID</key><integer>130826</integer>
+			<key>Name</key><string>몸매 Mommae (feat. Ugly Duck)</string>
+			<key>Artist</key><string>Jay Park</string>
+			<key>Album Artist</key><string>Jay Park</string>
+			<key>Album</key><string>몸매 Mommae - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7180964</integer>
+			<key>Total Time</key><integer>204992</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-03-07T18:06:31Z</date>
+			<key>Date Added</key><date>2017-03-07T17:06:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3572497787</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:29:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-09T17:33:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>몸매 Mommae - Single</string>
+			<key>Sort Artist</key><string>Jay Park</string>
+			<key>Sort Name</key><string>몸매 Mommae (feat. Ugly Duck)</string>
+			<key>Persistent ID</key><string>E5E8C7D11B1704AD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>130846</key>
+		<dict>
+			<key>Track ID</key><integer>130846</integer>
+			<key>Name</key><string>그려줘 DRAW ME</string>
+			<key>Artist</key><string>Wonder Girls</string>
+			<key>Album Artist</key><string>Wonder Girls</string>
+			<key>Album</key><string>그려줘 DRAW ME - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8756574</integer>
+			<key>Total Time</key><integer>229887</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-07T20:30:35Z</date>
+			<key>Date Added</key><date>2017-03-07T19:30:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3572497582</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:26:22Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>그려줘 DRAW ME - Single</string>
+			<key>Sort Artist</key><string>Wonder Girls</string>
+			<key>Sort Name</key><string>그려줘 DRAW ME</string>
+			<key>Persistent ID</key><string>DCDB162B1A200E8E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132367</key>
+		<dict>
+			<key>Track ID</key><integer>132367</integer>
+			<key>Name</key><string>No Frauds</string>
+			<key>Artist</key><string>Nicki Minaj, Drake &#38; Lil Wayne</string>
+			<key>Album Artist</key><string>Nicki Minaj, Drake &#38; Lil Wayne</string>
+			<key>Composer</key><string>Onika Miraj, Dwayne Michael Carter, Jr., Aubrey Graham &#38; Brittany Hazzard</string>
+			<key>Album</key><string>No Frauds - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9514756</integer>
+			<key>Total Time</key><integer>272429</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-10T18:02:20Z</date>
+			<key>Date Added</key><date>2017-03-10T17:02:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3572498059</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:34:19Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Frauds - Single</string>
+			<key>Sort Artist</key><string>Nicki Minaj, Drake &#38; Lil Wayne</string>
+			<key>Sort Name</key><string>No Frauds</string>
+			<key>Persistent ID</key><string>9671237912B2A0DD</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132602</key>
+		<dict>
+			<key>Track ID</key><integer>132602</integer>
+			<key>Name</key><string>Half a Million</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album Artist</key><string>The Shins</string>
+			<key>Composer</key><string>James Mercer</string>
+			<key>Album</key><string>Heartworms</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7609703</integer>
+			<key>Total Time</key><integer>203301</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-11T06:43:19Z</date>
+			<key>Date Added</key><date>2017-03-11T05:43:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3572497352</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:22:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-12T06:19:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heartworms</string>
+			<key>Sort Album Artist</key><string>Shins</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Name</key><string>Half a Million</string>
+			<key>Persistent ID</key><string>A0F7C01B219F9209</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132633</key>
+		<dict>
+			<key>Track ID</key><integer>132633</integer>
+			<key>Name</key><string>REDMERCEDES</string>
+			<key>Artist</key><string>Aminé</string>
+			<key>Album Artist</key><string>Aminé</string>
+			<key>Composer</key><string>James Ryan Ho &#38; Adam Daniel</string>
+			<key>Album</key><string>REDMERCEDES - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6157703</integer>
+			<key>Total Time</key><integer>169703</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-11T07:12:28Z</date>
+			<key>Date Added</key><date>2017-03-11T06:12:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3572494444</integer>
+			<key>Play Date UTC</key><date>2017-03-16T14:34:04Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>REDMERCEDES - Single</string>
+			<key>Sort Artist</key><string>Aminé</string>
+			<key>Sort Name</key><string>REDMERCEDES</string>
+			<key>Persistent ID</key><string>1FF332B4F18921B0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132640</key>
+		<dict>
+			<key>Track ID</key><integer>132640</integer>
+			<key>Name</key><string>It's a Vibe (feat. Ty Dolla $ign, Trey Songz &#38; Jhené Aiko)</string>
+			<key>Artist</key><string>2 Chainz</string>
+			<key>Album Artist</key><string>2 Chainz</string>
+			<key>Composer</key><string>Tauheed Epps, Tyrone Griffin Jr, Jhené Aiko, Tremaine Neverson, Shane Lindstrom &#38; Robert Mandell</string>
+			<key>Album</key><string>It's a Vibe (feat. Ty Dolla $ign, Trey Songz &#38; Jhené Aiko) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7453611</integer>
+			<key>Total Time</key><integer>210394</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-11T07:46:20Z</date>
+			<key>Date Added</key><date>2017-03-11T06:46:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3572502739</integer>
+			<key>Play Date UTC</key><date>2017-03-16T16:52:19Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>It's a Vibe (feat. Ty Dolla $ign, Trey Songz &#38; Jhené Aiko) - Single</string>
+			<key>Sort Artist</key><string>2 Chainz</string>
+			<key>Sort Name</key><string>It's a Vibe (feat. Ty Dolla $ign, Trey Songz &#38; Jhené Aiko)</string>
+			<key>Persistent ID</key><string>F4E91F84071658E1</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132839</key>
+		<dict>
+			<key>Track ID</key><integer>132839</integer>
+			<key>Name</key><string>Chanel</string>
+			<key>Artist</key><string>Frank Ocean</string>
+			<key>Album Artist</key><string>Frank Ocean</string>
+			<key>Album</key><string>Chanel - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7534697</integer>
+			<key>Total Time</key><integer>210285</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-12T00:51:41Z</date>
+			<key>Date Added</key><date>2017-03-11T23:51:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3572498748</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:45:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chanel - Single</string>
+			<key>Sort Artist</key><string>Frank Ocean</string>
+			<key>Sort Name</key><string>Chanel</string>
+			<key>Persistent ID</key><string>758FD141FD8D2CB3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>138799</key>
+		<dict>
+			<key>Track ID</key><integer>138799</integer>
+			<key>Name</key><string>Naked in the White House</string>
+			<key>Artist</key><string>Eric Bellinger</string>
+			<key>Album Artist</key><string>Eric Bellinger</string>
+			<key>Album</key><string>Eric B for President: Term 2</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4411523</integer>
+			<key>Total Time</key><integer>117590</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-03-13T00:33:07Z</date>
+			<key>Date Added</key><date>2017-03-13T00:33:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3572543937</integer>
+			<key>Play Date UTC</key><date>2017-03-17T04:18:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Eric B for President: Term 2</string>
+			<key>Sort Artist</key><string>Eric Bellinger</string>
+			<key>Sort Name</key><string>Naked in the White House</string>
+			<key>Persistent ID</key><string>0C4DC4C61C4BEBB5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>139730</key>
+		<dict>
+			<key>Track ID</key><integer>139730</integer>
+			<key>Name</key><string>I Feel It Coming (feat. Daft Punk)</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Album Artist</key><string>The Weeknd</string>
+			<key>Composer</key><string>Abel Tesfaye, Thomas Bangalter, Guy-Manuel de Homem-Christo, Martin McKinney, Henry Russell Walter &#38; Eric chedeville</string>
+			<key>Album</key><string>Starboy</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10137692</integer>
+			<key>Total Time</key><integer>269176</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-03-13T06:10:22Z</date>
+			<key>Date Added</key><date>2017-03-13T06:10:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3572457550</integer>
+			<key>Play Date UTC</key><date>2017-03-16T04:19:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Starboy</string>
+			<key>Sort Album Artist</key><string>Weeknd</string>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Sort Name</key><string>I Feel It Coming (feat. Daft Punk)</string>
+			<key>Persistent ID</key><string>DAAEA20648E573F2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>168277</key>
+		<dict>
+			<key>Track ID</key><integer>168277</integer>
+			<key>Name</key><string>Arizona</string>
+			<key>Artist</key><string>Frances Cone</string>
+			<key>Album</key><string>Arizona single</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6758039</integer>
+			<key>Total Time</key><integer>199784</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:10Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3572452008</integer>
+			<key>Play Date UTC</key><date>2017-03-16T02:46:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-15T15:19:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0540A7986ACB726</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Frances%20Cone/Arizona%20single/Arizona.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168301</key>
+		<dict>
+			<key>Track ID</key><integer>168301</integer>
+			<key>Name</key><string>Cool 2</string>
+			<key>Artist</key><string>Hoops</string>
+			<key>Album</key><string>Hoops EP</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11326992</integer>
+			<key>Total Time</key><integer>115565</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:20Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3572503435</integer>
+			<key>Play Date UTC</key><date>2017-03-16T17:03:55Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5927</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF9CCEA6B92907C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Hoops/Hoops%20EP/Cool%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168334</key>
+		<dict>
+			<key>Track ID</key><integer>168334</integer>
+			<key>Name</key><string>Edge Of Town</string>
+			<key>Artist</key><string>Middle Kids</string>
+			<key>Album</key><string>Middle Kids EP</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9174402</integer>
+			<key>Total Time</key><integer>225593</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:09Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3572542134</integer>
+			<key>Play Date UTC</key><date>2017-03-17T03:48:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8283</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Middle Kids EP</string>
+			<key>Sort Artist</key><string>Middle Kids</string>
+			<key>Sort Name</key><string>Edge Of Town</string>
+			<key>Persistent ID</key><string>9E977F73159881C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Middle%20Kids/Middle%20Kids%20EP/Edge%20Of%20Town.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168355</key>
+		<dict>
+			<key>Track ID</key><integer>168355</integer>
+			<key>Name</key><string>Frustrated</string>
+			<key>Artist</key><string>R.LUM.R</string>
+			<key>Album</key><string>Frustrated single</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8127170</integer>
+			<key>Total Time</key><integer>201528</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:17Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3572503320</integer>
+			<key>Play Date UTC</key><date>2017-03-16T17:02:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4276</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3022C3C9188FA0E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/R.LUM.R/Frustrated%20single/Frustrated.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168388</key>
+		<dict>
+			<key>Track ID</key><integer>168388</integer>
+			<key>Name</key><string>I Don't Wanna Go</string>
+			<key>Artist</key><string>Coco Hames</string>
+			<key>Album</key><string>Coco Hames</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7184863</integer>
+			<key>Total Time</key><integer>169200</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:22Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3572503118</integer>
+			<key>Play Date UTC</key><date>2017-03-16T16:58:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79DE5F9E71FB4AC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Coco%20Hames/Coco%20Hames/I%20Don't%20Wanna%20Go.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168421</key>
+		<dict>
+			<key>Track ID</key><integer>168421</integer>
+			<key>Name</key><string>Machines That Breathe</string>
+			<key>Artist</key><string>Be Charlotte</string>
+			<key>Album</key><string>Machines That Breathe single</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5875256</integer>
+			<key>Total Time</key><integer>177031</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:12Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3572494153</integer>
+			<key>Play Date UTC</key><date>2017-03-16T14:29:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2398D5F7E8DC24CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Be%20Charlotte/Machines%20That%20Breathe%20single/Machines%20That%20Breathe.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168433</key>
+		<dict>
+			<key>Track ID</key><integer>168433</integer>
+			<key>Name</key><string>Namesake</string>
+			<key>Artist</key><string>Tunde Olaniran</string>
+			<key>Album</key><string>Transgressor</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11565611</integer>
+			<key>Total Time</key><integer>275748</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:10Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3572498538</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:42:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10613</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A24632632E7DFFD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tunde%20Olaniran/Transgressor/Namesake.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168448</key>
+		<dict>
+			<key>Track ID</key><integer>168448</integer>
+			<key>Name</key><string>Peeuurrnn</string>
+			<key>Artist</key><string>Eric Biddines</string>
+			<key>Album</key><string>The Local Cafe</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9404566</integer>
+			<key>Total Time</key><integer>204199</integer>
+			<key>Stop Time</key><integer>153000</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:15Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3572503589</integer>
+			<key>Play Date UTC</key><date>2017-03-16T17:06:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Local Cafe</string>
+			<key>Persistent ID</key><string>050F26D0D0EF3241</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Eric%20Biddines/The%20Local%20Cafe/Peeuurrnn.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168499</key>
+		<dict>
+			<key>Track ID</key><integer>168499</integer>
+			<key>Name</key><string>Speed</string>
+			<key>Artist</key><string>Trapo</string>
+			<key>Album</key><string>Shade Trees</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9410402</integer>
+			<key>Total Time</key><integer>234501</integer>
+			<key>Date Modified</key><date>2017-03-14T01:34:21Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3572494907</integer>
+			<key>Play Date UTC</key><date>2017-03-16T14:41:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3102</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0984E4B8AAD56098</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Trapo/Shade%20Trees/Speed.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168523</key>
+		<dict>
+			<key>Track ID</key><integer>168523</integer>
+			<key>Name</key><string>Tick</string>
+			<key>Artist</key><string>Weaves</string>
+			<key>Album</key><string>Weaves</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7425167</integer>
+			<key>Total Time</key><integer>179382</integer>
+			<key>Date Modified</key><date>2017-02-21T05:04:51Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3572497030</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:17:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2C75969D04CCBB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Weaves/Weaves/Tick.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>168535</key>
+		<dict>
+			<key>Track ID</key><integer>168535</integer>
+			<key>Name</key><string>Watch The World Unfold</string>
+			<key>Artist</key><string>Gaelynn Lea</string>
+			<key>Album</key><string>The Songs We Sing Along The Way</string>
+			<key>Genre</key><string>NPR Music's The Austin 100 (2017)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7360978</integer>
+			<key>Total Time</key><integer>228597</integer>
+			<key>Date Modified</key><date>2017-03-14T03:16:55Z</date>
+			<key>Date Added</key><date>2017-03-14T01:25:04Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3572494672</integer>
+			<key>Play Date UTC</key><date>2017-03-16T14:37:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs We Sing Along The Way</string>
+			<key>Persistent ID</key><string>E0842FB944F8A551</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Gaelynn%20Lea/The%20Songs%20We%20Sing%20Along%20The%20Way/Watch%20The%20World%20Unfold.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>62325</integer>
+			<key>Playlist Persistent ID</key><string>147F51BC79E9E6D1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>108450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130826</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130846</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>138799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139730</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168301</integer>
+				</dict>
+			</array>
+			<key>Loved</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

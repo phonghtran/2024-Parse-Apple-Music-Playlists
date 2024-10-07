@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-04-05T12:46:51Z</date>
+	<key>Application Version</key><string>12.9.4.94</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>2669A17526BB44EC</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>Track ID</key><string>1</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Name</key><string>Pantala Naga Pampa</string>
+			<key>Genre</key><string>Alternative</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>Track ID</key><string>2</string>
+			<key>Artist</key><string>Everything</string>
+			<key>Name</key><string>Hooch</string>
+			<key>Genre</key><string>Alternative</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Track ID</key><string>3</string>
+			<key>Artist</key><string>Beastie Boys</string>
+			<key>Name</key><string>Body Movin'</string>
+			<key>Genre</key><string>Rap</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Track ID</key><string>4</string>
+			<key>Artist</key><string>Jimmy's Chicken Stack</string>
+			<key>Name</key><string>Do Right</string>
+			<key>Genre</key><string>Alt Rock</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Track ID</key><string>5</string>
+			<key>Artist</key><string>No Doubt</string>
+			<key>Name</key><string>Spiderwebs</string>
+			<key>Genre</key><string>Alt Rock</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Track ID</key><string>6</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Name</key><string>About a Girl</string>
+			<key>Genre</key><string>Punk Rock</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Track ID</key><string>7</string>
+			<key>Artist</key><string>Supergrass</string>
+			<key>Name</key><string>Pumping On Your Stereo</string>
+			<key>Genre</key><string>Alternative</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Track ID</key><string>8</string>
+			<key>Artist</key><string>Collective Soul</string>
+			<key>Name</key><string>Generate</string>
+			<key>Genre</key><string>Alternative</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Track ID</key><string>9</string>
+			<key>Artist</key><string>Moby</string>
+			<key>Name</key><string>Bodyrock</string>
+			<key>Genre</key><string>Electronic</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>Track ID</key><string>10</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Name</key><string>Canned Heat</string>
+			<key>Genre</key><string>Soul</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Track ID</key><string>11</string>
+			<key>Artist</key><string>Travis</string>
+			<key>Name</key><string>Baby Hit Me One More Time</string>
+			<key>Genre</key><string>Alternative</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>Track ID</key><string>12</string>
+			<key>Artist</key><string>Stone Temple Pilots</string>
+			<key>Name</key><string>Interstate Love Song</string>
+			<key>Genre</key><string>Alt rock</string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Track ID</key><string>13</string>
+			<key>Artist</key><string>Guster</string>
+			<key>Name</key><string>Fa Fa</string>
+			<key>Genre</key><string>Alternative</string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>Track ID</key><string>14</string>
+			<key>Artist</key><string>Sting</string>
+			<key>Name</key><string>A Thousand Years</string>
+			<key>Genre</key><string>Pop</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>79112</integer>
+			<key>Playlist Persistent ID</key><string>4B9904806C0E2BC1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

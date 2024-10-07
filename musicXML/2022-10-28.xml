@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-10-28T14:23:34Z</date>
+	<key>Application Version</key><string>1.3.0.138</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>46610</key>
+		<dict>
+			<key>Track ID</key><integer>46610</integer>
+			<key>Name</key><string>Ba Bumpin</string>
+			<key>Artist</key><string>Kalisway</string>
+			<key>Album Artist</key><string>Kalisway</string>
+			<key>Composer</key><string>Kalisway</string>
+			<key>Album</key><string>Special K - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8643862</integer>
+			<key>Total Time</key><integer>238005</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-09-20T02:37:36Z</date>
+			<key>Date Added</key><date>2022-09-20T02:37:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3749668563</integer>
+			<key>Play Date UTC</key><date>2022-10-27T02:36:03Z</date>
+			<key>Release Date</key><date>2020-10-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6246</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Special K - EP</string>
+			<key>Sort Artist</key><string>Kalisway</string>
+			<key>Sort Name</key><string>Ba Bumpin</string>
+			<key>Persistent ID</key><string>DBE620B2AA37EE4D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46642</key>
+		<dict>
+			<key>Track ID</key><integer>46642</integer>
+			<key>Name</key><string>ABC (feat. Sophia Black)</string>
+			<key>Artist</key><string>Polyphia</string>
+			<key>Album Artist</key><string>Polyphia</string>
+			<key>Composer</key><string>Ari Starace, Clay Aeschliman, Clay Gober, Scott Lepage, Sophia Black, Suyu Schubert, Suyuki &#38; Tim Henson</string>
+			<key>Album</key><string>ABC (feat. Sophia Black) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5884761</integer>
+			<key>Total Time</key><integer>152361</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-09-21T04:06:17Z</date>
+			<key>Date Added</key><date>2022-09-21T04:06:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3749307110</integer>
+			<key>Play Date UTC</key><date>2022-10-22T22:11:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-13T15:13:11Z</date>
+			<key>Release Date</key><date>2022-09-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ABC (feat. Sophia Black) - Single</string>
+			<key>Sort Artist</key><string>Polyphia</string>
+			<key>Sort Name</key><string>ABC (feat. Sophia Black)</string>
+			<key>Persistent ID</key><string>1187C376ECE46DBC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46889</key>
+		<dict>
+			<key>Track ID</key><integer>46889</integer>
+			<key>Name</key><string>Lonely Daze</string>
+			<key>Artist</key><string>Senseless Optimism</string>
+			<key>Album Artist</key><string>Senseless Optimism</string>
+			<key>Composer</key><string>Senseless Optimism</string>
+			<key>Album</key><string>Lonely Daze - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4832687</integer>
+			<key>Total Time</key><integer>130211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-10-05T02:15:39Z</date>
+			<key>Date Added</key><date>2022-10-05T02:15:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3749323413</integer>
+			<key>Play Date UTC</key><date>2022-10-23T02:43:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-13T15:13:16Z</date>
+			<key>Release Date</key><date>2021-02-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3501</integer>
+			<key>Sort Album</key><string>Lonely Daze - Single</string>
+			<key>Sort Artist</key><string>Senseless Optimism</string>
+			<key>Sort Name</key><string>Lonely Daze</string>
+			<key>Persistent ID</key><string>AC18F3322AC90B83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Senseless%20Optimism/Lonely%20Daze%20-%20Single/01%20Lonely%20Daze.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46964</key>
+		<dict>
+			<key>Track ID</key><integer>46964</integer>
+			<key>Name</key><string>Do It Again (feat. 2Rare)</string>
+			<key>Artist</key><string>NLE Choppa</string>
+			<key>Album Artist</key><string>NLE Choppa</string>
+			<key>Composer</key><string>Bryson Lashaun Potts, Miles Gregory, NASEEM YOUNG, Orlando Wilder &#38; Tramayne Watson</string>
+			<key>Album</key><string>Do It Again (feat. 2Rare) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7574419</integer>
+			<key>Total Time</key><integer>213206</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-07T18:59:31Z</date>
+			<key>Date Added</key><date>2022-10-07T18:59:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3749323283</integer>
+			<key>Play Date UTC</key><date>2022-10-23T02:41:23Z</date>
+			<key>Release Date</key><date>2022-10-07T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2893</integer>
+			<key>Sort Album</key><string>Do It Again (feat. 2Rare) - Single</string>
+			<key>Sort Artist</key><string>NLE Choppa</string>
+			<key>Sort Name</key><string>Do It Again (feat. 2Rare)</string>
+			<key>Persistent ID</key><string>2D5B025AF5554340</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NLE%20Choppa/Do%20It%20Again%20(feat.%202Rare)%20-%20Single/01%20Do%20It%20Again%20(feat.%202Rare).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46982</key>
+		<dict>
+			<key>Track ID</key><integer>46982</integer>
+			<key>Name</key><string>The Blessing</string>
+			<key>Artist</key><string>YOASOBI</string>
+			<key>Album Artist</key><string>YOASOBI</string>
+			<key>Composer</key><string>Ayase</string>
+			<key>Album</key><string>The Blessing - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7217723</integer>
+			<key>Total Time</key><integer>196235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-08T14:51:38Z</date>
+			<key>Date Added</key><date>2022-10-08T14:51:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3749323828</integer>
+			<key>Play Date UTC</key><date>2022-10-23T02:50:28Z</date>
+			<key>Release Date</key><date>2022-10-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10055</integer>
+			<key>Sort Album</key><string>Blessing - Single</string>
+			<key>Sort Artist</key><string>YOASOBI</string>
+			<key>Sort Name</key><string>Blessing</string>
+			<key>Persistent ID</key><string>DC8ED0A6B935002B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/YOASOBI/The%20Blessing%20-%20Single/01%20The%20Blessing.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47009</key>
+		<dict>
+			<key>Track ID</key><integer>47009</integer>
+			<key>Name</key><string>Bouncy Ball</string>
+			<key>Artist</key><string>Kalisway</string>
+			<key>Album Artist</key><string>Kalisway</string>
+			<key>Composer</key><string>Kiya Myers-Barrett</string>
+			<key>Album</key><string>Can't Tell Me Nothing - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8188341</integer>
+			<key>Total Time</key><integer>219061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-10T19:32:48Z</date>
+			<key>Date Added</key><date>2022-10-10T19:32:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3749323632</integer>
+			<key>Play Date UTC</key><date>2022-10-23T02:47:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-21T15:27:15Z</date>
+			<key>Release Date</key><date>2022-07-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5457</integer>
+			<key>Sort Album</key><string>Can't Tell Me Nothing - EP</string>
+			<key>Sort Artist</key><string>Kalisway</string>
+			<key>Sort Name</key><string>Bouncy Ball</string>
+			<key>Persistent ID</key><string>8075772F94C037EA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Kalisway/Can't%20Tell%20Me%20Nothing%20-%20EP/05%20Bouncy%20Ball.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47337</key>
+		<dict>
+			<key>Track ID</key><integer>47337</integer>
+			<key>Name</key><string>Moved On</string>
+			<key>Artist</key><string>LAUNDRY DAY</string>
+			<key>Album Artist</key><string>LAUNDRY DAY</string>
+			<key>Composer</key><string>LAUNDRY DAY</string>
+			<key>Album</key><string>Moved On - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>37826560</integer>
+			<key>Total Time</key><integer>184218</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-17T16:16:11Z</date>
+			<key>Date Added</key><date>2022-10-17T16:16:05Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3749324013</integer>
+			<key>Play Date UTC</key><date>2022-10-23T02:53:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-22T22:02:45Z</date>
+			<key>Release Date</key><date>2022-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moved On - Single</string>
+			<key>Sort Artist</key><string>LAUNDRY DAY</string>
+			<key>Sort Name</key><string>Moved On</string>
+			<key>Persistent ID</key><string>3D2B6E8C52BC031C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/LAUNDRY%20DAY/Moved%20On%20-%20Single/01%20Moved%20On%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47340</key>
+		<dict>
+			<key>Track ID</key><integer>47340</integer>
+			<key>Name</key><string>God Value</string>
+			<key>Artist</key><string>Payroll</string>
+			<key>Album Artist</key><string>Payroll</string>
+			<key>Composer</key><string>Petros Habtom</string>
+			<key>Album</key><string>God Value - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>15769600</integer>
+			<key>Total Time</key><integer>148909</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-17T16:16:10Z</date>
+			<key>Date Added</key><date>2022-10-17T16:16:05Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3749324416</integer>
+			<key>Play Date UTC</key><date>2022-10-23T03:00:16Z</date>
+			<key>Release Date</key><date>2022-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>God Value - Single</string>
+			<key>Sort Artist</key><string>Payroll</string>
+			<key>Sort Name</key><string>God Value</string>
+			<key>Persistent ID</key><string>D64391B513236FB3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Payroll/God%20Value%20-%20Single/01%20God%20Value%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47376</key>
+		<dict>
+			<key>Track ID</key><integer>47376</integer>
+			<key>Name</key><string>Lunar Eclipse</string>
+			<key>Artist</key><string>Fulton Lee</string>
+			<key>Album Artist</key><string>Fulton Lee</string>
+			<key>Composer</key><string>Fulton Lee Farrish, August Pappas, Jake Schweinzberg &#38; Anna Gwendolyn Kline</string>
+			<key>Album</key><string>Lunar Eclipse - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>41869312</integer>
+			<key>Total Time</key><integer>194498</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-19T06:19:12Z</date>
+			<key>Date Added</key><date>2022-10-19T06:19:07Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3749322852</integer>
+			<key>Play Date UTC</key><date>2022-10-23T02:34:12Z</date>
+			<key>Release Date</key><date>2022-06-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lunar Eclipse - Single</string>
+			<key>Sort Artist</key><string>Fulton Lee</string>
+			<key>Sort Name</key><string>Lunar Eclipse</string>
+			<key>Persistent ID</key><string>BD59AD79A0AACD56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Fulton%20Lee/Lunar%20Eclipse%20-%20Single/01%20Lunar%20Eclipse.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47793</key>
+		<dict>
+			<key>Track ID</key><integer>47793</integer>
+			<key>Name</key><string>Karma</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Jack Antonoff, Mark Anthony Spears, Keanu Torres &#38; Jahaan Akil Sweet</string>
+			<key>Album</key><string>Midnights (3am Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>45133824</integer>
+			<key>Total Time</key><integer>204852</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-21T16:16:09Z</date>
+			<key>Date Added</key><date>2022-10-21T16:15:57Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3749464924</integer>
+			<key>Play Date UTC</key><date>2022-10-24T18:02:04Z</date>
+			<key>Release Date</key><date>2022-10-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Midnights (3am Edition)</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Karma</string>
+			<key>Persistent ID</key><string>0389584983A7B86C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Taylor%20Swift/Midnights%20(3am%20Edition)/11%20Karma.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48688</key>
+		<dict>
+			<key>Track ID</key><integer>48688</integer>
+			<key>Name</key><string>TGANG</string>
+			<key>Artist</key><string>Louyah</string>
+			<key>Album Artist</key><string>Louyah</string>
+			<key>Composer</key><string>Brian Edward Bernotas, John Ciro Vigorito &#38; Louis Vigorito</string>
+			<key>Album</key><string>TGANG - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>14307328</integer>
+			<key>Total Time</key><integer>70482</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-25T23:56:20Z</date>
+			<key>Date Added</key><date>2022-10-25T23:56:15Z</date>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3749642896</integer>
+			<key>Play Date UTC</key><date>2022-10-26T19:28:16Z</date>
+			<key>Release Date</key><date>2022-02-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TGANG - Single</string>
+			<key>Sort Artist</key><string>Louyah</string>
+			<key>Sort Name</key><string>TGANG</string>
+			<key>Persistent ID</key><string>BBC3CE334F5D4359</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Louyah/TGANG%20-%20Single/01%20TGANG.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>120419</key>
+		<dict>
+			<key>Track ID</key><integer>120419</integer>
+			<key>Name</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix]</string>
+			<key>Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Album Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Composer</key><string>Äyanna, Summer Walker, William Grigahcine, Nicholas Audino, Nina Simone, Andrew Macdonald, Lewis Hughes, Ayanna Christie &#38; Sodamola Oluseye Idris Desmond</string>
+			<key>Album</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix] - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>44912640</integer>
+			<key>Total Time</key><integer>230918</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-27T13:53:44Z</date>
+			<key>Date Added</key><date>2022-10-27T13:53:39Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3749709334</integer>
+			<key>Play Date UTC</key><date>2022-10-27T13:55:34Z</date>
+			<key>Release Date</key><date>2022-10-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix] - Single</string>
+			<key>Sort Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Sort Name</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix]</string>
+			<key>Persistent ID</key><string>F270A6649C7BE5BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/SPINALL,%20A%CC%88yanna%20&#38;%20DJ%20Snake/Power%20(Remember%20Who%20You%20Are)%20%5Bfeat.%20Summer%20Walker%5D%20%5BFlippersworld%20Remix%5D%20-%20Single/01%20Power%20(Remember%20Who%20You%20Are)%20%5Bfeat.%20Summer%20Walker%5D%20%5BFlippersworld%20Remix%5D%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>113294</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120419</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

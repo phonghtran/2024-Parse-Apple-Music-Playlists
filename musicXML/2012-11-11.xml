@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-11-12T01:04:15Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>32148</key>
+		<dict>
+			<key>Track ID</key><integer>32148</integer>
+			<key>Name</key><string>DJ (Madeon Remix)</string>
+			<key>Artist</key><string>Alphabeat</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3498646</integer>
+			<key>Total Time</key><integer>218017</integer>
+			<key>Date Modified</key><date>2011-08-25T15:09:22Z</date>
+			<key>Date Added</key><date>2011-08-25T15:12:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3435307182</integer>
+			<key>Play Date UTC</key><date>2012-11-09T17:59:42Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-11-09T00:30:45Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6670</integer>
+			<key>Persistent ID</key><string>5E5EECF4252E077F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/DJ-Madeon-Remix.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33886</key>
+		<dict>
+			<key>Track ID</key><integer>33886</integer>
+			<key>Name</key><string>What You Know</string>
+			<key>Artist</key><string>Two Door Cinema Club</string>
+			<key>Album</key><string>Tourist History [Promo]</string>
+			<key>Genre</key><string>Indie, Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7913851</integer>
+			<key>Total Time</key><integer>191503</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-01-09T01:32:29Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>electrocircle.ru </string>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3435424459</integer>
+			<key>Play Date UTC</key><date>2012-11-11T02:34:19Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-11-08T23:09:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>877C29738C0FD752</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Two%20Door%20Cinema%20Club%20-%20Tourist%20History%20%20%5B2010%5D%5BEng%5D-%5BICEMAN%5D%5Bh33t%5D/08%20What%20You%20Know.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36930</key>
+		<dict>
+			<key>Track ID</key><integer>36930</integer>
+			<key>Name</key><string>Bangarang</string>
+			<key>Artist</key><string>Doomtree</string>
+			<key>Album Artist</key><string>Doomtree</string>
+			<key>Album</key><string>No Kings</string>
+			<key>Genre</key><string>Other Alternative Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9693322</integer>
+			<key>Total Time</key><integer>241867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-11-03T15:27:31Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3435423385</integer>
+			<key>Play Date UTC</key><date>2012-11-11T02:16:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-09T14:58:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>11D24F22D7C9E87B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Doomtree%20-%20No%20Kings%20%5B2011%5D%20(320)/03%20Bangarang_%5Bplixid.com%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36972</key>
+		<dict>
+			<key>Track ID</key><integer>36972</integer>
+			<key>Name</key><string>Funnel Of Love</string>
+			<key>Artist</key><string>Terraplane Sun</string>
+			<key>Album</key><string>Coyote</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8314513</integer>
+			<key>Total Time</key><integer>204329</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-11-03T20:03:06Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://terraplanesun.bandcamp.com</string>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3435464194</integer>
+			<key>Play Date UTC</key><date>2012-11-11T13:36:34Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-11-09T17:59:54Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C88855543CD1ACD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Terraplane%20Sun%20-%20Coyote/Terraplane%20Sun%20-%20Coyote%20-%2008%20Funnel%20Of%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36982</key>
+		<dict>
+			<key>Track ID</key><integer>36982</integer>
+			<key>Name</key><string>Thrift Shop (feat. Wanz)</string>
+			<key>Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album</key><string>The Heist (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9533333</integer>
+			<key>Total Time</key><integer>235676</integer>
+			<key>Start Time</key><integer>3500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-07T03:35:18Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3435464695</integer>
+			<key>Play Date UTC</key><date>2012-11-11T13:44:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heist (Deluxe Edition)</string>
+			<key>Persistent ID</key><string>47F92D317AF5A9E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Macklemore%20&#38;%20Ryan%20Lewis%20-%20The%20Heist%20%5BDeluxe%20Edition%5D%20%5B2012%5D%20(iTunes+Extra%20videos+Digital%20Booklet)%20%5BF10%5D/03%20Thrift%20Shop%20(feat.%20Wanz).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37016</key>
+		<dict>
+			<key>Track ID</key><integer>37016</integer>
+			<key>Name</key><string>Secret Days</string>
+			<key>Artist</key><string>School Of Seven Bells</string>
+			<key>Album Artist</key><string>School Of Seven Bells</string>
+			<key>Album</key><string>Put Your Sad Down</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8443650</integer>
+			<key>Total Time</key><integer>201978</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T14:22:35Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3435310514</integer>
+			<key>Play Date UTC</key><date>2012-11-09T18:55:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-07T14:48:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7854F922A7C20EB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Secret%20Days.MP3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37020</key>
+		<dict>
+			<key>Track ID</key><integer>37020</integer>
+			<key>Name</key><string>Lying Together</string>
+			<key>Artist</key><string>French Kiwi Juice</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10921352</integer>
+			<key>Total Time</key><integer>270942</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T14:13:37Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3435423888</integer>
+			<key>Play Date UTC</key><date>2012-11-11T02:24:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C686923236C45F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/FKJ_Lying%20Together.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37022</key>
+		<dict>
+			<key>Track ID</key><integer>37022</integer>
+			<key>Name</key><string>Float (TheFatRat Remix)</string>
+			<key>Artist</key><string>Pacific Air</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10876347</integer>
+			<key>Total Time</key><integer>259578</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T14:10:43Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3435423143</integer>
+			<key>Play Date UTC</key><date>2012-11-11T02:12:23Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-11-09T17:59:49Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E1C257978D3E95E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Float%20(TheFatRat%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37024</key>
+		<dict>
+			<key>Track ID</key><integer>37024</integer>
+			<key>Name</key><string>Madness</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album Artist</key><string>Muse</string>
+			<key>Album</key><string>Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11296752</integer>
+			<key>Total Time</key><integer>280999</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T15:37:53Z</date>
+			<key>Date Added</key><date>2012-11-03T15:38:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3435299066</integer>
+			<key>Play Date UTC</key><date>2012-11-09T15:44:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-09T18:55:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>653B9F30BDA7F29A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Muse%20-%20Madness.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>215192</key>
+		<dict>
+			<key>Track ID</key><integer>215192</integer>
+			<key>Name</key><string>1. LIZZO X SOLID GOLD 1</string>
+			<key>Artist</key><string>Dimitry Killstorm &#38; Dj Name</string>
+			<key>Album</key><string>Make a Scene</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4035910</integer>
+			<key>Total Time</key><integer>168071</integer>
+			<key>Date Modified</key><date>2012-11-07T18:37:09Z</date>
+			<key>Date Added</key><date>2012-11-08T02:57:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3435462490</integer>
+			<key>Play Date UTC</key><date>2012-11-11T13:08:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1309</integer>
+			<key>Persistent ID</key><string>0D57D8970D07B5EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/MAKE%20A%20SCENE%20MP3s/1.%20LIZZO%20X%20SOLID%20GOLD%201.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>215206</key>
+		<dict>
+			<key>Track ID</key><integer>215206</integer>
+			<key>Name</key><string>5. FRANZ DIEGO X POLICA 1</string>
+			<key>Artist</key><string>Dimitry Killstorm &#38; Dj Name</string>
+			<key>Album</key><string>Make a Scene</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3459755</integer>
+			<key>Total Time</key><integer>144065</integer>
+			<key>Date Modified</key><date>2012-11-07T18:37:26Z</date>
+			<key>Date Added</key><date>2012-11-08T02:57:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3435463757</integer>
+			<key>Play Date UTC</key><date>2012-11-11T13:29:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-08T14:39:56Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1406</integer>
+			<key>Persistent ID</key><string>A65229A54E4D2B7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/MAKE%20A%20SCENE%20MP3s/5.%20FRANZ%20DIEGO%20X%20POLICA%201.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>84453</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36972</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215206</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

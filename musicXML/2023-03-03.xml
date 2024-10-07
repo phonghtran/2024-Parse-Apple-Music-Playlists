@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-03-04T02:30:54Z</date>
+	<key>Application Version</key><string>1.3.3.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19299</key>
+		<dict>
+			<key>Track ID</key><integer>19299</integer>
+			<key>Name</key><string>Stay (I Missed You)</string>
+			<key>Artist</key><string>Lisa Loeb</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The No. 1 Acoustic Rock Album</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6050962</integer>
+			<key>Total Time</key><integer>183093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-01-07T15:30:10Z</date>
+			<key>Date Added</key><date>2010-06-16T23:17:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>.:.</string>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3566898590</integer>
+			<key>Play Date UTC</key><date>2017-01-10T18:09:50Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>No. 1 Acoustic Rock Album</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Sort Artist</key><string>Loeb, Lisa</string>
+			<key>Persistent ID</key><string>79EF87E8FF2838F1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>44558</key>
+		<dict>
+			<key>Track ID</key><integer>44558</integer>
+			<key>Name</key><string>Tormenta (feat. Bad Bunny)</string>
+			<key>Artist</key><string>Gorillaz</string>
+			<key>Album Artist</key><string>Gorillaz</string>
+			<key>Composer</key><string>B. Martínez, D. Albarn &#38; R. Kabaka Jr.</string>
+			<key>Album</key><string>Cracker Island</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6951402</integer>
+			<key>Total Time</key><integer>193464</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2022-09-10T08:08:59Z</date>
+			<key>Date Added</key><date>2023-02-24T05:02:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3760175276</integer>
+			<key>Play Date UTC</key><date>2023-02-25T18:07:56Z</date>
+			<key>Release Date</key><date>2023-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cracker Island</string>
+			<key>Sort Artist</key><string>Gorillaz</string>
+			<key>Sort Name</key><string>Tormenta (feat. Bad Bunny)</string>
+			<key>Persistent ID</key><string>056444B82343324C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47228</key>
+		<dict>
+			<key>Track ID</key><integer>47228</integer>
+			<key>Name</key><string>OMG</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, Jinsu Park, David Dawood, Gigi &#38; Hanni</string>
+			<key>Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>25772032</integer>
+			<key>Total Time</key><integer>212253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-01-14T21:29:11Z</date>
+			<key>Date Added</key><date>2023-01-14T21:29:08Z</date>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3760107452</integer>
+			<key>Play Date UTC</key><date>2023-02-24T23:17:32Z</date>
+			<key>Release Date</key><date>2023-01-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>OMG</string>
+			<key>Persistent ID</key><string>B4E76CD73B9EC8CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%20'OMG'%20-%20Single/01%20OMG%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47830</key>
+		<dict>
+			<key>Track ID</key><integer>47830</integer>
+			<key>Name</key><string>Attention</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Duckbay (Cosmos Studios Stockholm), 250, Gigi &#38; Danielle</string>
+			<key>Album</key><string>NewJeans 1st EP 'New Jeans'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>23580672</integer>
+			<key>Total Time</key><integer>180066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-01-31T16:29:52Z</date>
+			<key>Date Added</key><date>2023-01-31T15:29:49Z</date>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3760198331</integer>
+			<key>Play Date UTC</key><date>2023-02-26T00:32:11Z</date>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 1st EP 'New Jeans'</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>Attention</string>
+			<key>Persistent ID</key><string>30C126D1F808DB47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/NewJeans/NewJeans%201st%20EP%20'New%20Jeans'/01%20Attention.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48115</key>
+		<dict>
+			<key>Track ID</key><integer>48115</integer>
+			<key>Name</key><string>Lavender Haze (Felix Jaehn Remix)</string>
+			<key>Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Album Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Composer</key><string>Taylor Swift, Jack Antonoff, Zoë Kravitz, Mark Anthony Spears, Jahaan Akil Sweet &#38; Sam Dew</string>
+			<key>Album</key><string>Lavender Haze (Felix Jaehn Remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>35577856</integer>
+			<key>Total Time</key><integer>171562</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-02-14T23:24:29Z</date>
+			<key>Date Added</key><date>2023-02-14T22:22:17Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3760252301</integer>
+			<key>Play Date UTC</key><date>2023-02-26T15:31:41Z</date>
+			<key>Release Date</key><date>2023-02-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lavender Haze (Felix Jaehn Remix) - Single</string>
+			<key>Sort Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Sort Name</key><string>Lavender Haze (Felix Jaehn Remix)</string>
+			<key>Persistent ID</key><string>84A57FBFE4742BBA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Taylor%20Swift%20&#38;%20Felix%20Jaehn/Lavender%20Haze%20(Felix%20Jaehn%20Remix)%20-%20Single/01%20Lavender%20Haze%20(Felix%20Jaehn%20Remix)%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48427</key>
+		<dict>
+			<key>Track ID</key><integer>48427</integer>
+			<key>Name</key><string>Xo</string>
+			<key>Artist</key><string>Julia Cooper</string>
+			<key>Album Artist</key><string>Julia Cooper</string>
+			<key>Album</key><string>Xo - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>30785536</integer>
+			<key>Total Time</key><integer>143967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-02-24T16:09:41Z</date>
+			<key>Date Added</key><date>2023-02-24T15:09:37Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3760463262</integer>
+			<key>Play Date UTC</key><date>2023-03-01T02:07:42Z</date>
+			<key>Release Date</key><date>2023-02-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Xo - Single</string>
+			<key>Sort Artist</key><string>Julia Cooper</string>
+			<key>Sort Name</key><string>Xo</string>
+			<key>Persistent ID</key><string>42F7AB35E55173C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Julia%20Cooper/Xo%20-%20Single/01%20Xo%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48551</key>
+		<dict>
+			<key>Track ID</key><integer>48551</integer>
+			<key>Name</key><string>GOATED.</string>
+			<key>Artist</key><string>Armani White &#38; Denzel Curry</string>
+			<key>Album Artist</key><string>Armani White &#38; Denzel Curry</string>
+			<key>Composer</key><string>Denzel Curry, Kenneth Cunningham Jr, Enoch Armani Tolbert &#38; Myles Moraites</string>
+			<key>Album</key><string>GOATED. - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>39034880</integer>
+			<key>Total Time</key><integer>197380</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-02-25T02:31:31Z</date>
+			<key>Date Added</key><date>2023-02-25T02:31:17Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3760176755</integer>
+			<key>Play Date UTC</key><date>2023-02-25T18:32:35Z</date>
+			<key>Release Date</key><date>2023-01-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GOATED. - Single</string>
+			<key>Sort Artist</key><string>Armani White &#38; Denzel Curry</string>
+			<key>Sort Name</key><string>GOATED.</string>
+			<key>Persistent ID</key><string>164D087504E152FB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Armani%20White%20&#38;%20Denzel%20Curry/GOATED.%20-%20Single/01%20GOATED.%201.movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48638</key>
+		<dict>
+			<key>Track ID</key><integer>48638</integer>
+			<key>Name</key><string>Understand (feat. GIST)</string>
+			<key>Artist</key><string>MELOH</string>
+			<key>Album Artist</key><string>MELOH</string>
+			<key>Composer</key><string>MELOH, Gist &#38; Hecop</string>
+			<key>Album</key><string>MELOH</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>17276928</integer>
+			<key>Total Time</key><integer>160104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-03-01T03:55:32Z</date>
+			<key>Date Added</key><date>2023-03-01T02:52:52Z</date>
+			<key>Release Date</key><date>2021-01-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MELOH</string>
+			<key>Sort Artist</key><string>MELOH</string>
+			<key>Sort Name</key><string>Understand (feat. GIST)</string>
+			<key>Persistent ID</key><string>C18AC66C06B87A99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/MELOH/MELOH/01%20Understand%20(feat.%20GIST).movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48641</key>
+		<dict>
+			<key>Track ID</key><integer>48641</integer>
+			<key>Name</key><string>Don't Let Go (Love)</string>
+			<key>Artist</key><string>En Vogue</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Andrea Martin, Ivan Matias, Marqueze Etheridge, Patrick Brown, Raymon Murray &#38; Rico Wade</string>
+			<key>Album</key><string>Set It Off (Music From the New Line Cinema Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11000770</integer>
+			<key>Total Time</key><integer>291907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2023-03-01T03:56:57Z</date>
+			<key>Date Added</key><date>2023-03-01T03:56:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1996-09-24T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Set It Off (Music From the New Line Cinema Motion Picture)</string>
+			<key>Sort Artist</key><string>En Vogue</string>
+			<key>Sort Name</key><string>Don't Let Go (Love)</string>
+			<key>Persistent ID</key><string>5F796D0CA3109DE7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48685</key>
+		<dict>
+			<key>Track ID</key><integer>48685</integer>
+			<key>Name</key><string>Bist du down? (feat. Kwam.E)</string>
+			<key>Artist</key><string>Ace Tee</string>
+			<key>Album Artist</key><string>Ace Tee</string>
+			<key>Composer</key><string>Tarin Wilda 'Ace Tee' &#38; Lordin Stegemann 'Kwam.E'</string>
+			<key>Album</key><string>Bist du down? (feat. Kwam.E) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>HLS media</string>
+			<key>Size</key><integer>23814144</integer>
+			<key>Total Time</key><integer>249679</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2023-03-03T04:49:32Z</date>
+			<key>Date Added</key><date>2023-03-03T03:48:47Z</date>
+			<key>Release Date</key><date>2016-12-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bist du down? (feat. Kwam.E) - Single</string>
+			<key>Sort Artist</key><string>Ace Tee</string>
+			<key>Sort Name</key><string>Bist du down? (feat. Kwam.E)</string>
+			<key>Persistent ID</key><string>7A1C3B213465DE03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Apple%20Music/Ace%20Tee/Bist%20du%20down_%20(feat.%20Kwam.E)%20-%20Single/01%20Bist%20du%20down_%20(feat.%20Kwam.E).movpkg/</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>114271</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48685</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

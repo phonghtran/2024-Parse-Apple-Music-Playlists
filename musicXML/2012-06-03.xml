@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-06-04T04:06:35Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31796</key>
+		<dict>
+			<key>Track ID</key><integer>31796</integer>
+			<key>Name</key><string>Good Life</string>
+			<key>Artist</key><string>OneRepublic</string>
+			<key>Album</key><string>Waking Up</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10137557</integer>
+			<key>Total Time</key><integer>253387</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-07-06T01:58:34Z</date>
+			<key>Date Added</key><date>2011-07-06T02:09:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3421605219</integer>
+			<key>Play Date UTC</key><date>2012-06-04T02:53:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-11T12:20:04Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>07478DA9EB299996</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/One%20Republic%20-%20Waking%20Up%202009%20(320kbps)/06%20Good%20Life.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35754</key>
+		<dict>
+			<key>Track ID</key><integer>35754</integer>
+			<key>Name</key><string>This Head I Hold</string>
+			<key>Artist</key><string>Electric Guest</string>
+			<key>Album Artist</key><string>Electric Guest</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7160531</integer>
+			<key>Total Time</key><integer>177371</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-19T14:13:03Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3421607776</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:36:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-05-26T23:35:35Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>37AC14C1F6E4FF27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Electric%20Guest%20-%20This%20Head%20I%20Hold.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>600822</key>
+		<dict>
+			<key>Track ID</key><integer>600822</integer>
+			<key>Name</key><string>WHAT IS LOVE</string>
+			<key>Artist</key><string>EXO-K</string>
+			<key>Album Artist</key><string>EXO-K</string>
+			<key>Album</key><string>WHAT IS LOVE (EXO-K)</string>
+			<key>Grouping</key><string>EXO-K</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9152670</integer>
+			<key>Total Time</key><integer>261276</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-03-23T21:30:40Z</date>
+			<key>Date Added</key><date>2012-05-24T13:14:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3421605661</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:01:01Z</date>
+			<key>Release Date</key><date>2012-01-30T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9280</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29202CB159EE5EC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/EXO-K%20MAMA%20MINI%20Folder/02%20WHAT%20IS%20LOVE.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>600839</key>
+		<dict>
+			<key>Track ID</key><integer>600839</integer>
+			<key>Name</key><string>두 개의 달이 뜨는 밤 (TWO MOONS) (feat. Key of SHINee)</string>
+			<key>Artist</key><string>EXO-K</string>
+			<key>Album Artist</key><string>EXO-K</string>
+			<key>Album</key><string>MAMA</string>
+			<key>Grouping</key><string>EXO-K</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7305903</integer>
+			<key>Total Time</key><integer>177110</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-09T02:20:00Z</date>
+			<key>Date Added</key><date>2012-05-24T13:14:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3421607427</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:30:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5767</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE9915F3816A2439</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/EXO-K%20MAMA%20MINI%20Folder/05%20%3F%20%3F%3F%20%3F%3F%20%3F%3F%20%3F%20(TWO%20MOONS)%20(feat.%20K.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731293</key>
+		<dict>
+			<key>Track ID</key><integer>1731293</integer>
+			<key>Name</key><string>Baby Come Home</string>
+			<key>Artist</key><string>Scissor Sisters</string>
+			<key>Album Artist</key><string>www.SongsLover.com</string>
+			<key>Composer</key><string>www.SongsLover.com</string>
+			<key>Album</key><string>Magic Hour</string>
+			<key>Grouping</key><string>www.SongsLover.com</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5844594</integer>
+			<key>Total Time</key><integer>180480</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-03T23:15:55Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.SongsLover.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421608219</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:43:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F08338680EF3A56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/01%20Baby%20Come%20Home%20-%20(www.SongsLover.com).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731329</key>
+		<dict>
+			<key>Track ID</key><integer>1731329</integer>
+			<key>Name</key><string>I Don't Care</string>
+			<key>Artist</key><string>2NE1</string>
+			<key>Album Artist</key><string>2NE1</string>
+			<key>Album</key><string>2nd Mini Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7074871</integer>
+			<key>Total Time</key><integer>294608</integer>
+			<key>Start Time</key><integer>31400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-03T23:21:53Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:12Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421608039</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:40:39Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>89B027B670BD9648</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/2NE1/2NE1%20-%20I%20Don't%20Care%20%5BHD%5D%20(HQ%20192kb).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731380</key>
+		<dict>
+			<key>Track ID</key><integer>1731380</integer>
+			<key>Name</key><string>A Maiden Calling</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Album Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>A Maiden Calling</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9282754</integer>
+			<key>Total Time</key><integer>220055</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2012-05-30T00:38:20Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421606883</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:21:23Z</date>
+			<key>Normalization</key><integer>4909</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Maiden Calling</string>
+			<key>Sort Name</key><string>Maiden Calling</string>
+			<key>Persistent ID</key><string>EC8DFB650E4AC179</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/A%20Maiden%20Calling.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731383</key>
+		<dict>
+			<key>Track ID</key><integer>1731383</integer>
+			<key>Name</key><string>Hands</string>
+			<key>Artist</key><string>Alpine</string>
+			<key>Album Artist</key><string>www.pickupheadphone.com</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3100924</integer>
+			<key>Total Time</key><integer>193671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2012-06-03T22:51:15Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pickupheadphone.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421606663</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:17:43Z</date>
+			<key>Persistent ID</key><string>FD164F9652C4FC49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Alpine-Hands.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731443</key>
+		<dict>
+			<key>Track ID</key><integer>1731443</integer>
+			<key>Name</key><string>Two Roads</string>
+			<key>Artist</key><string>Cam Meekins</string>
+			<key>Album</key><string>:) :/ :(</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4109195</integer>
+			<key>Total Time</key><integer>171128</integer>
+			<key>Date Modified</key><date>2012-06-03T23:34:06Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3421609361</integer>
+			<key>Play Date UTC</key><date>2012-06-04T04:02:41Z</date>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3338</integer>
+			<key>Persistent ID</key><string>101887EB82BD6212</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/CamMeekins/09%20Two%20Roads.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731464</key>
+		<dict>
+			<key>Track ID</key><integer>1731464</integer>
+			<key>Name</key><string>Princess Of China (Invisible Man Remix)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Genre</key><string> </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5556246</integer>
+			<key>Total Time</key><integer>229564</integer>
+			<key>Date Modified</key><date>2012-06-03T23:14:15Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3421608976</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:56:16Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB75C5EA002FA85C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Coldplay%20feat.%20Rihanna%20-%20Princess%20Of%20China%20(Invisible%20Man%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731467</key>
+		<dict>
+			<key>Track ID</key><integer>1731467</integer>
+			<key>Name</key><string>High For This</string>
+			<key>Artist</key><string>Ellie Goulding</string>
+			<key>Composer</key><string>Xaphoon Jones, The Weeknd</string>
+			<key>Album</key><string>The Weeknd Cover</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10385158</integer>
+			<key>Total Time</key><integer>259526</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2012-06-03T23:06:16Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421608478</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:47:58Z</date>
+			<key>Normalization</key><integer>3386</integer>
+			<key>Sort Album</key><string>Weeknd Cover</string>
+			<key>Persistent ID</key><string>F1FF5D9CDD22B034</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Ellie%20Goulding%20-%20High%20For%20This%20(The%20Weeknd%20Cover).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731521</key>
+		<dict>
+			<key>Track ID</key><integer>1731521</integer>
+			<key>Name</key><string>Modern Love</string>
+			<key>Artist</key><string>Matt Nathanson</string>
+			<key>Album</key><string>Modern Love</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6580267</integer>
+			<key>Total Time</key><integer>211617</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-03T22:17:50Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:14Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421607250</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:27:30Z</date>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>09EC461AD857BE25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Matt_Nathanson-Modern_Love-2011-CR/02-matt_nathanson-modern_love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731567</key>
+		<dict>
+			<key>Track ID</key><integer>1731567</integer>
+			<key>Name</key><string>Body of Work</string>
+			<key>Artist</key><string>The Mynabirds</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3920913</integer>
+			<key>Total Time</key><integer>180767</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-06-03T23:21:00Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421605399</integer>
+			<key>Play Date UTC</key><date>2012-06-04T02:56:39Z</date>
+			<key>Normalization</key><integer>4554</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Mynabirds</string>
+			<key>Persistent ID</key><string>060DC3022DCB41DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/mynabirds%20-%20Body_of_Work.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731570</key>
+		<dict>
+			<key>Track ID</key><integer>1731570</integer>
+			<key>Name</key><string>Runaway (Fool's Gold Remix)</string>
+			<key>Artist</key><string>Mr. Little Jeans</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5184512</integer>
+			<key>Total Time</key><integer>212688</integer>
+			<key>Date Modified</key><date>2012-06-03T23:28:12Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>vacay vitamins</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421606317</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:11:57Z</date>
+			<key>Normalization</key><integer>6942</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9CFE2CD10BACA53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Runaway%20(Fool's%20Gold%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731576</key>
+		<dict>
+			<key>Track ID</key><integer>1731576</integer>
+			<key>Name</key><string>Fuck With Mo' Money (Ma$e x Diddy x Biggie x Penguin Prison)</string>
+			<key>Artist</key><string>The Hood Internet</string>
+			<key>Album</key><string>thehoodinternet.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8632283</integer>
+			<key>Total Time</key><integer>214021</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2012-06-03T23:06:06Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3421609190</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:59:50Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4546</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hood Internet</string>
+			<key>Persistent ID</key><string>6EF89DF457062ECD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The%20Hood%20Internet%20-%20Fuck%20With%20Mo'%20Money%20(Ma$e%20x%20Diddy%20x%20Biggie%20x%20Penguin%20Prison).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731579</key>
+		<dict>
+			<key>Track ID</key><integer>1731579</integer>
+			<key>Name</key><string>Stone Cold (316)</string>
+			<key>Artist</key><string>XV</string>
+			<key>Album Artist</key><string>XV</string>
+			<key>Album</key><string>IAmXV.com</string>
+			<key>Genre</key><string>#SQUARIAN</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7333475</integer>
+			<key>Total Time</key><integer>256548</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2012-06-03T23:05:03Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421608735</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:52:15Z</date>
+			<key>Normalization</key><integer>2344</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AADA6D863B74C17C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/XV_-_Stone_Cold_(Recipe_Freestyle).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1731582</key>
+		<dict>
+			<key>Track ID</key><integer>1731582</integer>
+			<key>Name</key><string>Spectrum (Fea. Mathew Koma)</string>
+			<key>Artist</key><string>Zedd</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2445795</integer>
+			<key>Total Time</key><integer>152084</integer>
+			<key>Date Modified</key><date>2012-06-03T23:20:50Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3421606469</integer>
+			<key>Play Date UTC</key><date>2012-06-04T03:14:29Z</date>
+			<key>Persistent ID</key><string>A28FCA9AB1F5137D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Zedd%20%E2%80%93%20Spectrum%20(Fea.%20Mathew%20Koma).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1859711</key>
+		<dict>
+			<key>Track ID</key><integer>1859711</integer>
+			<key>Name</key><string>Gee</string>
+			<key>Artist</key><string>Girl's Generation</string>
+			<key>Album Artist</key><string>少女時代</string>
+			<key>Album</key><string>1st Japan Album</string>
+			<key>Genre</key><string>Dance/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8259652</integer>
+			<key>Total Time</key><integer>201769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-04T04:05:14Z</date>
+			<key>Date Added</key><date>2012-06-04T04:03:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://ihoneydew.com/</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>232E5B7713EC445D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Girls'%20Generation/2011%20-%20Girls'%20Generation%20(Japanese)/09%20Gee.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>81570</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>600839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>600822</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731464</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1731293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1859711</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

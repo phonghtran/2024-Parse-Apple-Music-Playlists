@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-07-13T13:18:33Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8356</key>
+		<dict>
+			<key>Track ID</key><integer>8356</integer>
+			<key>Name</key><string>D Is For Dangerous</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3269886</integer>
+			<key>Total Time</key><integer>136228</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-19T16:05:22Z</date>
+			<key>Date Added</key><date>2010-06-17T12:07:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3425010869</integer>
+			<key>Play Date UTC</key><date>2012-07-13T12:54:29Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2009-09-03T05:59:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6740</integer>
+			<key>Persistent ID</key><string>F91E1A7259F66F14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Arctic%20Monkeys-Fav%20Worst%20Nightmare%5B2007%5D%5BCD+SkidVid+Cov%5D/03%20%20Arctic%20Monkeys%20-%20D%20Is%20For%20Dangerous.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35914</key>
+		<dict>
+			<key>Track ID</key><integer>35914</integer>
+			<key>Name</key><string>Call Me Maybe (DJ BMILK For You Bootleg)</string>
+			<key>Artist</key><string>Carley Rae Jepsen x Madeon</string>
+			<key>Composer</key><string>DJ BMILK</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9048125</integer>
+			<key>Total Time</key><integer>224914</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-27T13:34:01Z</date>
+			<key>Date Added</key><date>2012-06-27T13:34:13Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3424987526</integer>
+			<key>Play Date UTC</key><date>2012-07-13T06:25:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C33C317594C96F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Carly%20Rae%20Jepsen%20x%20Madeon-%20Call%20Me%20Maybe%20(DJ%20BMILK%20For%20You%20Bootleg).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35934</key>
+		<dict>
+			<key>Track ID</key><integer>35934</integer>
+			<key>Name</key><string>Sleeping States</string>
+			<key>Artist</key><string>Gregory And The Hawk</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Indie/Rock Playlist: June (2012)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5389583</integer>
+			<key>Total Time</key><integer>167079</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>108</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-26T13:52:49Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:12Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3424967436</integer>
+			<key>Play Date UTC</key><date>2012-07-13T00:50:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-07T04:33:36Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4884EFE4DE7B1668</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/108%20-%20Gregory%20And%20The%20Hawk%20-%20Sleeping%20States.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35944</key>
+		<dict>
+			<key>Track ID</key><integer>35944</integer>
+			<key>Name</key><string>The Palace Garden, 4am</string>
+			<key>Artist</key><string>Beat Connection</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Indie/Rock Playlist: June (2012)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5712879</integer>
+			<key>Total Time</key><integer>203964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>119</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-26T13:22:29Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:12Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3425011589</integer>
+			<key>Play Date UTC</key><date>2012-07-13T13:06:29Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Palace Garden, 4am</string>
+			<key>Persistent ID</key><string>7302F975EAFAEAF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/119%20-%20Beat%20Connection%20-%20The%20Palace%20Garden,%204am.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35952</key>
+		<dict>
+			<key>Track ID</key><integer>35952</integer>
+			<key>Name</key><string>Want It Back</string>
+			<key>Artist</key><string>Amanda Palmer &#38; The Grand Theft Orchestra</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Indie/Rock Playlist: June (2012)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7856432</integer>
+			<key>Total Time</key><integer>247797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>127</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-26T13:46:02Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:13Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3425011837</integer>
+			<key>Play Date UTC</key><date>2012-07-13T13:10:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E8B04D7D4020452</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/127%20-%20Amanda%20Palmer%20&#38;%20The%20Grand%20Theft%20Orchestra%20-%20Want%20It%20Back.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35970</key>
+		<dict>
+			<key>Track ID</key><integer>35970</integer>
+			<key>Name</key><string>Devil In The Old Folks Home</string>
+			<key>Artist</key><string>We Can't Enjoy Ourselves</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Indie/Rock Playlist: June (2012)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7048726</integer>
+			<key>Total Time</key><integer>240848</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-26T13:53:17Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:14Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3424967065</integer>
+			<key>Play Date UTC</key><date>2012-07-13T00:44:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-07-07T18:53:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14362DB9ED9A2558</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/27%20-%20We%20Can't%20Enjoy%20Ourselves%20-%20Devil%20In%20The%20Old%20Folks%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36028</key>
+		<dict>
+			<key>Track ID</key><integer>36028</integer>
+			<key>Name</key><string>Mr. Hyde</string>
+			<key>Artist</key><string>The Royalty</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Indie/Rock Playlist: June (2012)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5227340</integer>
+			<key>Total Time</key><integer>149498</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>80</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-26T13:53:47Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:16Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3424967585</integer>
+			<key>Play Date UTC</key><date>2012-07-13T00:53:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-07-12T23:46:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Royalty</string>
+			<key>Persistent ID</key><string>8394812FD71C5575</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/80%20-%20The%20Royalty%20-%20Mr.%20Hyde.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36040</key>
+		<dict>
+			<key>Track ID</key><integer>36040</integer>
+			<key>Name</key><string>Pioneers</string>
+			<key>Artist</key><string>The Lighthouse And The Whaler</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Indie/Rock Playlist: June (2012)</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6146282</integer>
+			<key>Total Time</key><integer>196702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>95</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-26T13:51:19Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:17Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3425009934</integer>
+			<key>Play Date UTC</key><date>2012-07-13T12:38:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Lighthouse And The Whaler</string>
+			<key>Persistent ID</key><string>A550623A4497A5BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/95%20-%20The%20Lighthouse%20And%20The%20Whaler%20-%20Pioneers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>643232</key>
+		<dict>
+			<key>Track ID</key><integer>643232</integer>
+			<key>Name</key><string>The Walk (feat. Rizzle Kicks)</string>
+			<key>Artist</key><string>Mayer Hawthorne</string>
+			<key>Album Artist</key><string>Mayer Hawthorne</string>
+			<key>Composer</key><string>Mayer Hawthorne</string>
+			<key>Album</key><string>The Walk (feat. Rizzle Kicks) - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8774364</integer>
+			<key>Total Time</key><integer>217025</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-09T13:34:47Z</date>
+			<key>Date Added</key><date>2012-07-09T13:34:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3425012054</integer>
+			<key>Play Date UTC</key><date>2012-07-13T13:14:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Walk (feat. Rizzle Kicks) - EP</string>
+			<key>Sort Name</key><string>Walk (feat. Rizzle Kicks)</string>
+			<key>Persistent ID</key><string>CC8F036AF2265FA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/01%20The%20Walk%20(feat.%20Rizzle%20Kicks).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>untitled playlist</string>
+			<key>Playlist ID</key><integer>1303022</integer>
+			<key>Playlist Persistent ID</key><string>1A90296D492C027B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35970</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>643232</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

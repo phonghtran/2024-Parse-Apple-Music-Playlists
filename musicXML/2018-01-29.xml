@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-01-29T12:27:51Z</date>
+	<key>Application Version</key><string>12.7.3.46</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>2669A17526BB44EC</string>
+	<key>Tracks</key>
+	<dict>
+		<key>28876</key>
+		<dict>
+			<key>Track ID</key><integer>28876</integer>
+			<key>Name</key><string>Hanging On</string>
+			<key>Artist</key><string>The Tracks</string>
+			<key>Album Artist</key><string>The Tracks</string>
+			<key>Album</key><string>Hanging On - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6041310</integer>
+			<key>Total Time</key><integer>166707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-12-09T18:15:27Z</date>
+			<key>Date Added</key><date>2017-12-09T18:15:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3599901805</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:43:25Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-01-25T19:46:55Z</date>
+			<key>Release Date</key><date>2017-12-08T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hanging On - Single</string>
+			<key>Sort Album Artist</key><string>Tracks</string>
+			<key>Sort Artist</key><string>Tracks</string>
+			<key>Sort Name</key><string>Hanging On</string>
+			<key>Persistent ID</key><string>0D5A289BA861EDDC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29120</key>
+		<dict>
+			<key>Track ID</key><integer>29120</integer>
+			<key>Name</key><string>Sports</string>
+			<key>Artist</key><string>Beach Bunny</string>
+			<key>Album Artist</key><string>Beach Bunny</string>
+			<key>Composer</key><string>Beach Bunny</string>
+			<key>Album</key><string>Sports - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6054621</integer>
+			<key>Total Time</key><integer>164165</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-05T23:49:52Z</date>
+			<key>Date Added</key><date>2018-01-05T23:49:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3599901639</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:40:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-01-19T01:02:30Z</date>
+			<key>Release Date</key><date>2018-01-01T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sports - Single</string>
+			<key>Sort Artist</key><string>Beach Bunny</string>
+			<key>Sort Name</key><string>Sports</string>
+			<key>Persistent ID</key><string>E5A3E9E661B8A043</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29210</key>
+		<dict>
+			<key>Track ID</key><integer>29210</integer>
+			<key>Name</key><string>Lottery</string>
+			<key>Artist</key><string>Jade Bird</string>
+			<key>Album Artist</key><string>Jade Bird</string>
+			<key>Composer</key><string>Jade Bird</string>
+			<key>Album</key><string>Lottery - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5582489</integer>
+			<key>Total Time</key><integer>151907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-12T21:02:03Z</date>
+			<key>Date Added</key><date>2018-01-12T21:02:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3599901154</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:32:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-19T01:03:15Z</date>
+			<key>Release Date</key><date>2018-01-12T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lottery - Single</string>
+			<key>Sort Artist</key><string>Jade Bird</string>
+			<key>Sort Name</key><string>Lottery</string>
+			<key>Persistent ID</key><string>B64C1C7AE7B4F176</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29216</key>
+		<dict>
+			<key>Track ID</key><integer>29216</integer>
+			<key>Name</key><string>We're Going Home</string>
+			<key>Artist</key><string>Vance Joy</string>
+			<key>Album Artist</key><string>Vance Joy</string>
+			<key>Album</key><string>Nation of Two</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7495386</integer>
+			<key>Total Time</key><integer>207907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-12T21:07:41Z</date>
+			<key>Date Added</key><date>2018-01-12T21:07:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3599900339</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:18:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-26T16:54:13Z</date>
+			<key>Release Date</key><date>2018-02-23T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nation of Two</string>
+			<key>Sort Artist</key><string>Vance Joy</string>
+			<key>Sort Name</key><string>We're Going Home</string>
+			<key>Persistent ID</key><string>E135C8449B3D96B5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29242</key>
+		<dict>
+			<key>Track ID</key><integer>29242</integer>
+			<key>Name</key><string>Oh!</string>
+			<key>Artist</key><string>Sleater-Kinney</string>
+			<key>Album Artist</key><string>Sleater-Kinney</string>
+			<key>Composer</key><string>Sleater-Kinney</string>
+			<key>Album</key><string>One Beat (Remastered)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8711333</integer>
+			<key>Total Time</key><integer>236306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2018-01-14T16:32:47Z</date>
+			<key>Date Added</key><date>2018-01-14T16:32:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3599819922</integer>
+			<key>Play Date UTC</key><date>2018-01-26T19:58:42Z</date>
+			<key>Release Date</key><date>2000-01-01T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>One Beat (Remastered)</string>
+			<key>Sort Artist</key><string>Sleater-Kinney</string>
+			<key>Sort Name</key><string>Oh!</string>
+			<key>Persistent ID</key><string>12C73A36C928C99D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29410</key>
+		<dict>
+			<key>Track ID</key><integer>29410</integer>
+			<key>Name</key><string>No Drama (feat. Offset)</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Composer</key><string>Tinashe, Mikkel Storleer Eriksen, Tor Erik Hermansen &#38; Kiari Cephus</string>
+			<key>Album</key><string>No Drama (feat. Offset) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7650281</integer>
+			<key>Total Time</key><integer>200130</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-21T22:45:10Z</date>
+			<key>Date Added</key><date>2018-01-21T22:45:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3599902926</integer>
+			<key>Play Date UTC</key><date>2018-01-27T19:02:06Z</date>
+			<key>Release Date</key><date>2018-01-25T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Drama (feat. Offset) - Single</string>
+			<key>Sort Artist</key><string>Tinashe</string>
+			<key>Sort Name</key><string>No Drama (feat. Offset)</string>
+			<key>Persistent ID</key><string>597452D8E4370359</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29416</key>
+		<dict>
+			<key>Track ID</key><integer>29416</integer>
+			<key>Name</key><string>Do U Wrong (feat. Syd)</string>
+			<key>Artist</key><string>Leven Kali</string>
+			<key>Album Artist</key><string>Leven Kali</string>
+			<key>Composer</key><string>Leven Kali, Sydney Bennett &#38; Zack Sekoff</string>
+			<key>Album</key><string>Do U Wrong (feat. Syd) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9829537</integer>
+			<key>Total Time</key><integer>280253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-21T23:10:12Z</date>
+			<key>Date Added</key><date>2018-01-21T23:10:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3599901434</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:37:14Z</date>
+			<key>Release Date</key><date>2018-01-19T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Do U Wrong (feat. Syd) - Single</string>
+			<key>Sort Artist</key><string>Leven Kali</string>
+			<key>Sort Name</key><string>Do U Wrong (feat. Syd)</string>
+			<key>Persistent ID</key><string>812E6FC4EB7C4B40</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29420</key>
+		<dict>
+			<key>Track ID</key><integer>29420</integer>
+			<key>Name</key><string>Cheetah Tongue</string>
+			<key>Artist</key><string>The Wombats</string>
+			<key>Album Artist</key><string>The Wombats</string>
+			<key>Album</key><string>Beautiful People Will Ruin Your Life</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7760805</integer>
+			<key>Total Time</key><integer>219482</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-21T23:42:29Z</date>
+			<key>Date Added</key><date>2018-01-21T23:42:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3599900584</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:23:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-22T16:38:20Z</date>
+			<key>Release Date</key><date>2018-02-09T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Beautiful People Will Ruin Your Life</string>
+			<key>Sort Album Artist</key><string>Wombats</string>
+			<key>Sort Artist</key><string>Wombats</string>
+			<key>Sort Name</key><string>Cheetah Tongue</string>
+			<key>Persistent ID</key><string>8C93F69E0BDBC245</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29422</key>
+		<dict>
+			<key>Track ID</key><integer>29422</integer>
+			<key>Name</key><string>Egyptian Luvr (feat. Aminé &#38; Dana Williams)</string>
+			<key>Artist</key><string>Rejjie Snow</string>
+			<key>Album Artist</key><string>Rejjie Snow</string>
+			<key>Composer</key><string>Rejjie Snow</string>
+			<key>Album</key><string>Dear Annie, Pt. 1 - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9026043</integer>
+			<key>Total Time</key><integer>256613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-21T23:52:07Z</date>
+			<key>Date Added</key><date>2018-01-21T23:52:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3599895321</integer>
+			<key>Play Date UTC</key><date>2018-01-27T16:55:21Z</date>
+			<key>Release Date</key><date>2018-01-17T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dear Annie, Pt. 1 - EP</string>
+			<key>Sort Artist</key><string>Rejjie Snow</string>
+			<key>Sort Name</key><string>Egyptian Luvr (feat. Aminé &#38; Dana Williams)</string>
+			<key>Persistent ID</key><string>463F9666B6ED0884</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>399560</key>
+		<dict>
+			<key>Track ID</key><integer>399560</integer>
+			<key>Name</key><string>Ven (feat. Arcángel &#38; Quimico Ultramega)</string>
+			<key>Artist</key><string>Dillon Francis</string>
+			<key>Album Artist</key><string>Dillon Francis</string>
+			<key>Album</key><string>Ven (feat. Arcángel &#38; Quimico Ultramega) - Single</string>
+			<key>Genre</key><string>Latin Urban</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6702269</integer>
+			<key>Total Time</key><integer>186004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:06:54Z</date>
+			<key>Date Added</key><date>2018-01-26T15:06:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3599901991</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:46:31Z</date>
+			<key>Release Date</key><date>2018-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ven (feat. Arcángel &#38; Quimico Ultramega) - Single</string>
+			<key>Sort Artist</key><string>Dillon Francis</string>
+			<key>Sort Name</key><string>Ven (feat. Arcángel &#38; Quimico Ultramega)</string>
+			<key>Persistent ID</key><string>9A1B89AC3F3A3194</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>399915</key>
+		<dict>
+			<key>Track ID</key><integer>399915</integer>
+			<key>Name</key><string>Wait (feat. A Boogie wit da Hoodie)</string>
+			<key>Artist</key><string>Maroon 5</string>
+			<key>Album Artist</key><string>Maroon 5</string>
+			<key>Composer</key><string>Adam Levine, Jacob Kasher Hindlin, John Ryan &#38; Ammar Malik</string>
+			<key>Album</key><string>Wait (feat. A Boogie wit da Hoodie) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7145471</integer>
+			<key>Total Time</key><integer>190476</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:22:14Z</date>
+			<key>Date Added</key><date>2018-01-26T15:22:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3599902291</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:51:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-27T14:09:19Z</date>
+			<key>Release Date</key><date>2018-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wait (feat. A Boogie wit da Hoodie) - Single</string>
+			<key>Sort Artist</key><string>Maroon 5</string>
+			<key>Sort Name</key><string>Wait (feat. A Boogie wit da Hoodie)</string>
+			<key>Persistent ID</key><string>E3F233C15A441EA8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>399977</key>
+		<dict>
+			<key>Track ID</key><integer>399977</integer>
+			<key>Name</key><string>If the Car Beside You Moves Ahead</string>
+			<key>Artist</key><string>James Blake</string>
+			<key>Album Artist</key><string>James Blake</string>
+			<key>Composer</key><string>James Blake</string>
+			<key>Album</key><string>If the Car Beside You Moves Ahead - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9043966</integer>
+			<key>Total Time</key><integer>262603</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:24:17Z</date>
+			<key>Date Added</key><date>2018-01-26T15:24:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3599894960</integer>
+			<key>Play Date UTC</key><date>2018-01-27T16:49:20Z</date>
+			<key>Release Date</key><date>2018-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>If the Car Beside You Moves Ahead - Single</string>
+			<key>Sort Artist</key><string>James Blake</string>
+			<key>Sort Name</key><string>If the Car Beside You Moves Ahead</string>
+			<key>Persistent ID</key><string>A0708F67287CCC69</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>400106</key>
+		<dict>
+			<key>Track ID</key><integer>400106</integer>
+			<key>Name</key><string>Merengue</string>
+			<key>Artist</key><string>Kent Jones</string>
+			<key>Album Artist</key><string>Kent Jones</string>
+			<key>Composer</key><string>Daryl Kent Jones</string>
+			<key>Album</key><string>Merengue - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7029767</integer>
+			<key>Total Time</key><integer>191032</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:33:41Z</date>
+			<key>Date Added</key><date>2018-01-26T15:33:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3599902726</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:58:46Z</date>
+			<key>Release Date</key><date>2018-01-24T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Merengue - Single</string>
+			<key>Sort Artist</key><string>Kent Jones</string>
+			<key>Sort Name</key><string>Merengue</string>
+			<key>Persistent ID</key><string>A95D87D1E10D7548</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>400193</key>
+		<dict>
+			<key>Track ID</key><integer>400193</integer>
+			<key>Name</key><string>BOOM</string>
+			<key>Artist</key><string>Tiësto, Gucci Mane &#38; Sevenn</string>
+			<key>Album Artist</key><string>Tiësto, Gucci Mane &#38; Sevenn</string>
+			<key>Composer</key><string>Tijs Verwest, Sean Brauer, Kevin Brauer &#38; Radric Davis</string>
+			<key>Album</key><string>BOOM - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6401947</integer>
+			<key>Total Time</key><integer>179512</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:35:18Z</date>
+			<key>Date Added</key><date>2018-01-26T15:35:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3599896096</integer>
+			<key>Play Date UTC</key><date>2018-01-27T17:08:16Z</date>
+			<key>Release Date</key><date>2018-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BOOM - Single</string>
+			<key>Sort Artist</key><string>Tiësto, Gucci Mane &#38; Sevenn</string>
+			<key>Sort Name</key><string>BOOM</string>
+			<key>Persistent ID</key><string>243A3467E8BAD646</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>400422</key>
+		<dict>
+			<key>Track ID</key><integer>400422</integer>
+			<key>Name</key><string>Shinin'</string>
+			<key>Artist</key><string>JONGHYUN</string>
+			<key>Album Artist</key><string>JONGHYUN</string>
+			<key>Album</key><string>Poet l Artist</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6415419</integer>
+			<key>Total Time</key><integer>172372</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:46:06Z</date>
+			<key>Date Added</key><date>2018-01-26T15:46:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3599900757</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:25:57Z</date>
+			<key>Release Date</key><date>2018-01-23T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Poet l Artist</string>
+			<key>Sort Artist</key><string>JONGHYUN</string>
+			<key>Sort Name</key><string>Shinin'</string>
+			<key>Persistent ID</key><string>C6C2A0AF7ABD4A2B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>400749</key>
+		<dict>
+			<key>Track ID</key><integer>400749</integer>
+			<key>Name</key><string>MăNDŭRĭN</string>
+			<key>Artist</key><string>KAMAU</string>
+			<key>Album Artist</key><string>KAMAU</string>
+			<key>Album</key><string>MăNDŭRĭN - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7450098</integer>
+			<key>Total Time</key><integer>206867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T15:52:37Z</date>
+			<key>Date Added</key><date>2018-01-26T15:52:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3599895844</integer>
+			<key>Play Date UTC</key><date>2018-01-27T17:04:04Z</date>
+			<key>Release Date</key><date>2018-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MăNDŭRĭN - Single</string>
+			<key>Sort Artist</key><string>KAMAU</string>
+			<key>Sort Name</key><string>MăNDŭRĭN</string>
+			<key>Persistent ID</key><string>82CED1931B8F750A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>400955</key>
+		<dict>
+			<key>Track ID</key><integer>400955</integer>
+			<key>Name</key><string>Fake Nice</string>
+			<key>Artist</key><string>The Aces</string>
+			<key>Album Artist</key><string>The Aces</string>
+			<key>Composer</key><string>Alisa Ramirez, Cristal Ramirez, Katie Henderson, McKenna Petty &#38; Wendy Wang</string>
+			<key>Album</key><string>Fake Nice - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7542830</integer>
+			<key>Total Time</key><integer>203646</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T16:08:12Z</date>
+			<key>Date Added</key><date>2018-01-26T16:08:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3599902535</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:55:35Z</date>
+			<key>Release Date</key><date>2018-01-24T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fake Nice - Single</string>
+			<key>Sort Album Artist</key><string>Aces</string>
+			<key>Sort Artist</key><string>Aces</string>
+			<key>Sort Name</key><string>Fake Nice</string>
+			<key>Persistent ID</key><string>D9BAC27E0BDCDB52</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>401240</key>
+		<dict>
+			<key>Track ID</key><integer>401240</integer>
+			<key>Name</key><string>Communication (feat. DRAM)</string>
+			<key>Artist</key><string>Arin Ray</string>
+			<key>Album Artist</key><string>Arin Ray</string>
+			<key>Composer</key><string>Arin Ray, Shelley Massenburg-Smith, Markus A. Randle &#38; Samuel Benjamin Wishkoski</string>
+			<key>Album</key><string>Communication (feat. DRAM) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7658729</integer>
+			<key>Total Time</key><integer>216632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T16:18:25Z</date>
+			<key>Date Added</key><date>2018-01-26T16:18:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3599823315</integer>
+			<key>Play Date UTC</key><date>2018-01-26T20:55:15Z</date>
+			<key>Release Date</key><date>2018-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Communication (feat. DRAM) - Single</string>
+			<key>Sort Artist</key><string>Arin Ray</string>
+			<key>Sort Name</key><string>Communication (feat. DRAM)</string>
+			<key>Persistent ID</key><string>B48CE170EFE47F44</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>401597</key>
+		<dict>
+			<key>Track ID</key><integer>401597</integer>
+			<key>Name</key><string>The Opener</string>
+			<key>Artist</key><string>Camp Cope</string>
+			<key>Album Artist</key><string>Camp Cope</string>
+			<key>Album</key><string>How to Socialise &#38; Make Friends</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8135477</integer>
+			<key>Total Time</key><integer>220174</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-01-26T16:34:21Z</date>
+			<key>Date Added</key><date>2018-01-26T16:34:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3599895575</integer>
+			<key>Play Date UTC</key><date>2018-01-27T16:59:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-26T19:28:28Z</date>
+			<key>Release Date</key><date>2017-11-16T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How to Socialise &#38; Make Friends</string>
+			<key>Sort Artist</key><string>Camp Cope</string>
+			<key>Sort Name</key><string>Opener</string>
+			<key>Persistent ID</key><string>4E64E48F478E7135</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>403747</key>
+		<dict>
+			<key>Track ID</key><integer>403747</integer>
+			<key>Name</key><string>For You (Fifty Shades Freed)</string>
+			<key>Artist</key><string>Liam Payne &#38; Rita Ora</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Ali Payami, Ali Tamposi &#38; Andrew Watt</string>
+			<key>Album</key><string>Fifty Shades Freed (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8825486</integer>
+			<key>Total Time</key><integer>245466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-26T19:42:53Z</date>
+			<key>Date Added</key><date>2018-01-26T19:42:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3599901002</integer>
+			<key>Play Date UTC</key><date>2018-01-27T18:30:02Z</date>
+			<key>Release Date</key><date>2018-02-09T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fifty Shades Freed (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Liam Payne &#38; Rita Ora</string>
+			<key>Sort Name</key><string>For You (Fifty Shades Freed)</string>
+			<key>Persistent ID</key><string>7D48BD0A117949AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>410631</key>
+		<dict>
+			<key>Track ID</key><integer>410631</integer>
+			<key>Name</key><string>비밀이야 Secret</string>
+			<key>Artist</key><string>WJSN</string>
+			<key>Album Artist</key><string>WJSN</string>
+			<key>Album</key><string>The Secret</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8428514</integer>
+			<key>Total Time</key><integer>222582</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-01-27T22:31:28Z</date>
+			<key>Date Added</key><date>2018-01-27T22:31:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3599972872</integer>
+			<key>Play Date UTC</key><date>2018-01-28T14:27:52Z</date>
+			<key>Release Date</key><date>2016-08-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret</string>
+			<key>Sort Artist</key><string>WJSN</string>
+			<key>Sort Name</key><string>비밀이야 Secret</string>
+			<key>Persistent ID</key><string>FAC6205301C57754</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>68983</integer>
+			<key>Playlist Persistent ID</key><string>831431E559E4D232</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>28876</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>403747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>410631</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

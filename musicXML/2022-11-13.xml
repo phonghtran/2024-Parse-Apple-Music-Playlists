@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-11-13T20:17:56Z</date>
+	<key>Application Version</key><string>1.3.0.138</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>45135</key>
+		<dict>
+			<key>Track ID</key><integer>45135</integer>
+			<key>Name</key><string>Ba Bumpin</string>
+			<key>Artist</key><string>Kalisway</string>
+			<key>Album Artist</key><string>Kalisway</string>
+			<key>Composer</key><string>Kalisway</string>
+			<key>Album</key><string>Special K - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8643862</integer>
+			<key>Total Time</key><integer>238005</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-09-20T01:37:36Z</date>
+			<key>Date Added</key><date>2022-09-20T02:37:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3750957192</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:33:12Z</date>
+			<key>Release Date</key><date>2020-10-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Special K - EP</string>
+			<key>Sort Artist</key><string>Kalisway</string>
+			<key>Sort Name</key><string>Ba Bumpin</string>
+			<key>Persistent ID</key><string>0CCB59939A54C67A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45153</key>
+		<dict>
+			<key>Track ID</key><integer>45153</integer>
+			<key>Name</key><string>ABC (feat. Sophia Black)</string>
+			<key>Artist</key><string>Polyphia</string>
+			<key>Album Artist</key><string>Polyphia</string>
+			<key>Composer</key><string>Ari Starace, Clay Aeschliman, Clay Gober, Scott Lepage, Sophia Black, Suyu Schubert, Suyuki &#38; Tim Henson</string>
+			<key>Album</key><string>ABC (feat. Sophia Black) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5884761</integer>
+			<key>Total Time</key><integer>152361</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-09-21T03:06:17Z</date>
+			<key>Date Added</key><date>2022-09-21T04:06:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3750958662</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:57:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-13T14:13:11Z</date>
+			<key>Release Date</key><date>2022-09-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ABC (feat. Sophia Black) - Single</string>
+			<key>Sort Artist</key><string>Polyphia</string>
+			<key>Sort Name</key><string>ABC (feat. Sophia Black)</string>
+			<key>Persistent ID</key><string>4582829B6F1A0A7F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45305</key>
+		<dict>
+			<key>Track ID</key><integer>45305</integer>
+			<key>Name</key><string>Lonely Daze</string>
+			<key>Artist</key><string>Senseless Optimism</string>
+			<key>Album Artist</key><string>Senseless Optimism</string>
+			<key>Composer</key><string>Senseless Optimism</string>
+			<key>Album</key><string>Lonely Daze - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4832687</integer>
+			<key>Total Time</key><integer>130212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-10-05T01:15:32Z</date>
+			<key>Date Added</key><date>2022-10-05T02:15:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3750958329</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:52:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-10-29T14:38:35Z</date>
+			<key>Release Date</key><date>2021-02-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lonely Daze - Single</string>
+			<key>Sort Artist</key><string>Senseless Optimism</string>
+			<key>Sort Name</key><string>Lonely Daze</string>
+			<key>Persistent ID</key><string>4234ECC7BE9E535B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45389</key>
+		<dict>
+			<key>Track ID</key><integer>45389</integer>
+			<key>Name</key><string>The Blessing</string>
+			<key>Artist</key><string>YOASOBI</string>
+			<key>Album Artist</key><string>YOASOBI</string>
+			<key>Composer</key><string>Ayase</string>
+			<key>Album</key><string>The Blessing - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7217723</integer>
+			<key>Total Time</key><integer>196235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-08T13:51:34Z</date>
+			<key>Date Added</key><date>2022-10-08T14:51:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3750959064</integer>
+			<key>Play Date UTC</key><date>2022-11-11T02:04:24Z</date>
+			<key>Release Date</key><date>2022-10-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blessing - Single</string>
+			<key>Sort Artist</key><string>YOASOBI</string>
+			<key>Sort Name</key><string>Blessing</string>
+			<key>Persistent ID</key><string>47A0628F4FB2DBBE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45395</key>
+		<dict>
+			<key>Track ID</key><integer>45395</integer>
+			<key>Name</key><string>Bouncy Ball</string>
+			<key>Artist</key><string>Kalisway</string>
+			<key>Album Artist</key><string>Kalisway</string>
+			<key>Composer</key><string>Kiya Myers-Barrett</string>
+			<key>Album</key><string>Can't Tell Me Nothing - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8188341</integer>
+			<key>Total Time</key><integer>219061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-10T18:32:45Z</date>
+			<key>Date Added</key><date>2022-10-10T19:32:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3750958199</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:49:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-21T14:27:15Z</date>
+			<key>Release Date</key><date>2022-07-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Can't Tell Me Nothing - EP</string>
+			<key>Sort Artist</key><string>Kalisway</string>
+			<key>Sort Name</key><string>Bouncy Ball</string>
+			<key>Persistent ID</key><string>BC43792AFE991D31</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45709</key>
+		<dict>
+			<key>Track ID</key><integer>45709</integer>
+			<key>Name</key><string>Karma</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Jack Antonoff, Mark Anthony Spears, Keanu Torres &#38; Jahaan Akil Sweet</string>
+			<key>Album</key><string>Midnights (3am Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7249552</integer>
+			<key>Total Time</key><integer>204852</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-21T15:15:57Z</date>
+			<key>Date Added</key><date>2022-10-21T16:15:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3750958867</integer>
+			<key>Play Date UTC</key><date>2022-11-11T02:01:07Z</date>
+			<key>Release Date</key><date>2022-10-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Midnights (3am Edition)</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Karma</string>
+			<key>Persistent ID</key><string>357247ADB95A44F0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>115827</key>
+		<dict>
+			<key>Track ID</key><integer>115827</integer>
+			<key>Name</key><string>TGANG</string>
+			<key>Artist</key><string>Louyah</string>
+			<key>Album Artist</key><string>Louyah</string>
+			<key>Composer</key><string>Brian Edward Bernotas, John Ciro Vigorito &#38; Louis Vigorito</string>
+			<key>Album</key><string>TGANG - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2836087</integer>
+			<key>Total Time</key><integer>70482</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-25T22:56:15Z</date>
+			<key>Date Added</key><date>2022-10-25T23:56:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3750957980</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:46:20Z</date>
+			<key>Release Date</key><date>2022-02-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TGANG - Single</string>
+			<key>Sort Artist</key><string>Louyah</string>
+			<key>Sort Name</key><string>TGANG</string>
+			<key>Persistent ID</key><string>33793B927CC6F321</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>117236</key>
+		<dict>
+			<key>Track ID</key><integer>117236</integer>
+			<key>Name</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix]</string>
+			<key>Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Album Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Composer</key><string>Äyanna, Summer Walker, William Grigahcine, Nicholas Audino, Nina Simone, Andrew Macdonald, Lewis Hughes, Ayanna Christie &#38; Sodamola Oluseye Idris Desmond</string>
+			<key>Album</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix] - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8238428</integer>
+			<key>Total Time</key><integer>230918</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-27T12:53:39Z</date>
+			<key>Date Added</key><date>2022-10-27T13:53:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3750957909</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:45:09Z</date>
+			<key>Release Date</key><date>2022-10-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix] - Single</string>
+			<key>Sort Artist</key><string>SPINALL, Äyanna &#38; DJ Snake</string>
+			<key>Sort Name</key><string>Power (Remember Who You Are) [feat. Summer Walker] [Flippersworld Remix]</string>
+			<key>Persistent ID</key><string>21EFDE60D6763A20</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>117239</key>
+		<dict>
+			<key>Track ID</key><integer>117239</integer>
+			<key>Name</key><string>No Time</string>
+			<key>Artist</key><string>Bad Milk &#38; Niisey</string>
+			<key>Album Artist</key><string>Bad Milk &#38; Niisey</string>
+			<key>Composer</key><string>Owen Roberts &#38; Aniis Allen</string>
+			<key>Album</key><string>No Time - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6179594</integer>
+			<key>Total Time</key><integer>169682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-10-28T13:23:42Z</date>
+			<key>Date Added</key><date>2022-10-28T14:23:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3750959234</integer>
+			<key>Play Date UTC</key><date>2022-11-11T02:07:14Z</date>
+			<key>Release Date</key><date>2020-08-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Time - Single</string>
+			<key>Sort Artist</key><string>Bad Milk &#38; Niisey</string>
+			<key>Sort Name</key><string>No Time</string>
+			<key>Persistent ID</key><string>61A6B46B64A79A88</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>118238</key>
+		<dict>
+			<key>Track ID</key><integer>118238</integer>
+			<key>Name</key><string>Tell Em</string>
+			<key>Artist</key><string>Cochise &#38; $NOT</string>
+			<key>Album Artist</key><string>Cochise &#38; $NOT</string>
+			<key>Composer</key><string>Terrell Cox, Christian Pitts &#38; Edy Edouard</string>
+			<key>Album</key><string>Tell Em - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6511118</integer>
+			<key>Total Time</key><integer>180380</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-10-29T20:59:25Z</date>
+			<key>Date Added</key><date>2022-10-29T21:59:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3750958509</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:55:09Z</date>
+			<key>Release Date</key><date>2021-05-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tell Em - Single</string>
+			<key>Sort Artist</key><string>Cochise &#38; $NOT</string>
+			<key>Sort Name</key><string>Tell Em</string>
+			<key>Persistent ID</key><string>1FE154522C39E0ED</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>123008</key>
+		<dict>
+			<key>Track ID</key><integer>123008</integer>
+			<key>Name</key><string>Get Me Hype (Intro)</string>
+			<key>Artist</key><string>Lebra Jolie</string>
+			<key>Album Artist</key><string>Lebra Jolie</string>
+			<key>Composer</key><string>Lebra Daniels &#38; Kevin Andre Price</string>
+			<key>Album</key><string>Lebra Jolie</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4417011</integer>
+			<key>Total Time</key><integer>117375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-03T02:58:00Z</date>
+			<key>Date Added</key><date>2022-11-03T03:58:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3750957310</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:35:10Z</date>
+			<key>Release Date</key><date>2022-10-07T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lebra Jolie</string>
+			<key>Sort Artist</key><string>Lebra Jolie</string>
+			<key>Sort Name</key><string>Get Me Hype (Intro)</string>
+			<key>Persistent ID</key><string>85BA343690D2A81E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>130652</key>
+		<dict>
+			<key>Track ID</key><integer>130652</integer>
+			<key>Name</key><string>Better Thangs (Remix) [feat. GloRilla]</string>
+			<key>Artist</key><string>Ciara &#38; Summer Walker</string>
+			<key>Album Artist</key><string>Ciara &#38; Summer Walker</string>
+			<key>Composer</key><string>Summer Walker, Ciara Wilson, Kevin Yancey, Theron Thomas, Kasey Philips, Claudell M. Mosanto, Ayanna Christie, Cori P Alexander &#38; Gloria Woods</string>
+			<key>Album</key><string>Better Thangs (Remix) [feat. GloRilla] - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7700228</integer>
+			<key>Total Time</key><integer>215061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-06T21:35:53Z</date>
+			<key>Date Added</key><date>2022-11-06T21:35:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3750957525</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:38:45Z</date>
+			<key>Release Date</key><date>2022-11-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Better Thangs (Remix) [feat. GloRilla] - Single</string>
+			<key>Sort Artist</key><string>Ciara &#38; Summer Walker</string>
+			<key>Sort Name</key><string>Better Thangs (Remix) [feat. GloRilla]</string>
+			<key>Persistent ID</key><string>9127CBB6CD2209EF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>131091</key>
+		<dict>
+			<key>Track ID</key><integer>131091</integer>
+			<key>Name</key><string>Everybody Says They’re Fine</string>
+			<key>Artist</key><string>Sigrid</string>
+			<key>Album Artist</key><string>Sigrid</string>
+			<key>Composer</key><string>Caroline Ailin, Sly, Brett Leland &#38; Sigrid</string>
+			<key>Album</key><string>How To Let Go (Special Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5534873</integer>
+			<key>Total Time</key><integer>151482</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-06T22:18:40Z</date>
+			<key>Date Added</key><date>2022-11-06T22:18:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3750957678</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:41:18Z</date>
+			<key>Release Date</key><date>2022-11-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How To Let Go (Special Edition)</string>
+			<key>Sort Artist</key><string>Sigrid</string>
+			<key>Sort Name</key><string>Everybody Says They’re Fine</string>
+			<key>Persistent ID</key><string>C60C605C5070F8BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>131350</key>
+		<dict>
+			<key>Track ID</key><integer>131350</integer>
+			<key>Name</key><string>loving u is harder</string>
+			<key>Artist</key><string>SEB</string>
+			<key>Album Artist</key><string>SEB</string>
+			<key>Composer</key><string>SEB</string>
+			<key>Album</key><string>loving u is harder - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5408727</integer>
+			<key>Total Time</key><integer>147427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-11-06T22:40:14Z</date>
+			<key>Date Added</key><date>2022-11-06T22:40:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3750956954</integer>
+			<key>Play Date UTC</key><date>2022-11-11T01:29:14Z</date>
+			<key>Release Date</key><date>2022-11-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>loving u is harder - Single</string>
+			<key>Sort Artist</key><string>SEB</string>
+			<key>Sort Name</key><string>loving u is harder</string>
+			<key>Persistent ID</key><string>194DB79BFBAFCE4B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>110601</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130652</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131350</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

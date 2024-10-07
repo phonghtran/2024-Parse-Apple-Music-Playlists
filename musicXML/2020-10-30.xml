@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-10-30T15:24:28Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>F8DCF45698080FD9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>39021</key>
+		<dict>
+			<key>Track ID</key><integer>39021</integer>
+			<key>Name</key><string>Tangerine</string>
+			<key>Artist</key><string>Glass Animals</string>
+			<key>Album Artist</key><string>Glass Animals</string>
+			<key>Composer</key><string>Dave Bayley, Paul Epworth &#38; Brittany Hazzard</string>
+			<key>Album</key><string>Dreamland (+ Bonus Levels)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7217554</integer>
+			<key>Total Time</key><integer>200584</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-03T13:55:29Z</date>
+			<key>Date Added</key><date>2020-10-03T13:55:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3686631848</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:24:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-10-07T00:32:53Z</date>
+			<key>Release Date</key><date>2020-08-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dreamland (+ Bonus Levels)</string>
+			<key>Sort Artist</key><string>Glass Animals</string>
+			<key>Sort Name</key><string>Tangerine</string>
+			<key>Persistent ID</key><string>1B1E57A37BBA54D7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39098</key>
+		<dict>
+			<key>Track ID</key><integer>39098</integer>
+			<key>Name</key><string>God on My Side</string>
+			<key>Artist</key><string>Social Club Misfits &#38; Ty Brasel</string>
+			<key>Album Artist</key><string>Social Club Misfits</string>
+			<key>Composer</key><string>Ty Brasel, Martin Santiago, Fernando Miranda &#38; William Josiah Reeves</string>
+			<key>Album</key><string>Feared by Hell</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7267281</integer>
+			<key>Total Time</key><integer>203302</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-08T14:13:28Z</date>
+			<key>Date Added</key><date>2020-10-08T14:13:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3686633310</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:48:30Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-10-23T17:24:08Z</date>
+			<key>Release Date</key><date>2020-10-02T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feared by Hell</string>
+			<key>Sort Artist</key><string>Social Club Misfits &#38; Ty Brasel</string>
+			<key>Sort Name</key><string>God on My Side</string>
+			<key>Persistent ID</key><string>7BB07D0E2767B840</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39180</key>
+		<dict>
+			<key>Track ID</key><integer>39180</integer>
+			<key>Name</key><string>i miss u</string>
+			<key>Artist</key><string>Jax Jones &#38; Au/Ra</string>
+			<key>Album Artist</key><string>Jax Jones &#38; Au/Ra</string>
+			<key>Composer</key><string>Timucin Aluo, Cass Lowe, Ina Wroldsen, Janee Bennett &#38; Olav Tronsmoen</string>
+			<key>Album</key><string>i miss u - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6278627</integer>
+			<key>Total Time</key><integer>172277</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-12T14:47:33Z</date>
+			<key>Date Added</key><date>2020-10-12T14:47:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3686630911</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:08:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-10-24T15:08:20Z</date>
+			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>i miss u - Single</string>
+			<key>Sort Artist</key><string>Jax Jones &#38; Au/Ra</string>
+			<key>Sort Name</key><string>i miss u</string>
+			<key>Persistent ID</key><string>0CE1EFAA9B43CB8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39200</key>
+		<dict>
+			<key>Track ID</key><integer>39200</integer>
+			<key>Name</key><string>Around Your Room</string>
+			<key>Artist</key><string>Kississippi</string>
+			<key>Album Artist</key><string>Kississippi</string>
+			<key>Composer</key><string>Zoe Allaire Reynolds &#38; Sarah Alyse Tudzin</string>
+			<key>Album</key><string>Around Your Room - Single</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7612544</integer>
+			<key>Total Time</key><integer>210693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-13T18:50:57Z</date>
+			<key>Date Added</key><date>2020-10-13T18:50:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3686723515</integer>
+			<key>Play Date UTC</key><date>2020-10-28T13:51:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-10-21T12:22:28Z</date>
+			<key>Release Date</key><date>2020-10-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Around Your Room - Single</string>
+			<key>Sort Artist</key><string>Kississippi</string>
+			<key>Sort Name</key><string>Around Your Room</string>
+			<key>Persistent ID</key><string>7F79AF6C6EFDCE19</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39582</key>
+		<dict>
+			<key>Track ID</key><integer>39582</integer>
+			<key>Name</key><string>Calm Down (feat. Miko)</string>
+			<key>Artist</key><string>Lunice</string>
+			<key>Album Artist</key><string>Lunice</string>
+			<key>Album</key><string>Calm Down (feat. Miko) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5859544</integer>
+			<key>Total Time</key><integer>166000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-15T20:39:36Z</date>
+			<key>Date Added</key><date>2020-10-15T20:39:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3686629651</integer>
+			<key>Play Date UTC</key><date>2020-10-27T11:47:31Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-10-20T17:20:08Z</date>
+			<key>Release Date</key><date>2020-10-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Calm Down (feat. Miko) - Single</string>
+			<key>Sort Artist</key><string>Lunice</string>
+			<key>Sort Name</key><string>Calm Down (feat. Miko)</string>
+			<key>Persistent ID</key><string>4EB46CF244679C1F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39692</key>
+		<dict>
+			<key>Track ID</key><integer>39692</integer>
+			<key>Name</key><string>Found It in You</string>
+			<key>Artist</key><string>Tiera</string>
+			<key>Album Artist</key><string>Tiera</string>
+			<key>Composer</key><string>Tiera Leftwich &#38; Cameron Bedell</string>
+			<key>Album</key><string>Found It in You - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7014484</integer>
+			<key>Total Time</key><integer>194766</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-17T02:37:20Z</date>
+			<key>Date Added</key><date>2020-10-17T02:37:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3686645353</integer>
+			<key>Play Date UTC</key><date>2020-10-27T16:09:13Z</date>
+			<key>Release Date</key><date>2020-10-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Found It in You - Single</string>
+			<key>Sort Artist</key><string>Tiera</string>
+			<key>Sort Name</key><string>Found It in You</string>
+			<key>Persistent ID</key><string>413C6DF4B9664044</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39724</key>
+		<dict>
+			<key>Track ID</key><integer>39724</integer>
+			<key>Name</key><string>Wake of a Nation</string>
+			<key>Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Album Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Album</key><string>Wake of a Nation - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5548085</integer>
+			<key>Total Time</key><integer>151789</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-17T03:09:13Z</date>
+			<key>Date Added</key><date>2020-10-17T03:09:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3686631259</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:14:19Z</date>
+			<key>Release Date</key><date>2020-10-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wake of a Nation - Single</string>
+			<key>Sort Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Sort Name</key><string>Wake of a Nation</string>
+			<key>Persistent ID</key><string>C1E311CB7BB10D42</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39858</key>
+		<dict>
+			<key>Track ID</key><integer>39858</integer>
+			<key>Name</key><string>Daisy</string>
+			<key>Artist</key><string>PENTAGON</string>
+			<key>Album Artist</key><string>PENTAGON</string>
+			<key>Composer</key><string>HUI &#38; WOOSEOK</string>
+			<key>Album</key><string>WE:TH - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6940533</integer>
+			<key>Total Time</key><integer>189000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-22T14:38:50Z</date>
+			<key>Date Added</key><date>2020-10-22T14:38:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3686900523</integer>
+			<key>Play Date UTC</key><date>2020-10-30T15:02:03Z</date>
+			<key>Release Date</key><date>2020-10-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WE:TH - EP</string>
+			<key>Sort Artist</key><string>PENTAGON</string>
+			<key>Sort Name</key><string>Daisy</string>
+			<key>Persistent ID</key><string>C369CA6FC0DAB6DB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40168</key>
+		<dict>
+			<key>Track ID</key><integer>40168</integer>
+			<key>Name</key><string>positions</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Ariana Grande, Tommy Brown, James Jarvis, Nija Charles, Angelina Barrett, Steven Franks, Brian Vincent Bates &#38; London Tyler Holmes</string>
+			<key>Album</key><string>positions - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6149273</integer>
+			<key>Total Time</key><integer>172325</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-23T16:09:36Z</date>
+			<key>Date Added</key><date>2020-10-23T16:09:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3686633483</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:51:23Z</date>
+			<key>Release Date</key><date>2020-10-23T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>positions - Single</string>
+			<key>Sort Artist</key><string>Ariana Grande</string>
+			<key>Sort Name</key><string>positions</string>
+			<key>Persistent ID</key><string>93129C3BABA2FAA4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40170</key>
+		<dict>
+			<key>Track ID</key><integer>40170</integer>
+			<key>Name</key><string>Spicy (feat. Post Malone)</string>
+			<key>Artist</key><string>Ty Dolla $ign</string>
+			<key>Album Artist</key><string>Ty Dolla $ign</string>
+			<key>Composer</key><string>Austin Post, Glenda Proby, James Royo, Nye Lee Jr., Tyrone Griffin Jr &#38; Westen Weiss</string>
+			<key>Album</key><string>Featuring Ty Dolla $ign</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5295223</integer>
+			<key>Total Time</key><integer>143375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-23T16:09:36Z</date>
+			<key>Date Added</key><date>2020-10-23T16:09:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3686681120</integer>
+			<key>Play Date UTC</key><date>2020-10-28T02:05:20Z</date>
+			<key>Release Date</key><date>2020-10-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Featuring Ty Dolla $ign</string>
+			<key>Sort Artist</key><string>Ty Dolla $ign</string>
+			<key>Sort Name</key><string>Spicy (feat. Post Malone)</string>
+			<key>Persistent ID</key><string>48A1006C7DE93264</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40172</key>
+		<dict>
+			<key>Track ID</key><integer>40172</integer>
+			<key>Name</key><string>Green Eyes</string>
+			<key>Artist</key><string>Arlo Parks</string>
+			<key>Album Artist</key><string>Arlo Parks</string>
+			<key>Composer</key><string>Gianluca Buccellati, Anais Marinho, Alessandro Buccellati &#38; Claire Cottrill</string>
+			<key>Album</key><string>Collapsed In Sunbeams</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7054691</integer>
+			<key>Total Time</key><integer>198040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-23T16:09:36Z</date>
+			<key>Date Added</key><date>2020-10-23T16:09:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3686630528</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:02:08Z</date>
+			<key>Release Date</key><date>2020-10-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Collapsed In Sunbeams</string>
+			<key>Sort Artist</key><string>Arlo Parks</string>
+			<key>Sort Name</key><string>Green Eyes</string>
+			<key>Persistent ID</key><string>9DF9D4A288893C7A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40174</key>
+		<dict>
+			<key>Track ID</key><integer>40174</integer>
+			<key>Name</key><string>Back to the Streets (feat. Jhené Aiko)</string>
+			<key>Artist</key><string>Saweetie</string>
+			<key>Album Artist</key><string>Saweetie</string>
+			<key>Composer</key><string>Simon Plummer, Sirah Mitchell, Timothy Mosley, Aleicia Gibson, Diamonté Harper, Donny Flores, Federico Vindver, Gino Borri, Jhené Aiko, Jose Velazquez, matthew crabtree &#38; Michael Suski</string>
+			<key>Album</key><string>Back to the Streets (feat. Jhené Aiko) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6833140</integer>
+			<key>Total Time</key><integer>189496</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-23T16:28:24Z</date>
+			<key>Date Added</key><date>2020-10-23T16:28:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3686631647</integer>
+			<key>Play Date UTC</key><date>2020-10-27T12:20:47Z</date>
+			<key>Release Date</key><date>2020-10-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back to the Streets (feat. Jhené Aiko) - Single</string>
+			<key>Sort Artist</key><string>Saweetie</string>
+			<key>Sort Name</key><string>Back to the Streets (feat. Jhené Aiko)</string>
+			<key>Persistent ID</key><string>8E13F21B01317360</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40176</key>
+		<dict>
+			<key>Track ID</key><integer>40176</integer>
+			<key>Name</key><string>Don't Like Me (feat. Gucci Mane &#38; Don Toliver)</string>
+			<key>Artist</key><string>Rico Nasty</string>
+			<key>Album Artist</key><string>Rico Nasty</string>
+			<key>Composer</key><string>Maria Kelly, Radric Davis, Caleb Toliver &#38; Ty-Ron Douglas</string>
+			<key>Album</key><string>Don't Like Me (feat. Gucci Mane &#38; Don Toliver) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6251563</integer>
+			<key>Total Time</key><integer>165400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-23T16:39:18Z</date>
+			<key>Date Added</key><date>2020-10-23T16:39:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3686731814</integer>
+			<key>Play Date UTC</key><date>2020-10-28T16:10:14Z</date>
+			<key>Release Date</key><date>2020-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Like Me (feat. Gucci Mane &#38; Don Toliver) - Single</string>
+			<key>Sort Artist</key><string>Rico Nasty</string>
+			<key>Sort Name</key><string>Don't Like Me (feat. Gucci Mane &#38; Don Toliver)</string>
+			<key>Persistent ID</key><string>6DC21AB83F4E7039</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40182</key>
+		<dict>
+			<key>Track ID</key><integer>40182</integer>
+			<key>Name</key><string>Finding</string>
+			<key>Artist</key><string>George Burton</string>
+			<key>Album Artist</key><string>George Burton</string>
+			<key>Composer</key><string>George Alfred Burton III</string>
+			<key>Album</key><string>Reciprocity</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8159822</integer>
+			<key>Total Time</key><integer>215467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-23T22:14:38Z</date>
+			<key>Date Added</key><date>2020-10-23T22:14:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3686723304</integer>
+			<key>Play Date UTC</key><date>2020-10-28T13:48:24Z</date>
+			<key>Release Date</key><date>2020-02-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Reciprocity</string>
+			<key>Sort Artist</key><string>George Burton</string>
+			<key>Sort Name</key><string>Finding</string>
+			<key>Persistent ID</key><string>BCAEAD57FC56B7AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40184</key>
+		<dict>
+			<key>Track ID</key><integer>40184</integer>
+			<key>Name</key><string>Had a Dream</string>
+			<key>Artist</key><string>Sam Doores</string>
+			<key>Album Artist</key><string>Sam Doores</string>
+			<key>Composer</key><string>Sam Doores, Manon Parent, Carlos Santana, Noah Harley &#38; Anders Christopherson</string>
+			<key>Album</key><string>Sam Doores</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7127008</integer>
+			<key>Total Time</key><integer>198947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-24T02:35:45Z</date>
+			<key>Date Added</key><date>2020-10-24T02:35:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3686722901</integer>
+			<key>Play Date UTC</key><date>2020-10-28T13:41:41Z</date>
+			<key>Release Date</key><date>2020-03-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sam Doores</string>
+			<key>Sort Artist</key><string>Sam Doores</string>
+			<key>Sort Name</key><string>Had a Dream</string>
+			<key>Persistent ID</key><string>8022078926F23299</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40190</key>
+		<dict>
+			<key>Track ID</key><integer>40190</integer>
+			<key>Name</key><string>Memphis (feat. NLE Choppa &#38; A$AP Ferg) [Remix]</string>
+			<key>Artist</key><string>AG Club</string>
+			<key>Album Artist</key><string>AG Club</string>
+			<key>Composer</key><string>Luis García Guillén, DarolD, Damarcuz Henderson, Bryson Lashun Potts &#38; Jahan Jayubo-Williams</string>
+			<key>Album</key><string>Memphis (feat. NLE Choppa &#38; A$AP Ferg) [Remix] - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8034056</integer>
+			<key>Total Time</key><integer>224331</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-24T03:29:31Z</date>
+			<key>Date Added</key><date>2020-10-24T03:29:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3686680976</integer>
+			<key>Play Date UTC</key><date>2020-10-28T02:02:56Z</date>
+			<key>Release Date</key><date>2020-08-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Memphis (feat. NLE Choppa &#38; A$AP Ferg) [Remix] - Single</string>
+			<key>Sort Artist</key><string>AG Club</string>
+			<key>Sort Name</key><string>Memphis (feat. NLE Choppa &#38; A$AP Ferg) [Remix]</string>
+			<key>Persistent ID</key><string>4945DFBB57BE4047</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>40267</key>
+		<dict>
+			<key>Track ID</key><integer>40267</integer>
+			<key>Name</key><string>Plush</string>
+			<key>Artist</key><string>Stone Temple Pilots</string>
+			<key>Album Artist</key><string>Stone Temple Pilots</string>
+			<key>Composer</key><string>Eric Kretz, Robert DeLeo &#38; Scott Weiland</string>
+			<key>Album</key><string>Thank You</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11992947</integer>
+			<key>Total Time</key><integer>310346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2020-10-27T12:25:54Z</date>
+			<key>Date Added</key><date>2020-10-27T04:16:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3686722687</integer>
+			<key>Play Date UTC</key><date>2020-10-28T13:38:07Z</date>
+			<key>Release Date</key><date>2003-11-10T08:00:00Z</date>
+			<key>Normalization</key><integer>8541</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Thank You</string>
+			<key>Sort Artist</key><string>Stone Temple Pilots</string>
+			<key>Sort Name</key><string>Plush</string>
+			<key>Persistent ID</key><string>35EC9188BD7E83D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/Apple%20Music/Compilations/Thank%20You/05%20Plush.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40279</key>
+		<dict>
+			<key>Track ID</key><integer>40279</integer>
+			<key>Name</key><string>Never Fall in Love Again (feat. ConsciousThoughts)</string>
+			<key>Artist</key><string>Desired</string>
+			<key>Album Artist</key><string>Desired</string>
+			<key>Composer</key><string>Desired</string>
+			<key>Album</key><string>Lovestory</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6840648</integer>
+			<key>Total Time</key><integer>187820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-27T17:46:57Z</date>
+			<key>Date Added</key><date>2020-10-27T16:19:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3686723089</integer>
+			<key>Play Date UTC</key><date>2020-10-28T13:44:49Z</date>
+			<key>Release Date</key><date>2017-01-08T08:00:00Z</date>
+			<key>Normalization</key><integer>9321</integer>
+			<key>Sort Album</key><string>Lovestory</string>
+			<key>Sort Artist</key><string>Desired</string>
+			<key>Sort Name</key><string>Never Fall in Love Again (feat. ConsciousThoughts)</string>
+			<key>Persistent ID</key><string>91A979F66E28FBCB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/Apple%20Music/Desired/Lovestory/09%20Never%20Fall%20in%20Love%20Again%20(feat.%20ConsciousThoughts).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>106017</key>
+		<dict>
+			<key>Track ID</key><integer>106017</integer>
+			<key>Name</key><string>Dela</string>
+			<key>Artist</key><string>VHOOR</string>
+			<key>Album Artist</key><string>VHOOR</string>
+			<key>Composer</key><string>Victor Hugo</string>
+			<key>Album</key><string>Baile &#38; Sauce</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6368276</integer>
+			<key>Total Time</key><integer>176292</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-10-28T23:00:11Z</date>
+			<key>Date Added</key><date>2020-10-28T19:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3686744001</integer>
+			<key>Play Date UTC</key><date>2020-10-28T19:33:21Z</date>
+			<key>Release Date</key><date>2020-07-31T07:00:00Z</date>
+			<key>Normalization</key><integer>2343</integer>
+			<key>Sort Album</key><string>Baile &#38; Sauce</string>
+			<key>Sort Artist</key><string>VHOOR</string>
+			<key>Sort Name</key><string>Dela</string>
+			<key>Persistent ID</key><string>FAC9531B4A131323</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/Apple%20Music/VHOOR/Baile%20&#38;%20Sauce/02%20Dela.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>106020</key>
+		<dict>
+			<key>Track ID</key><integer>106020</integer>
+			<key>Name</key><string>Man Down (feat. AlunaGeorge)</string>
+			<key>Artist</key><string>Shakka</string>
+			<key>Album Artist</key><string>Shakka</string>
+			<key>Composer</key><string>Aluna Francis &#38; Shakka Philip</string>
+			<key>Album</key><string>Man Down (feat. AlunaGeorge) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7541126</integer>
+			<key>Total Time</key><integer>211211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-10-28T23:00:12Z</date>
+			<key>Date Added</key><date>2020-10-28T19:54:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3686745313</integer>
+			<key>Play Date UTC</key><date>2020-10-28T19:55:13Z</date>
+			<key>Release Date</key><date>2018-02-16T08:00:00Z</date>
+			<key>Normalization</key><integer>4984</integer>
+			<key>Sort Album</key><string>Man Down (feat. AlunaGeorge) - Single</string>
+			<key>Sort Artist</key><string>Shakka</string>
+			<key>Sort Name</key><string>Man Down (feat. AlunaGeorge)</string>
+			<key>Persistent ID</key><string>94DDB285172ED5AB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/Apple%20Music/Shakka/Man%20Down%20(feat.%20AlunaGeorge)%20-%20Single/01%20Man%20Down%20(feat.%20AlunaGeorge).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>103081</integer>
+			<key>Playlist Persistent ID</key><string>B653AA145AEACFC4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39692</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39858</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40174</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>106017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>106020</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-10-14T14:19:50Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7951</key>
+		<dict>
+			<key>Track ID</key><integer>7951</integer>
+			<key>Name</key><string>Don't Turn Around</string>
+			<key>Artist</key><string>Ace Of Base</string>
+			<key>Composer</key><string>Buddha &#38; Joker</string>
+			<key>Album</key><string>The Sign</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4612653</integer>
+			<key>Total Time</key><integer>230504</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2008-07-19T16:06:47Z</date>
+			<key>Date Added</key><date>2010-06-17T12:07:33Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3433051140</integer>
+			<key>Play Date UTC</key><date>2012-10-14T14:19:00Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2012-10-14T04:40:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>878</integer>
+			<key>Sort Album</key><string>Sign</string>
+			<key>Persistent ID</key><string>DFC1D4665B05882D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Ace%20Of%20Base%20-%20Don't%20Turn%20Around.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36769</key>
+		<dict>
+			<key>Track ID</key><integer>36769</integer>
+			<key>Name</key><string>Forever (The Knocks Remix)</string>
+			<key>Artist</key><string>Haim</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9990065</integer>
+			<key>Total Time</key><integer>243226</integer>
+			<key>Date Modified</key><date>2012-09-29T16:26:28Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3433016207</integer>
+			<key>Play Date UTC</key><date>2012-10-14T04:36:47Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2645</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>31B23BD78E3892F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/forever%20(the%20knocks%20remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36779</key>
+		<dict>
+			<key>Track ID</key><integer>36779</integer>
+			<key>Name</key><string>Settle Down (Major Lazer Remix)</string>
+			<key>Artist</key><string>No Doubt</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4717360</integer>
+			<key>Total Time</key><integer>294191</integer>
+			<key>Stop Time</key><integer>223000</integer>
+			<key>Date Modified</key><date>2012-09-29T17:24:14Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3433015964</integer>
+			<key>Play Date UTC</key><date>2012-10-14T04:32:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-10-02T16:23:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>764010A2B9532D3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/no%20doubt%20-%20settle%20down%20(major%20lazer%20remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529593</key>
+		<dict>
+			<key>Track ID</key><integer>529593</integer>
+			<key>Name</key><string>I gotsta get paid</string>
+			<key>Artist</key><string>ZZ Top</string>
+			<key>Album</key><string>La Futura</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7870358</integer>
+			<key>Total Time</key><integer>242834</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-10T02:09:24Z</date>
+			<key>Date Added</key><date>2012-10-10T03:25:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3432990302</integer>
+			<key>Play Date UTC</key><date>2012-10-13T21:25:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-10-10T22:07:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F11CAC2F5D97A36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/ZZ%20Top%20-%20La%20Futura%20(2012)/01%20-%20ZZ%20Top%20-%20I%20gotsta%20get%20paid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529682</key>
+		<dict>
+			<key>Track ID</key><integer>529682</integer>
+			<key>Name</key><string>Bright Lights</string>
+			<key>Artist</key><string>Gary Clark Jr.</string>
+			<key>Album</key><string>Bright Lights Ep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12918912</integer>
+			<key>Total Time</key><integer>322925</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2012-10-10T03:36:46Z</date>
+			<key>Date Added</key><date>2012-10-10T03:25:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3432989974</integer>
+			<key>Play Date UTC</key><date>2012-10-13T21:19:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D64F0AECF6D559A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Gary%20Clark%20Jr/Gary%20Clark%20Jr.%20-%20Bright%20Lights%20EP%20-%202011/Gary%20Clark%20Jr.-01.Bright%20Lights.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529712</key>
+		<dict>
+			<key>Track ID</key><integer>529712</integer>
+			<key>Name</key><string>White Walls ft. ScHoolboy Q &#38; Hollis</string>
+			<key>Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album</key><string>The Heist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10281190</integer>
+			<key>Total Time</key><integer>220368</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-10T03:04:46Z</date>
+			<key>Date Added</key><date>2012-10-10T03:25:33Z</date>
+			<key>Bit Rate</key><integer>260</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3433050409</integer>
+			<key>Play Date UTC</key><date>2012-10-14T14:06:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Heist</string>
+			<key>Persistent ID</key><string>0F24CC7B224EA643</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Macklemore%20&#38;%20Ryan%20Lewis%20%E2%80%93%20White%20Walls%20ft.%20ScHoolBoy%20Q%20&#38;%20Hollis.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529715</key>
+		<dict>
+			<key>Track ID</key><integer>529715</integer>
+			<key>Name</key><string>Sleepless (Feat. Anthony For Cleopatra)</string>
+			<key>Artist</key><string>Flume</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3347713</integer>
+			<key>Total Time</key><integer>208587</integer>
+			<key>Date Modified</key><date>2012-10-10T03:27:29Z</date>
+			<key>Date Added</key><date>2012-10-10T03:25:33Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3433016637</integer>
+			<key>Play Date UTC</key><date>2012-10-14T04:43:57Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>697A8A76E34B992A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Flume%20-%20Sleepless%20(Feat.%20Anthony%20For%20Cleopatra).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529718</key>
+		<dict>
+			<key>Track ID</key><integer>529718</integer>
+			<key>Name</key><string>Sex</string>
+			<key>Artist</key><string>The 1975</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3309645</integer>
+			<key>Total Time</key><integer>206210</integer>
+			<key>Date Modified</key><date>2012-10-10T03:27:49Z</date>
+			<key>Date Added</key><date>2012-10-10T03:25:33Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3433016413</integer>
+			<key>Play Date UTC</key><date>2012-10-14T04:40:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>1975</string>
+			<key>Persistent ID</key><string>4405EE524C74A944</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The%201975%20-%20Sex.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529769</key>
+		<dict>
+			<key>Track ID</key><integer>529769</integer>
+			<key>Name</key><string>I Only Want to Be With You</string>
+			<key>Artist</key><string>Dusty Springfield</string>
+			<key>Album Artist</key><string>Dusty Springfield</string>
+			<key>Composer</key><string>Ivor Raymonde/Michael Hawker</string>
+			<key>Album</key><string>Hits Collection</string>
+			<key>Genre</key><string>Soul And R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6312584</integer>
+			<key>Total Time</key><integer>157831</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2012-10-10T02:43:21Z</date>
+			<key>Date Added</key><date>2012-10-10T03:25:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3432972407</integer>
+			<key>Play Date UTC</key><date>2012-10-13T16:26:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-10-14T04:40:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>425E8380315BB8E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/DUSTY%20SPRINGFIELD-THE%20HITS%20COLLECTION%5BCDRIP%5D-JOCKTHERIPPER/16%20I%20Only%20Want%20to%20Be%20With%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529787</key>
+		<dict>
+			<key>Track ID</key><integer>529787</integer>
+			<key>Name</key><string>To The World ft. R. Kelly</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>G.O.O.D. Music</string>
+			<key>Album</key><string>Cruel Summer</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4629864</integer>
+			<key>Total Time</key><integer>231471</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-10T03:33:34Z</date>
+			<key>Date Added</key><date>2012-10-10T03:26:07Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3433050640</integer>
+			<key>Play Date UTC</key><date>2012-10-14T14:10:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8ABD4279D87ADF83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kanye%20West%20%E2%80%93%20To%20The%20World%20(feat.%20R.%20Kelly).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529802</key>
+		<dict>
+			<key>Track ID</key><integer>529802</integer>
+			<key>Name</key><string>I Knew You Were Trouble.</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>I Knew You Were Trouble. - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8901165</integer>
+			<key>Total Time</key><integer>219794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-10T01:36:33Z</date>
+			<key>Date Added</key><date>2012-10-10T03:26:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3433050189</integer>
+			<key>Play Date UTC</key><date>2012-10-14T14:03:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3129</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>350B0D8F8D47B683</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Taylor%20Swift%20-%20I%20Knew%20You%20Were%20Trouble..mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>530361</key>
+		<dict>
+			<key>Track ID</key><integer>530361</integer>
+			<key>Name</key><string>When The Sunshine Comes (feat. Ben Westbeech)</string>
+			<key>Artist</key><string>Kero One</string>
+			<key>Album Artist</key><string>Kero One</string>
+			<key>Album</key><string>Early Believers</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9434261</integer>
+			<key>Total Time</key><integer>269133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2012-10-10T03:53:09Z</date>
+			<key>Date Added</key><date>2012-10-10T03:52:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3433050909</integer>
+			<key>Play Date UTC</key><date>2012-10-14T14:15:09Z</date>
+			<key>Release Date</key><date>2009-04-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2168</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74D523DF08D561A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/Kero%20One/Early%20Believers/02%20When%20The%20Sunshine%20Comes%20(feat.%20Ben%20Westbeech).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83882</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529682</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529802</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>530361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529593</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

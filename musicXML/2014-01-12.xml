@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-01-13T02:54:26Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>39971</key>
+		<dict>
+			<key>Track ID</key><integer>39971</integer>
+			<key>Name</key><string>My Hands</string>
+			<key>Artist</key><string>Grey Reverend</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6178872</integer>
+			<key>Total Time</key><integer>257018</integer>
+			<key>Date Modified</key><date>2013-12-22T19:25:07Z</date>
+			<key>Date Added</key><date>2013-12-22T18:40:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3472188116</integer>
+			<key>Play Date UTC</key><date>2014-01-10T14:41:56Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-01-11T18:20:19Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1D48ABA1662318B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Grey%20Reverend/Unknown%20Album/My%20Hands.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40007</key>
+		<dict>
+			<key>Track ID</key><integer>40007</integer>
+			<key>Name</key><string>High School Lover</string>
+			<key>Artist</key><string>Cayucas</string>
+			<key>Album</key><string>Bigfoot</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8832013</integer>
+			<key>Total Time</key><integer>220786</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-12-22T17:44:11Z</date>
+			<key>Date Added</key><date>2013-12-22T18:40:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3472285142</integer>
+			<key>Play Date UTC</key><date>2014-01-11T17:39:02Z</date>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>BF5958A24574FC8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cayucas/Bigfoot/02%20High%20School%20Lover.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40043</key>
+		<dict>
+			<key>Track ID</key><integer>40043</integer>
+			<key>Name</key><string>Retrograde</string>
+			<key>Artist</key><string>James Blake</string>
+			<key>Album</key><string>Overgrown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9409715</integer>
+			<key>Total Time</key><integer>222328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-12-22T17:00:18Z</date>
+			<key>Date Added</key><date>2013-12-22T18:41:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3472367445</integer>
+			<key>Play Date UTC</key><date>2014-01-12T16:30:45Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94C726136F6E17B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/James%20Blake/Overgrown/05%20Retrograde.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40077</key>
+		<dict>
+			<key>Track ID</key><integer>40077</integer>
+			<key>Name</key><string>Lovin' It</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Khristopher Riddick-Tynes, Leon Thomas, Rickey Offord, Kenneth Edmonds, Antonio Dixon, Mark Morales, Kirk Robinson, Nathaniel Robinson &#38; Mark Rooney</string>
+			<key>Album</key><string>Yours Truly</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7276480</integer>
+			<key>Total Time</key><integer>180741</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-12-22T16:22:47Z</date>
+			<key>Date Added</key><date>2013-12-22T18:41:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3472367947</integer>
+			<key>Play Date UTC</key><date>2014-01-12T16:39:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36C77CADC2B2785A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/Yours%20Truly/05%20Lovin'%20It.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40101</key>
+		<dict>
+			<key>Track ID</key><integer>40101</integer>
+			<key>Name</key><string>Red &#38; White &#38; Blue &#38; Gold</string>
+			<key>Artist</key><string>Aoife O'Donovan</string>
+			<key>Album</key><string>Fossils</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8071493</integer>
+			<key>Total Time</key><integer>200960</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-12-22T16:21:34Z</date>
+			<key>Date Added</key><date>2013-12-22T18:41:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3472294423</integer>
+			<key>Play Date UTC</key><date>2014-01-11T20:13:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-01-12T16:30:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AD3C5E514CBD278</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Aoife%20O'Donovan/Fossils/04%20Red%20&#38;%20White%20&#38;%20Blue%20&#38;%20Gold.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40197</key>
+		<dict>
+			<key>Track ID</key><integer>40197</integer>
+			<key>Name</key><string>Trophies</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4643982</integer>
+			<key>Total Time</key><integer>193410</integer>
+			<key>Date Modified</key><date>2014-01-03T14:24:39Z</date>
+			<key>Date Added</key><date>2014-01-04T07:31:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3472371754</integer>
+			<key>Play Date UTC</key><date>2014-01-12T17:42:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2674</integer>
+			<key>Persistent ID</key><string>FDB6FD2AD1C3E312</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Drake/Unknown%20Album/Trophies.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40267</key>
+		<dict>
+			<key>Track ID</key><integer>40267</integer>
+			<key>Name</key><string>After The Disco</string>
+			<key>Artist</key><string>Broken Bells</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3521181</integer>
+			<key>Total Time</key><integer>219428</integer>
+			<key>Date Modified</key><date>2014-01-11T16:12:50Z</date>
+			<key>Date Added</key><date>2014-01-11T15:16:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3472371973</integer>
+			<key>Play Date UTC</key><date>2014-01-12T17:46:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-11T15:44:01Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>66B85A5FF26EA42B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Broken%20Bells/Unknown%20Album/After%20The%20Disco.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40273</key>
+		<dict>
+			<key>Track ID</key><integer>40273</integer>
+			<key>Name</key><string>Hippie Sabotage (Tove Lo Flip)</string>
+			<key>Artist</key><string>Stay High</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10326496</integer>
+			<key>Total Time</key><integer>257904</integer>
+			<key>Date Modified</key><date>2014-01-11T16:13:36Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3472285401</integer>
+			<key>Play Date UTC</key><date>2014-01-11T17:43:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-11T16:38:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C95E3A80729713F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Stay%20High/Unknown%20Album/Hippie%20Sabotage%20(Tove%20Lo%20Flip).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40275</key>
+		<dict>
+			<key>Track ID</key><integer>40275</integer>
+			<key>Name</key><string>Murda (Feat. Pusha T)</string>
+			<key>Artist</key><string>Kid Ink</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5242889</integer>
+			<key>Total Time</key><integer>218017</integer>
+			<key>Date Modified</key><date>2014-01-11T16:13:15Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3472372191</integer>
+			<key>Play Date UTC</key><date>2014-01-12T17:49:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>24CC3BE60302F6FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kid%20Ink/Unknown%20Album/Murda%20(Feat.%20Pusha%20T).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40277</key>
+		<dict>
+			<key>Track ID</key><integer>40277</integer>
+			<key>Name</key><string>All About You</string>
+			<key>Artist</key><string>Ella Eyre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3758577</integer>
+			<key>Total Time</key><integer>234266</integer>
+			<key>Date Modified</key><date>2014-01-11T16:12:57Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3472370475</integer>
+			<key>Play Date UTC</key><date>2014-01-12T17:21:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F768F081B72439EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ella%20Eyre/Unknown%20Album/All%20About%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40279</key>
+		<dict>
+			<key>Track ID</key><integer>40279</integer>
+			<key>Name</key><string>Fall In Love</string>
+			<key>Artist</key><string>Phantogram</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3601400</integer>
+			<key>Total Time</key><integer>224444</integer>
+			<key>Date Modified</key><date>2014-01-11T16:13:27Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3472370699</integer>
+			<key>Play Date UTC</key><date>2014-01-12T17:24:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E179087E0E190A99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Phantogram/Unknown%20Album/Fall%20In%20Love.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40283</key>
+		<dict>
+			<key>Track ID</key><integer>40283</integer>
+			<key>Name</key><string>Partition (Remix Feat. Busta Rhymes &#38; Azealia Banks)</string>
+			<key>Artist</key><string>Beyoncé </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4559067</integer>
+			<key>Total Time</key><integer>284290</integer>
+			<key>Stop Time</key><integer>274000</integer>
+			<key>Date Modified</key><date>2014-01-12T16:23:19Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3472367001</integer>
+			<key>Play Date UTC</key><date>2014-01-12T16:23:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-12T16:23:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>AA360D19D4700D3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Beyonce%CC%81/Unknown%20Album/Partition%20(Remix%20Feat.%20Busta%20Rhymes%20&#38;%20Azealia%20Banks).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40285</key>
+		<dict>
+			<key>Track ID</key><integer>40285</integer>
+			<key>Name</key><string>Murakami</string>
+			<key>Artist</key><string>Made In Heights</string>
+			<key>Album</key><string>Murakami</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10352915</integer>
+			<key>Total Time</key><integer>258768</integer>
+			<key>Date Modified</key><date>2014-01-11T15:15:08Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3472371133</integer>
+			<key>Play Date UTC</key><date>2014-01-12T17:32:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-11T15:44:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1945</integer>
+			<key>Persistent ID</key><string>7DB1E16AB89A2B0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Made%20In%20Heights/Murakami/Murakami.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40287</key>
+		<dict>
+			<key>Track ID</key><integer>40287</integer>
+			<key>Name</key><string>Step (Featuring Danny Brown, Heems &#38; Despot)</string>
+			<key>Artist</key><string>Vampire Weekend</string>
+			<key>Composer</key><string>Rostam Batmanglij, Ezra Koenig, Danny Brown, Himanshu Suri, Alec Reinstein</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10454308</integer>
+			<key>Total Time</key><integer>261302</integer>
+			<key>Date Modified</key><date>2014-01-11T14:48:18Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3472285662</integer>
+			<key>Play Date UTC</key><date>2014-01-11T17:47:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3831</integer>
+			<key>Persistent ID</key><string>9725B8849E8F2867</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Vampire%20Weekend/Unknown%20Album/Step%20(Featuring%20Danny%20Brown,%20Heems%20&#38;%20Despot).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40315</key>
+		<dict>
+			<key>Track ID</key><integer>40315</integer>
+			<key>Name</key><string>Blue (feat. Blue Ivy)</string>
+			<key>Artist</key><string>Beyoncé</string>
+			<key>Album Artist</key><string>Beyoncé</string>
+			<key>Composer</key><string>Beyoncé</string>
+			<key>Album</key><string>BEYONCÉ</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9317952</integer>
+			<key>Total Time</key><integer>266920</integer>
+			<key>Stop Time</key><integer>237000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-01-12T06:24:49Z</date>
+			<key>Date Added</key><date>2014-01-11T15:44:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3472366672</integer>
+			<key>Play Date UTC</key><date>2014-01-12T16:17:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-11T18:28:39Z</date>
+			<key>Release Date</key><date>2013-12-13T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1298</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49DC3CE847559C6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Beyonce%CC%81/BEYONCE%CC%81/14%20Blue%20(feat.%20Blue%20Ivy).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40357</key>
+		<dict>
+			<key>Track ID</key><integer>40357</integer>
+			<key>Name</key><string>Hold On, We're Going Home (Kastle Remix)</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11305011</integer>
+			<key>Total Time</key><integer>275252</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2013-09-12T23:49:58Z</date>
+			<key>Date Added</key><date>2014-01-11T16:09:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3472300783</integer>
+			<key>Play Date UTC</key><date>2014-01-11T21:59:43Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D773B1897ED93A5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Drake/Unknown%20Album/Hold%20On,%20We're%20Going%20Home%20(Kastle%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40359</key>
+		<dict>
+			<key>Track ID</key><integer>40359</integer>
+			<key>Name</key><string>I Miss You</string>
+			<key>Artist</key><string>Ta-ku</string>
+			<key>Album</key><string>Gotta Dance Dirty</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9290447</integer>
+			<key>Total Time</key><integer>231026</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2013-09-12T23:52:36Z</date>
+			<key>Date Added</key><date>2014-01-11T16:15:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3472301014</integer>
+			<key>Play Date UTC</key><date>2014-01-11T22:03:34Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C0E350A45E0A5B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ta-ku/Gotta%20Dance%20Dirty/I%20Miss%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>118472</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40359</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-05-20T13:53:23Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>27445</key>
+		<dict>
+			<key>Track ID</key><integer>27445</integer>
+			<key>Name</key><string>Dance Tonight</string>
+			<key>Artist</key><string>Lucy Pearl</string>
+			<key>Album</key><string>Lucy Pearl</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7174344</integer>
+			<key>Total Time</key><integer>221309</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-11-27T16:27:43Z</date>
+			<key>Date Added</key><date>2010-06-17T12:51:01Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>by Dr.E</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3349964992</integer>
+			<key>Play Date UTC</key><date>2010-02-25T22:49:52Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>876B3A6287C930DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Lucy%20Pearl%20-%20Lucy%20Pearl/Lucy%20Pearl%20-%2003%20-%20Dance%20Tonight.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35653</key>
+		<dict>
+			<key>Track ID</key><integer>35653</integer>
+			<key>Name</key><string>See You Go (Produced By Pharrell)</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album</key><string>Yuna</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7130141</integer>
+			<key>Total Time</key><integer>247118</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-07T01:42:22Z</date>
+			<key>Date Added</key><date>2012-05-07T02:02:52Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3420270404</integer>
+			<key>Play Date UTC</key><date>2012-05-19T16:06:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-08T13:47:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B67C39C12DA3905E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yuna-Yuna-2012-C4/10-yuna-see_you_go_(produced_by_pharrell).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408269</key>
+		<dict>
+			<key>Track ID</key><integer>408269</integer>
+			<key>Name</key><string>B.N.E. feat. CBG</string>
+			<key>Artist</key><string>Alexander Spit</string>
+			<key>Composer</key><string>Alexander Spit</string>
+			<key>Album</key><string>A Breathtaking Trip To That Otherside</string>
+			<key>Genre</key><string>Alexander Spit</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16905921</integer>
+			<key>Total Time</key><integer>291369</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-19T14:41:57Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420268497</integer>
+			<key>Play Date UTC</key><date>2012-05-19T15:34:57Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2843</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Breathtaking Trip To That Otherside</string>
+			<key>Persistent ID</key><string>CADB932A39809E76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/B.N.E.%20feat.%20CBG.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408311</key>
+		<dict>
+			<key>Track ID</key><integer>408311</integer>
+			<key>Name</key><string>This Head I Hold</string>
+			<key>Artist</key><string>Electric Guest</string>
+			<key>Album Artist</key><string>Electric Guest</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7160531</integer>
+			<key>Total Time</key><integer>177371</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-19T14:13:03Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420270066</integer>
+			<key>Play Date UTC</key><date>2012-05-19T16:01:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>37AC14C1F6E4FF27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Electric%20Guest%20-%20This%20Head%20I%20Hold.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408348</key>
+		<dict>
+			<key>Track ID</key><integer>408348</integer>
+			<key>Name</key><string>Express Yourself (Yellow Claw Bootleg)</string>
+			<key>Artist</key><string>Diplo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8084484</integer>
+			<key>Total Time</key><integer>197851</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-19T14:42:02Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420270622</integer>
+			<key>Play Date UTC</key><date>2012-05-19T16:10:22Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6540</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C99FBC2D4057AF4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Express%20Yourself%20(Yellow%20Claw%20Bootleg).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408365</key>
+		<dict>
+			<key>Track ID</key><integer>408365</integer>
+			<key>Name</key><string>I'm On Fire (cover)</string>
+			<key>Artist</key><string>DWNTWN</string>
+			<key>Album Artist</key><string>DWNTWN</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5724002</integer>
+			<key>Total Time</key><integer>141871</integer>
+			<key>Date Modified</key><date>2012-05-19T14:03:15Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420268206</integer>
+			<key>Play Date UTC</key><date>2012-05-19T15:30:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>207EFE8FB9EDEF03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/I_m%20On%20Fire%20(cover).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408389</key>
+		<dict>
+			<key>Track ID</key><integer>408389</integer>
+			<key>Name</key><string>Boyfriend (Dada Life Remix) Radio Edit</string>
+			<key>Artist</key><string>Justin Bieber</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2907473</integer>
+			<key>Total Time</key><integer>196414</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-19T14:22:27Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:47Z</date>
+			<key>Bit Rate</key><integer>112</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420269549</integer>
+			<key>Play Date UTC</key><date>2012-05-19T15:52:29Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7FCF0AAD327552C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/01%20Boyfriend%20(Dada%20Life%20Remix)%20Radio%20Edit.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408401</key>
+		<dict>
+			<key>Track ID</key><integer>408401</integer>
+			<key>Name</key><string>Big Beast (Ft. Bun B, Trouble &#38; T.I.)</string>
+			<key>Artist</key><string>Killer Mike</string>
+			<key>Album Artist</key><string>Killer Mike</string>
+			<key>Composer</key><string>El-P</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7538704</integer>
+			<key>Total Time</key><integer>234396</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-19T14:46:01Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3420271240</integer>
+			<key>Play Date UTC</key><date>2012-05-19T16:20:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E01A2E020C727DA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Killer_Mike_-_Big_Beast_(Ft._Bun_B,_Trouble_&#38;_T.I.).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408437</key>
+		<dict>
+			<key>Track ID</key><integer>408437</integer>
+			<key>Name</key><string>1904</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9512829</integer>
+			<key>Total Time</key><integer>237766</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-05-19T14:14:07Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6421</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>A18B80B2C1092FB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/tallest%20man%20on%20earth%20-%201904.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408443</key>
+		<dict>
+			<key>Track ID</key><integer>408443</integer>
+			<key>Name</key><string>Untitled</string>
+			<key>Artist</key><string>Childish Gambino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7733859</integer>
+			<key>Total Time</key><integer>193253</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-16T22:34:45Z</date>
+			<key>Date Added</key><date>2012-05-19T14:45:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420266933</integer>
+			<key>Play Date UTC</key><date>2012-05-19T15:08:53Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5D7A8F6C8201B8D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/untitled%20(prod.%20Childish%20Gambino%20&#38;%20Ludwig).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408598</key>
+		<dict>
+			<key>Track ID</key><integer>408598</integer>
+			<key>Name</key><string>Jump up</string>
+			<key>Artist</key><string>Doldrums</string>
+			<key>Album Artist</key><string>Egypt single</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10669530</integer>
+			<key>Total Time</key><integer>242546</integer>
+			<key>Stop Time</key><integer>228500</integer>
+			<key>Date Modified</key><date>2012-05-19T15:22:15Z</date>
+			<key>Date Added</key><date>2012-05-19T14:58:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420267746</integer>
+			<key>Play Date UTC</key><date>2012-05-19T15:22:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11850</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F35356D075436D5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Doldrums%20-%20Jump%20up.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>535273</key>
+		<dict>
+			<key>Track ID</key><integer>535273</integer>
+			<key>Name</key><string>Cyeah Cyeah Cyeah</string>
+			<key>Artist</key><string>Gucci Mane ft Chris Brown, Lil Wayne</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4805530</integer>
+			<key>Total Time</key><integer>240065</integer>
+			<key>Date Modified</key><date>2012-05-19T18:36:15Z</date>
+			<key>Date Added</key><date>2012-05-19T17:11:28Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3420279502</integer>
+			<key>Play Date UTC</key><date>2012-05-19T18:38:22Z</date>
+			<key>Persistent ID</key><string>32BAFA76C27A2884</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Gucci%20Mane%20ft%20Chris_Brown%20Lil%20Wayne%20Cyeah%20Cyeah.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>81425</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408269</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535273</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

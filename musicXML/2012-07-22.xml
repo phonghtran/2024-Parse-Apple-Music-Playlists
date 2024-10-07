@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-07-22T20:05:58Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>34814</key>
+		<dict>
+			<key>Track ID</key><integer>34814</integer>
+			<key>Name</key><string>Notice Me</string>
+			<key>Artist</key><string>Anya Marina</string>
+			<key>Album Artist</key><string>Anya Marina</string>
+			<key>Album</key><string>Felony Flats</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7264663</integer>
+			<key>Total Time</key><integer>220238</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-03-14T15:51:01Z</date>
+			<key>Date Added</key><date>2012-03-14T15:51:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 228324801</string>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3425763651</integer>
+			<key>Play Date UTC</key><date>2012-07-22T06:00:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B23E33B7BDBE741E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Anya%20Marina/Felony%20Flats/02%20-%20Notice%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35914</key>
+		<dict>
+			<key>Track ID</key><integer>35914</integer>
+			<key>Name</key><string>The Palace Garden, 4am</string>
+			<key>Artist</key><string>Beat Connection</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5645105</integer>
+			<key>Total Time</key><integer>203964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>119</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-13T13:31:25Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:12Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3425723541</integer>
+			<key>Play Date UTC</key><date>2012-07-21T18:52:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-07-22T05:50:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Palace Garden, 4am</string>
+			<key>Persistent ID</key><string>7302F975EAFAEAF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/119%20-%20Beat%20Connection%20-%20The%20Palace%20Garden,%204am.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36010</key>
+		<dict>
+			<key>Track ID</key><integer>36010</integer>
+			<key>Name</key><string>Pioneers</string>
+			<key>Artist</key><string>The Lighthouse And The Whaler</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6080684</integer>
+			<key>Total Time</key><integer>196702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>95</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-13T13:31:26Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:17Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3425764796</integer>
+			<key>Play Date UTC</key><date>2012-07-22T06:19:56Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-07-22T05:50:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Lighthouse And The Whaler</string>
+			<key>Persistent ID</key><string>A550623A4497A5BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/95%20-%20The%20Lighthouse%20And%20The%20Whaler%20-%20Pioneers.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36042</key>
+		<dict>
+			<key>Track ID</key><integer>36042</integer>
+			<key>Name</key><string>Five More Years</string>
+			<key>Artist</key><string>Kathryn Calder</string>
+			<key>Album</key><string>Bright and Vivid</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9745133</integer>
+			<key>Total Time</key><integer>243617</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2012-07-01T19:24:24Z</date>
+			<key>Date Added</key><date>2012-07-01T22:19:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3425762507</integer>
+			<key>Play Date UTC</key><date>2012-07-22T05:41:47Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1920108DA32840A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/bright%20and%20vivid/09%20Five%20More%20Years.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36246</key>
+		<dict>
+			<key>Track ID</key><integer>36246</integer>
+			<key>Name</key><string>The Walk (feat. Rizzle Kicks)</string>
+			<key>Artist</key><string>Mayer Hawthorne</string>
+			<key>Album Artist</key><string>Mayer Hawthorne</string>
+			<key>Composer</key><string>Mayer Hawthorne</string>
+			<key>Album</key><string>The Walk (feat. Rizzle Kicks) - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8774364</integer>
+			<key>Total Time</key><integer>217025</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-09T13:34:47Z</date>
+			<key>Date Added</key><date>2012-07-09T13:34:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3425765013</integer>
+			<key>Play Date UTC</key><date>2012-07-22T06:23:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-18T21:47:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Walk (feat. Rizzle Kicks) - EP</string>
+			<key>Sort Name</key><string>Walk (feat. Rizzle Kicks)</string>
+			<key>Persistent ID</key><string>CC8F036AF2265FA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/01%20The%20Walk%20(feat.%20Rizzle%20Kicks).mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36256</key>
+		<dict>
+			<key>Track ID</key><integer>36256</integer>
+			<key>Name</key><string>Placid Acid</string>
+			<key>Artist</key><string>Tourist</string>
+			<key>Album</key><string>Tourist EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11579693</integer>
+			<key>Total Time</key><integer>285805</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-12T18:03:02Z</date>
+			<key>Date Added</key><date>2012-07-12T13:16:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://makemine.bandcamp.com</string>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3425762793</integer>
+			<key>Play Date UTC</key><date>2012-07-22T05:46:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00E4CB85FAA3DCCB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Make%20Mine%20-%20Tourist%20EP/Make%20Mine%20-%20Tourist%20EP%20-%2001%20Placid%20Acid.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36362</key>
+		<dict>
+			<key>Track ID</key><integer>36362</integer>
+			<key>Name</key><string>집에 가지마</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7862272</integer>
+			<key>Total Time</key><integer>196257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:26Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3425764599</integer>
+			<key>Play Date UTC</key><date>2012-07-22T06:16:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F1240B7A258633D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/04%20%EC%A7%91%EC%97%90%20%EA%B0%80%EC%A7%80%EB%A7%88.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36364</key>
+		<dict>
+			<key>Track ID</key><integer>36364</integer>
+			<key>Name</key><string>BABY GOOD NIGHT</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8437760</integer>
+			<key>Total Time</key><integer>210573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:33Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3425764403</integer>
+			<key>Play Date UTC</key><date>2012-07-22T06:13:23Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2F752FC5620AB02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/05%20BABY%20GOOD%20NIGHT.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36376</key>
+		<dict>
+			<key>Track ID</key><integer>36376</integer>
+			<key>Name</key><string>TURN IT UP</string>
+			<key>Artist</key><string>TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8519680</integer>
+			<key>Total Time</key><integer>212610</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:37Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3425763005</integer>
+			<key>Play Date UTC</key><date>2012-07-22T05:50:05Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8AFAA8D1F0D6824C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/11%20TURN%20IT%20UP.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83035</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36256</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36364</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

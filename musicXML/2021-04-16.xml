@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-04-16T17:48:29Z</date>
+	<key>Application Version</key><string>1.1.3.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>39930</key>
+		<dict>
+			<key>Track ID</key><integer>39930</integer>
+			<key>Name</key><string>Last Day On Earth</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus, Matthew Healy, George Daniel, Nelson Riddle &#38; Robert J. Harris</string>
+			<key>Album</key><string>Last Day On Earth - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8334006</integer>
+			<key>Total Time</key><integer>222357</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-03-27T14:22:46Z</date>
+			<key>Date Added</key><date>2021-03-27T14:22:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3701243634</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:13:54Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-04-04T03:17:24Z</date>
+			<key>Release Date</key><date>2021-03-26T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Day On Earth - Single</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Last Day On Earth</string>
+			<key>Persistent ID</key><string>69B1E4C30E4A29F3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39945</key>
+		<dict>
+			<key>Track ID</key><integer>39945</integer>
+			<key>Name</key><string>We Ride</string>
+			<key>Artist</key><string>Brave Girls</string>
+			<key>Album Artist</key><string>Brave Girls</string>
+			<key>Album</key><string>We Ride - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6940695</integer>
+			<key>Total Time</key><integer>189933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-03-29T00:12:00Z</date>
+			<key>Date Added</key><date>2021-03-29T00:12:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3701242156</integer>
+			<key>Play Date UTC</key><date>2021-04-14T14:49:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-03-29T21:30:34Z</date>
+			<key>Release Date</key><date>2020-08-14T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Ride - Single</string>
+			<key>Sort Artist</key><string>Brave Girls</string>
+			<key>Sort Name</key><string>We Ride</string>
+			<key>Persistent ID</key><string>6334B1A52F04BD79</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39951</key>
+		<dict>
+			<key>Track ID</key><integer>39951</integer>
+			<key>Name</key><string>Voicemails</string>
+			<key>Artist</key><string>Chloe Tang</string>
+			<key>Album Artist</key><string>Chloe Tang</string>
+			<key>Composer</key><string>Chloe Tang, Lisa Hickox &#38; Gabriel Reali</string>
+			<key>Album</key><string>E-PITY ME</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7069604</integer>
+			<key>Total Time</key><integer>197619</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-02T17:25:21Z</date>
+			<key>Date Added</key><date>2021-04-02T17:25:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3701244129</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:22:09Z</date>
+			<key>Release Date</key><date>2021-03-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>E-PITY ME</string>
+			<key>Sort Artist</key><string>Chloe Tang</string>
+			<key>Sort Name</key><string>Voicemails</string>
+			<key>Persistent ID</key><string>3DF887613DA69019</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39954</key>
+		<dict>
+			<key>Track ID</key><integer>39954</integer>
+			<key>Name</key><string>HOT HOT</string>
+			<key>Artist</key><string>Bree Runway</string>
+			<key>Album Artist</key><string>Bree Runway</string>
+			<key>Composer</key><string>Bree Runway, Moon Willis &#38; Levi Gordon</string>
+			<key>Album</key><string>HOT HOT - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5282842</integer>
+			<key>Total Time</key><integer>145886</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-03T13:22:37Z</date>
+			<key>Date Added</key><date>2021-04-03T13:22:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3701243779</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:16:19Z</date>
+			<key>Release Date</key><date>2021-03-31T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HOT HOT - Single</string>
+			<key>Sort Artist</key><string>Bree Runway</string>
+			<key>Sort Name</key><string>HOT HOT</string>
+			<key>Persistent ID</key><string>4A64DD9AD706A499</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39960</key>
+		<dict>
+			<key>Track ID</key><integer>39960</integer>
+			<key>Name</key><string>LazyBaby</string>
+			<key>Artist</key><string>Dove Cameron</string>
+			<key>Album Artist</key><string>Dove Cameron</string>
+			<key>Composer</key><string>Dove Cameron, Melanie Joy Fontana, Jonas Jeberg &#38; Marcus Lomax</string>
+			<key>Album</key><string>LazyBaby - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5988525</integer>
+			<key>Total Time</key><integer>161351</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-03T14:44:31Z</date>
+			<key>Date Added</key><date>2021-04-03T14:44:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3701243198</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:06:38Z</date>
+			<key>Release Date</key><date>2021-04-02T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LazyBaby - Single</string>
+			<key>Sort Artist</key><string>Dove Cameron</string>
+			<key>Sort Name</key><string>LazyBaby</string>
+			<key>Persistent ID</key><string>C8F36BE61E9E2683</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39963</key>
+		<dict>
+			<key>Track ID</key><integer>39963</integer>
+			<key>Name</key><string>Big Cat Judgement Day</string>
+			<key>Artist</key><string>With Confidence</string>
+			<key>Album Artist</key><string>With Confidence</string>
+			<key>Composer</key><string>Scott McLaughlin, Jose Inigo del Carmen, Joshua Brozzesi &#38; Jayden Seeley</string>
+			<key>Album</key><string>Big Cat Judgement Day - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5914730</integer>
+			<key>Total Time</key><integer>151407</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-03T14:50:19Z</date>
+			<key>Date Added</key><date>2021-04-03T14:50:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3701243931</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:18:51Z</date>
+			<key>Release Date</key><date>2021-03-31T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Cat Judgement Day - Single</string>
+			<key>Sort Artist</key><string>With Confidence</string>
+			<key>Sort Name</key><string>Big Cat Judgement Day</string>
+			<key>Persistent ID</key><string>745D6F2792124803</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39975</key>
+		<dict>
+			<key>Track ID</key><integer>39975</integer>
+			<key>Name</key><string>What's Wrong</string>
+			<key>Artist</key><string>half•alive</string>
+			<key>Album Artist</key><string>half•alive</string>
+			<key>Composer</key><string>J. Tyler Johnson, Joshua William Taylor, Brett Kramer, Mark Williams &#38; Raul Cubina</string>
+			<key>Album</key><string>What's Wrong - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6383431</integer>
+			<key>Total Time</key><integer>177187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-04T03:28:17Z</date>
+			<key>Date Added</key><date>2021-04-04T03:28:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3701246600</integer>
+			<key>Play Date UTC</key><date>2021-04-14T16:03:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-05T20:01:27Z</date>
+			<key>Release Date</key><date>2021-04-02T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What's Wrong - Single</string>
+			<key>Sort Artist</key><string>half•alive</string>
+			<key>Sort Name</key><string>What's Wrong</string>
+			<key>Persistent ID</key><string>772DFC04FF4A0856</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39981</key>
+		<dict>
+			<key>Track ID</key><integer>39981</integer>
+			<key>Name</key><string>Kids (feat. KYLE)</string>
+			<key>Artist</key><string>Benny Sings</string>
+			<key>Album Artist</key><string>Benny Sings</string>
+			<key>Album</key><string>Music</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7074138</integer>
+			<key>Total Time</key><integer>197498</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-10T14:40:15Z</date>
+			<key>Date Added</key><date>2021-04-10T14:40:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3701244326</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:25:26Z</date>
+			<key>Release Date</key><date>2021-04-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Music</string>
+			<key>Sort Artist</key><string>Benny Sings</string>
+			<key>Sort Name</key><string>Kids (feat. KYLE)</string>
+			<key>Persistent ID</key><string>68054F34F8C95521</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39984</key>
+		<dict>
+			<key>Track ID</key><integer>39984</integer>
+			<key>Name</key><string>Starstruck</string>
+			<key>Artist</key><string>Years &#38; Years</string>
+			<key>Album Artist</key><string>Years &#38; Years</string>
+			<key>Composer</key><string>Clarence Coffee Jr., Mark Ralph, Nathaniel Ledwidge &#38; Olly Alexander</string>
+			<key>Album</key><string>Starstruck - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7569755</integer>
+			<key>Total Time</key><integer>207755</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-10T14:41:33Z</date>
+			<key>Date Added</key><date>2021-04-10T14:41:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3701246421</integer>
+			<key>Play Date UTC</key><date>2021-04-14T16:00:21Z</date>
+			<key>Release Date</key><date>2021-04-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Starstruck - Single</string>
+			<key>Sort Artist</key><string>Years &#38; Years</string>
+			<key>Sort Name</key><string>Starstruck</string>
+			<key>Persistent ID</key><string>2C55D00098CD1DA2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>39987</key>
+		<dict>
+			<key>Track ID</key><integer>39987</integer>
+			<key>Name</key><string>Lay It Down</string>
+			<key>Artist</key><string>Steelix</string>
+			<key>Album Artist</key><string>Steelix</string>
+			<key>Composer</key><string>Steelix Steelix</string>
+			<key>Album</key><string>Lay It Down - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6687160</integer>
+			<key>Total Time</key><integer>188049</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-12T01:38:18Z</date>
+			<key>Date Added</key><date>2021-04-12T01:38:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3701241966</integer>
+			<key>Play Date UTC</key><date>2021-04-14T14:46:06Z</date>
+			<key>Release Date</key><date>2021-04-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lay It Down - Single</string>
+			<key>Sort Artist</key><string>Steelix</string>
+			<key>Sort Name</key><string>Lay It Down</string>
+			<key>Persistent ID</key><string>E4E5539926A99D56</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>39990</key>
+		<dict>
+			<key>Track ID</key><integer>39990</integer>
+			<key>Name</key><string>Wave of You</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Forrest Frank &#38; Colin Padalecki</string>
+			<key>Album</key><string>Wave of You - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7789567</integer>
+			<key>Total Time</key><integer>213842</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-12T14:54:51Z</date>
+			<key>Date Added</key><date>2021-04-12T14:54:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3701243411</integer>
+			<key>Play Date UTC</key><date>2021-04-14T15:10:11Z</date>
+			<key>Release Date</key><date>2021-04-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wave of You - Single</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Wave of You</string>
+			<key>Persistent ID</key><string>F6C5B4DC7AF85B43</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>58294</integer>
+			<key>Playlist Persistent ID</key><string>D2F59608E714CD4E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39945</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39990</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

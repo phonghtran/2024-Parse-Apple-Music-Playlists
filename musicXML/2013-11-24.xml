@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-11-25T15:39:05Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>34544</key>
+		<dict>
+			<key>Track ID</key><integer>34544</integer>
+			<key>Name</key><string>Cigarettes in the Theatre</string>
+			<key>Artist</key><string>Two Door Cinema Club</string>
+			<key>Album</key><string>Tourist History [Promo]</string>
+			<key>Genre</key><string>Indie, Electronic</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8151033</integer>
+			<key>Total Time</key><integer>213227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-26T13:39:17Z</date>
+			<key>Date Added</key><date>2012-01-08T23:53:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>electrocircle.ru</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3468099175</integer>
+			<key>Play Date UTC</key><date>2013-11-24T06:52:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10040</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF843C7F48A5EAA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Two%20Door%20Cinema%20Club/Tourist%20History%20%5BPromo%5D/01%20Cigarettes%20in%20the%20Theatre.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38058</key>
+		<dict>
+			<key>Track ID</key><integer>38058</integer>
+			<key>Name</key><string>As Far As I Can See</string>
+			<key>Artist</key><string>Phantogram</string>
+			<key>Album</key><string>Eyelid Movies</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7460408</integer>
+			<key>Total Time</key><integer>209503</integer>
+			<key>Start Time</key><integer>9000</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-11-15T05:14:59Z</date>
+			<key>Date Added</key><date>2013-03-22T21:42:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3468098714</integer>
+			<key>Play Date UTC</key><date>2013-11-24T06:45:14Z</date>
+			<key>Skip Date</key><date>2013-11-07T02:55:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6672</integer>
+			<key>Persistent ID</key><string>59AFB9B12F06EEB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Phantogram/Eyelid%20Movies/06%20As%20Far%20As%20I%20Can%20See.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38844</key>
+		<dict>
+			<key>Track ID</key><integer>38844</integer>
+			<key>Name</key><string>Gypsy Letters</string>
+			<key>Artist</key><string>Angel Haze</string>
+			<key>Album Artist</key><string>Angel Haze</string>
+			<key>Album</key><string>RESERVATION</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9074435</integer>
+			<key>Total Time</key><integer>224835</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-23T19:05:38Z</date>
+			<key>Date Added</key><date>2013-07-20T17:21:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Direct Download via DJBooth.net</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3468217035</integer>
+			<key>Play Date UTC</key><date>2013-11-25T15:37:15Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2735</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E40798B28A013F8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Angel%20Haze/RESERVATION/08%20Gypsy%20Letters.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39004</key>
+		<dict>
+			<key>Track ID</key><integer>39004</integer>
+			<key>Name</key><string>Nerve</string>
+			<key>Artist</key><string>Half Moon Run</string>
+			<key>Album Artist</key><string>Half Moon Run</string>
+			<key>Album</key><string>Dark Eyes</string>
+			<key>Genre</key><string>Indie, Alternative</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6965658</integer>
+			<key>Total Time</key><integer>197173</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-25T12:12:51Z</date>
+			<key>Date Added</key><date>2013-08-11T23:01:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3468074950</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:09:10Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3225</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1920008D53E15614</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Half%20Moon%20Run/Dark%20Eyes/09%20Nerve.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39332</key>
+		<dict>
+			<key>Track ID</key><integer>39332</integer>
+			<key>Name</key><string>The Mother We Share (Moonboots Remix)</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13876113</integer>
+			<key>Total Time</key><integer>317648</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2013-11-25T15:38:49Z</date>
+			<key>Date Added</key><date>2013-10-04T19:47:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Bbm - Ebm</string>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3468076141</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:29:01Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-11-22T22:58:24Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4345</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Mother We Share (Moonboots Remix)</string>
+			<key>Persistent ID</key><string>503991C1D3580C94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/CHVRCHES/Unknown%20Album/The%20Mother%20We%20Share%20(Moonboots%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39408</key>
+		<dict>
+			<key>Track ID</key><integer>39408</integer>
+			<key>Name</key><string>Lungs</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Album Artist</key><string>CHVRCHES</string>
+			<key>Album</key><string>The Bones Of What You Believe</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6518616</integer>
+			<key>Total Time</key><integer>182866</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-23T21:41:52Z</date>
+			<key>Date Added</key><date>2013-10-09T02:27:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3468073823</integer>
+			<key>Play Date UTC</key><date>2013-11-23T23:50:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-14T17:13:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4654</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bones Of What You Believe</string>
+			<key>Persistent ID</key><string>F36B50718E602CD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/CHVRCHES/The%20Bones%20Of%20What%20You%20Believe/10%20Lungs.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39792</key>
+		<dict>
+			<key>Track ID</key><integer>39792</integer>
+			<key>Name</key><string>Y.A.L.A.</string>
+			<key>Artist</key><string>M.I.A.</string>
+			<key>Album</key><string>Matangi</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8962344</integer>
+			<key>Total Time</key><integer>263823</integer>
+			<key>Stop Time</key><integer>245500</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-13T18:21:36Z</date>
+			<key>Date Added</key><date>2013-11-02T16:13:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>LittleFairyRG</string>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3468074551</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:02:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8A125D9EFAC91D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/M.I.A_/Matangi/11%20Y.A.L.A..m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39836</key>
+		<dict>
+			<key>Track ID</key><integer>39836</integer>
+			<key>Name</key><string>My oh My</string>
+			<key>Artist</key><string>Girls' Generation</string>
+			<key>Album Artist</key><string>少女時代</string>
+			<key>Album</key><string>My oh My</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7685868</integer>
+			<key>Total Time</key><integer>190302</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-11T16:24:08Z</date>
+			<key>Date Added</key><date>2013-11-11T14:23:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3468098514</integer>
+			<key>Play Date UTC</key><date>2013-11-24T06:41:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-23T16:55:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26A5EC3ECC0EB0B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/%E5%B0%91%E5%A5%B3%E6%99%82%E4%BB%A3/My%20oh%20My/My%20oh%20My.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39854</key>
+		<dict>
+			<key>Track ID</key><integer>39854</integer>
+			<key>Name</key><string>Golden Twin</string>
+			<key>Artist</key><string>Wild Ones</string>
+			<key>Album Artist</key><string>Wild Ones</string>
+			<key>Album</key><string>Keep It Safe</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7754113</integer>
+			<key>Total Time</key><integer>191190</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-13T17:47:45Z</date>
+			<key>Date Added</key><date>2013-11-13T15:50:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>visit | http://guerolitomusic.com</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3468054444</integer>
+			<key>Play Date UTC</key><date>2013-11-23T18:27:24Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-11-14T04:35:53Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D2293E561938569</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Wild%20Ones/Keep%20It%20Safe/01%20Golden%20Twin.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39882</key>
+		<dict>
+			<key>Track ID</key><integer>39882</integer>
+			<key>Name</key><string>Pumpin Blood (Jane Doze Remix)</string>
+			<key>Artist</key><string>NoNoNo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4686946</integer>
+			<key>Total Time</key><integer>234240</integer>
+			<key>Date Modified</key><date>2013-11-13T17:52:07Z</date>
+			<key>Date Added</key><date>2013-11-13T15:50:47Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3468075355</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:15:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4655</integer>
+			<key>Persistent ID</key><string>825FA090412B4146</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/NoNoNo/Unknown%20Album/Pumpin%20Blood%20(Jane%20Doze%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39886</key>
+		<dict>
+			<key>Track ID</key><integer>39886</integer>
+			<key>Name</key><string>Cured Of Youth</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album Artist</key><string>Tennis</string>
+			<key>Album</key><string>Small Sound</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7153672</integer>
+			<key>Total Time</key><integer>174680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-13T17:34:13Z</date>
+			<key>Date Added</key><date>2013-11-13T15:58:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3468057275</integer>
+			<key>Play Date UTC</key><date>2013-11-23T19:14:35Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7324BA56ED4A699E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tennis/Small%20Sound/03%20Cured%20Of%20Youth.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39890</key>
+		<dict>
+			<key>Track ID</key><integer>39890</integer>
+			<key>Name</key><string>100 Lovers</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album Artist</key><string>Tennis</string>
+			<key>Album</key><string>Small Sound</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7023052</integer>
+			<key>Total Time</key><integer>171415</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-13T17:34:16Z</date>
+			<key>Date Added</key><date>2013-11-13T15:58:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3468075121</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:12:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87AB6675631800DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Tennis/Small%20Sound/05%20100%20Lovers.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39904</key>
+		<dict>
+			<key>Track ID</key><integer>39904</integer>
+			<key>Name</key><string>All The Love You Got</string>
+			<key>Artist</key><string>Diane Birch</string>
+			<key>Album</key><string>Speak A Little Louder</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7287753</integer>
+			<key>Total Time</key><integer>232306</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-13T18:04:29Z</date>
+			<key>Date Added</key><date>2013-11-13T16:07:44Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3468099408</integer>
+			<key>Play Date UTC</key><date>2013-11-24T06:56:48Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-11-24T06:22:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>AE614085BA4F55AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Diane%20Birch/Speak%20A%20Little%20Louder/03%20All%20The%20Love%20You%20Got.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>138915</key>
+		<dict>
+			<key>Track ID</key><integer>138915</integer>
+			<key>Name</key><string>Who You</string>
+			<key>Artist</key><string>G-Dragon</string>
+			<key>Album Artist</key><string>G-Dragon</string>
+			<key>Album</key><string>Coup D'etat</string>
+			<key>Genre</key><string>K- Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3232253</integer>
+			<key>Total Time</key><integer>201717</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-14T15:56:20Z</date>
+			<key>Date Added</key><date>2013-11-14T13:57:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3468074753</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:05:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>09A4086D2D3F9213</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/G-Dragon/Coup%20D'etat/Who%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>784732</key>
+		<dict>
+			<key>Track ID</key><integer>784732</integer>
+			<key>Name</key><string>I Miss Your Bones</string>
+			<key>Artist</key><string>Hospitality</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3980937</integer>
+			<key>Total Time</key><integer>248163</integer>
+			<key>Date Modified</key><date>2013-11-23T16:54:23Z</date>
+			<key>Date Added</key><date>2013-11-23T16:42:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3468098962</integer>
+			<key>Play Date UTC</key><date>2013-11-24T06:49:22Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>94658BBBE7536FFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Hospitality/Unknown%20Album/I%20Miss%20Your%20Bones.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>784742</key>
+		<dict>
+			<key>Track ID</key><integer>784742</integer>
+			<key>Name</key><string>Magazine</string>
+			<key>Artist</key><string>Caroline Smith</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4898037</integer>
+			<key>Total Time</key><integer>203650</integer>
+			<key>Date Modified</key><date>2013-11-23T16:54:16Z</date>
+			<key>Date Added</key><date>2013-11-23T16:42:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3468075760</integer>
+			<key>Play Date UTC</key><date>2013-11-24T00:22:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-23T16:53:45Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8FF1754C65D9A009</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Caroline%20Smith/Unknown%20Album/Magazine.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>784747</key>
+		<dict>
+			<key>Track ID</key><integer>784747</integer>
+			<key>Name</key><string>Sounds Like A Pretty Brutal Murder</string>
+			<key>Artist</key><string>Iron Chic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4817183</integer>
+			<key>Total Time</key><integer>200280</integer>
+			<key>Date Modified</key><date>2013-11-23T16:54:34Z</date>
+			<key>Date Added</key><date>2013-11-23T16:42:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3468098323</integer>
+			<key>Play Date UTC</key><date>2013-11-24T06:38:43Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>67580B6E23D63FBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Iron%20Chic/Unknown%20Album/Sounds%20Like%20A%20Pretty%20Brutal%20Murder.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>784752</key>
+		<dict>
+			<key>Track ID</key><integer>784752</integer>
+			<key>Name</key><string>King of Pop</string>
+			<key>Artist</key><string>Midnight Reruns</string>
+			<key>Album</key><string>Midnight Reruns</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9013378</integer>
+			<key>Total Time</key><integer>225280</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-23T16:32:57Z</date>
+			<key>Date Added</key><date>2013-11-23T16:42:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3468074105</integer>
+			<key>Play Date UTC</key><date>2013-11-23T23:55:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11942</integer>
+			<key>Persistent ID</key><string>44DC5605B32E21A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Midnight%20Reruns/Midnight%20Reruns/02%20King%20of%20Pop.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>784759</key>
+		<dict>
+			<key>Track ID</key><integer>784759</integer>
+			<key>Name</key><string>Bed Peace ( Feat. Childish Gambino )</string>
+			<key>Artist</key><string>Jhene Aiko</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4122611</integer>
+			<key>Total Time</key><integer>257018</integer>
+			<key>Date Modified</key><date>2013-11-23T16:54:47Z</date>
+			<key>Date Added</key><date>2013-11-23T16:42:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3468099665</integer>
+			<key>Play Date UTC</key><date>2013-11-24T07:01:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-23T23:51:20Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F09CE47EC6E39C43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jhene%20Aiko/Unknown%20Album/Bed%20Peace%20(%20Feat.%20Childish%20Gambino%20).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>117857</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38058</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39882</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>138915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39904</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38844</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>784759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>784732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>784742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>784747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>784752</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

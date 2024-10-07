@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:42:07Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31065</key>
+		<dict>
+			<key>Track ID</key><integer>31065</integer>
+			<key>Name</key><string>Mysterious Power</string>
+			<key>Artist</key><string>Ezra Furman And The Harpoons</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5904863</integer>
+			<key>Total Time</key><integer>184502</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>75</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:07Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:05Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3406362676</integer>
+			<key>Play Date UTC</key><date>2011-12-10T17:51:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FA3899B88FCE6B09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/75%20-%20Ezra%20Furman%20And%20The%20Harpoons%20-%20Mysterious%20Power.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33307</key>
+		<dict>
+			<key>Track ID</key><integer>33307</integer>
+			<key>Name</key><string>Dreaming of Love and Drugs (Rihanna x Kesha x Beyonce x Nicki Minaj)</string>
+			<key>Artist</key><string>The Musicmatician</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3451879</integer>
+			<key>Total Time</key><integer>215719</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-06T16:14:25Z</date>
+			<key>Date Added</key><date>2011-11-06T16:15:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Instrumental courtesy of YouTube user ddd94100.  Songs include Rihanna feat. Calvin Harris "We Found Love", Kesha "Your Love is My Drug", Beyonce and Nicki Minaj "Sweet Dreams" (Lil Wayne Remix)</string>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3406837110</integer>
+			<key>Play Date UTC</key><date>2011-12-16T05:38:30Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-12-15T21:26:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Musicmatician</string>
+			<key>Persistent ID</key><string>E47DC329D454CDE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Musicmatician%20-%20Dreaming%20of%20Love%20and%20Drugs%20(Rihanna%20x%20Kesha%20x%20Beyonce%20x%20Nicki%20Minaj).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33319</key>
+		<dict>
+			<key>Track ID</key><integer>33319</integer>
+			<key>Name</key><string>Heart It Races</string>
+			<key>Artist</key><string>Dr. Dog</string>
+			<key>Album</key><string>Heart It Races - Single</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9328768</integer>
+			<key>Total Time</key><integer>233195</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-11-07T15:47:48Z</date>
+			<key>Date Added</key><date>2011-11-07T16:00:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3406477725</integer>
+			<key>Play Date UTC</key><date>2011-12-12T01:48:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-07T01:29:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3271</integer>
+			<key>Persistent ID</key><string>02E1DCD8044DE5C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/dr-dog-heart-it-races.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33327</key>
+		<dict>
+			<key>Track ID</key><integer>33327</integer>
+			<key>Name</key><string>Beacon</string>
+			<key>Artist</key><string>Doomtree</string>
+			<key>Album</key><string>No Kings</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6018446</integer>
+			<key>Total Time</key><integer>250592</integer>
+			<key>Date Modified</key><date>2011-11-10T17:34:15Z</date>
+			<key>Date Added</key><date>2011-11-12T00:32:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3405509529</integer>
+			<key>Play Date UTC</key><date>2011-11-30T20:52:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-30T19:43:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>AB91A24CB584A0E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/doomtree%20-%2004_Beacon.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33329</key>
+		<dict>
+			<key>Track ID</key><integer>33329</integer>
+			<key>Name</key><string>Songs About Your Girlfriend</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album Artist</key><string>Los Campesinos!</string>
+			<key>Album</key><string>Hello Sadness</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8055151</integer>
+			<key>Total Time</key><integer>198948</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-12T15:10:00Z</date>
+			<key>Date Added</key><date>2011-11-12T15:19:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.mp3ville.in</string>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3408355312</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:21:52Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-12-28T02:49:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1CB5C75CBFB221C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Los%20Campesinos!-%20Hello%20Sadness-%20%5B2011%5D-%20Mp3ViLLe/02%20-%20Songs%20About%20Your%20Girlfriend.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33393</key>
+		<dict>
+			<key>Track ID</key><integer>33393</integer>
+			<key>Name</key><string>Don't Wait</string>
+			<key>Artist</key><string>The Duke Spirit</string>
+			<key>Album Artist</key><string>The Duke Spirit</string>
+			<key>Album</key><string>Bruiser</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9644667</integer>
+			<key>Total Time</key><integer>241057</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-09-23T02:29:26Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3405569546</integer>
+			<key>Play Date UTC</key><date>2011-12-01T13:32:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-03T08:09:18Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album Artist</key><string>Duke Spirit</string>
+			<key>Sort Artist</key><string>Duke Spirit</string>
+			<key>Persistent ID</key><string>D12D37E682493CC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/The%20Duke%20Spirit%20-%20Bruiser%20(2011)/04%20-%20Don't%20Wait.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33413</key>
+		<dict>
+			<key>Track ID</key><integer>33413</integer>
+			<key>Name</key><string>All Of The Lights (Ellie Goulding x Portland Cello Project x Kanye West)</string>
+			<key>Artist</key><string>The Hood Internet</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8426067</integer>
+			<key>Total Time</key><integer>200071</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2011-11-28T01:11:58Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.detailsofmylife.net</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3407933491</integer>
+			<key>Play Date UTC</key><date>2011-12-28T22:11:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-02T20:32:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Hood Internet</string>
+			<key>Persistent ID</key><string>939DDBEF1F0CB83B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/The%20Hood%20Internet%20-%20All%20Of%20The%20Lights%20(Ellie%20Goulding%20x%20Portland%20Cello%20Project%20x%20Kanye%20West).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33415</key>
+		<dict>
+			<key>Track ID</key><integer>33415</integer>
+			<key>Name</key><string>White Days</string>
+			<key>Artist</key><string>The Lighthouse and the Whaler</string>
+			<key>Album</key><string>SXSW 2010 Showcasing Artists</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4276352</integer>
+			<key>Total Time</key><integer>213733</integer>
+			<key>Date Modified</key><date>2011-11-28T00:43:48Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3405974148</integer>
+			<key>Play Date UTC</key><date>2011-12-06T05:55:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Lighthouse and the Whaler</string>
+			<key>Persistent ID</key><string>18756642272FE2C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/The_Lighthouse_and_the_Whaler-White_Days.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33417</key>
+		<dict>
+			<key>Track ID</key><integer>33417</integer>
+			<key>Name</key><string>Siberia</string>
+			<key>Artist</key><string>Lights</string>
+			<key>Album Artist</key><string>Lights</string>
+			<key>Album</key><string>Siberia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7517871</integer>
+			<key>Total Time</key><integer>261067</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-28T00:22:13Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:04Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.mp3ville.in</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3405967081</integer>
+			<key>Play Date UTC</key><date>2011-12-06T03:58:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-03T08:09:23Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23B5BCF9B6389654</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Lights-%20Siberia-%20%5B2011%5D-%20Mp3ViLLe/01%20-%20Siberia.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33445</key>
+		<dict>
+			<key>Track ID</key><integer>33445</integer>
+			<key>Name</key><string>Scale It Back</string>
+			<key>Artist</key><string>DJ Shadow</string>
+			<key>Album</key><string>The Less You Know, The Better</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7643924</integer>
+			<key>Total Time</key><integer>256992</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-28T00:00:32Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:06Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3405754270</integer>
+			<key>Play Date UTC</key><date>2011-12-03T16:51:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Less You Know, The Better</string>
+			<key>Persistent ID</key><string>DE1F576809BC87AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/dj%20shadow%20-%20scaleitback.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33559</key>
+		<dict>
+			<key>Track ID</key><integer>33559</integer>
+			<key>Name</key><string>Collision</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Album Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>Waves: Collision</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8719976</integer>
+			<key>Total Time</key><integer>245420</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>235</integer>
+			<key>Date Modified</key><date>2011-11-27T23:14:36Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3407983366</integer>
+			<key>Play Date UTC</key><date>2011-12-29T12:02:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14876</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4BA5D78A3DAA0C86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jhameel%20-%20%20Collision.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33611</key>
+		<dict>
+			<key>Track ID</key><integer>33611</integer>
+			<key>Name</key><string>Brigade &#38; Yellow [Wiz Khalifa x The Go! Team]</string>
+			<key>Artist</key><string>The Hood Internet</string>
+			<key>Album</key><string>The Mixtape Volume Five</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4451257</integer>
+			<key>Total Time</key><integer>108486</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-04T02:25:55Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>thehoodinternet.com</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3406264000</integer>
+			<key>Play Date UTC</key><date>2011-12-09T14:26:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-06T23:01:37Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9979</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mixtape Volume Five</string>
+			<key>Sort Artist</key><string>Hood Internet</string>
+			<key>Persistent ID</key><string>FF4C0022B3B243F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/hood_internet_mixtape_five/26%20Brigade%20&#38;%20Yellow%20%5BWiz%20Khalifa%20x%20The%20Go!%20Team%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33613</key>
+		<dict>
+			<key>Track ID</key><integer>33613</integer>
+			<key>Name</key><string>Shutterbugg In Miami [Big Boi x Foals]</string>
+			<key>Artist</key><string>The Hood Internet</string>
+			<key>Album</key><string>The Mixtape Volume Five</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5063567</integer>
+			<key>Total Time</key><integer>123794</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-04T02:26:32Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>thehoodinternet.com</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3408283979</integer>
+			<key>Play Date UTC</key><date>2012-01-01T23:32:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-03T02:42:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3044</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mixtape Volume Five</string>
+			<key>Sort Artist</key><string>Hood Internet</string>
+			<key>Persistent ID</key><string>2E8916D7DA6761AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/hood_internet_mixtape_five/27%20Shutterbugg%20In%20Miami%20%5BBig%20Boi%20x%20Foals%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33621</key>
+		<dict>
+			<key>Track ID</key><integer>33621</integer>
+			<key>Name</key><string>Waves</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>Waves: Waves</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7421763</integer>
+			<key>Total Time</key><integer>193175</integer>
+			<key>Stop Time</key><integer>188000</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>183</integer>
+			<key>Date Modified</key><date>2011-12-16T03:00:12Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3408284580</integer>
+			<key>Play Date UTC</key><date>2012-01-01T23:43:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-12-11T07:47:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4253</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F22DA08D744035F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jhameel%20-%20Waves.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33623</key>
+		<dict>
+			<key>Track ID</key><integer>33623</integer>
+			<key>Name</key><string>heart skips a beat</string>
+			<key>Artist</key><string>Olly Murs</string>
+			<key>Album</key><string>In Case You Didnt Know</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6031597</integer>
+			<key>Total Time</key><integer>203441</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-27T22:55:55Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:09Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Fools Gold</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3407934851</integer>
+			<key>Play Date UTC</key><date>2011-12-28T22:34:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-16T23:01:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>67782CA13C3C297D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Olly%20Murs%20-%20In%20Case%20You%20Didnt%20Know%20(2011)MP3%20nlt-release/01-olly_murs-heart_skips_a_beat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33681</key>
+		<dict>
+			<key>Track ID</key><integer>33681</integer>
+			<key>Name</key><string>Shut Up</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Album Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>Dance EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5384250</integer>
+			<key>Total Time</key><integer>257201</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-04T19:56:55Z</date>
+			<key>Date Added</key><date>2011-11-28T02:04:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3407144072</integer>
+			<key>Play Date UTC</key><date>2011-12-19T18:54:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11206</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dance EP</string>
+			<key>Sort Album Artist</key><string>Jhameel</string>
+			<key>Sort Artist</key><string>Jhameel</string>
+			<key>Sort Composer</key><string>Jhameel</string>
+			<key>Persistent ID</key><string>128E4292C816C20F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297101600</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Dance%20EP%20by%20Jhameel/02%20Shut%20Up.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-11-27</string>
+			<key>Playlist ID</key><integer>675386</integer>
+			<key>Playlist Persistent ID</key><string>FF8139AABBF0E7E2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33623</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

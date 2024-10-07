@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-08-05T21:37:46Z</date>
+	<key>Application Version</key><string>10.6.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>17203</key>
+		<dict>
+			<key>Track ID</key><integer>17203</integer>
+			<key>Name</key><string>My Girl</string>
+			<key>Artist</key><string>Temptations</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2299904</integer>
+			<key>Total Time</key><integer>164205</integer>
+			<key>Date Modified</key><date>2008-07-19T15:49:36Z</date>
+			<key>Date Added</key><date>2010-06-17T12:24:05Z</date>
+			<key>Bit Rate</key><integer>112</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 000004FB 00000793 00001195 000017D7 000186E5 00024A07 000050BC 00005846 000186B7 000186B7</string>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3427008114</integer>
+			<key>Play Date UTC</key><date>2012-08-05T15:41:54Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2010-03-03T00:54:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1939</integer>
+			<key>Persistent ID</key><string>B931EA228A8C2163</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Temptations%20%20-%20My%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19029</key>
+		<dict>
+			<key>Track ID</key><integer>19029</integer>
+			<key>Name</key><string>Let's Make Out</string>
+			<key>Artist</key><string>Does It Offend You, Yeah?</string>
+			<key>Album</key><string>You Have No Idea What You're Getting Yourself Into</string>
+			<key>Genre</key><string>Electrorock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4634341</integer>
+			<key>Total Time</key><integer>243435</integer>
+			<key>Stop Time</key><integer>238000</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-08-04T18:41:33Z</date>
+			<key>Date Added</key><date>2010-06-17T12:25:08Z</date>
+			<key>Bit Rate</key><integer>152</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 7</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3426975666</integer>
+			<key>Play Date UTC</key><date>2012-08-05T06:41:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-08-05T15:31:56Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5165</integer>
+			<key>Persistent ID</key><string>AF0CF05EDDA373C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Does%20It%20Offend%20You%20Yeah%20-%20You%20Have%20No%20Idea%20What%20You're%20Getting%20Yourself%20Into%20(2008)/07%20Let's%20Make%20Out.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32859</key>
+		<dict>
+			<key>Track ID</key><integer>32859</integer>
+			<key>Name</key><string>Let Me Go</string>
+			<key>Artist</key><string>Maverick Sabre</string>
+			<key>Album Artist</key><string>Maverick Sabre</string>
+			<key>Album</key><string>Let Me Go EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8773632</integer>
+			<key>Total Time</key><integer>211670</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-05T05:48:03Z</date>
+			<key>Date Added</key><date>2011-10-05T06:06:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3426976898</integer>
+			<key>Play Date UTC</key><date>2012-08-05T07:01:38Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9141487B6B0C7420</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Maverick%20Sabre%20-%20Let%20Me%20Go%20EP/01%20Maverick%20Sabre%20-%20Let%20Me%20Go.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35301</key>
+		<dict>
+			<key>Track ID</key><integer>35301</integer>
+			<key>Name</key><string>Stay Together</string>
+			<key>Artist</key><string>2NE1</string>
+			<key>Album Artist</key><string>2NE1</string>
+			<key>Album</key><string>2010 The First Mini Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5491651</integer>
+			<key>Total Time</key><integer>228728</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-06-03T21:24:06Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:13Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped by @rch13</string>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3427007950</integer>
+			<key>Play Date UTC</key><date>2012-08-05T15:39:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7EC50C6736ECB47B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/2NE1/%5BHD%5D%20Stay%20Together%20MV%20-%202NE1%20(HQ%20192kb).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35467</key>
+		<dict>
+			<key>Track ID</key><integer>35467</integer>
+			<key>Name</key><string>The Pocket</string>
+			<key>Artist</key><string>Andy Grammer</string>
+			<key>Album Artist</key><string>Andy Grammer</string>
+			<key>Composer</key><string>Andy Grammer</string>
+			<key>Album</key><string>Andy Grammer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7533458</integer>
+			<key>Total Time</key><integer>233795</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2012-06-13T04:43:11Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3426952242</integer>
+			<key>Play Date UTC</key><date>2012-08-05T00:10:42Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-30T00:13:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Pocket</string>
+			<key>Persistent ID</key><string>EF1061192DC170D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Andy%20Grammer%20-%20Andy%20Grammer/07%20The%20Pocket.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35855</key>
+		<dict>
+			<key>Track ID</key><integer>35855</integer>
+			<key>Name</key><string>City of Sounds</string>
+			<key>Artist</key><string>Kathryn Calder</string>
+			<key>Album</key><string>Bright and Vivid</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8433785</integer>
+			<key>Total Time</key><integer>210834</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2012-07-01T19:24:10Z</date>
+			<key>Date Added</key><date>2012-07-01T22:19:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3426829733</integer>
+			<key>Play Date UTC</key><date>2012-08-03T14:08:53Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-08-05T06:45:10Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2CC7D04CC9C59180</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/bright%20and%20vivid/08%20City%20of%20Sounds.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35857</key>
+		<dict>
+			<key>Track ID</key><integer>35857</integer>
+			<key>Name</key><string>Five More Years</string>
+			<key>Artist</key><string>Kathryn Calder</string>
+			<key>Album</key><string>Bright and Vivid</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9745133</integer>
+			<key>Total Time</key><integer>243617</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2012-07-01T19:24:24Z</date>
+			<key>Date Added</key><date>2012-07-01T22:19:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3426851255</integer>
+			<key>Play Date UTC</key><date>2012-08-03T20:07:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-31T22:52:13Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1920108DA32840A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/bright%20and%20vivid/09%20Five%20More%20Years.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35943</key>
+		<dict>
+			<key>Track ID</key><integer>35943</integer>
+			<key>Name</key><string>Oh Yeah (feat. 박봄)</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7821312</integer>
+			<key>Total Time</key><integer>195134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:09Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3426951282</integer>
+			<key>Play Date UTC</key><date>2012-08-04T23:54:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>585752F6802F0EB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/03%20Oh%20Yeah%20(feat.%20%EB%B0%95%EB%B4%84).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35945</key>
+		<dict>
+			<key>Track ID</key><integer>35945</integer>
+			<key>Name</key><string>Don't Go Home</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7862272</integer>
+			<key>Total Time</key><integer>196257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-31T12:18:08Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3426976109</integer>
+			<key>Play Date UTC</key><date>2012-08-05T06:48:29Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-07-30T04:09:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F1240B7A258633D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/04%20%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%A6%20%E1%84%80%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%86%E1%85%A1.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36025</key>
+		<dict>
+			<key>Track ID</key><integer>36025</integer>
+			<key>Name</key><string>My Better Self</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album</key><string>Young And Old</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8989521</integer>
+			<key>Total Time</key><integer>224731</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-07-22T16:21:54Z</date>
+			<key>Date Added</key><date>2012-07-23T12:50:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3427009337</integer>
+			<key>Play Date UTC</key><date>2012-08-05T16:02:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5543D87CFD863CC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Tennis%20-%20Young%20and%20Old%20(2012)/03%20-%20My%20Better%20Self.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36027</key>
+		<dict>
+			<key>Track ID</key><integer>36027</integer>
+			<key>Name</key><string>Petition</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album</key><string>Young And Old</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7672937</integer>
+			<key>Total Time</key><integer>191817</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-07-22T16:21:56Z</date>
+			<key>Date Added</key><date>2012-07-23T12:50:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3426975409</integer>
+			<key>Play Date UTC</key><date>2012-08-05T06:36:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>770BC9C0B370D649</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Tennis%20-%20Young%20and%20Old%20(2012)/05%20-%20Petition.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36041</key>
+		<dict>
+			<key>Track ID</key><integer>36041</integer>
+			<key>Name</key><string>Wandering Star</string>
+			<key>Artist</key><string>POLIÇA</string>
+			<key>Album Artist</key><string>Polica</string>
+			<key>Album</key><string>Give You The Ghost</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9965979</integer>
+			<key>Total Time</key><integer>304509</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-07-23T12:50:39Z</date>
+			<key>Date Added</key><date>2012-07-23T12:55:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3426951586</integer>
+			<key>Play Date UTC</key><date>2012-08-04T23:59:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3937</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE9F5955C2DC0723</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/20111206_polica_wandering_star_128.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36073</key>
+		<dict>
+			<key>Track ID</key><integer>36073</integer>
+			<key>Name</key><string>Purple</string>
+			<key>Artist</key><string>California Wives</string>
+			<key>Album Artist</key><string>California Wives</string>
+			<key>Album</key><string>Art History</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8981940</integer>
+			<key>Total Time</key><integer>160287</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-26T01:12:00Z</date>
+			<key>Date Added</key><date>2012-07-26T01:55:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3426976686</integer>
+			<key>Play Date UTC</key><date>2012-08-05T06:58:06Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-08-03T22:14:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12469</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B3A8C61C1A02356</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/07%20Purple.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36091</key>
+		<dict>
+			<key>Track ID</key><integer>36091</integer>
+			<key>Name</key><string>My Bitch (feat. Lana Del Rey)</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3304203</integer>
+			<key>Total Time</key><integer>205871</integer>
+			<key>Date Modified</key><date>2012-07-29T19:16:42Z</date>
+			<key>Date Added</key><date>2012-07-29T19:22:22Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3427007498</integer>
+			<key>Play Date UTC</key><date>2012-08-05T15:31:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>79D778C7292AE3C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/ASAP%20ROCKY-My%20Bitch%20(feat.%20Lana%20Del%20Rey).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36163</key>
+		<dict>
+			<key>Track ID</key><integer>36163</integer>
+			<key>Name</key><string>Starry Eyed (MINNESOTA REMIX VIP)</string>
+			<key>Artist</key><string>Minnesota</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13873179</integer>
+			<key>Total Time</key><integer>346775</integer>
+			<key>Date Modified</key><date>2012-07-29T19:02:00Z</date>
+			<key>Date Added</key><date>2012-07-29T19:22:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3426935284</integer>
+			<key>Play Date UTC</key><date>2012-08-04T19:28:04Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7901</integer>
+			<key>Persistent ID</key><string>B93A7B18C6B073F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Starry%20Eyed%20(MINNESOTA%20REMIX%20VIP).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36235</key>
+		<dict>
+			<key>Track ID</key><integer>36235</integer>
+			<key>Name</key><string>Tik Tok &#38; Come Together</string>
+			<key>Artist</key><string>Ke$ha</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2956038</integer>
+			<key>Total Time</key><integer>184111</integer>
+			<key>Date Modified</key><date>2012-08-01T03:37:08Z</date>
+			<key>Date Added</key><date>2012-08-01T03:36:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3427007721</integer>
+			<key>Play Date UTC</key><date>2012-08-05T15:35:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1B4734386EB9F121</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Tik%20Tok%20by%20Ke$ha%20and%20Come%20Together%20by%20The%20Beatles.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>343167</key>
+		<dict>
+			<key>Track ID</key><integer>343167</integer>
+			<key>Name</key><string>Uchi-Nan-Champroo ( feat. Kotobuki )</string>
+			<key>Artist</key><string>Hifana</string>
+			<key>Album Artist</key><string>Hifana</string>
+			<key>Composer</key><string>Hifana</string>
+			<key>Album</key><string>Fresh Push Breakin'</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6151659</integer>
+			<key>Total Time</key><integer>216633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2012-08-02T11:05:54Z</date>
+			<key>Date Added</key><date>2012-08-02T11:05:54Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 215211623</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3426952008</integer>
+			<key>Play Date UTC</key><date>2012-08-05T00:06:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4795D1E46C080E53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/Phong/Music/Amazon%20MP3/Hifana/Fresh%20Push%20Breakin'/11%20-%20Uchi-Nan-Champroo%20(%20feat.%20Kotobuki%20).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>343231</key>
+		<dict>
+			<key>Track ID</key><integer>343231</integer>
+			<key>Name</key><string>Gofanke ( feat. Leyona )</string>
+			<key>Artist</key><string>Hifana</string>
+			<key>Album Artist</key><string>Hifana</string>
+			<key>Composer</key><string>Hifana</string>
+			<key>Album</key><string>Fresh Push Breakin'</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8200396</integer>
+			<key>Total Time</key><integer>278831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2012-08-02T11:07:00Z</date>
+			<key>Date Added</key><date>2012-08-02T11:07:00Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 215211615</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3426932770</integer>
+			<key>Play Date UTC</key><date>2012-08-04T18:46:10Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C66126C0ABA0190B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/Phong/Music/Amazon%20MP3/Hifana/Fresh%20Push%20Breakin'/03%20-%20Gofanke%20(%20feat.%20Leyona%20).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83271</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35945</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>343167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>343231</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

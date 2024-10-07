@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-02-07T04:54:20Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10795</key>
+		<dict>
+			<key>Track ID</key><integer>10795</integer>
+			<key>Name</key><string>Acoustic #3</string>
+			<key>Artist</key><string>Goo Goo Dolls</string>
+			<key>Album</key><string>Dizzy up the Girl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1871983</integer>
+			<key>Total Time</key><integer>116845</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2008-07-19T16:59:01Z</date>
+			<key>Date Added</key><date>2010-06-17T13:13:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3411278307</integer>
+			<key>Play Date UTC</key><date>2012-02-05T15:18:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-02-04T18:24:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>553</integer>
+			<key>Persistent ID</key><string>01943EF94FA2A0EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Goo%20Goo%20Dolls%20-%20Acoustic%203.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31699</key>
+		<dict>
+			<key>Track ID</key><integer>31699</integer>
+			<key>Name</key><string>Fuck You</string>
+			<key>Artist</key><string>Wale</string>
+			<key>Album Artist</key><string>Wale</string>
+			<key>Album</key><string>The Eleven One Eleven Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4747485</integer>
+			<key>Total Time</key><integer>228362</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-29T20:45:41Z</date>
+			<key>Date Added</key><date>2011-08-29T20:52:51Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>MixFiend.com / MixtapeTorrent.com</string>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3411401076</integer>
+			<key>Play Date UTC</key><date>2012-02-07T01:24:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-09-07T18:58:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8965</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Eleven One Eleven Theory</string>
+			<key>Persistent ID</key><string>CA6EF69178683595</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Wale%20-%20The%20Eleven%20One%20Eleven%20Theory-2011-MIXFIEND/02)%20Wale%20-%20Fuck%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34255</key>
+		<dict>
+			<key>Track ID</key><integer>34255</integer>
+			<key>Name</key><string>Shuffle</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind Of Fix</string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7706824</integer>
+			<key>Total Time</key><integer>235337</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-01-09T01:40:07Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3411400377</integer>
+			<key>Play Date UTC</key><date>2012-02-07T01:12:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-12T20:40:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Different Kind Of Fix</string>
+			<key>Persistent ID</key><string>30467D928F266EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Bombay_Bicycle_Club-A_Different_Kind_Of_Fix-2011-SiRE/06-bombay_bicycle_club-shuffle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34447</key>
+		<dict>
+			<key>Track ID</key><integer>34447</integer>
+			<key>Name</key><string>The Wilhelm Scream</string>
+			<key>Artist</key><string>The Bamboos feat. Megan Washington</string>
+			<key>Album</key><string>The Wilhelm Scream single</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8639704</integer>
+			<key>Total Time</key><integer>264881</integer>
+			<key>Date Modified</key><date>2012-01-25T15:53:41Z</date>
+			<key>Date Added</key><date>2012-01-25T15:57:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3411278572</integer>
+			<key>Play Date UTC</key><date>2012-02-05T15:22:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wilhelm Scream single</string>
+			<key>Sort Artist</key><string>Bamboos feat. Megan Washington</string>
+			<key>Sort Name</key><string>Wilhelm Scream</string>
+			<key>Persistent ID</key><string>97BB64AAFFAB7382</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/The%20Bamboos%20feat.%20Megan%20Washington%20-%20The%20Wilhelm%20Scream.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>426320</key>
+		<dict>
+			<key>Track ID</key><integer>426320</integer>
+			<key>Name</key><string>Lost+One</string>
+			<key>Artist</key><string>Jhameel</string>
+			<key>Album Artist</key><string>Jhameel</string>
+			<key>Composer</key><string>Jhameel</string>
+			<key>Album</key><string>Pigeons and Planes mixtape</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5887482</integer>
+			<key>Total Time</key><integer>153547</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-01-31T19:32:02Z</date>
+			<key>Date Added</key><date>2012-01-31T19:32:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3411398892</integer>
+			<key>Play Date UTC</key><date>2012-02-07T00:48:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7795</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66BB80C553F1EF28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Lost+One.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>426342</key>
+		<dict>
+			<key>Track ID</key><integer>426342</integer>
+			<key>Name</key><string>Figure 8</string>
+			<key>Artist</key><string>Outasight</string>
+			<key>Album</key><string>Figure 8</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8595360</integer>
+			<key>Total Time</key><integer>211069</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-01-31T19:39:52Z</date>
+			<key>Date Added</key><date>2012-01-31T19:40:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://outasight.bandcamp.com</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3411399155</integer>
+			<key>Play Date UTC</key><date>2012-02-07T00:52:35Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>741FCB5EE06E00DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Outasight+-+Figure+8.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444628</key>
+		<dict>
+			<key>Track ID</key><integer>1444628</integer>
+			<key>Name</key><string>Open</string>
+			<key>Artist</key><string>Rhye</string>
+			<key>Album</key><string>Rhye</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8884794</integer>
+			<key>Total Time</key><integer>222066</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-07T04:14:20Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3411412362</integer>
+			<key>Play Date UTC</key><date>2012-02-07T04:32:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1601</integer>
+			<key>Persistent ID</key><string>AA6FE131D5CA5627</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/rhye%20-%2001%20Open.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444633</key>
+		<dict>
+			<key>Track ID</key><integer>1444633</integer>
+			<key>Name</key><string>Can You Get to That</string>
+			<key>Artist</key><string>Stone Darling</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4372376</integer>
+			<key>Total Time</key><integer>215875</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-07T04:31:50Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:45Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://stonedarling.bandcamp.com</string>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3549</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C6B16C3C7414B5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Stone%20Darling%20%E2%80%93%20Can%20You%20Get%20to%20That%20%5BFunkadelic%5D.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444642</key>
+		<dict>
+			<key>Track ID</key><integer>1444642</integer>
+			<key>Name</key><string>I Need Your Company</string>
+			<key>Artist</key><string>Michael Kiwanuka</string>
+			<key>Album</key><string>EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5392805</integer>
+			<key>Total Time</key><integer>269531</integer>
+			<key>Date Modified</key><date>2012-02-07T03:52:44Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4027</integer>
+			<key>Persistent ID</key><string>DBD4A463EF4EE029</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Michael%20Kiwanuka%20%E2%80%93%20I%20Need%20Your%20Company.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444672</key>
+		<dict>
+			<key>Track ID</key><integer>1444672</integer>
+			<key>Name</key><string>Silly Fathers</string>
+			<key>Artist</key><string>Rubblebucket</string>
+			<key>Album</key><string>Omega La La (MASTER)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4009155</integer>
+			<key>Total Time</key><integer>250435</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2012-02-07T03:39:03Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3261</integer>
+			<key>Persistent ID</key><string>2622BEFD5E814B32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Silly_Fathers.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444678</key>
+		<dict>
+			<key>Track ID</key><integer>1444678</integer>
+			<key>Name</key><string>Thunder Clatter</string>
+			<key>Artist</key><string>Keegan DeWitt</string>
+			<key>Album</key><string>Spinner Exclusive Preview</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5508941</integer>
+			<key>Total Time</key><integer>270262</integer>
+			<key>Date Modified</key><date>2012-02-07T03:29:46Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:47Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2520</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44AD05F32E16CB38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/keegan%20dewitt%20%20-%20Thunder-Clatter.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444882</key>
+		<dict>
+			<key>Track ID</key><integer>1444882</integer>
+			<key>Name</key><string>Reluctance</string>
+			<key>Artist</key><string>Keegan Dewitt &#38; Isaaca Byrd</string>
+			<key>Album</key><string>Two Hearts / Reluctance 7" (Digital)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4397813</integer>
+			<key>Total Time</key><integer>214935</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Date Modified</key><date>2012-02-07T04:31:46Z</date>
+			<key>Date Added</key><date>2012-02-07T04:21:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2201</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6E9AF40DAB66A58</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Two%20Hearts%20:%20Reluctance/02%20Reluctance%20(mp3).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444912</key>
+		<dict>
+			<key>Track ID</key><integer>1444912</integer>
+			<key>Name</key><string>My Leather, My Fur, My Nails</string>
+			<key>Artist</key><string>Stepdad</string>
+			<key>Album</key><string>Ordinaire EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10770942</integer>
+			<key>Total Time</key><integer>265586</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-02-07T04:25:30Z</date>
+			<key>Date Added</key><date>2012-02-07T04:25:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://stepdad.bandcamp.com</string>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>743370BD8C5F8356</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/My%20Leather,%20My%20Fur,%20My%20Nails%20ohmyrock.wordpress.com.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444973</key>
+		<dict>
+			<key>Track ID</key><integer>1444973</integer>
+			<key>Name</key><string>Vocab (Refugees Hip-Hop Remix)</string>
+			<key>Artist</key><string>The Fugees</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6314960</integer>
+			<key>Total Time</key><integer>262687</integer>
+			<key>Start Time</key><integer>10000</integer>
+			<key>Date Modified</key><date>2012-02-07T04:43:19Z</date>
+			<key>Date Added</key><date>2012-02-07T04:42:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Fugees</string>
+			<key>Persistent ID</key><string>63308440CB477DD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Fugees%20-%20Vocab.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444988</key>
+		<dict>
+			<key>Track ID</key><integer>1444988</integer>
+			<key>Name</key><string>New Pollution</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3514627</integer>
+			<key>Total Time</key><integer>219559</integer>
+			<key>Date Modified</key><date>2012-02-07T04:50:46Z</date>
+			<key>Date Added</key><date>2012-02-07T04:52:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2415073BC2D5C09B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Beck%20-%20The%20New%20Pollution.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444993</key>
+		<dict>
+			<key>Track ID</key><integer>1444993</integer>
+			<key>Name</key><string>Off The Books</string>
+			<key>Artist</key><string>Beatnuts</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3563068</integer>
+			<key>Total Time</key><integer>222667</integer>
+			<key>Date Modified</key><date>2012-02-07T04:49:12Z</date>
+			<key>Date Added</key><date>2012-02-07T04:52:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D1CA39FD4E79FF34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/The%20Beatnuts%20-%20Off%20the%20Books.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+		<key>1444996</key>
+		<dict>
+			<key>Track ID</key><integer>1444996</integer>
+			<key>Name</key><string>SWATE</string>
+			<key>Artist</key><string>Heems</string>
+			<key>Album Artist</key><string>Heems</string>
+			<key>Album</key><string>Nehru Jackets</string>
+			<key>Grouping</key><string>up/beatnext</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9175389</integer>
+			<key>Total Time</key><integer>369319</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-07T04:44:30Z</date>
+			<key>Date Added</key><date>2012-02-07T04:52:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3161EC99927852E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/New%20Music/Heems%20-%20SWATE.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>88878</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>34255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>426320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>426342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444672</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444882</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444912</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1444988</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

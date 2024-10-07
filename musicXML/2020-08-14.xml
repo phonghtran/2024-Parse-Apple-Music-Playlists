@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-08-14T15:49:05Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>F8DCF45698080FD9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>29650</key>
+		<dict>
+			<key>Track ID</key><integer>29650</integer>
+			<key>Name</key><string>Cloud 9</string>
+			<key>Artist</key><string>EXO</string>
+			<key>Album Artist</key><string>EXO</string>
+			<key>Album</key><string>EX’ACT - The 3rd Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8422154</integer>
+			<key>Total Time</key><integer>241396</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-14T04:58:48Z</date>
+			<key>Date Added</key><date>2016-06-14T04:58:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3680181075</integer>
+			<key>Play Date UTC</key><date>2020-08-13T20:31:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-07-06T14:59:35Z</date>
+			<key>Release Date</key><date>2016-06-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>EX’ACT - The 3rd Album</string>
+			<key>Sort Artist</key><string>EXO</string>
+			<key>Sort Name</key><string>Cloud 9</string>
+			<key>Persistent ID</key><string>9E8B301235BBF468</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>35146</key>
+		<dict>
+			<key>Track ID</key><integer>35146</integer>
+			<key>Name</key><string>Blueberry Faygo</string>
+			<key>Artist</key><string>Lil Mosey</string>
+			<key>Album Artist</key><string>Lil Mosey</string>
+			<key>Composer</key><string>Lathan Echols &#38; Callan Wong</string>
+			<key>Album</key><string>Blueberry Faygo - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5833342</integer>
+			<key>Total Time</key><integer>162547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-02-08T20:52:51Z</date>
+			<key>Date Added</key><date>2020-02-08T20:52:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>122</integer>
+			<key>Play Date</key><integer>3680089993</integer>
+			<key>Play Date UTC</key><date>2020-08-12T19:13:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-03T02:28:05Z</date>
+			<key>Release Date</key><date>2020-02-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueberry Faygo - Single</string>
+			<key>Sort Artist</key><string>Lil Mosey</string>
+			<key>Sort Name</key><string>Blueberry Faygo</string>
+			<key>Persistent ID</key><string>587E9F7E3BB4F596</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36330</key>
+		<dict>
+			<key>Track ID</key><integer>36330</integer>
+			<key>Name</key><string>All Hands On Deck (Giraffage Remix)</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Composer</key><string>N/A, Tinashe, Mikkel S. Eriksen, Tor Erik Hermansen, Magnus August Hoiberg &#38; Bleta Rexha</string>
+			<key>Album</key><string>All Hands On Deck (Giraffage Remix) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6916710</integer>
+			<key>Total Time</key><integer>191511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2020-07-03T14:01:08Z</date>
+			<key>Date Added</key><date>2020-07-03T14:01:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3680154000</integer>
+			<key>Play Date UTC</key><date>2020-08-13T13:00:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-08-13T20:36:26Z</date>
+			<key>Release Date</key><date>2015-05-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All Hands On Deck (Giraffage Remix) - Single</string>
+			<key>Sort Artist</key><string>Tinashe</string>
+			<key>Sort Name</key><string>All Hands On Deck (Giraffage Remix)</string>
+			<key>Persistent ID</key><string>D60FCC5375DF04A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36578</key>
+		<dict>
+			<key>Track ID</key><integer>36578</integer>
+			<key>Name</key><string>Care</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus</string>
+			<key>Album</key><string>Care - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6974180</integer>
+			<key>Total Time</key><integer>194994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-18T17:17:18Z</date>
+			<key>Date Added</key><date>2020-07-18T17:17:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3680153644</integer>
+			<key>Play Date UTC</key><date>2020-08-13T12:54:04Z</date>
+			<key>Release Date</key><date>2020-07-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Care - Single</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Care</string>
+			<key>Persistent ID</key><string>6CF0E4744338D1CD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36582</key>
+		<dict>
+			<key>Track ID</key><integer>36582</integer>
+			<key>Name</key><string>Love I’m Given</string>
+			<key>Artist</key><string>Ellie Goulding</string>
+			<key>Album Artist</key><string>Ellie Goulding</string>
+			<key>Composer</key><string>Ellie Goulding, Jim Eliot &#38; Joe Kearns</string>
+			<key>Album</key><string>Brightest Blue (Apple Music Film Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7514902</integer>
+			<key>Total Time</key><integer>209240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-18T17:48:59Z</date>
+			<key>Date Added</key><date>2020-07-18T17:48:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3680087199</integer>
+			<key>Play Date UTC</key><date>2020-08-12T18:26:39Z</date>
+			<key>Release Date</key><date>2020-07-17T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Brightest Blue (Apple Music Film Edition)</string>
+			<key>Sort Artist</key><string>Ellie Goulding</string>
+			<key>Sort Name</key><string>Love I’m Given</string>
+			<key>Persistent ID</key><string>CB8B4D184595F327</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36612</key>
+		<dict>
+			<key>Track ID</key><integer>36612</integer>
+			<key>Name</key><string>invisible string</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Aaron Dessner</string>
+			<key>Album</key><string>folklore</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8889103</integer>
+			<key>Total Time</key><integer>252881</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-24T13:20:39Z</date>
+			<key>Date Added</key><date>2020-07-24T13:20:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3680180829</integer>
+			<key>Play Date UTC</key><date>2020-08-13T20:27:09Z</date>
+			<key>Release Date</key><date>2020-07-24T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>folklore</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>invisible string</string>
+			<key>Persistent ID</key><string>2EB20A003FF5950D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36692</key>
+		<dict>
+			<key>Track ID</key><integer>36692</integer>
+			<key>Name</key><string>Nothing But a Heartache</string>
+			<key>Artist</key><string>The Flirtations</string>
+			<key>Album Artist</key><string>The Flirtations</string>
+			<key>Album</key><string>Sounds Like the Flirtations</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6126704</integer>
+			<key>Total Time</key><integer>164240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2020-07-26T15:05:05Z</date>
+			<key>Date Added</key><date>2020-07-26T15:05:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3680153808</integer>
+			<key>Play Date UTC</key><date>2020-08-13T12:56:48Z</date>
+			<key>Release Date</key><date>1969-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sounds Like the Flirtations</string>
+			<key>Sort Album Artist</key><string>Flirtations</string>
+			<key>Sort Artist</key><string>Flirtations</string>
+			<key>Sort Name</key><string>Nothing But a Heartache</string>
+			<key>Persistent ID</key><string>2165CA23208E6544</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>36702</key>
+		<dict>
+			<key>Track ID</key><integer>36702</integer>
+			<key>Name</key><string>2am (feat. Carla Monroe)</string>
+			<key>Artist</key><string>MK</string>
+			<key>Album Artist</key><string>MK</string>
+			<key>Composer</key><string>MK, Carla Monroe, Ruxley, Ash Milton &#38; Dan Goudie</string>
+			<key>Album</key><string>2am (feat. Carla Monroe) - Single</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6618295</integer>
+			<key>Total Time</key><integer>182400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-26T18:02:14Z</date>
+			<key>Date Added</key><date>2020-07-26T18:02:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3680152991</integer>
+			<key>Play Date UTC</key><date>2020-08-13T12:43:11Z</date>
+			<key>Release Date</key><date>2020-07-24T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2am (feat. Carla Monroe) - Single</string>
+			<key>Sort Artist</key><string>MK</string>
+			<key>Sort Name</key><string>2am (feat. Carla Monroe)</string>
+			<key>Persistent ID</key><string>405EB360B675CF56</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37232</key>
+		<dict>
+			<key>Track ID</key><integer>37232</integer>
+			<key>Name</key><string>Run</string>
+			<key>Artist</key><string>Lauren Alaina</string>
+			<key>Album Artist</key><string>Lauren Alaina</string>
+			<key>Composer</key><string>Lauren Alaina, Kennedi Lykken &#38; Ben Johnson</string>
+			<key>Album</key><string>Getting Over Him - EP</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7258197</integer>
+			<key>Total Time</key><integer>199804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-04T18:11:17Z</date>
+			<key>Date Added</key><date>2020-08-04T18:11:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3680090437</integer>
+			<key>Play Date UTC</key><date>2020-08-12T19:20:37Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-08-13T20:36:31Z</date>
+			<key>Release Date</key><date>2020-07-31T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getting Over Him - EP</string>
+			<key>Sort Artist</key><string>Lauren Alaina</string>
+			<key>Sort Name</key><string>Run</string>
+			<key>Persistent ID</key><string>E6FD9BE5A112CA7A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37234</key>
+		<dict>
+			<key>Track ID</key><integer>37234</integer>
+			<key>Name</key><string>Skin Deep</string>
+			<key>Artist</key><string>Dounia</string>
+			<key>Album Artist</key><string>Dounia</string>
+			<key>Composer</key><string>Dounia Tazi</string>
+			<key>Album</key><string>Skin Deep - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5576675</integer>
+			<key>Total Time</key><integer>154088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-05T15:21:54Z</date>
+			<key>Date Added</key><date>2020-08-05T15:21:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3680090237</integer>
+			<key>Play Date UTC</key><date>2020-08-12T19:17:17Z</date>
+			<key>Release Date</key><date>2020-06-26T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Skin Deep - Single</string>
+			<key>Sort Artist</key><string>Dounia</string>
+			<key>Sort Name</key><string>Skin Deep</string>
+			<key>Persistent ID</key><string>3CA01BA26DE75E55</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37244</key>
+		<dict>
+			<key>Track ID</key><integer>37244</integer>
+			<key>Name</key><string>Blue</string>
+			<key>Artist</key><string>MAJ</string>
+			<key>Album Artist</key><string>MAJ</string>
+			<key>Composer</key><string>James Hudson Jr, Bryant Hunter, Massimo Gabutti, Maurizio Lobina &#38; Gianfranco Randone</string>
+			<key>Album</key><string>The Exotic Party - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4174627</integer>
+			<key>Total Time</key><integer>111127</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-05T15:23:29Z</date>
+			<key>Date Added</key><date>2020-08-05T15:23:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3680181377</integer>
+			<key>Play Date UTC</key><date>2020-08-13T20:36:17Z</date>
+			<key>Release Date</key><date>2020-07-31T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Exotic Party - Single</string>
+			<key>Sort Artist</key><string>MAJ</string>
+			<key>Sort Name</key><string>Blue</string>
+			<key>Persistent ID</key><string>22B3EA2CEC8DEE1D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37246</key>
+		<dict>
+			<key>Track ID</key><integer>37246</integer>
+			<key>Name</key><string>Super Sad Always</string>
+			<key>Artist</key><string>Melanie Faye</string>
+			<key>Album Artist</key><string>Melanie Faye</string>
+			<key>Composer</key><string>Melanie Faye, Demi Louise &#38; Everett Romano</string>
+			<key>Album</key><string>Super Sad Always - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6885231</integer>
+			<key>Total Time</key><integer>193000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-08-05T19:52:26Z</date>
+			<key>Date Added</key><date>2020-08-05T19:52:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3680153449</integer>
+			<key>Play Date UTC</key><date>2020-08-13T12:50:49Z</date>
+			<key>Release Date</key><date>2019-12-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Super Sad Always - Single</string>
+			<key>Sort Artist</key><string>Melanie Faye</string>
+			<key>Sort Name</key><string>Super Sad Always</string>
+			<key>Persistent ID</key><string>9734011FE63DD666</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37252</key>
+		<dict>
+			<key>Track ID</key><integer>37252</integer>
+			<key>Name</key><string>Sorry (Alternate Edit)</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus</string>
+			<key>Album</key><string>Sorry (Alternate Edit) - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7095351</integer>
+			<key>Total Time</key><integer>197863</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-07T21:54:11Z</date>
+			<key>Date Added</key><date>2020-08-07T21:54:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3680095590</integer>
+			<key>Play Date UTC</key><date>2020-08-12T20:46:30Z</date>
+			<key>Release Date</key><date>2020-08-06T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sorry (Alternate Edit) - Single</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Sorry (Alternate Edit)</string>
+			<key>Persistent ID</key><string>34F9615DF605DDAD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37254</key>
+		<dict>
+			<key>Track ID</key><integer>37254</integer>
+			<key>Name</key><string>Top Gone</string>
+			<key>Artist</key><string>Lil Mosey &#38; Lunay</string>
+			<key>Album Artist</key><string>Lil Mosey &#38; Lunay</string>
+			<key>Composer</key><string>Benjamin Lasnier, Patrick Piscot, Lathan Echols, Jefnier Osorio Moreno &#38; Sean Kingston</string>
+			<key>Album</key><string>Top Gone - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6853365</integer>
+			<key>Total Time</key><integer>194453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-07T23:03:35Z</date>
+			<key>Date Added</key><date>2020-08-07T23:03:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3680152667</integer>
+			<key>Play Date UTC</key><date>2020-08-13T12:37:47Z</date>
+			<key>Release Date</key><date>2020-08-05T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Top Gone - Single</string>
+			<key>Sort Artist</key><string>Lil Mosey &#38; Lunay</string>
+			<key>Sort Name</key><string>Top Gone</string>
+			<key>Persistent ID</key><string>3F5AF3B6EC88125A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37528</key>
+		<dict>
+			<key>Track ID</key><integer>37528</integer>
+			<key>Name</key><string>Aquí Yo Mando</string>
+			<key>Artist</key><string>Kali Uchis &#38; Rico Nasty</string>
+			<key>Album Artist</key><string>Kali Uchis &#38; Rico Nasty</string>
+			<key>Composer</key><string>Kali Uchis, Rico Nasty, Jon Leone, Cristina Chiluiza, Servando Moriche Primera Mussett, Albert Melendez, Marco Masis &#38; Jacob Michael Deimler</string>
+			<key>Album</key><string>Aquí Yo Mando - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5456875</integer>
+			<key>Total Time</key><integer>141954</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-08T14:08:21Z</date>
+			<key>Date Added</key><date>2020-08-08T14:08:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3680181266</integer>
+			<key>Play Date UTC</key><date>2020-08-13T20:34:26Z</date>
+			<key>Release Date</key><date>2020-08-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Aquí Yo Mando - Single</string>
+			<key>Sort Artist</key><string>Kali Uchis &#38; Rico Nasty</string>
+			<key>Sort Name</key><string>Aquí Yo Mando</string>
+			<key>Persistent ID</key><string>1493843B9A33B1BA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>37548</key>
+		<dict>
+			<key>Track ID</key><integer>37548</integer>
+			<key>Name</key><string>What U Need</string>
+			<key>Artist</key><string>JoJo</string>
+			<key>Album Artist</key><string>JoJo</string>
+			<key>Composer</key><string>Brittany Coney, Denisia Andrews, Joanna Levesque &#38; Matias Saabye Peschcke-Køed</string>
+			<key>Album</key><string>good to know (Deluxe)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8699902</integer>
+			<key>Total Time</key><integer>248983</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-08-09T21:59:42Z</date>
+			<key>Date Added</key><date>2020-08-09T21:59:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3680154249</integer>
+			<key>Play Date UTC</key><date>2020-08-13T13:04:09Z</date>
+			<key>Release Date</key><date>2020-08-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good to know (Deluxe)</string>
+			<key>Sort Artist</key><string>JoJo</string>
+			<key>Sort Name</key><string>What U Need</string>
+			<key>Persistent ID</key><string>34D7163A69389DBA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>99261</integer>
+			<key>Playlist Persistent ID</key><string>B653AA145AEACFC4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36612</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36692</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37548</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-03-29T17:08:37Z</date>
+	<key>Application Version</key><string>11.1.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>40152</key>
+		<dict>
+			<key>Track ID</key><integer>40152</integer>
+			<key>Name</key><string>You’ll Never Know</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Khristopher Riddick-Tynes, Leon Thomas, Kenneth Edmonds &#38; Antonio Dixon</string>
+			<key>Album</key><string>Yours Truly</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8619035</integer>
+			<key>Total Time</key><integer>214308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-12-22T15:22:46Z</date>
+			<key>Date Added</key><date>2013-12-22T17:41:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3478883956</integer>
+			<key>Play Date UTC</key><date>2014-03-29T01:39:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>030D92FFDFF3123C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/Yours%20Truly/09%20You_ll%20Never%20Know.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40660</key>
+		<dict>
+			<key>Track ID</key><integer>40660</integer>
+			<key>Name</key><string>Happy With Me</string>
+			<key>Artist</key><string>HOLYCHILD</string>
+			<key>Album Artist</key><string>HOLYCHILD</string>
+			<key>Composer</key><string>Elizabeth Lynn Nistico &#38; Louis Charles Diller</string>
+			<key>Album</key><string>Mindspeak EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6540819</integer>
+			<key>Total Time</key><integer>169253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-08T15:54:08Z</date>
+			<key>Date Added</key><date>2014-03-08T15:10:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3478880512</integer>
+			<key>Play Date UTC</key><date>2014-03-29T00:41:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-16T22:35:03Z</date>
+			<key>Release Date</key><date>2014-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5864</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C86CE55F727D0B06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/HOLYCHILD/Mindspeak%20EP/01%20Happy%20With%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40664</key>
+		<dict>
+			<key>Track ID</key><integer>40664</integer>
+			<key>Name</key><string>Every Time I Fall</string>
+			<key>Artist</key><string>HOLYCHILD</string>
+			<key>Album Artist</key><string>HOLYCHILD</string>
+			<key>Composer</key><string>Elizabeth Lynn Nistico &#38; Louis Charles Diller</string>
+			<key>Album</key><string>Mindspeak EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8015148</integer>
+			<key>Total Time</key><integer>202466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-08T15:54:08Z</date>
+			<key>Date Added</key><date>2014-03-08T15:10:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3478881531</integer>
+			<key>Play Date UTC</key><date>2014-03-29T00:58:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-03-28T22:44:14Z</date>
+			<key>Release Date</key><date>2014-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6085</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28242625FC3C5CD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/HOLYCHILD/Mindspeak%20EP/03%20Every%20Time%20I%20Fall.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40670</key>
+		<dict>
+			<key>Track ID</key><integer>40670</integer>
+			<key>Name</key><string>Not Going Home</string>
+			<key>Artist</key><string>Great Good Fine Ok</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8556729</integer>
+			<key>Total Time</key><integer>213864</integer>
+			<key>Date Modified</key><date>2014-03-08T14:53:07Z</date>
+			<key>Date Added</key><date>2014-03-08T15:31:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3478879217</integer>
+			<key>Play Date UTC</key><date>2014-03-29T00:20:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-03-28T22:44:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4115</integer>
+			<key>Persistent ID</key><string>5C9A4AF073E896AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Great%20Good%20Fine%20Ok/Unknown%20Album/Not%20Going%20Home.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40672</key>
+		<dict>
+			<key>Track ID</key><integer>40672</integer>
+			<key>Name</key><string>Losing to the Dark</string>
+			<key>Artist</key><string>La Sera</string>
+			<key>Album</key><string>Hour of the Dawn  </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7710974</integer>
+			<key>Total Time</key><integer>192720</integer>
+			<key>Date Modified</key><date>2014-03-08T15:34:21Z</date>
+			<key>Date Added</key><date>2014-03-08T15:31:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3478878225</integer>
+			<key>Play Date UTC</key><date>2014-03-29T00:03:45Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10059</integer>
+			<key>Persistent ID</key><string>49C77843E4DDA06D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/La%20Sera/Hour%20of%20the%20Dawn/Losing%20to%20the%20Dark.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40690</key>
+		<dict>
+			<key>Track ID</key><integer>40690</integer>
+			<key>Name</key><string>Howl</string>
+			<key>Artist</key><string>BOOTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10134306</integer>
+			<key>Total Time</key><integer>253100</integer>
+			<key>Date Modified</key><date>2014-03-12T03:04:01Z</date>
+			<key>Date Added</key><date>2014-03-12T03:03:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3478799179</integer>
+			<key>Play Date UTC</key><date>2014-03-28T02:06:19Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-03-28T22:40:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E29B81CCB479988D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/BOOTS/Unknown%20Album/Howl.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40702</key>
+		<dict>
+			<key>Track ID</key><integer>40702</integer>
+			<key>Name</key><string>Pretty Thing</string>
+			<key>Artist</key><string>Broods</string>
+			<key>Album Artist</key><string>Broods</string>
+			<key>Album</key><string>Broods - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7939652</integer>
+			<key>Total Time</key><integer>196824</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-12T04:45:33Z</date>
+			<key>Date Added</key><date>2014-03-12T05:00:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3478879647</integer>
+			<key>Play Date UTC</key><date>2014-03-29T00:27:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03A5D035679636D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Broods/Broods%20-%20EP/02%20Pretty%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40704</key>
+		<dict>
+			<key>Track ID</key><integer>40704</integer>
+			<key>Name</key><string>Bridges</string>
+			<key>Artist</key><string>Broods</string>
+			<key>Album Artist</key><string>Broods</string>
+			<key>Album</key><string>Broods - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7716927</integer>
+			<key>Total Time</key><integer>191256</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-12T04:46:00Z</date>
+			<key>Date Added</key><date>2014-03-12T05:00:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3478878805</integer>
+			<key>Play Date UTC</key><date>2014-03-29T00:13:25Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F560114C64451BDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Broods/Broods%20-%20EP/03%20Bridges.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40724</key>
+		<dict>
+			<key>Track ID</key><integer>40724</integer>
+			<key>Name</key><string>Eres tu</string>
+			<key>Artist</key><string>Carla Morrison</string>
+			<key>Album Artist</key><string>Carla Morrison</string>
+			<key>Album</key><string>Dejenme Llorar</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9125908</integer>
+			<key>Total Time</key><integer>228231</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2014-03-12T05:05:40Z</date>
+			<key>Date Added</key><date>2014-03-12T05:07:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3478626777</integer>
+			<key>Play Date UTC</key><date>2014-03-26T02:12:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-28T22:44:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>550B350D2383E55E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Carla%20Morrison/Dejenme%20Llorar/06%20Eres%20tu.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40750</key>
+		<dict>
+			<key>Track ID</key><integer>40750</integer>
+			<key>Name</key><string>Diamonds In Her Eyes</string>
+			<key>Artist</key><string>Owl Eyes</string>
+			<key>Album Artist</key><string>Owl Eyes</string>
+			<key>Album</key><string>Nightswim</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8415615</integer>
+			<key>Total Time</key><integer>237773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-03-12T12:40:35Z</date>
+			<key>Date Added</key><date>2014-03-12T12:59:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3478625778</integer>
+			<key>Play Date UTC</key><date>2014-03-26T01:56:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-28T22:44:17Z</date>
+			<key>Release Date</key><date>2013-04-19T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5772</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E447946764C6D815</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Owl%20Eyes/Nightswim/04%20Diamonds%20In%20Her%20Eyes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40902</key>
+		<dict>
+			<key>Track ID</key><integer>40902</integer>
+			<key>Name</key><string>Marigold</string>
+			<key>Artist</key><string>Mother Falcon</string>
+			<key>Album Artist</key><string>Mother Falcon</string>
+			<key>Album</key><string>You Knew</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5671792</integer>
+			<key>Total Time</key><integer>151866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-03-16T15:40:49Z</date>
+			<key>Date Added</key><date>2014-03-16T13:25:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3478934875</integer>
+			<key>Play Date UTC</key><date>2014-03-29T15:47:55Z</date>
+			<key>Release Date</key><date>2013-05-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5317</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F066F60A47505C02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Mother%20Falcon/You%20Knew/02%20Marigold.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40906</key>
+		<dict>
+			<key>Track ID</key><integer>40906</integer>
+			<key>Name</key><string>Sleep</string>
+			<key>Artist</key><string>Mother Falcon</string>
+			<key>Album Artist</key><string>Mother Falcon</string>
+			<key>Album</key><string>You Knew</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11762780</integer>
+			<key>Total Time</key><integer>328106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-03-16T15:40:49Z</date>
+			<key>Date Added</key><date>2014-03-16T13:25:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3478835179</integer>
+			<key>Play Date UTC</key><date>2014-03-28T12:06:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-25T02:19:04Z</date>
+			<key>Release Date</key><date>2013-05-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3112</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C522D0C4A0E4408C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Mother%20Falcon/You%20Knew/04%20Sleep.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1067071</key>
+		<dict>
+			<key>Track ID</key><integer>1067071</integer>
+			<key>Name</key><string>썸 (Feat. 릴보이 of 긱스)</string>
+			<key>Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album</key><string>썸</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8665369</integer>
+			<key>Total Time</key><integer>211435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-02-08T00:17:26Z</date>
+			<key>Date Added</key><date>2014-03-29T17:00:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://k2nblog.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3478939531</integer>
+			<key>Play Date UTC</key><date>2014-03-29T17:05:31Z</date>
+			<key>Skip Date</key><date>2014-03-29T17:01:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7B412E17852AA7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B2%20&#38;%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%80%E1%85%A9%20(SoYou%20&#38;%20JunggiGo)/%E1%84%8A%E1%85%A5%E1%86%B7/1-01%20%E1%84%8A%E1%85%A5%E1%86%B7%20(Feat.%20%E1%84%85%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A9%E1%84%8B%E1%85%B5%20of%20%E1%84%80%E1%85%B5%E1%86%A8%E1%84%89%E1%85%B3).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1067078</key>
+		<dict>
+			<key>Track ID</key><integer>1067078</integer>
+			<key>Name</key><string>Blind (Twilight Mix)</string>
+			<key>Artist</key><string>정기고(Junggigo)</string>
+			<key>Album Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album</key><string>썸</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8626236</integer>
+			<key>Total Time</key><integer>210468</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-02-08T00:17:26Z</date>
+			<key>Date Added</key><date>2014-03-29T17:00:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://k2nblog.com</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09ECE7A424970EFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B2%20&#38;%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%80%E1%85%A9%20(SoYou%20&#38;%20JunggiGo)/%E1%84%8A%E1%85%A5%E1%86%B7/1-02%20Blind%20(Twilight%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>120361</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40672</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40690</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40704</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1067071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1067078</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

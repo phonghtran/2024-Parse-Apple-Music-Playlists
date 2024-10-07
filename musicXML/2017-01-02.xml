@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-01-03T06:13:42Z</date>
+	<key>Application Version</key><string>12.5.4.42</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>A4463A0B4393DE9D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>22595</key>
+		<dict>
+			<key>Track ID</key><integer>22595</integer>
+			<key>Name</key><string>Countdown</string>
+			<key>Artist</key><string>Beyoncé</string>
+			<key>Album</key><string>4</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7005392</integer>
+			<key>Total Time</key><integer>211893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T15:30:29Z</date>
+			<key>Date Added</key><date>2011-08-29T20:05:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>No comments.</string>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3566122184</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:29:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3910355B915E2054</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>44825</key>
+		<dict>
+			<key>Track ID</key><integer>44825</integer>
+			<key>Name</key><string>We Can't Move to This</string>
+			<key>Artist</key><string>Ellie Goulding</string>
+			<key>Album Artist</key><string>Ellie Goulding</string>
+			<key>Composer</key><string>Ellie Goulding, Fred Gibson, Alex Gibson, Greg Kurstin &#38; Maureen "Mozella" McDonald</string>
+			<key>Album</key><string>Delirium (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8468981</integer>
+			<key>Total Time</key><integer>208320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-09T04:08:53Z</date>
+			<key>Date Added</key><date>2015-11-09T05:08:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3566124157</integer>
+			<key>Play Date UTC</key><date>2017-01-01T22:02:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-17T00:21:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Delirium (Deluxe)</string>
+			<key>Sort Artist</key><string>Ellie Goulding</string>
+			<key>Sort Name</key><string>We Can't Move to This</string>
+			<key>Persistent ID</key><string>EE23B54B518FF512</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47581</key>
+		<dict>
+			<key>Track ID</key><integer>47581</integer>
+			<key>Name</key><string>Rockin’</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Album Artist</key><string>The Weeknd</string>
+			<key>Composer</key><string>Abel Tesfaye, Max Martin, Peter Svensson, Savan Kotecha, Ali Payami &#38; Ahmad Balshe</string>
+			<key>Album</key><string>Starboy</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8281303</integer>
+			<key>Total Time</key><integer>232882</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-26T17:11:19Z</date>
+			<key>Date Added</key><date>2016-11-26T17:11:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3566122417</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:33:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-21T06:37:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Starboy</string>
+			<key>Sort Album Artist</key><string>Weeknd</string>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Sort Name</key><string>Rockin’</string>
+			<key>Persistent ID</key><string>3ED6A032E0585507</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47739</key>
+		<dict>
+			<key>Track ID</key><integer>47739</integer>
+			<key>Name</key><string>Girls @ (feat. Chance the Rapper)</string>
+			<key>Artist</key><string>Joey Purp</string>
+			<key>Album Artist</key><string>Joey Purp</string>
+			<key>Album</key><string>Girls @ (feat. Chance the Rapper) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7535235</integer>
+			<key>Total Time</key><integer>212773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-09T07:01:25Z</date>
+			<key>Date Added</key><date>2016-12-09T07:01:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3565648572</integer>
+			<key>Play Date UTC</key><date>2016-12-27T09:56:12Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-12-17T01:30:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Girls @ (feat. Chance the Rapper) - Single</string>
+			<key>Sort Artist</key><string>Joey Purp</string>
+			<key>Sort Name</key><string>Girls @ (feat. Chance the Rapper)</string>
+			<key>Persistent ID</key><string>E22BEE25A5199D18</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47785</key>
+		<dict>
+			<key>Track ID</key><integer>47785</integer>
+			<key>Name</key><string>Table ft. Little Simz</string>
+			<key>Artist</key><string>Kehlani</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5488024</integer>
+			<key>Total Time</key><integer>195030</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-16T06:50:20Z</date>
+			<key>Date Added</key><date>2016-12-13T07:50:11Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3566121715</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:21:55Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2016-12-23T18:30:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Kehlani</string>
+			<key>Sort Name</key><string>Table ft. Little Simz</string>
+			<key>Persistent ID</key><string>4689E0A84DB74F3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kehlani/Unknown%20Album/Table%20ft.%20Little%20Simz.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47787</key>
+		<dict>
+			<key>Track ID</key><integer>47787</integer>
+			<key>Name</key><string>FXXK IT</string>
+			<key>Artist</key><string>BIGBANG</string>
+			<key>Album Artist</key><string>BIGBANG</string>
+			<key>Album</key><string>MADE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8156736</integer>
+			<key>Total Time</key><integer>231748</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-13T07:58:35Z</date>
+			<key>Date Added</key><date>2016-12-13T07:58:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3566121520</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:18:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MADE</string>
+			<key>Sort Artist</key><string>BIGBANG</string>
+			<key>Sort Name</key><string>FXXK IT</string>
+			<key>Persistent ID</key><string>DE19F075955652C0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47817</key>
+		<dict>
+			<key>Track ID</key><integer>47817</integer>
+			<key>Name</key><string>By Design (feat. Andre Benjamin)</string>
+			<key>Artist</key><string>Kid Cudi</string>
+			<key>Album Artist</key><string>Kid Cudi</string>
+			<key>Composer</key><string>Andre Benjamin, Pharrell Williams, Scott Mescudi &#38; Patrick Reynolds</string>
+			<key>Album</key><string>Passion, Pain &#38; Demon Slayin'</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9061155</integer>
+			<key>Total Time</key><integer>257058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-17T17:28:38Z</date>
+			<key>Date Added</key><date>2016-12-17T17:28:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3566132831</integer>
+			<key>Play Date UTC</key><date>2017-01-02T00:27:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Passion, Pain &#38; Demon Slayin'</string>
+			<key>Sort Artist</key><string>Kid Cudi</string>
+			<key>Sort Name</key><string>By Design (feat. Andre Benjamin)</string>
+			<key>Persistent ID</key><string>BE18511E29371196</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47851</key>
+		<dict>
+			<key>Track ID</key><integer>47851</integer>
+			<key>Name</key><string>Caroline</string>
+			<key>Artist</key><string>Aminé</string>
+			<key>Album Artist</key><string>Aminé</string>
+			<key>Composer</key><string>Adam Daniel &#38; Irvin Mejia</string>
+			<key>Album</key><string>Caroline - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7620755</integer>
+			<key>Total Time</key><integer>209737</integer>
+			<key>Start Time</key><integer>15900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-20T17:19:35Z</date>
+			<key>Date Added</key><date>2016-12-20T17:19:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3566132574</integer>
+			<key>Play Date UTC</key><date>2017-01-02T00:22:54Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2016-12-20T17:23:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Caroline - Single</string>
+			<key>Sort Artist</key><string>Aminé</string>
+			<key>Sort Name</key><string>Caroline</string>
+			<key>Persistent ID</key><string>AF44EFC63322CA29</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47853</key>
+		<dict>
+			<key>Track ID</key><integer>47853</integer>
+			<key>Name</key><string>Black Barbies</string>
+			<key>Artist</key><string>Nicki Minaj &#38; Mike Will Made-It</string>
+			<key>Album Artist</key><string>Nicki Minaj &#38; Mike Will Made-It</string>
+			<key>Composer</key><string>A. Brown, K. Brown, M. Williams, R. Davis &#38; O. Maraj</string>
+			<key>Album</key><string>Black Barbies - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8950773</integer>
+			<key>Total Time</key><integer>254078</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-20T22:16:51Z</date>
+			<key>Date Added</key><date>2016-12-20T22:16:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3566122865</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:41:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Barbies - Single</string>
+			<key>Sort Artist</key><string>Nicki Minaj &#38; Mike Will Made-It</string>
+			<key>Sort Name</key><string>Black Barbies</string>
+			<key>Persistent ID</key><string>47D49A1CDE639982</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47855</key>
+		<dict>
+			<key>Track ID</key><integer>47855</integer>
+			<key>Name</key><string>Picture Perfect</string>
+			<key>Artist</key><string>Little Simz</string>
+			<key>Album Artist</key><string>Little Simz</string>
+			<key>Album</key><string>Stillness in Wonderland</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6878800</integer>
+			<key>Total Time</key><integer>183197</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-20T22:24:40Z</date>
+			<key>Date Added</key><date>2016-12-20T22:24:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3566133014</integer>
+			<key>Play Date UTC</key><date>2017-01-02T00:30:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stillness in Wonderland</string>
+			<key>Sort Artist</key><string>Little Simz</string>
+			<key>Sort Name</key><string>Picture Perfect</string>
+			<key>Persistent ID</key><string>A0513CA99C99DE8E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47867</key>
+		<dict>
+			<key>Track ID</key><integer>47867</integer>
+			<key>Name</key><string>Shotgun (feat. Syd)</string>
+			<key>Artist</key><string>Little Simz</string>
+			<key>Album Artist</key><string>Little Simz</string>
+			<key>Album</key><string>Stillness in Wonderland</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6784066</integer>
+			<key>Total Time</key><integer>188089</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-20T22:24:41Z</date>
+			<key>Date Added</key><date>2016-12-20T22:24:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3566123762</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:56:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stillness in Wonderland</string>
+			<key>Sort Artist</key><string>Little Simz</string>
+			<key>Sort Name</key><string>Shotgun (feat. Syd)</string>
+			<key>Persistent ID</key><string>07125D740C5BA214</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47981</key>
+		<dict>
+			<key>Track ID</key><integer>47981</integer>
+			<key>Name</key><string>All The Way</string>
+			<key>Artist</key><string>Chance The Rapper</string>
+			<key>Album</key><string>Merry Christmas Lil Mama</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3560052</integer>
+			<key>Total Time</key><integer>217182</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-23T22:20:34Z</date>
+			<key>Date Added</key><date>2016-12-23T22:19:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3566123201</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:46:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-26T16:53:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Merry Christmas Lil Mama</string>
+			<key>Sort Artist</key><string>Chance The Rapper</string>
+			<key>Persistent ID</key><string>B71767CE07F4B395</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>47983</key>
+		<dict>
+			<key>Track ID</key><integer>47983</integer>
+			<key>Name</key><string>Snowed In</string>
+			<key>Artist</key><string>Chance The Rapper</string>
+			<key>Album</key><string>Merry Christmas Lil Mama</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4110918</integer>
+			<key>Total Time</key><integer>251611</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-23T22:20:49Z</date>
+			<key>Date Added</key><date>2016-12-23T22:19:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3566123453</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:50:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Merry Christmas Lil Mama</string>
+			<key>Sort Artist</key><string>Chance The Rapper</string>
+			<key>Persistent ID</key><string>96CE5DEC95564F9D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>47985</key>
+		<dict>
+			<key>Track ID</key><integer>47985</integer>
+			<key>Name</key><string>Chi Town Christmas</string>
+			<key>Artist</key><string>Chance The Rapper</string>
+			<key>Album</key><string>Merry Christmas Lil Mama</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2022394</integer>
+			<key>Total Time</key><integer>121077</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-23T22:20:37Z</date>
+			<key>Date Added</key><date>2016-12-23T22:19:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3566123574</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:52:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Merry Christmas Lil Mama</string>
+			<key>Sort Artist</key><string>Chance The Rapper</string>
+			<key>Persistent ID</key><string>7A6D09B7FA5F987B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>48003</key>
+		<dict>
+			<key>Track ID</key><integer>48003</integer>
+			<key>Name</key><string>Gladiator</string>
+			<key>Artist</key><string>The Girl and The Dreamcatcher</string>
+			<key>Album Artist</key><string>The Girl and The Dreamcatcher</string>
+			<key>Album</key><string>Negatives - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6685381</integer>
+			<key>Total Time</key><integer>186164</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-24T22:05:37Z</date>
+			<key>Date Added</key><date>2016-12-24T22:05:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3566123948</integer>
+			<key>Play Date UTC</key><date>2017-01-01T21:59:08Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Negatives - EP</string>
+			<key>Sort Album Artist</key><string>Girl and The Dreamcatcher</string>
+			<key>Sort Artist</key><string>Girl and The Dreamcatcher</string>
+			<key>Sort Name</key><string>Gladiator</string>
+			<key>Persistent ID</key><string>2F2F22B6DB4E0450</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101910</integer>
+			<key>Playlist Persistent ID</key><string>45A9FDAA6DA7ABDC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47983</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44825</integer>
+				</dict>
+			</array>
+			<key>Loved</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

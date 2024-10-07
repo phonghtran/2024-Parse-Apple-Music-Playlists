@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-02-04T16:02:54Z</date>
+	<key>Application Version</key><string>1.2.2.40</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>43429</key>
+		<dict>
+			<key>Track ID</key><integer>43429</integer>
+			<key>Name</key><string>Ride or Die</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Composer</key><string>Jake Luppen, Nathan Stocker, Whistler Allen &#38; Zach Sutton</string>
+			<key>Album</key><string>LP3</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7779498</integer>
+			<key>Total Time</key><integer>210609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2021-12-10T04:34:31Z</date>
+			<key>Date Added</key><date>2022-01-11T05:03:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3726728678</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:24:38Z</date>
+			<key>Release Date</key><date>2022-01-11T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LP3</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>Ride or Die</string>
+			<key>Persistent ID</key><string>40C619BB7C28FF28</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43697</key>
+		<dict>
+			<key>Track ID</key><integer>43697</integer>
+			<key>Name</key><string>Shadows from the Moon</string>
+			<key>Artist</key><string>Babylon</string>
+			<key>Album Artist</key><string>Babylon</string>
+			<key>Composer</key><string>Babylon, Vincenzo, Any Masingga &#38; Fuxxy</string>
+			<key>Album</key><string>Shadows from the Moon - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7332081</integer>
+			<key>Total Time</key><integer>204801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-12-16T20:57:30Z</date>
+			<key>Date Added</key><date>2021-12-16T20:57:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>78</integer>
+			<key>Play Date</key><integer>3726726693</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:51:33Z</date>
+			<key>Release Date</key><date>2019-04-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Shadows from the Moon - Single</string>
+			<key>Sort Artist</key><string>Babylon</string>
+			<key>Sort Name</key><string>Shadows from the Moon</string>
+			<key>Persistent ID</key><string>ACC5AEFABF739D72</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43837</key>
+		<dict>
+			<key>Track ID</key><integer>43837</integer>
+			<key>Name</key><string>Wow.</string>
+			<key>Artist</key><string>Post Malone</string>
+			<key>Album Artist</key><string>Post Malone</string>
+			<key>Composer</key><string>Louis Bell, Austin Post, Adam Feeny &#38; Billy Walsh</string>
+			<key>Album</key><string>Hollywood's Bleeding</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5550881</integer>
+			<key>Total Time</key><integer>149507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-12-25T01:18:06Z</date>
+			<key>Date Added</key><date>2021-12-25T01:18:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3726727450</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:04:10Z</date>
+			<key>Release Date</key><date>2018-12-24T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hollywood's Bleeding</string>
+			<key>Sort Artist</key><string>Post Malone</string>
+			<key>Sort Name</key><string>Wow.</string>
+			<key>Persistent ID</key><string>B04DE39CBE3A3C02</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43907</key>
+		<dict>
+			<key>Track ID</key><integer>43907</integer>
+			<key>Name</key><string>7 Days</string>
+			<key>Artist</key><string>NCT DREAM</string>
+			<key>Album Artist</key><string>NCT DREAM</string>
+			<key>Composer</key><string>Bryld Wolsing, Castle &#38; minGtion</string>
+			<key>Album</key><string>Reload - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7365219</integer>
+			<key>Total Time</key><integer>197280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-01-01T00:34:15Z</date>
+			<key>Date Added</key><date>2022-01-01T00:34:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3726726263</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:44:23Z</date>
+			<key>Release Date</key><date>2020-04-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Reload - EP</string>
+			<key>Sort Artist</key><string>NCT DREAM</string>
+			<key>Sort Name</key><string>7 Days</string>
+			<key>Persistent ID</key><string>9DD59B05DF7E111C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43943</key>
+		<dict>
+			<key>Track ID</key><integer>43943</integer>
+			<key>Name</key><string>Just Like Martin (bonus)</string>
+			<key>Artist</key><string>IDK</string>
+			<key>Album Artist</key><string>IDK</string>
+			<key>Composer</key><string>Jason Mills</string>
+			<key>Album</key><string>USEE4YOURSELF (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5636531</integer>
+			<key>Total Time</key><integer>153575</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-01-02T16:02:31Z</date>
+			<key>Date Added</key><date>2022-01-02T16:02:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3726727301</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:01:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-01-27T18:28:20Z</date>
+			<key>Release Date</key><date>2021-10-29T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>USEE4YOURSELF (Deluxe)</string>
+			<key>Sort Artist</key><string>IDK</string>
+			<key>Sort Name</key><string>Just Like Martin (bonus)</string>
+			<key>Persistent ID</key><string>001040E2B8DEEF1E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43981</key>
+		<dict>
+			<key>Track ID</key><integer>43981</integer>
+			<key>Name</key><string>Pain</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>Martin Green, Mike Powell &#38; PinkPantheress</string>
+			<key>Album</key><string>Pain - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3673500</integer>
+			<key>Total Time</key><integer>98544</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-01-06T04:02:27Z</date>
+			<key>Date Added</key><date>2022-01-06T04:02:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3726726963</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:56:03Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-01-25T23:26:23Z</date>
+			<key>Release Date</key><date>2021-01-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pain - Single</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>Pain</string>
+			<key>Persistent ID</key><string>37E4A3C4CCFA944E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44347</key>
+		<dict>
+			<key>Track ID</key><integer>44347</integer>
+			<key>Name</key><string>Surround Sound (feat. 21 Savage &#38; Baby Tate)</string>
+			<key>Artist</key><string>JID</string>
+			<key>Album Artist</key><string>JID</string>
+			<key>Composer</key><string>Destin Route, Nuri Saberin, She'yaa Bin Abraham-Joseph, Tate Farris, John Welch, Gabriel Guerra, Charles Singleton &#38; Eddie Snyder</string>
+			<key>Album</key><string>Surround Sound (feat. 21 Savage &#38; Baby Tate) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8129236</integer>
+			<key>Total Time</key><integer>229938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-01-17T00:23:21Z</date>
+			<key>Date Added</key><date>2022-01-17T00:23:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3726727679</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:07:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-01-18T15:30:54Z</date>
+			<key>Release Date</key><date>2022-01-14T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Surround Sound (feat. 21 Savage &#38; Baby Tate) - Single</string>
+			<key>Sort Artist</key><string>JID</string>
+			<key>Sort Name</key><string>Surround Sound (feat. 21 Savage &#38; Baby Tate)</string>
+			<key>Persistent ID</key><string>B7DE5AC15982E45C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44407</key>
+		<dict>
+			<key>Track ID</key><integer>44407</integer>
+			<key>Name</key><string>Purple (feat. TAEIL of NCT)</string>
+			<key>Artist</key><string>SOHLHEE</string>
+			<key>Album Artist</key><string>SOHLHEE</string>
+			<key>Composer</key><string>SOHLHEE, Legenius &#38; Jeong jae heon</string>
+			<key>Album</key><string>Purple - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8037420</integer>
+			<key>Total Time</key><integer>224963</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2022-01-18T19:51:56Z</date>
+			<key>Date Added</key><date>2022-01-18T19:51:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3726726488</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:48:08Z</date>
+			<key>Release Date</key><date>2019-03-30T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purple - Single</string>
+			<key>Sort Artist</key><string>SOHLHEE</string>
+			<key>Sort Name</key><string>Purple (feat. TAEIL of NCT)</string>
+			<key>Persistent ID</key><string>AF4AAF3D89FDE183</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44409</key>
+		<dict>
+			<key>Track ID</key><integer>44409</integer>
+			<key>Name</key><string>Joah (Remastered)</string>
+			<key>Artist</key><string>Jay Park</string>
+			<key>Album Artist</key><string>Jay Park</string>
+			<key>Album</key><string>Evolution</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8556489</integer>
+			<key>Total Time</key><integer>230086</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2022-01-18T21:35:09Z</date>
+			<key>Date Added</key><date>2022-01-18T21:35:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3726726066</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:41:06Z</date>
+			<key>Release Date</key><date>2013-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Evolution</string>
+			<key>Sort Artist</key><string>Jay Park</string>
+			<key>Sort Name</key><string>Joah (Remastered)</string>
+			<key>Persistent ID</key><string>8ABC045408C3A179</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44423</key>
+		<dict>
+			<key>Track ID</key><integer>44423</integer>
+			<key>Name</key><string>Church Burns</string>
+			<key>Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Album Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Album</key><string>Zeal &#38; Ardor</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6746290</integer>
+			<key>Total Time</key><integer>183773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2022-01-20T20:45:43Z</date>
+			<key>Date Added</key><date>2022-01-20T20:45:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3726727147</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:59:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Zeal &#38; Ardor</string>
+			<key>Sort Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Sort Name</key><string>Church Burns</string>
+			<key>Persistent ID</key><string>28A7AE1DCAFF8136</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44872</key>
+		<dict>
+			<key>Track ID</key><integer>44872</integer>
+			<key>Name</key><string>Thích Em Hơi Nhiều</string>
+			<key>Artist</key><string>Wren Evans</string>
+			<key>Album Artist</key><string>Wren Evans</string>
+			<key>Composer</key><string>Wren Evans &#38; Mew Amazing</string>
+			<key>Album</key><string>Thích Em Hơi Nhiều - Single</string>
+			<key>Genre</key><string>Disco</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6157892</integer>
+			<key>Total Time</key><integer>171741</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-01-28T05:57:46Z</date>
+			<key>Date Added</key><date>2022-01-28T05:57:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3726726864</integer>
+			<key>Play Date UTC</key><date>2022-02-03T14:54:24Z</date>
+			<key>Release Date</key><date>2021-06-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thích Em Hơi Nhiều - Single</string>
+			<key>Sort Artist</key><string>Wren Evans</string>
+			<key>Sort Name</key><string>Thích Em Hơi Nhiều</string>
+			<key>Persistent ID</key><string>630C2F382270ECC8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113345</key>
+		<dict>
+			<key>Track ID</key><integer>113345</integer>
+			<key>Name</key><string>Arya</string>
+			<key>Artist</key><string>Nigo &#38; A$AP Rocky</string>
+			<key>Album Artist</key><string>Nigo &#38; A$AP Rocky</string>
+			<key>Composer</key><string>Hector Delgado, Carter Lang, Westen Weiss &#38; Rakim Mayers</string>
+			<key>Album</key><string>Arya - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5861117</integer>
+			<key>Total Time</key><integer>162254</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-02-02T22:15:35Z</date>
+			<key>Date Added</key><date>2022-02-02T22:15:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3726729121</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:32:01Z</date>
+			<key>Release Date</key><date>2022-01-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Arya - Single</string>
+			<key>Sort Artist</key><string>Nigo &#38; A$AP Rocky</string>
+			<key>Sort Name</key><string>Arya</string>
+			<key>Persistent ID</key><string>FD16B55AF43D452A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113358</key>
+		<dict>
+			<key>Track ID</key><integer>113358</integer>
+			<key>Name</key><string>Reason</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>PinkPantheress &#38; Zach Nahome</string>
+			<key>Album</key><string>to hell with it (Remixes)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4897171</integer>
+			<key>Total Time</key><integer>131907</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-02-02T22:23:24Z</date>
+			<key>Date Added</key><date>2022-02-02T22:23:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3726728811</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:26:51Z</date>
+			<key>Release Date</key><date>2021-10-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>to hell with it (Remixes)</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>Reason</string>
+			<key>Persistent ID</key><string>A44FFD0A4A1BFDC3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113543</key>
+		<dict>
+			<key>Track ID</key><integer>113543</integer>
+			<key>Name</key><string>Want U Back</string>
+			<key>Artist</key><string>Taylor Kade</string>
+			<key>Album Artist</key><string>Taylor Kade</string>
+			<key>Composer</key><string>*NSYNC</string>
+			<key>Album</key><string>Want U Back - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5422549</integer>
+			<key>Total Time</key><integer>148548</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-02-03T05:33:09Z</date>
+			<key>Date Added</key><date>2022-02-03T05:33:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3726728959</integer>
+			<key>Play Date UTC</key><date>2022-02-03T15:29:19Z</date>
+			<key>Release Date</key><date>2021-03-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Want U Back - Single</string>
+			<key>Sort Artist</key><string>Taylor Kade</string>
+			<key>Sort Name</key><string>Want U Back</string>
+			<key>Persistent ID</key><string>627647126E259D9D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>106521</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>43697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44872</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113543</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

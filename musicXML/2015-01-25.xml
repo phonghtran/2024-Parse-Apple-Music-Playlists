@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-01-25T18:18:27Z</date>
+	<key>Application Version</key><string>12.0.1.26</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/sda1/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>49671</key>
+		<dict>
+			<key>Track ID</key><integer>49671</integer>
+			<key>Name</key><string>Angel Of Small Death And The Codeine Scene</string>
+			<key>Artist</key><string>Hozier</string>
+			<key>Album Artist</key><string>Hozier</string>
+			<key>Album</key><string>Hozier</string>
+			<key>Genre</key><string>Singer-Songwriter</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8842454</integer>
+			<key>Total Time</key><integer>219271</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-11-03T00:58:53Z</date>
+			<key>Date Added</key><date>2014-10-19T17:13:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3504978582</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:09:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9153F731DB76D7FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Hozier/Hozier/02%20Angel%20Of%20Small%20Death%20And%20The%20Codeine%20Scene.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49937</key>
+		<dict>
+			<key>Track ID</key><integer>49937</integer>
+			<key>Name</key><string>I Wish You Would</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>1989 (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8426830</integer>
+			<key>Total Time</key><integer>207464</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-30T04:21:50Z</date>
+			<key>Date Added</key><date>2014-10-30T04:22:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>120</integer>
+			<key>Play Date</key><integer>3504975953</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:25:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-01-02T18:33:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2234BF3B3316EE73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Taylor%20Swift/1989%20(Deluxe)/07%20I%20Wish%20You%20Would.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50201</key>
+		<dict>
+			<key>Track ID</key><integer>50201</integer>
+			<key>Name</key><string>All My Love (feat. Ariana Grande)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Album</key><string>The Hunger Games: Mockingjay, Part 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3408893</integer>
+			<key>Total Time</key><integer>212401</integer>
+			<key>Date Modified</key><date>2014-11-25T13:14:30Z</date>
+			<key>Date Added</key><date>2014-11-20T05:39:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>117</integer>
+			<key>Play Date</key><integer>3504979470</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:24:30Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2015-01-06T01:50:18Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Hunger Games: Mockingjay, Part 1</string>
+			<key>Persistent ID</key><string>7341E9F6E786DDF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Compilations/The%20Hunger%20Games_%20Mockingjay,%20Part%201/All%20My%20Love%20(feat.%20Ariana%20Grande).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50669</key>
+		<dict>
+			<key>Track ID</key><integer>50669</integer>
+			<key>Name</key><string>I'm Callin'</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Composer</key><string>Aliana Joy Riley/Patrick Riley</string>
+			<key>Album</key><string>Ritual In Repeat</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8578088</integer>
+			<key>Total Time</key><integer>214439</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2014-12-14T05:04:15Z</date>
+			<key>Date Added</key><date>2014-12-14T05:05:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3504976600</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:36:40Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D364439EB1D046F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Tennis/Ritual%20In%20Repeat/04%20I'm%20Callin'.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50763</key>
+		<dict>
+			<key>Track ID</key><integer>50763</integer>
+			<key>Name</key><string>Santa Tell Me</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Album</key><string>Santa Tell Me - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7615300</integer>
+			<key>Total Time</key><integer>204093</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2011-01-01T05:12:04Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3504976804</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:40:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-12-30T05:38:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3849</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7D4DA61CC2A2E65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Ariana%20Grande/Santa%20Tell%20Me%20-%20Single/01%20Santa%20Tell%20Me.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50765</key>
+		<dict>
+			<key>Track ID</key><integer>50765</integer>
+			<key>Name</key><string>Beggin For Thread</string>
+			<key>Artist</key><string>Banks</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>9158577</integer>
+			<key>Total Time</key><integer>249739</integer>
+			<key>Date Modified</key><date>2011-01-02T08:04:36Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>64</integer>
+			<key>Play Date</key><integer>3504979720</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:28:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3512</integer>
+			<key>Persistent ID</key><string>0BE1548943B48C1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Banks/Unknown%20Album/Beggin%20For%20Thread.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50769</key>
+		<dict>
+			<key>Track ID</key><integer>50769</integer>
+			<key>Name</key><string>U-Huh</string>
+			<key>Artist</key><string>Tkay Maidza</string>
+			<key>Album Artist</key><string>Tkay Maidza</string>
+			<key>Album</key><string>U-Huh</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>3457201</integer>
+			<key>Total Time</key><integer>206837</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-12-22T16:34:07Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3504984299</integer>
+			<key>Play Date UTC</key><date>2015-01-25T04:44:59Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD3EDE930D9A6923</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>50771</key>
+		<dict>
+			<key>Track ID</key><integer>50771</integer>
+			<key>Name</key><string>Back To The Ordinary</string>
+			<key>Artist</key><string>Kid Astray</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>6966107</integer>
+			<key>Total Time</key><integer>190411</integer>
+			<key>Date Modified</key><date>2011-01-01T05:10:21Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3504975519</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:18:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-01-02T18:08:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4824</integer>
+			<key>Persistent ID</key><string>081522E5C763F225</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Kid%20Astray/Unknown%20Album/Back%20To%20The%20Ordinary.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50773</key>
+		<dict>
+			<key>Track ID</key><integer>50773</integer>
+			<key>Name</key><string>Bleach (feat. Danny Score)</string>
+			<key>Artist</key><string>Jez Dior</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>7802151</integer>
+			<key>Total Time</key><integer>222656</integer>
+			<key>Date Modified</key><date>2011-01-01T05:11:00Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3504977464</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:51:04Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-01-16T13:34:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3526</integer>
+			<key>Persistent ID</key><string>D7ECF2519DE45F1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Jez%20Dior/Unknown%20Album/Bleach%20(feat.%20Danny%20Score).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50777</key>
+		<dict>
+			<key>Track ID</key><integer>50777</integer>
+			<key>Name</key><string>Silences</string>
+			<key>Artist</key><string>HOLY ESQUE</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8377500</integer>
+			<key>Total Time</key><integer>228565</integer>
+			<key>Date Modified</key><date>2011-01-01T05:05:30Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3504977883</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:58:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-01-01T22:08:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7296</integer>
+			<key>Persistent ID</key><string>B7F01F354639C2D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/HOLY%20ESQUE/Unknown%20Album/Silences.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50783</key>
+		<dict>
+			<key>Track ID</key><integer>50783</integer>
+			<key>Name</key><string>I Will Be There</string>
+			<key>Artist</key><string>Odessa</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4415842</integer>
+			<key>Total Time</key><integer>275330</integer>
+			<key>Date Modified</key><date>2011-01-01T05:10:36Z</date>
+			<key>Date Added</key><date>2014-12-22T16:55:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3504978159</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:02:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-01-03T20:08:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1665</integer>
+			<key>Persistent ID</key><string>4044CDB437060611</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Odessa/Unknown%20Album/I%20Will%20Be%20There.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>51275</key>
+		<dict>
+			<key>Track ID</key><integer>51275</integer>
+			<key>Name</key><string>White Flag</string>
+			<key>Artist</key><string>Royal Wood</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7508029</integer>
+			<key>Total Time</key><integer>227735</integer>
+			<key>Date Modified</key><date>2015-01-03T01:02:50Z</date>
+			<key>Date Added</key><date>2015-01-03T01:08:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3504977241</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:47:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2B31FE7C9B112F01</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>51277</key>
+		<dict>
+			<key>Track ID</key><integer>51277</integer>
+			<key>Name</key><string>Celeste</string>
+			<key>Artist</key><string>Ezra Vine</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6401535</integer>
+			<key>Total Time</key><integer>199392</integer>
+			<key>Date Modified</key><date>2015-01-03T01:00:21Z</date>
+			<key>Date Added</key><date>2015-01-03T01:08:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3504979039</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:17:19Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B65539E00C2DB79C</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>51287</key>
+		<dict>
+			<key>Track ID</key><integer>51287</integer>
+			<key>Name</key><string>Rather Be feat. Jess Glynne</string>
+			<key>Artist</key><string>Clean Bandit, Jess Glynne</string>
+			<key>Album Artist</key><string>Clean Bandit</string>
+			<key>Album</key><string>New Eyes</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8558924</integer>
+			<key>Total Time</key><integer>226453</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2011-01-01T04:48:13Z</date>
+			<key>Date Added</key><date>2015-01-03T01:09:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3504976386</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:33:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4269</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2944530D0700E98D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Clean%20Bandit/New%20Eyes/04%20Rather%20Be%20feat.%20Jess%20Glynne.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>51301</key>
+		<dict>
+			<key>Track ID</key><integer>51301</integer>
+			<key>Name</key><string>New Eyes feat. Lizzo</string>
+			<key>Artist</key><string>Clean Bandit, LIZZO</string>
+			<key>Album Artist</key><string>Clean Bandit</string>
+			<key>Album</key><string>New Eyes</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7819563</integer>
+			<key>Total Time</key><integer>226481</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2011-01-02T07:58:55Z</date>
+			<key>Date Added</key><date>2015-01-03T01:09:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3504975745</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:22:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-01-24T15:54:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F702E3661C3BB9B1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>51601</key>
+		<dict>
+			<key>Track ID</key><integer>51601</integer>
+			<key>Name</key><string>Slow It Down</string>
+			<key>Artist</key><string>The Suffers</string>
+			<key>Album Artist</key><string>The Suffers</string>
+			<key>Album</key><string>Slow It Down / Step Aside - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6888830</integer>
+			<key>Total Time</key><integer>190926</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2011-01-01T14:12:16Z</date>
+			<key>Date Added</key><date>2015-01-12T15:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3504977655</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:54:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4184</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Slow It Down / Step Aside - Single</string>
+			<key>Sort Album Artist</key><string>Suffers</string>
+			<key>Sort Artist</key><string>The Suffers</string>
+			<key>Sort Name</key><string>Slow It Down</string>
+			<key>Persistent ID</key><string>77E4F7B97A7FC41D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/The%20Suffers/Slow%20It%20Down%20_%20Step%20Aside%20-%20Single/01%20Slow%20It%20Down.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>51603</key>
+		<dict>
+			<key>Track ID</key><integer>51603</integer>
+			<key>Name</key><string>Step Aside</string>
+			<key>Artist</key><string>The Suffers</string>
+			<key>Album Artist</key><string>The Suffers</string>
+			<key>Album</key><string>Slow It Down / Step Aside - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7633949</integer>
+			<key>Total Time</key><integer>215278</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2011-01-01T02:23:16Z</date>
+			<key>Date Added</key><date>2015-01-12T15:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3504977020</integer>
+			<key>Play Date UTC</key><date>2015-01-25T02:43:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2587</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Slow It Down / Step Aside - Single</string>
+			<key>Sort Album Artist</key><string>Suffers</string>
+			<key>Sort Artist</key><string>The Suffers</string>
+			<key>Sort Name</key><string>Step Aside</string>
+			<key>Persistent ID</key><string>89597CDBDB419766</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/The%20Suffers/Slow%20It%20Down%20_%20Step%20Aside%20-%20Single/02%20Step%20Aside.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>51651</key>
+		<dict>
+			<key>Track ID</key><integer>51651</integer>
+			<key>Name</key><string>Lil Wayne - A Milli (K Theory Remix)</string>
+			<key>Artist</key><string>K Theory</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4123289</integer>
+			<key>Total Time</key><integer>257697</integer>
+			<key>Date Modified</key><date>2015-01-11T14:59:14Z</date>
+			<key>Date Added</key><date>2015-01-16T14:10:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3504985425</integer>
+			<key>Play Date UTC</key><date>2015-01-25T05:03:45Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>ED2D24B6D34179AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/.Trash/Lil%20Wayne%20-%20A%20Milli%20(K%20Theory%20Remix)_soundcloud_184763962.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>51695</key>
+		<dict>
+			<key>Track ID</key><integer>51695</integer>
+			<key>Name</key><string>A New Wave</string>
+			<key>Artist</key><string>Sleater Kinney</string>
+			<key>Album Artist</key><string>Sleater Kinney</string>
+			<key>Album</key><string>No Cities To Love</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11175204</integer>
+			<key>Total Time</key><integer>218592</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2011-01-02T09:40:57Z</date>
+			<key>Date Added</key><date>2015-01-20T14:23:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3504979257</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:20:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>New Wave</string>
+			<key>Persistent ID</key><string>5243B54FBB78D64C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Sleater%20Kinney/No%20Cities%20To%20Love/05%20A%20New%20Wave.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>51701</key>
+		<dict>
+			<key>Track ID</key><integer>51701</integer>
+			<key>Name</key><string>Bury Our Friends</string>
+			<key>Artist</key><string>Sleater Kinney</string>
+			<key>Album Artist</key><string>Sleater Kinney</string>
+			<key>Album</key><string>No Cities To Love</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10586938</integer>
+			<key>Total Time</key><integer>203885</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2011-01-02T09:40:59Z</date>
+			<key>Date Added</key><date>2015-01-20T14:23:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3504978363</integer>
+			<key>Play Date UTC</key><date>2015-01-25T03:06:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07940DE43933AD31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/sda1/iTunes/Sleater%20Kinney/No%20Cities%20To%20Love/08%20Bury%20Our%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>136044</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>50201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50765</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51701</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

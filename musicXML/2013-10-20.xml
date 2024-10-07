@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-10-06T21:38:50Z</date>
+	<key>Application Version</key><string>11.1.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>36348</key>
+		<dict>
+			<key>Track ID</key><integer>36348</integer>
+			<key>Name</key><string>Finding Something to Do</string>
+			<key>Artist</key><string>hellogoodbye</string>
+			<key>Album Artist</key><string>hellogoodbye</string>
+			<key>Album</key><string>Would It Kill You?</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3515322</integer>
+			<key>Total Time</key><integer>175647</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-09-16T19:17:26Z</date>
+			<key>Date Added</key><date>2012-03-09T13:03:52Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3463899131</integer>
+			<key>Play Date UTC</key><date>2013-10-06T15:12:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-06T06:04:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8336</integer>
+			<key>Sort Album Artist</key><string>hellogoodbye</string>
+			<key>Sort Artist</key><string>hellogoodbye</string>
+			<key>Persistent ID</key><string>A8233D6C037E51DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/Hellogoodbye-Finding_Something_To_Do.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37038</key>
+		<dict>
+			<key>Track ID</key><integer>37038</integer>
+			<key>Name</key><string>Blue Eyed Crazy</string>
+			<key>Artist</key><string>The Glorious Veins</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6151566</integer>
+			<key>Total Time</key><integer>199967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T13:32:25Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:03Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3463893652</integer>
+			<key>Play Date UTC</key><date>2013-10-06T13:40:52Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-06T15:08:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Glorious Veins</string>
+			<key>Persistent ID</key><string>2C098B497343515E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/13%20-%20The%20Glorious%20Veins%20-%20Blue%20Eyed%20Crazy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37566</key>
+		<dict>
+			<key>Track ID</key><integer>37566</integer>
+			<key>Name</key><string>Never Heal Myself</string>
+			<key>Artist</key><string>Cults</string>
+			<key>Album</key><string>Cults</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6517199</integer>
+			<key>Total Time</key><integer>182935</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T13:33:48Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:09Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3463896956</integer>
+			<key>Play Date UTC</key><date>2013-10-06T14:35:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>4225E0BFCB8ACA75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Cults-Cults-2011-SiRE/06-cults-never_heal_myself.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37782</key>
+		<dict>
+			<key>Track ID</key><integer>37782</integer>
+			<key>Name</key><string>Song 11</string>
+			<key>Artist</key><string>Late Cambrian</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8001305</integer>
+			<key>Total Time</key><integer>252604</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>111</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-04T13:28:47Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:12Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3463898870</integer>
+			<key>Play Date UTC</key><date>2013-10-06T15:07:50Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-05T18:40:46Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>120D0BF27D67FA84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/111%20-%20Late%20Cambrian%20-%20Song%2011.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38506</key>
+		<dict>
+			<key>Track ID</key><integer>38506</integer>
+			<key>Name</key><string>Poetic Justice</string>
+			<key>Artist</key><string>Kendrick Lamar feat. Drake</string>
+			<key>Album</key><string>good kid, m.A.A.d city</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12128873</integer>
+			<key>Total Time</key><integer>300225</integer>
+			<key>Stop Time</key><integer>258000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T13:30:22Z</date>
+			<key>Date Added</key><date>2012-11-03T14:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3463897467</integer>
+			<key>Play Date UTC</key><date>2013-10-06T14:44:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-01-07T12:35:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7BA9DF3825F40C41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Kendrick%20Lamar%20-%20Poetic%20Justice%20(Featuring%20Drake).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40688</key>
+		<dict>
+			<key>Track ID</key><integer>40688</integer>
+			<key>Name</key><string>Mason Jar</string>
+			<key>Artist</key><string>Smallpools</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7066437</integer>
+			<key>Total Time</key><integer>220499</integer>
+			<key>Date Modified</key><date>2013-07-20T18:18:02Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3463896196</integer>
+			<key>Play Date UTC</key><date>2013-10-06T14:23:16Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-05T14:46:56Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>883CE8183B5C80FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Smallpools%20-%20Mason%20Jar%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41148</key>
+		<dict>
+			<key>Track ID</key><integer>41148</integer>
+			<key>Name</key><string>Part of Me</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9965487</integer>
+			<key>Total Time</key><integer>248476</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-23T23:15:06Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3463894075</integer>
+			<key>Play Date UTC</key><date>2013-10-06T13:47:55Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-06T15:09:12Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E6A2B5397C6C211</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Tedeschi%20Trucks%20Band%20-%20Made%20Up%20Mind%20(2013)%20mp3@320%20%7B1337x%7D-kawli/05%20Part%20of%20Me.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41154</key>
+		<dict>
+			<key>Track ID</key><integer>41154</integer>
+			<key>Name</key><string>All That I Need</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12582966</integer>
+			<key>Total Time</key><integer>313913</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-23T23:15:05Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3463896774</integer>
+			<key>Play Date UTC</key><date>2013-10-06T14:32:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-04T03:41:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66855AEB7B9477CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Tedeschi%20Trucks%20Band%20-%20Made%20Up%20Mind%20(2013)%20mp3@320%20%7B1337x%7D-kawli/08%20All%20That%20I%20Need.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41290</key>
+		<dict>
+			<key>Track ID</key><integer>41290</integer>
+			<key>Name</key><string>Orchids</string>
+			<key>Artist</key><string>Monster Rally</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2836023</integer>
+			<key>Total Time</key><integer>176613</integer>
+			<key>Date Modified</key><date>2013-09-10T22:27:30Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:10Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3463899731</integer>
+			<key>Play Date UTC</key><date>2013-10-06T15:22:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-02T22:37:16Z</date>
+			<key>Release Date</key><date>2013-07-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6A11E11AEA107BA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Monster%20Rally%20-%20Orchids.mp3.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41292</key>
+		<dict>
+			<key>Track ID</key><integer>41292</integer>
+			<key>Name</key><string>Cry No More</string>
+			<key>Artist</key><string>VAULTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7023803</integer>
+			<key>Total Time</key><integer>219167</integer>
+			<key>Date Modified</key><date>2013-09-10T22:27:42Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3463893116</integer>
+			<key>Play Date UTC</key><date>2013-10-06T13:31:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>1B4497CA7C6737F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/VAULTS%20-%20Cry%20No%20More%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41296</key>
+		<dict>
+			<key>Track ID</key><integer>41296</integer>
+			<key>Name</key><string>Undiscovered</string>
+			<key>Artist</key><string>Laura Welsh</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5566803</integer>
+			<key>Total Time</key><integer>173635</integer>
+			<key>Date Modified</key><date>2013-09-10T22:26:47Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3463891179</integer>
+			<key>Play Date UTC</key><date>2013-10-06T12:59:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-02T21:28:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>220528D75D006AD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Laura%20Welsh%20-%20Undiscovered%20-%20480p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>43020</key>
+		<dict>
+			<key>Track ID</key><integer>43020</integer>
+			<key>Name</key><string>Team</string>
+			<key>Artist</key><string>Lorde</string>
+			<key>Album Artist</key><string>Lorde</string>
+			<key>Composer</key><string>Ella Yelich O'Connor, Joel Little</string>
+			<key>Album</key><string>Pure Heroine</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7769995</integer>
+			<key>Total Time</key><integer>193123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-02T03:11:52Z</date>
+			<key>Date Added</key><date>2013-10-02T13:38:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>...::: sa1sa :::...</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3463897660</integer>
+			<key>Play Date UTC</key><date>2013-10-06T14:47:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD64131BBD5870DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Lorde%20-%20Pure%20Heroine%20%5B2013%5D%20320/Pure%20Heroine%20@%20320/06%20Team.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>273650</key>
+		<dict>
+			<key>Track ID</key><integer>273650</integer>
+			<key>Name</key><string>The Mother We Share (Moonboots Remix)</string>
+			<key>Artist</key><string>Chvrches</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13905522</integer>
+			<key>Total Time</key><integer>317648</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2013-10-04T20:41:38Z</date>
+			<key>Date Added</key><date>2013-10-04T20:47:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Bbm - Ebm</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3463900048</integer>
+			<key>Play Date UTC</key><date>2013-10-06T15:27:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-05T04:54:39Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4345</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Mother We Share (Moonboots Remix)</string>
+			<key>Persistent ID</key><string>0437D501B81DC03F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The%20Mother%20We%20Share%20(Moonboots%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>620281</key>
+		<dict>
+			<key>Track ID</key><integer>620281</integer>
+			<key>Name</key><string>Consumerism</string>
+			<key>Artist</key><string>Ms. Lauryn Hill</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9356024</integer>
+			<key>Total Time</key><integer>292048</integer>
+			<key>Date Modified</key><date>2013-10-05T02:22:50Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3463901714</integer>
+			<key>Play Date UTC</key><date>2013-10-06T15:55:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-10-05T02:22:13Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>773B6FC8E6C779D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Ms.%20Lauryn%20Hill%20-%20Consumerism%20(Pseudo%20Video)%20-%201080p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>620286</key>
+		<dict>
+			<key>Track ID</key><integer>620286</integer>
+			<key>Name</key><string>Nostalgia</string>
+			<key>Artist</key><string>Pusha T</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7320553</integer>
+			<key>Total Time</key><integer>228440</integer>
+			<key>Date Modified</key><date>2013-10-05T02:22:39Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3463896460</integer>
+			<key>Play Date UTC</key><date>2013-10-06T14:27:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>68642DC7A165C7FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kendrick%20Lamar%20ft.%20Pusha%20T%20-%20Nostalgia%20(Official%20Music%20Video)%202013%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>620291</key>
+		<dict>
+			<key>Track ID</key><integer>620291</integer>
+			<key>Name</key><string>Mean Streets</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6514729</integer>
+			<key>Total Time</key><integer>203258</integer>
+			<key>Date Modified</key><date>2013-10-05T02:22:54Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3463894279</integer>
+			<key>Play Date UTC</key><date>2013-10-06T13:51:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FB82103B24BE4983</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Tennis%20Mean%20Streets%20(Stereogum%20Premiere)%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>620334</key>
+		<dict>
+			<key>Track ID</key><integer>620334</integer>
+			<key>Name</key><string>Dope Fiend Rental (feat. ScHoolboy Q)</string>
+			<key>Artist</key><string>Danny Brown</string>
+			<key>Album</key><string>Old</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7002624</integer>
+			<key>Total Time</key><integer>174960</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-05T02:21:09Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3463868589</integer>
+			<key>Play Date UTC</key><date>2013-10-06T06:43:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>DAD855FB7BD78BA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Danny%20Brown%20-%20Old%20%7B2013-Album%7D/06%20-%20Dope%20Fiend%20Rental%20(feat.%20ScHoolboy%20Q).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>620374</key>
+		<dict>
+			<key>Track ID</key><integer>620374</integer>
+			<key>Name</key><string>Smokin &#38; Drinkin</string>
+			<key>Artist</key><string>Danny Brown</string>
+			<key>Album</key><string>Old</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6931898</integer>
+			<key>Total Time</key><integer>173191</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-06T21:38:36Z</date>
+			<key>Date Added</key><date>2013-10-05T02:22:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mR12]</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3463902720</integer>
+			<key>Play Date UTC</key><date>2013-10-06T16:12:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F55010256F274DDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Danny%20Brown%20-%20Old%20%7B2013-Album%7D/14%20-%20Smokin%20&#38;%20Drinkin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>146014</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37782</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>273650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>620334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>620281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>620286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>620291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>620374</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-08-03T21:37:18Z</date>
+	<key>Application Version</key><string>11.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>46696</key>
+		<dict>
+			<key>Track ID</key><integer>46696</integer>
+			<key>Name</key><string>Still Into You</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Album Artist</key><string>Paramore</string>
+			<key>Album</key><string>Paramore</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8718951</integer>
+			<key>Total Time</key><integer>216058</integer>
+			<key>Start Time</key><integer>10000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-07-12T03:51:31Z</date>
+			<key>Date Added</key><date>2014-07-03T02:04:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3489606591</integer>
+			<key>Play Date UTC</key><date>2014-07-31T04:09:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-07-05T00:23:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29C0788C2BFBCB03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Paramore/Paramore/09%20Still%20Into%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46702</key>
+		<dict>
+			<key>Track ID</key><integer>46702</integer>
+			<key>Name</key><string>Real</string>
+			<key>Artist</key><string>Years &#38; Years</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3944113</integer>
+			<key>Total Time</key><integer>245864</integer>
+			<key>Start Time</key><integer>22500</integer>
+			<key>Date Modified</key><date>2014-07-06T17:20:01Z</date>
+			<key>Date Added</key><date>2014-07-03T02:29:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3489725345</integer>
+			<key>Play Date UTC</key><date>2014-08-01T13:09:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-07-06T23:45:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>42B73C15F6D9EE5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Years%20&#38;%20Years/Unknown%20Album/Real.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46720</key>
+		<dict>
+			<key>Track ID</key><integer>46720</integer>
+			<key>Name</key><string>Somebody</string>
+			<key>Artist</key><string>15&#38; (박지민, 백예린)</string>
+			<key>Album Artist</key><string>15&#38; (박지민, 백예린)</string>
+			<key>Album</key><string>Sugar</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7922237</integer>
+			<key>Total Time</key><integer>190066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-05-26T16:19:22Z</date>
+			<key>Date Added</key><date>2014-07-03T02:29:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://k2nblog.com</string>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3489730040</integer>
+			<key>Play Date UTC</key><date>2014-08-01T14:27:20Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-07-07T13:27:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9D5CD5429AEC098</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/15&#38;%20(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AB,%20%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A8%E1%84%85%E1%85%B5%E1%86%AB)/Sugar/1-08%20Somebody.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46806</key>
+		<dict>
+			<key>Track ID</key><integer>46806</integer>
+			<key>Name</key><string>OctaHate</string>
+			<key>Artist</key><string>Ryn Weaver</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3275380</integer>
+			<key>Total Time</key><integer>204068</integer>
+			<key>Date Modified</key><date>2014-07-03T04:39:34Z</date>
+			<key>Date Added</key><date>2014-07-03T04:39:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3489811178</integer>
+			<key>Play Date UTC</key><date>2014-08-02T12:59:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>CB6F792ED736D32B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ryn%20Weaver/Unknown%20Album/OctaHate.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46906</key>
+		<dict>
+			<key>Track ID</key><integer>46906</integer>
+			<key>Name</key><string>Fire Meet Gasoline</string>
+			<key>Artist</key><string>Sia </string>
+			<key>Album Artist</key><string>Sia </string>
+			<key>Album</key><string>1000 Forms of Fear</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11951866</integer>
+			<key>Total Time</key><integer>241737</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-18T00:21:32Z</date>
+			<key>Date Added</key><date>2014-07-18T00:21:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>AryaN_L33T</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3489808742</integer>
+			<key>Play Date UTC</key><date>2014-08-02T12:19:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BF7480312F99593</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Sia/1000%20Forms%20of%20Fear/10%20Fire%20Meet%20Gasoline.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47374</key>
+		<dict>
+			<key>Track ID</key><integer>47374</integer>
+			<key>Name</key><string>Breathe (Blu Cantrell Cover)</string>
+			<key>Artist</key><string>Years And Years</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3743101</integer>
+			<key>Total Time</key><integer>233299</integer>
+			<key>Date Modified</key><date>2014-07-26T16:30:10Z</date>
+			<key>Date Added</key><date>2014-07-26T16:29:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3489636844</integer>
+			<key>Play Date UTC</key><date>2014-07-31T12:34:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-07-26T16:29:40Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E6D09D6227CB31CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Years%20And%20Years/Unknown%20Album/Breathe%20(Blu%20Cantrell%20Cover).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47376</key>
+		<dict>
+			<key>Track ID</key><integer>47376</integer>
+			<key>Name</key><string>Cooler Than Latch (Disclosure Feat. Sam Smith __ Mike Posner)</string>
+			<key>Artist</key><string>The White Panda</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3549619</integer>
+			<key>Total Time</key><integer>221204</integer>
+			<key>Date Modified</key><date>2014-07-26T16:30:05Z</date>
+			<key>Date Added</key><date>2014-07-26T16:29:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3489731045</integer>
+			<key>Play Date UTC</key><date>2014-08-01T14:44:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-07-26T16:31:06Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>White Panda</string>
+			<key>Persistent ID</key><string>399C8584E7DEEE70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20White%20Panda/Unknown%20Album/Cooler%20Than%20Latch%20(Disclosure%20Feat.%20Sam%20Smith%20__%20Mike%20Posner).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47380</key>
+		<dict>
+			<key>Track ID</key><integer>47380</integer>
+			<key>Name</key><string>Surf Wax America</string>
+			<key>Artist</key><string>You Blew It!</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3044676</integer>
+			<key>Total Time</key><integer>189648</integer>
+			<key>Date Modified</key><date>2014-07-26T16:30:14Z</date>
+			<key>Date Added</key><date>2014-07-26T16:29:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3489687182</integer>
+			<key>Play Date UTC</key><date>2014-08-01T02:33:02Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>21D4D4C4DAFD1658</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/You%20Blew%20It!/Unknown%20Album/Surf%20Wax%20America.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47396</key>
+		<dict>
+			<key>Track ID</key><integer>47396</integer>
+			<key>Name</key><string>The New You</string>
+			<key>Artist</key><string>Jenny Lewis</string>
+			<key>Album</key><string>The Voyager</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8361469</integer>
+			<key>Total Time</key><integer>207542</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-26T15:29:41Z</date>
+			<key>Date Added</key><date>2014-07-26T16:29:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3489729850</integer>
+			<key>Play Date UTC</key><date>2014-08-01T14:24:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Voyager</string>
+			<key>Sort Name</key><string>New You</string>
+			<key>Persistent ID</key><string>9088B94EAAB1AD44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jenny%20Lewis/The%20Voyager/07%20The%20New%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47398</key>
+		<dict>
+			<key>Track ID</key><integer>47398</integer>
+			<key>Name</key><string>Aloha &#38; The Three Johns</string>
+			<key>Artist</key><string>Jenny Lewis</string>
+			<key>Album</key><string>The Voyager</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9843158</integer>
+			<key>Total Time</key><integer>244584</integer>
+			<key>Stop Time</key><integer>199000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-02T12:55:07Z</date>
+			<key>Date Added</key><date>2014-07-26T16:29:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3489771852</integer>
+			<key>Play Date UTC</key><date>2014-08-02T02:04:12Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Voyager</string>
+			<key>Persistent ID</key><string>9A875A0FE1F67D0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jenny%20Lewis/The%20Voyager/08%20Aloha%20&#38;%20The%20Three%20Johns.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47406</key>
+		<dict>
+			<key>Track ID</key><integer>47406</integer>
+			<key>Name</key><string>Klapp Klapp</string>
+			<key>Artist</key><string>Little Dragon</string>
+			<key>Album</key><string>Nabuma Rubberband</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8731638</integer>
+			<key>Total Time</key><integer>217182</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-26T16:29:23Z</date>
+			<key>Date Added</key><date>2014-07-26T16:29:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3489635400</integer>
+			<key>Play Date UTC</key><date>2014-07-31T12:10:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2C03EA8FCDAF61B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Little%20Dragon/Nabuma%20Rubberband/02%20Klapp%20Klapp.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>130802</integer>
+			<key>Playlist Persistent ID</key><string>1A7854ACB6ADA4CD</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47398</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

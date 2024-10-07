@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-11-09T03:54:06Z</date>
+	<key>Application Version</key><string>12.3.1.23</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>45905</key>
+		<dict>
+			<key>Track ID</key><integer>45905</integer>
+			<key>Name</key><string>Freazy</string>
+			<key>Artist</key><string>Wolf Alice</string>
+			<key>Album Artist</key><string>Wolf Alice</string>
+			<key>Composer</key><string>Ellen Rowsell, Joel Amey, Jonathan Oddie &#38; Theo Ellis</string>
+			<key>Album</key><string>My Love Is Cool</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6970446</integer>
+			<key>Total Time</key><integer>194842</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-15T04:17:10Z</date>
+			<key>Date Added</key><date>2015-10-15T05:17:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3529749163</integer>
+			<key>Play Date UTC</key><date>2015-11-07T21:52:43Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Love Is Cool</string>
+			<key>Sort Artist</key><string>Wolf Alice</string>
+			<key>Sort Name</key><string>Freazy</string>
+			<key>Persistent ID</key><string>67BF58EC910494D6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45937</key>
+		<dict>
+			<key>Track ID</key><integer>45937</integer>
+			<key>Name</key><string>A While</string>
+			<key>Artist</key><string>Just a Band</string>
+			<key>Album Artist</key><string>Just a Band</string>
+			<key>Album</key><string>Sorry for the Delay</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8920744</integer>
+			<key>Total Time</key><integer>260364</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-10-15T22:04:46Z</date>
+			<key>Date Added</key><date>2015-10-15T23:04:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3529748746</integer>
+			<key>Play Date UTC</key><date>2015-11-07T21:45:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sorry for the Delay</string>
+			<key>Sort Artist</key><string>Just a Band</string>
+			<key>Sort Name</key><string>While</string>
+			<key>Persistent ID</key><string>E5E7D35A40D0E66B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45939</key>
+		<dict>
+			<key>Track ID</key><integer>45939</integer>
+			<key>Name</key><string>0 To 100 / The Catch Up</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>A. Graham, M. Samuels, N. Shebib, P Jefferies, A. Hernandez &#38; A. Feeney</string>
+			<key>Album</key><string>0 To 100 / The Catch Up - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9593362</integer>
+			<key>Total Time</key><integer>275227</integer>
+			<key>Stop Time</key><integer>160100</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-10-17T17:55:54Z</date>
+			<key>Date Added</key><date>2015-10-17T18:55:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3529748229</integer>
+			<key>Play Date UTC</key><date>2015-11-07T21:37:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>0 To 100 / The Catch Up - Single</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>0 To 100 / The Catch Up</string>
+			<key>Persistent ID</key><string>E90C897609351FC4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>147182</key>
+		<dict>
+			<key>Track ID</key><integer>147182</integer>
+			<key>Name</key><string>Sorry</string>
+			<key>Artist</key><string>Justin Bieber</string>
+			<key>Album Artist</key><string>Justin Bieber</string>
+			<key>Composer</key><string>Justin Bieber, Michael Tucker, Sonny Moore, Julia Michaels &#38; justin tranter</string>
+			<key>Album</key><string>Sorry - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7150918</integer>
+			<key>Total Time</key><integer>200790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-26T02:57:14Z</date>
+			<key>Date Added</key><date>2015-10-26T05:57:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3529751092</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:24:52Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sorry - Single</string>
+			<key>Sort Artist</key><string>Justin Bieber</string>
+			<key>Sort Name</key><string>Sorry</string>
+			<key>Persistent ID</key><string>8A7185BE0CE0E12B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>158890</key>
+		<dict>
+			<key>Track ID</key><integer>158890</integer>
+			<key>Name</key><string>Don't</string>
+			<key>Artist</key><string>Bryson Tiller</string>
+			<key>Album Artist</key><string>Bryson Tiller</string>
+			<key>Composer</key><string>Bryson Tiller, Isom Brandon Stewart, Tavoris Hollins, Jr., Mariah Carey, Jermaine Dupri, Bryan-Michael Cox &#38; Johntá Austin</string>
+			<key>Album</key><string>T R A P S O U L</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7066168</integer>
+			<key>Total Time</key><integer>198294</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-28T02:40:15Z</date>
+			<key>Date Added</key><date>2015-10-28T03:40:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3529755188</integer>
+			<key>Play Date UTC</key><date>2015-11-07T23:33:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-04T00:37:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>T R A P S O U L</string>
+			<key>Sort Artist</key><string>Bryson Tiller</string>
+			<key>Sort Name</key><string>Don't</string>
+			<key>Persistent ID</key><string>4AC5631530DD7173</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>159358</key>
+		<dict>
+			<key>Track ID</key><integer>159358</integer>
+			<key>Name</key><string>Brokenhearted</string>
+			<key>Artist</key><string>Kalin and Myles</string>
+			<key>Album Artist</key><string>Kalin and Myles</string>
+			<key>Composer</key><string>Kalin Jure White, Myles Blake Parrish, Jamie Sanderson, Kameron Glasper &#38; Raja Kumari</string>
+			<key>Album</key><string>Brokenhearted - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7061013</integer>
+			<key>Total Time</key><integer>198403</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-28T18:24:27Z</date>
+			<key>Date Added</key><date>2015-10-28T19:24:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3529751509</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:31:49Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Brokenhearted - Single</string>
+			<key>Sort Artist</key><string>Kalin and Myles</string>
+			<key>Sort Name</key><string>Brokenhearted</string>
+			<key>Persistent ID</key><string>4036089BFB88611A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>160159</key>
+		<dict>
+			<key>Track ID</key><integer>160159</integer>
+			<key>Name</key><string>Take Ü There (feat. Kiesza) [Missy Elliott Remix] [Bonus Track]</string>
+			<key>Artist</key><string>Skrillex &#38; Diplo</string>
+			<key>Album Artist</key><string>Skrillex &#38; Diplo</string>
+			<key>Album</key><string>Skrillex and Diplo Present Jack Ü</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7547543</integer>
+			<key>Total Time</key><integer>210000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-29T01:55:19Z</date>
+			<key>Date Added</key><date>2015-10-29T02:55:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3529748057</integer>
+			<key>Play Date UTC</key><date>2015-11-07T21:34:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-05T20:53:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Skrillex and Diplo Present Jack Ü</string>
+			<key>Sort Artist</key><string>Skrillex &#38; Diplo</string>
+			<key>Sort Name</key><string>Take Ü There (feat. Kiesza) [Missy Elliott Remix] [Bonus Track]</string>
+			<key>Persistent ID</key><string>BDA533BE69188110</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>160210</key>
+		<dict>
+			<key>Track ID</key><integer>160210</integer>
+			<key>Name</key><string>Goldmine Junkie</string>
+			<key>Artist</key><string>Big Grams</string>
+			<key>Album Artist</key><string>Big Grams</string>
+			<key>Composer</key><string>Antwan Patton</string>
+			<key>Album</key><string>Big Grams</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7852497</integer>
+			<key>Total Time</key><integer>222395</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-29T04:42:45Z</date>
+			<key>Date Added</key><date>2015-10-29T05:42:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3529748968</integer>
+			<key>Play Date UTC</key><date>2015-11-07T21:49:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-06T19:28:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Grams</string>
+			<key>Sort Artist</key><string>Big Grams</string>
+			<key>Sort Name</key><string>Goldmine Junkie</string>
+			<key>Persistent ID</key><string>A805086000A1337D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>160884</key>
+		<dict>
+			<key>Track ID</key><integer>160884</integer>
+			<key>Name</key><string>Focus</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Ariana Grande, Savan Kotecha, Peter Svensson &#38; Ilya</string>
+			<key>Album</key><string>Focus - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7610588</integer>
+			<key>Total Time</key><integer>211367</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-30T21:49:16Z</date>
+			<key>Date Added</key><date>2015-10-30T22:49:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3529751311</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:28:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-04T00:41:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Focus - Single</string>
+			<key>Sort Artist</key><string>Ariana Grande</string>
+			<key>Sort Name</key><string>Focus</string>
+			<key>Persistent ID</key><string>4F29F6E526A375F7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>169990</key>
+		<dict>
+			<key>Track ID</key><integer>169990</integer>
+			<key>Name</key><string>West Coast</string>
+			<key>Artist</key><string>Lana Del Rey</string>
+			<key>Album Artist</key><string>Lana Del Rey</string>
+			<key>Composer</key><string>Lana Del Rey &#38; Rick Nowels</string>
+			<key>Album</key><string>Ultraviolence (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9118946</integer>
+			<key>Total Time</key><integer>256760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-11-05T16:29:40Z</date>
+			<key>Date Added</key><date>2015-11-05T16:29:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3529755780</integer>
+			<key>Play Date UTC</key><date>2015-11-07T23:43:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ultraviolence (Deluxe)</string>
+			<key>Sort Artist</key><string>Lana Del Rey</string>
+			<key>Sort Name</key><string>West Coast</string>
+			<key>Persistent ID</key><string>6D6DB30E3BEBBC34</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>170017</key>
+		<dict>
+			<key>Track ID</key><integer>170017</integer>
+			<key>Name</key><string>Hello</string>
+			<key>Artist</key><string>Allie X</string>
+			<key>Album Artist</key><string>Allie X</string>
+			<key>Composer</key><string>Michael Wise, Alexandra Hughes &#38; Marius Moga</string>
+			<key>Album</key><string>COLLXTION I</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8321880</integer>
+			<key>Total Time</key><integer>228299</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-05T16:29:55Z</date>
+			<key>Date Added</key><date>2015-11-05T16:29:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3529750692</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:18:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-07T23:43:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>COLLXTION I</string>
+			<key>Sort Artist</key><string>Allie X</string>
+			<key>Sort Name</key><string>Hello</string>
+			<key>Persistent ID</key><string>3C1A199CC76608F5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>170125</key>
+		<dict>
+			<key>Track ID</key><integer>170125</integer>
+			<key>Name</key><string>Afterglow</string>
+			<key>Artist</key><string>Wilkinson</string>
+			<key>Album Artist</key><string>Wilkinson</string>
+			<key>Composer</key><string>Mark Wilkinson, Brad Ellis, Becky Hill &#38; Talay Riley</string>
+			<key>Album</key><string>Afterglow - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8239950</integer>
+			<key>Total Time</key><integer>225172</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-11-05T16:31:16Z</date>
+			<key>Date Added</key><date>2015-11-05T16:31:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3529750177</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:09:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Afterglow - Single</string>
+			<key>Sort Artist</key><string>Wilkinson</string>
+			<key>Sort Name</key><string>Afterglow</string>
+			<key>Persistent ID</key><string>9C8A5AAA09CB966C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>170439</key>
+		<dict>
+			<key>Track ID</key><integer>170439</integer>
+			<key>Name</key><string>Hurt Me</string>
+			<key>Artist</key><string>Låpsley</string>
+			<key>Album Artist</key><string>Låpsley</string>
+			<key>Composer</key><string>Holly Fletcher, James Napier, Jamie Draper &#38; William Phillips</string>
+			<key>Album</key><string>Hurt Me - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8423109</integer>
+			<key>Total Time</key><integer>238952</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-05T16:36:01Z</date>
+			<key>Date Added</key><date>2015-11-05T16:36:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3529749951</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:05:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hurt Me - Single</string>
+			<key>Sort Artist</key><string>Låpsley</string>
+			<key>Sort Name</key><string>Hurt Me</string>
+			<key>Persistent ID</key><string>1E87BD1481D84FD7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>190141</key>
+		<dict>
+			<key>Track ID</key><integer>190141</integer>
+			<key>Name</key><string>Jasper</string>
+			<key>Artist</key><string>Aidan Knight</string>
+			<key>Album Artist</key><string>Aidan Knight</string>
+			<key>Album</key><string>Versicolour</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7744484</integer>
+			<key>Total Time</key><integer>217669</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2015-11-05T17:09:38Z</date>
+			<key>Date Added</key><date>2015-11-05T17:09:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3529749381</integer>
+			<key>Play Date UTC</key><date>2015-11-07T21:56:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Versicolour</string>
+			<key>Sort Artist</key><string>Aidan Knight</string>
+			<key>Sort Name</key><string>Jasper</string>
+			<key>Persistent ID</key><string>53298E7CD8A965B1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>190450</key>
+		<dict>
+			<key>Track ID</key><integer>190450</integer>
+			<key>Name</key><string>All My Friends (feat. Tinashe &#38; Chance The Rapper)</string>
+			<key>Artist</key><string>Snakehips</string>
+			<key>Album Artist</key><string>Snakehips</string>
+			<key>Composer</key><string>Oliver Dickinson, James David, Chancelor J. Bennett &#38; Cass Lowe</string>
+			<key>Album</key><string>All My Friends (feat. Tinashe &#38; Chance The Rapper) - Single</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8180382</integer>
+			<key>Total Time</key><integer>229738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-06T17:02:26Z</date>
+			<key>Date Added</key><date>2015-11-06T17:02:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3529755418</integer>
+			<key>Play Date UTC</key><date>2015-11-07T23:36:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-07T23:43:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All My Friends (feat. Tinashe &#38; Chance The Rapper) - Single</string>
+			<key>Sort Artist</key><string>Snakehips</string>
+			<key>Sort Name</key><string>All My Friends (feat. Tinashe &#38; Chance The Rapper)</string>
+			<key>Persistent ID</key><string>568EDD67339DE2F5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>190455</key>
+		<dict>
+			<key>Track ID</key><integer>190455</integer>
+			<key>Name</key><string>Adore (feat. Ariana Grande)</string>
+			<key>Artist</key><string>Cashmere Cat</string>
+			<key>Album Artist</key><string>Cashmere Cat</string>
+			<key>Composer</key><string>Magnus August Hoiberg, Benjamin Levin, Ammar Malik, Jeremih Felton, Kenneth Edmonds, Darryl Simmons &#38; Peder Losnegård</string>
+			<key>Album</key><string>Adore (feat. Ariana Grande) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7792689</integer>
+			<key>Total Time</key><integer>215989</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-06T17:09:33Z</date>
+			<key>Date Added</key><date>2015-11-06T17:09:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3529754907</integer>
+			<key>Play Date UTC</key><date>2015-11-07T23:28:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Adore (feat. Ariana Grande) - Single</string>
+			<key>Sort Artist</key><string>Cashmere Cat</string>
+			<key>Sort Name</key><string>Adore (feat. Ariana Grande)</string>
+			<key>Persistent ID</key><string>D775D5F18C7F340A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>190653</key>
+		<dict>
+			<key>Track ID</key><integer>190653</integer>
+			<key>Name</key><string>Truffle Butter (feat. Drake &#38; Lil Wayne)</string>
+			<key>Artist</key><string>Nicki Minaj</string>
+			<key>Album Artist</key><string>Nicki Minaj</string>
+			<key>Composer</key><string>Onika Maraj, Aubrey Graham, Dwayne Carter, Paul Jefferies &#38; Maya Jane Coles</string>
+			<key>Album</key><string>The Pinkprint (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7761322</integer>
+			<key>Total Time</key><integer>219220</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-11-07T06:05:58Z</date>
+			<key>Date Added</key><date>2015-11-07T06:05:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3529749600</integer>
+			<key>Play Date UTC</key><date>2015-11-07T22:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pinkprint (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Nicki Minaj</string>
+			<key>Sort Name</key><string>Truffle Butter (feat. Drake &#38; Lil Wayne)</string>
+			<key>Persistent ID</key><string>5B4D34029EEB1AAE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>191757</key>
+		<dict>
+			<key>Track ID</key><integer>191757</integer>
+			<key>Name</key><string>Alive</string>
+			<key>Artist</key><string>Sia</string>
+			<key>Album Artist</key><string>Sia</string>
+			<key>Composer</key><string>Sia Furler, Adele Adkins &#38; Tobias Jesso Jr.</string>
+			<key>Album</key><string>This Is Acting</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9303979</integer>
+			<key>Total Time</key><integer>263893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2015-11-07T20:49:35Z</date>
+			<key>Date Added</key><date>2015-11-07T20:49:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3529856852</integer>
+			<key>Play Date UTC</key><date>2015-11-09T03:47:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>This Is Acting</string>
+			<key>Sort Artist</key><string>Sia</string>
+			<key>Sort Name</key><string>Alive</string>
+			<key>Persistent ID</key><string>7376DC3F275782B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>131649</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>158890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>170439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191757</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

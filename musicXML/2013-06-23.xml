@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-06-24T01:15:22Z</date>
+	<key>Application Version</key><string>11.0.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31206</key>
+		<dict>
+			<key>Track ID</key><integer>31206</integer>
+			<key>Name</key><string>Runaway Love Remix</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album</key><string>[non-album tracks]</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4591908</integer>
+			<key>Total Time</key><integer>279222</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-06-21T23:39:08Z</date>
+			<key>Date Added</key><date>2010-10-19T16:37:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3454787353</integer>
+			<key>Play Date UTC</key><date>2013-06-23T04:09:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-13T20:06:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>West, Kanye</string>
+			<key>Persistent ID</key><string>52E27257AC9F2A40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Kanye%20West%20-%20Remixes/Runaway%20Love%20(Remix,%20feat.%20Justin%20BieberRaekwon).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37734</key>
+		<dict>
+			<key>Track ID</key><integer>37734</integer>
+			<key>Name</key><string>Forget</string>
+			<key>Artist</key><string>Lianne La Havas</string>
+			<key>Album</key><string>Is Your Love Big Enough?</string>
+			<key>Genre</key><string>Neo-Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9297996</integer>
+			<key>Total Time</key><integer>231575</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T13:30:14Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3454828821</integer>
+			<key>Play Date UTC</key><date>2013-06-23T15:40:21Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-08-29T01:52:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F68732F133ECACCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/2012%20Is%20Your%20Love%20Big%20Enough/06%20-%20Forget.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39762</key>
+		<dict>
+			<key>Track ID</key><integer>39762</integer>
+			<key>Name</key><string>Noche Nada</string>
+			<key>Artist</key><string>Givers</string>
+			<key>Album</key><string>In Light</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11579786</integer>
+			<key>Total Time</key><integer>287425</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-03-22T13:13:49Z</date>
+			<key>Date Added</key><date>2013-03-22T22:42:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3454829544</integer>
+			<key>Play Date UTC</key><date>2013-06-23T15:52:24Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC08E970D7D59222</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Givers%20-%20In%20Light%20%20(2011)%20%5B320kbps%5D%20%5Bmp3%5D/05%20-%20Noche%20Nada.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40088</key>
+		<dict>
+			<key>Track ID</key><integer>40088</integer>
+			<key>Name</key><string>No Interest</string>
+			<key>Artist</key><string>Nina Nesbitt</string>
+			<key>Album Artist</key><string>Nina Nesbitt</string>
+			<key>Composer</key><string>101frq.blog.163.com</string>
+			<key>Album</key><string>Stay Out EP</string>
+			<key>Genre</key><string>Singer-songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7084950</integer>
+			<key>Total Time</key><integer>190590</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-20T01:40:21Z</date>
+			<key>Date Added</key><date>2013-04-20T02:14:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>101frq.blog.163.com</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3454829257</integer>
+			<key>Play Date UTC</key><date>2013-06-23T15:47:37Z</date>
+			<key>Release Date</key><date>2013-04-05T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2271</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Series</key><string>101frq.blog.163.com</string>
+			<key>Persistent ID</key><string>2C9249A55F9DE76E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Nina%20Nesbitt-Stay%20Out%20EP/03%20No%20Interest.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40200</key>
+		<dict>
+			<key>Track ID</key><integer>40200</integer>
+			<key>Name</key><string>Good Ass Intro (ft. BJ The Chicago Kid, Lili K., Kiara Lanier, Peter Cottontale, Will for the O'mys, &#38; JP Floydd for Kids These Days)</string>
+			<key>Artist</key><string>Chance The Rapper</string>
+			<key>Album Artist</key><string>Chance The Rapper</string>
+			<key>Composer</key><string>Peter Cottontale, Cam for J.U.S.T.I.C.E League &#38; Stefan Ponce</string>
+			<key>Album</key><string>Acid Rap</string>
+			<key>Genre</key><string>Acid Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9738460</integer>
+			<key>Total Time</key><integer>239307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-05-01T02:42:22Z</date>
+			<key>Date Added</key><date>2013-05-08T13:30:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3454787074</integer>
+			<key>Play Date UTC</key><date>2013-06-23T04:04:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8995B27F71F9124</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/chance-the-rapper-acid-rap/01%20Good%20Ass%20Intro%20(ft.%20BJ%20The%20Chicago%20Kid,%20Lili%20K.,%20Kiara%20Lanier,%20Peter%20Cottontale,%20Will%20for%20the%20O'mys,%20&#38;%20JP%20Floyd%20for%20Kids%20These%20Days).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40260</key>
+		<dict>
+			<key>Track ID</key><integer>40260</integer>
+			<key>Name</key><string>Please Don't Do It Again</string>
+			<key>Artist</key><string>Lady</string>
+			<key>Album Artist</key><string>Lady</string>
+			<key>Album</key><string>Lady</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7787208</integer>
+			<key>Total Time</key><integer>191451</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-05-13T02:47:19Z</date>
+			<key>Date Added</key><date>2013-05-13T03:24:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3454787545</integer>
+			<key>Play Date UTC</key><date>2013-06-23T04:12:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2A845E9F6D5194DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Lady%20-%20Lady%202013%20RnB%20Soul%20320kbps%20CBR%20MP3%20%5BVX%5D/07%20Lady%20-%20Please%20Don't%20Do%20It%20Again.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40268</key>
+		<dict>
+			<key>Track ID</key><integer>40268</integer>
+			<key>Name</key><string>Waiting on You</string>
+			<key>Artist</key><string>Lady</string>
+			<key>Album Artist</key><string>Lady</string>
+			<key>Album</key><string>Lady</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9915665</integer>
+			<key>Total Time</key><integer>244662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-05-13T02:47:25Z</date>
+			<key>Date Added</key><date>2013-05-13T03:24:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3454829066</integer>
+			<key>Play Date UTC</key><date>2013-06-23T15:44:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>31757130F99A6518</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Lady%20-%20Lady%202013%20RnB%20Soul%20320kbps%20CBR%20MP3%20%5BVX%5D/11%20Lady%20-%20Waiting%20on%20You.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40538</key>
+		<dict>
+			<key>Track ID</key><integer>40538</integer>
+			<key>Name</key><string>Let Me Fall</string>
+			<key>Artist</key><string>Nora Jane Struthers &#38; The Party Line</string>
+			<key>Album Artist</key><string>Nora Jane Struthers &#38; The Party Line</string>
+			<key>Album</key><string>Carnival</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7482893</integer>
+			<key>Total Time</key><integer>187036</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-06-01T13:57:56Z</date>
+			<key>Date Added</key><date>2013-06-01T17:23:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3454829731</integer>
+			<key>Play Date UTC</key><date>2013-06-23T15:55:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-06-12T12:24:33Z</date>
+			<key>Release Date</key><date>2013-04-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>BEF52CD81B9322AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Nora%20Jane%20Struthers%20-%202013%20-%20Carnival%20(CD%20-%20FLAC)/08%20Let%20Me%20Fall.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40956</key>
+		<dict>
+			<key>Track ID</key><integer>40956</integer>
+			<key>Name</key><string>Send It Up</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Album</key><string>Yeezus [Explicit Version]</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5997228</integer>
+			<key>Total Time</key><integer>178040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-06-15T12:36:55Z</date>
+			<key>Date Added</key><date>2013-06-15T12:39:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.RapGodFathers.info
+twitter.com/RapGodFathers</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3454828590</integer>
+			<key>Play Date UTC</key><date>2013-06-23T15:36:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6639</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF7E03382D013C0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kanye%20West%20-%20Yeezus%20(RapGodFathers.info)/09%20-%20Send%20It%20Up.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>111567</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31206</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

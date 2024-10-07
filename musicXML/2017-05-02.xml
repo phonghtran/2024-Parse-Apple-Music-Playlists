@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-05-03T04:42:38Z</date>
+	<key>Application Version</key><string>12.6.0.100</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>A4463A0B4393DE9D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>17821</key>
+		<dict>
+			<key>Track ID</key><integer>17821</integer>
+			<key>Name</key><string>M.A.A.D City (Feat. MC Eiht)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Good Kid M.A.A.D City-(Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11585316</integer>
+			<key>Total Time</key><integer>350172</integer>
+			<key>Stop Time</key><integer>335000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-04T11:41:20Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3576314634</integer>
+			<key>Play Date UTC</key><date>2017-04-29T19:43:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-05-01T16:13:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF11FAB89C58A3CC</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>82537</key>
+		<dict>
+			<key>Track ID</key><integer>82537</integer>
+			<key>Name</key><string>Still Got Time (feat. PARTYNEXTDOOR)</string>
+			<key>Artist</key><string>ZAYN</string>
+			<key>Album Artist</key><string>ZAYN</string>
+			<key>Composer</key><string>Zayn Malik, Adam Feeney, Shane Lee Lindstrom &#38; Jahron Brathwaite</string>
+			<key>Album</key><string>Still Got Time (feat. PARTYNEXTDOOR) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6713972</integer>
+			<key>Total Time</key><integer>188491</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-04-21T20:47:31Z</date>
+			<key>Date Added</key><date>2017-04-21T20:47:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3576561461</integer>
+			<key>Play Date UTC</key><date>2017-05-02T16:17:41Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-04-26T04:01:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Still Got Time (feat. PARTYNEXTDOOR) - Single</string>
+			<key>Sort Artist</key><string>ZAYN</string>
+			<key>Sort Name</key><string>Still Got Time (feat. PARTYNEXTDOOR)</string>
+			<key>Persistent ID</key><string>711382E72CD36145</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>82551</key>
+		<dict>
+			<key>Track ID</key><integer>82551</integer>
+			<key>Name</key><string>Content</string>
+			<key>Artist</key><string>Joywave</string>
+			<key>Album Artist</key><string>Joywave</string>
+			<key>Composer</key><string>Daniel Armbruster</string>
+			<key>Album</key><string>Content - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9526138</integer>
+			<key>Total Time</key><integer>268960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-04-21T23:52:31Z</date>
+			<key>Date Added</key><date>2017-04-21T23:52:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3576396868</integer>
+			<key>Play Date UTC</key><date>2017-04-30T18:34:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-01T16:15:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Content - Single</string>
+			<key>Sort Artist</key><string>Joywave</string>
+			<key>Sort Name</key><string>Content</string>
+			<key>Persistent ID</key><string>401D14B393D90C2E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>82670</key>
+		<dict>
+			<key>Track ID</key><integer>82670</integer>
+			<key>Name</key><string>The Violence</string>
+			<key>Artist</key><string>Rise Against</string>
+			<key>Album Artist</key><string>Rise Against</string>
+			<key>Composer</key><string>Rise Against &#38; Tim McIlrath</string>
+			<key>Album</key><string>Wolves</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8422950</integer>
+			<key>Total Time</key><integer>228720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-04-22T02:06:18Z</date>
+			<key>Date Added</key><date>2017-04-22T02:06:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3576398065</integer>
+			<key>Play Date UTC</key><date>2017-04-30T18:54:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-01T16:13:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wolves</string>
+			<key>Sort Artist</key><string>Rise Against</string>
+			<key>Sort Name</key><string>Violence</string>
+			<key>Persistent ID</key><string>40A9ABA8DDAF71A7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>83869</key>
+		<dict>
+			<key>Track ID</key><integer>83869</integer>
+			<key>Name</key><string>Fine</string>
+			<key>Artist</key><string>TAEYEON</string>
+			<key>Album Artist</key><string>TAEYEON</string>
+			<key>Album</key><string>My Voice - The 1st Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7573278</integer>
+			<key>Total Time</key><integer>209157</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-04-24T06:58:48Z</date>
+			<key>Date Added</key><date>2017-04-24T06:58:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3576397411</integer>
+			<key>Play Date UTC</key><date>2017-04-30T18:43:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-05-01T16:19:08Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Voice - The 1st Album</string>
+			<key>Sort Artist</key><string>TAEYEON</string>
+			<key>Sort Name</key><string>Fine</string>
+			<key>Persistent ID</key><string>5F0F03CDB8B379F0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>84405</key>
+		<dict>
+			<key>Track ID</key><integer>84405</integer>
+			<key>Name</key><string>Shine a Light (feat. Thaddillac)</string>
+			<key>Artist</key><string>Shabazz Palaces</string>
+			<key>Album Artist</key><string>Shabazz Palaces</string>
+			<key>Album</key><string>Quazarz: Born on a Gangster Star</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5801877</integer>
+			<key>Total Time</key><integer>161741</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-04-26T04:01:07Z</date>
+			<key>Date Added</key><date>2017-04-26T04:01:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3576397202</integer>
+			<key>Play Date UTC</key><date>2017-04-30T18:40:02Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Quazarz: Born on a Gangster Star</string>
+			<key>Sort Artist</key><string>Shabazz Palaces</string>
+			<key>Sort Name</key><string>Shine a Light (feat. Thaddillac)</string>
+			<key>Persistent ID</key><string>D3F7351812ECDE30</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>86894</key>
+		<dict>
+			<key>Track ID</key><integer>86894</integer>
+			<key>Name</key><string>Girlfriend</string>
+			<key>Artist</key><string>Avril Lavigne</string>
+			<key>Album Artist</key><string>Avril Lavigne</string>
+			<key>Composer</key><string>Avril Lavigne &#38; Lukasz "Doctor Luke" Gottwald</string>
+			<key>Album</key><string>Girlfriend - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7951004</integer>
+			<key>Total Time</key><integer>216560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-04-26T05:35:51Z</date>
+			<key>Date Added</key><date>2017-04-26T05:35:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3576314850</integer>
+			<key>Play Date UTC</key><date>2017-04-29T19:47:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-01T16:15:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Girlfriend - Single</string>
+			<key>Sort Artist</key><string>Avril Lavigne</string>
+			<key>Sort Name</key><string>Girlfriend</string>
+			<key>Persistent ID</key><string>3BDC999A51BC5953</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>122090</key>
+		<dict>
+			<key>Track ID</key><integer>122090</integer>
+			<key>Name</key><string>OOH-AHH하게 Like OOH-AHH</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Album</key><string>The Story Begins - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7860495</integer>
+			<key>Total Time</key><integer>215091</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-04-27T05:51:57Z</date>
+			<key>Date Added</key><date>2017-04-27T05:51:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3576398228</integer>
+			<key>Play Date UTC</key><date>2017-04-30T18:57:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-01T16:19:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Story Begins - EP</string>
+			<key>Sort Artist</key><string>TWICE</string>
+			<key>Sort Name</key><string>OOH-AHH하게 Like OOH-AHH</string>
+			<key>Persistent ID</key><string>7DB3CCD99652B031</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>127493</key>
+		<dict>
+			<key>Track ID</key><integer>127493</integer>
+			<key>Name</key><string>I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper &#38; Lil Wayne)</string>
+			<key>Artist</key><string>DJ Khaled</string>
+			<key>Album Artist</key><string>DJ Khaled</string>
+			<key>Composer</key><string>Khaled Khaled</string>
+			<key>Album</key><string>I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper &#38; Lil Wayne) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10053058</integer>
+			<key>Total Time</key><integer>288877</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-04-28T15:13:57Z</date>
+			<key>Date Added</key><date>2017-04-28T15:13:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3576475437</integer>
+			<key>Play Date UTC</key><date>2017-05-01T16:23:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper &#38; Lil Wayne) - Single</string>
+			<key>Sort Artist</key><string>DJ Khaled</string>
+			<key>Sort Name</key><string>I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper &#38; Lil Wayne)</string>
+			<key>Persistent ID</key><string>340ACC9406706017</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132106</key>
+		<dict>
+			<key>Track ID</key><integer>132106</integer>
+			<key>Name</key><string>Aya (feat. Allan Kingdom)</string>
+			<key>Artist</key><string>Kweku Collins</string>
+			<key>Album Artist</key><string>Kweku Collins</string>
+			<key>Composer</key><string>Kweku Collins &#38; Allan Kingdom</string>
+			<key>Album</key><string>grey</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10140643</integer>
+			<key>Total Time</key><integer>289162</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-01T06:54:45Z</date>
+			<key>Date Added</key><date>2017-05-01T06:54:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3576474818</integer>
+			<key>Play Date UTC</key><date>2017-05-01T16:13:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>grey</string>
+			<key>Sort Artist</key><string>Kweku Collins</string>
+			<key>Sort Name</key><string>Aya (feat. Allan Kingdom)</string>
+			<key>Persistent ID</key><string>815BA17CE782DCED</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>133891</key>
+		<dict>
+			<key>Track ID</key><integer>133891</integer>
+			<key>Name</key><string>Dreams (Acoustic Version)</string>
+			<key>Artist</key><string>The Cranberries</string>
+			<key>Album Artist</key><string>The Cranberries</string>
+			<key>Album</key><string>Something Else</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9661757</integer>
+			<key>Total Time</key><integer>264280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-02T07:36:30Z</date>
+			<key>Date Added</key><date>2017-05-02T07:36:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Something Else</string>
+			<key>Sort Album Artist</key><string>Cranberries</string>
+			<key>Sort Artist</key><string>Cranberries</string>
+			<key>Sort Name</key><string>Dreams (Acoustic Version)</string>
+			<key>Persistent ID</key><string>8B8755CE35F990E7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>134037</key>
+		<dict>
+			<key>Track ID</key><integer>134037</integer>
+			<key>Name</key><string>Never Learn</string>
+			<key>Artist</key><string>Brother Ali</string>
+			<key>Album Artist</key><string>Brother Ali</string>
+			<key>Album</key><string>All the Beauty in This Whole Life</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10001663</integer>
+			<key>Total Time</key><integer>285720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-02T14:59:48Z</date>
+			<key>Date Added</key><date>2017-05-02T14:59:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All the Beauty in This Whole Life</string>
+			<key>Sort Artist</key><string>Brother Ali</string>
+			<key>Sort Name</key><string>Never Learn</string>
+			<key>Persistent ID</key><string>C02E5A65A5E84DAD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63997</integer>
+			<key>Playlist Persistent ID</key><string>147F51BC79E9E6D1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>82537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>82551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>82670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>83869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>84405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>86894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>134037</integer>
+				</dict>
+			</array>
+			<key>Loved</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

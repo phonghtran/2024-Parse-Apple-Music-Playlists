@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-03-25T02:34:35Z</date>
+	<key>Application Version</key><string>12.1.0.50</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>49401</key>
+		<dict>
+			<key>Track ID</key><integer>49401</integer>
+			<key>Name</key><string>09. Famous</string>
+			<key>Artist</key><string>Charli XCX</string>
+			<key>Album</key><string>Sucker (Deluxe)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9375816</integer>
+			<key>Total Time</key><integer>232320</integer>
+			<key>Date Modified</key><date>2015-01-26T14:38:23Z</date>
+			<key>Date Added</key><date>2015-02-14T19:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3506932183</integer>
+			<key>Play Date UTC</key><date>2015-02-16T16:49:43Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4FBF909497E9998</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Charli%20XCX/Sucker%20(Deluxe)/09.%20Famous.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49935</key>
+		<dict>
+			<key>Track ID</key><integer>49935</integer>
+			<key>Name</key><string>I Really Like You</string>
+			<key>Artist</key><string>Carly Rae Jepsen</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6327275</integer>
+			<key>Total Time</key><integer>204512</integer>
+			<key>Date Modified</key><date>2015-03-02T12:58:01Z</date>
+			<key>Date Added</key><date>2015-03-02T12:57:41Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3509939184</integer>
+			<key>Play Date UTC</key><date>2015-03-23T12:06:24Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-03-04T02:55:28Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B58619B04095022A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Carly%20Rae%20Jepsen/Unknown%20Album/I%20Really%20Like%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50011</key>
+		<dict>
+			<key>Track ID</key><integer>50011</integer>
+			<key>Name</key><string>D&#38;E</string>
+			<key>Artist</key><string>Super Junior</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6773474</integer>
+			<key>Total Time</key><integer>221753</integer>
+			<key>Start Time</key><integer>5000</integer>
+			<key>Stop Time</key><integer>206000</integer>
+			<key>Date Modified</key><date>2015-03-13T23:45:15Z</date>
+			<key>Date Added</key><date>2015-03-12T03:54:27Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3509906951</integer>
+			<key>Play Date UTC</key><date>2015-03-23T03:09:11Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2015-03-15T15:59:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7671</integer>
+			<key>Persistent ID</key><string>4EFC691470F596D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Super%20Junior/Unknown%20Album/D&#38;E.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50017</key>
+		<dict>
+			<key>Track ID</key><integer>50017</integer>
+			<key>Name</key><string>Promises</string>
+			<key>Artist</key><string>Ryn Weaver</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3717064</integer>
+			<key>Total Time</key><integer>232306</integer>
+			<key>Date Modified</key><date>2015-03-13T23:44:19Z</date>
+			<key>Date Added</key><date>2015-03-13T23:44:22Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3509869004</integer>
+			<key>Play Date UTC</key><date>2015-03-22T16:36:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-03-22T16:21:41Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>326FFB7A14CEC2E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Ryn%20Weaver/Unknown%20Album/Promises.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>50063</key>
+		<dict>
+			<key>Track ID</key><integer>50063</integer>
+			<key>Name</key><string>Fly Away (feat. The Tones)</string>
+			<key>Artist</key><string>Andy Allo</string>
+			<key>Album Artist</key><string>Andy Allo</string>
+			<key>Album</key><string>Unfresh</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6150672</integer>
+			<key>Total Time</key><integer>237113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-14T04:28:43Z</date>
+			<key>Date Added</key><date>2015-03-14T04:28:47Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 215162745</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3509861017</integer>
+			<key>Play Date UTC</key><date>2015-03-22T14:23:37Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2434544014E4A60C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Andy%20Allo/Unfresh/01%20Fly%20Away%20(feat.%20The%20Tones).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155303</key>
+		<dict>
+			<key>Track ID</key><integer>155303</integer>
+			<key>Name</key><string>Definition</string>
+			<key>Artist</key><string>Mos Def &#38; Talib Kweli</string>
+			<key>Album</key><string>Black Star</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4132292</integer>
+			<key>Total Time</key><integer>206497</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2015-03-22T15:53:06Z</date>
+			<key>Date Added</key><date>2015-03-22T16:21:40Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>YEAR: 2001 ID3G: 10 </string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3509994757</integer>
+			<key>Play Date UTC</key><date>2015-03-24T03:32:37Z</date>
+			<key>Persistent ID</key><string>44CE5291B3E949C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Mos%20Def%20&#38;%20Talib%20Kweli/Black%20Star/03%20Definition.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155681</key>
+		<dict>
+			<key>Track ID</key><integer>155681</integer>
+			<key>Name</key><string>Nutcrackerz ft. Giggs</string>
+			<key>Artist</key><string>Dizzee Rascal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5372596</integer>
+			<key>Total Time</key><integer>172251</integer>
+			<key>Date Modified</key><date>2015-03-25T01:39:14Z</date>
+			<key>Date Added</key><date>2015-03-25T01:38:48Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>1A02251FA2662388</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Dizzee%20Rascal/Unknown%20Album/Nutcrackerz%20ft.%20Giggs.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155779</key>
+		<dict>
+			<key>Track ID</key><integer>155779</integer>
+			<key>Name</key><string>Little Ballerina (feat. Rufus Wainwright)</string>
+			<key>Artist</key><string>Emile Haynie</string>
+			<key>Album Artist</key><string>Emile Haynie</string>
+			<key>Composer</key><string>Emile Haynie, Andrew Wyatt &#38; Nate Ruess</string>
+			<key>Album</key><string>We Fall</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10058406</integer>
+			<key>Total Time</key><integer>287370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:27:41Z</date>
+			<key>Date Added</key><date>2015-03-25T02:00:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-03-25T02:01:19Z</date>
+			<key>Release Date</key><date>2015-02-24T08:00:00Z</date>
+			<key>Normalization</key><integer>5341</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Fall</string>
+			<key>Sort Artist</key><string>Emile Haynie</string>
+			<key>Sort Composer</key><string>Emile Haynie, Andrew Wyatt &#38; Nate Ruess</string>
+			<key>Sort Name</key><string>Little Ballerina (feat. Rufus Wainwright)</string>
+			<key>Persistent ID</key><string>1ABC093BEAD7A053</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Emile%20Haynie/We%20Fall/02%20Little%20Ballerina%20(feat.%20Rufus%20Wainwright).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156228</key>
+		<dict>
+			<key>Track ID</key><integer>156228</integer>
+			<key>Name</key><string>Missing You Tonight</string>
+			<key>Artist</key><string>Striking Matches</string>
+			<key>Album Artist</key><string>Striking Matches</string>
+			<key>Composer</key><string>Justin Davis, Sarah Zimmermann &#38; Georgia Middleman</string>
+			<key>Album</key><string>Nothing but the Silence</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6681090</integer>
+			<key>Total Time</key><integer>182205</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:29:02Z</date>
+			<key>Date Added</key><date>2015-03-25T02:09:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-23T07:00:00Z</date>
+			<key>Normalization</key><integer>3534</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nothing but the Silence</string>
+			<key>Sort Artist</key><string>Striking Matches</string>
+			<key>Sort Composer</key><string>Justin Davis, Sarah Zimmermann &#38; Georgia Middleman</string>
+			<key>Sort Name</key><string>Missing You Tonight</string>
+			<key>Persistent ID</key><string>C0BF039BE8B25730</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Striking%20Matches/Nothing%20but%20the%20Silence/10%20Missing%20You%20Tonight.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156343</key>
+		<dict>
+			<key>Track ID</key><integer>156343</integer>
+			<key>Name</key><string>Raindrops (Radio Edit)</string>
+			<key>Artist</key><string>SNBRN</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5994981</integer>
+			<key>Total Time</key><integer>203546</integer>
+			<key>Date Modified</key><date>2015-03-25T02:29:16Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>8ACC4DC87C96796B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/SNBRN/Unknown%20Album/Raindrops%20(Radio%20Edit).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156350</key>
+		<dict>
+			<key>Track ID</key><integer>156350</integer>
+			<key>Name</key><string>Love Money Party (feat. Big Sean)</string>
+			<key>Artist</key><string>Miley Cyrus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6691676</integer>
+			<key>Total Time</key><integer>219088</integer>
+			<key>Date Modified</key><date>2015-03-25T02:22:52Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>A33DAC1E863FB24B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Miley%20Cyrus/Unknown%20Album/Love%20Money%20Party%20(feat.%20Big%20Sean).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156357</key>
+		<dict>
+			<key>Track ID</key><integer>156357</integer>
+			<key>Name</key><string>Nakamarra (feat. Q-Tip)</string>
+			<key>Artist</key><string>Hiatus Kaiyote</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8205607</integer>
+			<key>Total Time</key><integer>280137</integer>
+			<key>Date Modified</key><date>2015-03-25T02:21:54Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-03-25T02:27:01Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>A240C42CC606A9A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Hiatus%20Kaiyote/Unknown%20Album/Nakamarra%20(feat.%20Q-Tip).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156364</key>
+		<dict>
+			<key>Track ID</key><integer>156364</integer>
+			<key>Name</key><string>That's Love</string>
+			<key>Artist</key><string>Oddisee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3938845</integer>
+			<key>Total Time</key><integer>245786</integer>
+			<key>Date Modified</key><date>2015-03-25T02:22:37Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>0A5F48C2048194BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Oddisee/Unknown%20Album/That's%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156371</key>
+		<dict>
+			<key>Track ID</key><integer>156371</integer>
+			<key>Name</key><string>Often (Kygo Remix)</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7551577</integer>
+			<key>Total Time</key><integer>234318</integer>
+			<key>Date Modified</key><date>2015-03-25T02:21:17Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Persistent ID</key><string>81DA53BA3354906F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/The%20Weeknd/Unknown%20Album/Often%20(Kygo%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156378</key>
+		<dict>
+			<key>Track ID</key><integer>156378</integer>
+			<key>Name</key><string>The Purge / Rapfix Cypher (20syl Remix)</string>
+			<key>Artist</key><string>Schoolboy Q</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2598704</integer>
+			<key>Total Time</key><integer>162351</integer>
+			<key>Date Modified</key><date>2015-03-25T02:21:31Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3510077379</integer>
+			<key>Play Date UTC</key><date>2015-03-25T02:29:39Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Sort Name</key><string>Purge / Rapfix Cypher (20syl Remix)</string>
+			<key>Persistent ID</key><string>12BDE12F311D10DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Schoolboy%20Q/Unknown%20Album/The%20Purge%20_%20Rapfix%20Cypher%20(20syl%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156385</key>
+		<dict>
+			<key>Track ID</key><integer>156385</integer>
+			<key>Name</key><string>At Your Best</string>
+			<key>Artist</key><string>Frank Ocean</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7922296</integer>
+			<key>Total Time</key><integer>299702</integer>
+			<key>Stop Time</key><integer>283000</integer>
+			<key>Date Modified</key><date>2015-03-25T02:27:25Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3510077255</integer>
+			<key>Play Date UTC</key><date>2015-03-25T02:27:35Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>07244D01135FC807</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Frank%20Ocean/Unknown%20Album/At%20Your%20Best.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156392</key>
+		<dict>
+			<key>Track ID</key><integer>156392</integer>
+			<key>Name</key><string>Our Own House</string>
+			<key>Artist</key><string>MisterWives</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7341741</integer>
+			<key>Total Time</key><integer>232542</integer>
+			<key>Date Modified</key><date>2015-03-25T02:23:05Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:12Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>E3500313CCDC732D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/MisterWives/Unknown%20Album/Our%20Own%20House.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156432</key>
+		<dict>
+			<key>Track ID</key><integer>156432</integer>
+			<key>Name</key><string>Pedestrian at Best</string>
+			<key>Artist</key><string>Courtney Barnett</string>
+			<key>Album</key><string>Sometimes I Sit And Think, And Sometimes I Just Sit</string>
+			<key>Genre</key><string>Alternative &#38; Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9225914</integer>
+			<key>Total Time</key><integer>230635</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T01:37:12Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E678AC72FC0748E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Courtney%20Barnett/Sometimes%20I%20Sit%20And%20Think,%20And%20Sometimes%20I%20Just%20Sit/02%20Pedestrian%20at%20Best.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156549</key>
+		<dict>
+			<key>Track ID</key><integer>156549</integer>
+			<key>Name</key><string>The Blacker the Berry</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>K. Duckworth, Matthew Samuels, Stephen Kozmeniuk, Ken Lewis, Brent Kolatalo, J. Campbell, A. Izquierdo &#38; Z. Epstein</string>
+			<key>Album</key><string>To Pimp a Butterfly</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11664685</integer>
+			<key>Total Time</key><integer>328829</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:07:22Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-23T07:00:00Z</date>
+			<key>Normalization</key><integer>3227</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Pimp a Butterfly</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Composer</key><string>K. Duckworth, Matthew Samuels, Stephen Kozmeniuk, Ken Lewis, Brent Kolatalo, J. Campbell, A. Izquierdo &#38; Z. Epstein</string>
+			<key>Sort Name</key><string>The Blacker the Berry</string>
+			<key>Persistent ID</key><string>5CBED7521403F9AE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kendrick%20Lamar/To%20Pimp%20a%20Butterfly/13%20The%20Blacker%20the%20Berry.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156575</key>
+		<dict>
+			<key>Track ID</key><integer>156575</integer>
+			<key>Name</key><string>Wrong</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Album</key><string>Amethyst</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10430810</integer>
+			<key>Total Time</key><integer>260754</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T01:38:07Z</date>
+			<key>Date Added</key><date>2015-03-25T02:20:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0F339DC7031AA53E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Tinashe/Amethyst/02%20Wrong.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>156720</key>
+		<dict>
+			<key>Track ID</key><integer>156720</integer>
+			<key>Name</key><string>Silhouettes</string>
+			<key>Artist</key><string>Colony House</string>
+			<key>Album Artist</key><string>Colony House</string>
+			<key>Composer</key><string>Caleb Chapman</string>
+			<key>Album</key><string>When I Was Younger</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7206822</integer>
+			<key>Total Time</key><integer>177841</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-03-25T02:21:24Z</date>
+			<key>Date Added</key><date>2015-03-25T02:21:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F65D39067EDC5CA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Compilations/When%20I%20Was%20Younger/01%20Silhouettes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>144676</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>49935</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>156720</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

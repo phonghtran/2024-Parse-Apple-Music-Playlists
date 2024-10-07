@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-01-18T17:28:34Z</date>
+	<key>Application Version</key><string>12.9.2.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>1BA1574FA2FAD306</string>
+	<key>Tracks</key>
+	<dict>
+		<key>20693</key>
+		<dict>
+			<key>Track ID</key><integer>20693</integer>
+			<key>Name</key><string>Promises</string>
+			<key>Artist</key><string>Ryn Weaver</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7658899</integer>
+			<key>Total Time</key><integer>232254</integer>
+			<key>Date Modified</key><date>2015-03-14T00:44:19Z</date>
+			<key>Date Added</key><date>2015-03-13T22:44:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>94</integer>
+			<key>Play Date</key><integer>3630434828</integer>
+			<key>Play Date UTC</key><date>2019-01-16T03:07:08Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2019-01-15T20:38:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E7D08905276E749</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>32275</key>
+		<dict>
+			<key>Track ID</key><integer>32275</integer>
+			<key>Name</key><string>Give Me</string>
+			<key>Artist</key><string>Laura Galindo</string>
+			<key>Album Artist</key><string>Laura Galindo</string>
+			<key>Composer</key><string>Laura Alejandra Galindo</string>
+			<key>Album</key><string>Tastes Like Dreams - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10191650</integer>
+			<key>Total Time</key><integer>289000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-21T04:04:34Z</date>
+			<key>Date Added</key><date>2018-12-21T04:04:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3630488036</integer>
+			<key>Play Date UTC</key><date>2019-01-16T17:53:56Z</date>
+			<key>Release Date</key><date>2018-01-29T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tastes Like Dreams - EP</string>
+			<key>Sort Artist</key><string>Laura Galindo</string>
+			<key>Sort Name</key><string>Give Me</string>
+			<key>Persistent ID</key><string>9D80472E0AB2E1A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>32303</key>
+		<dict>
+			<key>Track ID</key><integer>32303</integer>
+			<key>Name</key><string>So Close (feat. Georgia Ku)</string>
+			<key>Artist</key><string>NOTD, Felix Jaehn &#38; Captain Cuts</string>
+			<key>Album Artist</key><string>NOTD, Felix Jaehn &#38; Captain Cuts</string>
+			<key>Composer</key><string>Felix Jaehn, Georgia Ku, Magnus Tobias Mikael Danielsson, Samuel Brandt, Ben Berger, Ryan McMahon &#38; Ryan Rabin</string>
+			<key>Album</key><string>So Close (feat. Georgia Ku) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6981411</integer>
+			<key>Total Time</key><integer>190302</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-22T15:02:23Z</date>
+			<key>Date Added</key><date>2018-12-22T15:02:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3630590686</integer>
+			<key>Play Date UTC</key><date>2019-01-17T22:24:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-17T04:04:16Z</date>
+			<key>Release Date</key><date>2018-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>So Close (feat. Georgia Ku) - Single</string>
+			<key>Sort Artist</key><string>NOTD, Felix Jaehn &#38; Captain Cuts</string>
+			<key>Sort Name</key><string>So Close (feat. Georgia Ku)</string>
+			<key>Persistent ID</key><string>0F5DD5FDEED51393</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>32305</key>
+		<dict>
+			<key>Track ID</key><integer>32305</integer>
+			<key>Name</key><string>Happier</string>
+			<key>Artist</key><string>Marshmello &#38; Bastille</string>
+			<key>Album Artist</key><string>Marshmello &#38; Bastille</string>
+			<key>Composer</key><string>Marshmello, Dan Smith &#38; Steve Mac</string>
+			<key>Album</key><string>Happier - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7667633</integer>
+			<key>Total Time</key><integer>214290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-23T16:20:13Z</date>
+			<key>Date Added</key><date>2018-12-23T16:20:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3630590496</integer>
+			<key>Play Date UTC</key><date>2019-01-17T22:21:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-27T00:39:34Z</date>
+			<key>Release Date</key><date>2018-01-11T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Happier - Single</string>
+			<key>Sort Artist</key><string>Marshmello &#38; Bastille</string>
+			<key>Sort Name</key><string>Happier</string>
+			<key>Persistent ID</key><string>D001625328575578</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97275</key>
+		<dict>
+			<key>Track ID</key><integer>97275</integer>
+			<key>Name</key><string>Longshot</string>
+			<key>Artist</key><string>Catfish and the Bottlemen</string>
+			<key>Album Artist</key><string>Catfish and the Bottlemen</string>
+			<key>Composer</key><string>Van McCann</string>
+			<key>Album</key><string>Longshot - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8261981</integer>
+			<key>Total Time</key><integer>232959</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-01-11T14:27:31Z</date>
+			<key>Date Added</key><date>2019-01-11T14:27:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3630610350</integer>
+			<key>Play Date UTC</key><date>2019-01-18T03:52:30Z</date>
+			<key>Release Date</key><date>2019-01-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Longshot - Single</string>
+			<key>Sort Artist</key><string>Catfish and the Bottlemen</string>
+			<key>Sort Name</key><string>Longshot</string>
+			<key>Persistent ID</key><string>E3366E71774ADB6A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97281</key>
+		<dict>
+			<key>Track ID</key><integer>97281</integer>
+			<key>Name</key><string>Hospitalized</string>
+			<key>Artist</key><string>Broods</string>
+			<key>Album Artist</key><string>Broods</string>
+			<key>Composer</key><string>Caleb Nott, Chloe Angelides, Georgia Nott &#38; Leroy Clampitt</string>
+			<key>Album</key><string>Don't Feed the Pop Monster</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6383779</integer>
+			<key>Total Time</key><integer>176673</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-01-11T15:11:16Z</date>
+			<key>Date Added</key><date>2019-01-11T15:11:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3630590930</integer>
+			<key>Play Date UTC</key><date>2019-01-17T22:28:50Z</date>
+			<key>Release Date</key><date>2019-01-11T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Feed the Pop Monster</string>
+			<key>Sort Artist</key><string>Broods</string>
+			<key>Sort Name</key><string>Hospitalized</string>
+			<key>Persistent ID</key><string>065E1EC062EA2CEF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97287</key>
+		<dict>
+			<key>Track ID</key><integer>97287</integer>
+			<key>Name</key><string>Spendin' (feat. Gucci Mane)</string>
+			<key>Artist</key><string>iLoveMakonnen</string>
+			<key>Album Artist</key><string>iLoveMakonnen</string>
+			<key>Composer</key><string>Makonnen Sheran, Radric Delantic Davis &#38; Valentin Leon Blavatnik</string>
+			<key>Album</key><string>Spendin' (feat. Gucci Mane) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5571007</integer>
+			<key>Total Time</key><integer>154024</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-01-11T15:28:02Z</date>
+			<key>Date Added</key><date>2019-01-11T15:28:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3630591088</integer>
+			<key>Play Date UTC</key><date>2019-01-17T22:31:28Z</date>
+			<key>Release Date</key><date>2019-01-11T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Spendin' (feat. Gucci Mane) - Single</string>
+			<key>Sort Artist</key><string>iLoveMakonnen</string>
+			<key>Sort Name</key><string>Spendin' (feat. Gucci Mane)</string>
+			<key>Persistent ID</key><string>EDB3B1BFB1A7E13C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97294</key>
+		<dict>
+			<key>Track ID</key><integer>97294</integer>
+			<key>Name</key><string>Uh Huh</string>
+			<key>Artist</key><string>Jade Bird</string>
+			<key>Album Artist</key><string>Jade Bird</string>
+			<key>Composer</key><string>Jade Bird</string>
+			<key>Album</key><string>Jade Bird</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5178177</integer>
+			<key>Total Time</key><integer>143273</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-12T14:05:43Z</date>
+			<key>Date Added</key><date>2019-01-12T14:05:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3630590282</integer>
+			<key>Play Date UTC</key><date>2019-01-17T22:18:02Z</date>
+			<key>Release Date</key><date>2018-08-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jade Bird</string>
+			<key>Sort Artist</key><string>Jade Bird</string>
+			<key>Sort Name</key><string>Uh Huh</string>
+			<key>Persistent ID</key><string>DFBDAB6C49656BE2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97305</key>
+		<dict>
+			<key>Track ID</key><integer>97305</integer>
+			<key>Name</key><string>Rookie</string>
+			<key>Artist</key><string>Leebrian</string>
+			<key>Album Artist</key><string>Leebrian</string>
+			<key>Album</key><string>Rookie - Single</string>
+			<key>Genre</key><string>Latin Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4038532</integer>
+			<key>Total Time</key><integer>105192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-12T14:16:09Z</date>
+			<key>Date Added</key><date>2019-01-12T14:16:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3630524650</integer>
+			<key>Play Date UTC</key><date>2019-01-17T04:04:10Z</date>
+			<key>Release Date</key><date>2018-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rookie - Single</string>
+			<key>Sort Artist</key><string>Leebrian</string>
+			<key>Sort Name</key><string>Rookie</string>
+			<key>Persistent ID</key><string>8F5B46DF8CAF5F7F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97312</key>
+		<dict>
+			<key>Track ID</key><integer>97312</integer>
+			<key>Name</key><string>Goku Sin el Ki</string>
+			<key>Artist</key><string>Leebrian</string>
+			<key>Album Artist</key><string>Leebrian</string>
+			<key>Album</key><string>Goku Sin el Ki - Single</string>
+			<key>Genre</key><string>Latin Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6230603</integer>
+			<key>Total Time</key><integer>171864</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-12T14:16:19Z</date>
+			<key>Date Added</key><date>2019-01-12T14:16:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3630487127</integer>
+			<key>Play Date UTC</key><date>2019-01-16T17:38:47Z</date>
+			<key>Release Date</key><date>2018-10-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Goku Sin el Ki - Single</string>
+			<key>Sort Artist</key><string>Leebrian</string>
+			<key>Sort Name</key><string>Goku Sin el Ki</string>
+			<key>Persistent ID</key><string>1AD33FA15FD74F1E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97318</key>
+		<dict>
+			<key>Track ID</key><integer>97318</integer>
+			<key>Name</key><string>Interloper</string>
+			<key>Artist</key><string>Nakhane</string>
+			<key>Album Artist</key><string>Nakhane</string>
+			<key>Composer</key><string>Nakhane &#38; Nakhane Mahlakahlakaka</string>
+			<key>Album</key><string>Clairvoyant / Interloper - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8918881</integer>
+			<key>Total Time</key><integer>249093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-12T14:21:31Z</date>
+			<key>Date Added</key><date>2019-01-12T14:21:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3630485122</integer>
+			<key>Play Date UTC</key><date>2019-01-16T17:05:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-14T17:03:47Z</date>
+			<key>Release Date</key><date>2018-03-16T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clairvoyant / Interloper - Single</string>
+			<key>Sort Artist</key><string>Nakhane</string>
+			<key>Sort Name</key><string>Interloper</string>
+			<key>Persistent ID</key><string>365FC0DAE021367D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97325</key>
+		<dict>
+			<key>Track ID</key><integer>97325</integer>
+			<key>Name</key><string>Kung Fu</string>
+			<key>Artist</key><string>YBN Cordae</string>
+			<key>Album Artist</key><string>YBN Cordae</string>
+			<key>Composer</key><string>Denzel Baptiste, David Biral, Russ Chell &#38; Cody Verdecias</string>
+			<key>Album</key><string>Kung Fu - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7159485</integer>
+			<key>Total Time</key><integer>199680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-12T14:27:00Z</date>
+			<key>Date Added</key><date>2019-01-12T14:27:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3630611462</integer>
+			<key>Play Date UTC</key><date>2019-01-18T04:11:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-15T17:48:03Z</date>
+			<key>Release Date</key><date>2018-07-13T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kung Fu - Single</string>
+			<key>Sort Artist</key><string>YBN Cordae</string>
+			<key>Sort Name</key><string>Kung Fu</string>
+			<key>Persistent ID</key><string>693E544DD12A556D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97332</key>
+		<dict>
+			<key>Track ID</key><integer>97332</integer>
+			<key>Name</key><string>It's You (feat. ZICO)</string>
+			<key>Artist</key><string>SAM KIM</string>
+			<key>Album Artist</key><string>SAM KIM</string>
+			<key>Album</key><string>Sun And Moon</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9232941</integer>
+			<key>Total Time</key><integer>257632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-13T04:03:26Z</date>
+			<key>Date Added</key><date>2019-01-13T04:03:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3630611076</integer>
+			<key>Play Date UTC</key><date>2019-01-18T04:04:36Z</date>
+			<key>Release Date</key><date>2018-11-22T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sun And Moon</string>
+			<key>Sort Artist</key><string>SAM KIM</string>
+			<key>Sort Name</key><string>It's You (feat. ZICO)</string>
+			<key>Persistent ID</key><string>BB67B759DD329C2F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97339</key>
+		<dict>
+			<key>Track ID</key><integer>97339</integer>
+			<key>Name</key><string>Ring Ring Ring</string>
+			<key>Artist</key><string>VERIVERY</string>
+			<key>Album Artist</key><string>VERIVERY</string>
+			<key>Album</key><string>VERI-US - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6935777</integer>
+			<key>Total Time</key><integer>186364</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-01-13T04:51:47Z</date>
+			<key>Date Added</key><date>2019-01-13T04:51:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3630611263</integer>
+			<key>Play Date UTC</key><date>2019-01-18T04:07:43Z</date>
+			<key>Release Date</key><date>2019-01-09T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>VERI-US - EP</string>
+			<key>Sort Artist</key><string>VERIVERY</string>
+			<key>Sort Name</key><string>Ring Ring Ring</string>
+			<key>Persistent ID</key><string>0ED27846A17F960F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97353</key>
+		<dict>
+			<key>Track ID</key><integer>97353</integer>
+			<key>Name</key><string>Dead Boys</string>
+			<key>Artist</key><string>Sam Fender</string>
+			<key>Album Artist</key><string>Sam Fender</string>
+			<key>Composer</key><string>Sam Fender</string>
+			<key>Album</key><string>Dead Boys - EP</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7274367</integer>
+			<key>Total Time</key><integer>201992</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-13T21:26:58Z</date>
+			<key>Date Added</key><date>2019-01-13T21:26:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3630589939</integer>
+			<key>Play Date UTC</key><date>2019-01-17T22:12:19Z</date>
+			<key>Release Date</key><date>2018-11-20T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dead Boys - EP</string>
+			<key>Sort Artist</key><string>Sam Fender</string>
+			<key>Sort Name</key><string>Dead Boys</string>
+			<key>Persistent ID</key><string>154E419C2BAA4A66</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97363</key>
+		<dict>
+			<key>Track ID</key><integer>97363</integer>
+			<key>Name</key><string>Poundshop Kardashians</string>
+			<key>Artist</key><string>Sam Fender</string>
+			<key>Album Artist</key><string>Sam Fender</string>
+			<key>Composer</key><string>Sam Fender</string>
+			<key>Album</key><string>Dead Boys - EP</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5870827</integer>
+			<key>Total Time</key><integer>159295</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-13T21:26:58Z</date>
+			<key>Date Added</key><date>2019-01-13T21:26:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3630610819</integer>
+			<key>Play Date UTC</key><date>2019-01-18T04:00:19Z</date>
+			<key>Release Date</key><date>2018-11-20T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dead Boys - EP</string>
+			<key>Sort Artist</key><string>Sam Fender</string>
+			<key>Sort Name</key><string>Poundshop Kardashians</string>
+			<key>Persistent ID</key><string>620888823F3428AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97386</key>
+		<dict>
+			<key>Track ID</key><integer>97386</integer>
+			<key>Name</key><string>4EVER</string>
+			<key>Artist</key><string>Clairo</string>
+			<key>Album Artist</key><string>Clairo</string>
+			<key>Composer</key><string>Eddie Burns, Claire Cottrill, Isaac Burns, Ashwin Torke &#38; Deaton Anthony</string>
+			<key>Album</key><string>diary 001 - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5834578</integer>
+			<key>Total Time</key><integer>159595</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-14T16:41:24Z</date>
+			<key>Date Added</key><date>2019-01-14T16:41:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3630610117</integer>
+			<key>Play Date UTC</key><date>2019-01-18T03:48:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-15T18:08:54Z</date>
+			<key>Release Date</key><date>2018-04-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>diary 001 - EP</string>
+			<key>Sort Artist</key><string>Clairo</string>
+			<key>Sort Name</key><string>4EVER</string>
+			<key>Persistent ID</key><string>2C0BACDF795F59C3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>97393</key>
+		<dict>
+			<key>Track ID</key><integer>97393</integer>
+			<key>Name</key><string>Pompeii (Kat Krazy Remix)</string>
+			<key>Artist</key><string>Bastille</string>
+			<key>Album Artist</key><string>Bastille</string>
+			<key>Album</key><string>Pompeii - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7712548</integer>
+			<key>Total Time</key><integer>217487</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-01-15T00:15:53Z</date>
+			<key>Date Added</key><date>2019-01-15T00:15:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3630408413</integer>
+			<key>Play Date UTC</key><date>2019-01-15T19:46:53Z</date>
+			<key>Release Date</key><date>2013-01-12T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pompeii - EP</string>
+			<key>Sort Artist</key><string>Bastille</string>
+			<key>Sort Name</key><string>Pompeii (Kat Krazy Remix)</string>
+			<key>Persistent ID</key><string>78EB80A6B5E2EE1B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>79516</integer>
+			<key>Playlist Persistent ID</key><string>317E07F776CE71F6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97393</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

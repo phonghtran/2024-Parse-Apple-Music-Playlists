@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:42:44Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14255</key>
+		<dict>
+			<key>Track ID</key><integer>14255</integer>
+			<key>Name</key><string>Oh Lately It's So Quiet</string>
+			<key>Artist</key><string>OK Go</string>
+			<key>Album</key><string>Oh No</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4345304</integer>
+			<key>Total Time</key><integer>181002</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-19T16:54:15Z</date>
+			<key>Date Added</key><date>2010-06-17T13:19:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3400435305</integer>
+			<key>Play Date UTC</key><date>2011-10-03T03:21:45Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-02T21:18:44Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4972</integer>
+			<key>Persistent ID</key><string>F1CC97E6C91F29A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/OK%20Go/Oh%20No/05-Ok%20Go-Oh%20Lately%20It's%20So%20Quiet-Myb.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>22527</key>
+		<dict>
+			<key>Track ID</key><integer>22527</integer>
+			<key>Name</key><string>Fluorescent Adolescent</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4264215</integer>
+			<key>Total Time</key><integer>177658</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-19T17:05:22Z</date>
+			<key>Date Added</key><date>2010-06-17T13:34:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3402300455</integer>
+			<key>Play Date UTC</key><date>2011-10-24T17:27:35Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2011-10-09T06:31:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6454</integer>
+			<key>Persistent ID</key><string>39D78723080EB939</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Arctic%20Monkeys-Fav%20Worst%20Nightmare%5B2007%5D%5BCD+SkidVid+Cov%5D/05%20%20Arctic%20Monkeys%20-%20Fluorescent%20Adolescent.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26575</key>
+		<dict>
+			<key>Track ID</key><integer>26575</integer>
+			<key>Name</key><string>Food Chain</string>
+			<key>Artist</key><string>Eric Hutchinson</string>
+			<key>Album Artist</key><string>Eric Hutchinson</string>
+			<key>Album</key><string>Sounds Like This</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5651705</integer>
+			<key>Total Time</key><integer>225306</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-10-17T20:33:27Z</date>
+			<key>Date Added</key><date>2010-06-17T13:45:13Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3400388010</integer>
+			<key>Play Date UTC</key><date>2011-10-02T14:13:30Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-10-02T21:15:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4246</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>215165295A2D5A14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Eric%20Hutchinson%20-%20Sounds%20Like%20This%20(2007)/Eric%20Hutchinson-%20Food%20Chain.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29169</key>
+		<dict>
+			<key>Track ID</key><integer>29169</integer>
+			<key>Name</key><string>My Drive Thru</string>
+			<key>Artist</key><string>N.E.R.D. feat. Santogold &#38; Julian Casablancas</string>
+			<key>Album Artist</key><string>N.E.R.D.</string>
+			<key>Album</key><string>Seeing Sounds</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5925827</integer>
+			<key>Total Time</key><integer>245368</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-11-08T04:56:58Z</date>
+			<key>Date Added</key><date>2010-11-08T04:59:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3400762831</integer>
+			<key>Play Date UTC</key><date>2011-10-06T22:20:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-10-07T15:03:12Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0968B1C5C04DC48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/N.E.R.D.%20-%20Seeing%20Sounds/seeing%20sounds-14-n.e.r.d.-my%20drive%20thru%20feat.%20santogold%20&#38;%20julian%20casablancas.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31439</key>
+		<dict>
+			<key>Track ID</key><integer>31439</integer>
+			<key>Name</key><string>Hennings Favourite</string>
+			<key>Artist</key><string>Johnny Foreigner</string>
+			<key>Album</key><string>Waited Up Til It Was Light</string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4650382</integer>
+			<key>Total Time</key><integer>203154</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-07-06T02:19:15Z</date>
+			<key>Date Added</key><date>2011-07-06T03:09:33Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3408033928</integer>
+			<key>Play Date UTC</key><date>2011-12-30T02:05:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-09-22T22:33:11Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5C3928E5BA96FD6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Johnny_Foreigner-Waited_Up_Til_It_Was_Light-2008-DV8/06-johnny_foreigner-hennings_favourite.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31935</key>
+		<dict>
+			<key>Track ID</key><integer>31935</integer>
+			<key>Name</key><string>Bait</string>
+			<key>Artist</key><string>Wale</string>
+			<key>Album Artist</key><string>Wale</string>
+			<key>Album</key><string>The Eleven One Eleven Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5560945</integer>
+			<key>Total Time</key><integer>269035</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-29T20:45:46Z</date>
+			<key>Date Added</key><date>2011-08-29T20:52:52Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>MixFiend.com / MixtapeTorrent.com</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3404648604</integer>
+			<key>Play Date UTC</key><date>2011-11-20T21:43:24Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-09-27T19:27:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8460</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Eleven One Eleven Theory</string>
+			<key>Persistent ID</key><string>0904E2DABC6F1511</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Wale%20-%20The%20Eleven%20One%20Eleven%20Theory-2011-MIXFIEND/08)%20Wale%20-%20Bait.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32081</key>
+		<dict>
+			<key>Track ID</key><integer>32081</integer>
+			<key>Name</key><string>Mine Is Yours</string>
+			<key>Artist</key><string>Cold War Kids</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7819837</integer>
+			<key>Total Time</key><integer>253884</integer>
+			<key>Start Time</key><integer>10000</integer>
+			<key>Track Number</key><integer>55</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-09-21T01:35:01Z</date>
+			<key>Date Added</key><date>2011-08-29T20:52:58Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3408352140</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:29:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-12-06T23:06:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0141E80D8127F9FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202011/55%20-%20Cold%20War%20Kids%20-%20Mine%20Is%20Yours.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32155</key>
+		<dict>
+			<key>Track ID</key><integer>32155</integer>
+			<key>Name</key><string>The Naturist</string>
+			<key>Artist</key><string>Ham Sandwich</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6238887</integer>
+			<key>Total Time</key><integer>200881</integer>
+			<key>Track Number</key><integer>95</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-09-06T21:30:45Z</date>
+			<key>Date Added</key><date>2011-08-29T20:53:00Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>71</integer>
+			<key>Play Date</key><integer>3408346383</integer>
+			<key>Play Date UTC</key><date>2012-01-02T16:53:03Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-11-23T04:31:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Naturist</string>
+			<key>Persistent ID</key><string>E31D25606A2F583E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202011/95%20-%20Ham%20Sandwich%20-%20The%20Naturist.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32181</key>
+		<dict>
+			<key>Track ID</key><integer>32181</integer>
+			<key>Name</key><string>Watch It Die</string>
+			<key>Artist</key><string>Eisley</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6158576</integer>
+			<key>Total Time</key><integer>188682</integer>
+			<key>Track Number</key><integer>109</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-09-06T21:30:47Z</date>
+			<key>Date Added</key><date>2011-08-29T20:53:01Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3408353185</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:46:25Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2011-12-10T17:57:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD4772461EA9288D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202011/109%20-%20Eisley%20-%20Watch%20It%20Die.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32183</key>
+		<dict>
+			<key>Track ID</key><integer>32183</integer>
+			<key>Name</key><string>We Will All Be Changed</string>
+			<key>Artist</key><string>Seryn</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9687676</integer>
+			<key>Total Time</key><integer>305293</integer>
+			<key>Track Number</key><integer>110</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-09-06T21:30:47Z</date>
+			<key>Date Added</key><date>2011-08-29T20:53:01Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3405699564</integer>
+			<key>Play Date UTC</key><date>2011-12-03T01:39:24Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2011-10-24T19:34:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A79E2506D9F458EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202011/110%20-%20Seryn%20-%20We%20Will%20All%20Be%20Changed.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32343</key>
+		<dict>
+			<key>Track ID</key><integer>32343</integer>
+			<key>Name</key><string>Gotta Have It</string>
+			<key>Artist</key><string>Jay-Z and Kanye West</string>
+			<key>Album Artist</key><string>Jay-Z and Kanye West (Deluxe Version)</string>
+			<key>Composer</key><string>Kanye West, Shawn Carter, Pharrell Williams, James Brown, Joseph Roach, Tony Pinckney &#38; Fred Wesley</string>
+			<key>Album</key><string>Watch the Throne  (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5731191</integer>
+			<key>Total Time</key><integer>140736</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-29T20:57:37Z</date>
+			<key>Date Added</key><date>2011-08-29T21:05:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>www.RapGodFathers.info
+twitter.com/RapGodFathers</string>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3408350478</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:01:18Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-04T18:23:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B05B4873845E607</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jay-Z%20and%20Kanye%20West%20-%20Watch%20the%20Throne%20(Deluxe%20Version)%20(RapGodFathers.info)/04-Jay-Z%20and%20Kanye%20West%20-%20Gotta%20Have%20It-RGF.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32399</key>
+		<dict>
+			<key>Track ID</key><integer>32399</integer>
+			<key>Name</key><string>Plumb Line</string>
+			<key>Artist</key><string>Archers Of Loaf</string>
+			<key>Album</key><string>Icky Mettle</string>
+			<key>Genre</key><string>Rock (Indie Rock)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3278402</integer>
+			<key>Total Time</key><integer>124525</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2011-08-29T21:10:03Z</date>
+			<key>Date Added</key><date>2011-08-29T21:10:20Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>( Quirky Volatile Tense/Anxious )</string>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3408355677</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:27:57Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-06T04:28:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2433</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>018C59C3738CE413</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Archers%20of%20Loaf%20-%201993%20-%20Icky%20Mettle/08%20Plumb%20Line.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32649</key>
+		<dict>
+			<key>Track ID</key><integer>32649</integer>
+			<key>Name</key><string>Interlude (Feat. Tech N9ne)</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Album</key><string>Tha Carter IV-(Deluxe Edition)</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3711600</integer>
+			<key>Total Time</key><integer>121260</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-27T16:10:16Z</date>
+			<key>Date Added</key><date>2011-09-03T18:23:17Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3406532382</integer>
+			<key>Play Date UTC</key><date>2011-12-12T16:59:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-24T21:34:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D08BFB1ED3A53C05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Lil_Wayne-Tha_Carter_IV-(Deluxe_Edition)-2011-CR/08-lil_wayne-interlude_(feat._tech_n9ne).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32675</key>
+		<dict>
+			<key>Track ID</key><integer>32675</integer>
+			<key>Name</key><string>White Night</string>
+			<key>Artist</key><string>The Postelles</string>
+			<key>Composer</key><string>Billy Cadden/Daniel Balk/David Dargahi/John Speyer</string>
+			<key>Album</key><string>The Postelles</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5387222</integer>
+			<key>Total Time</key><integer>160626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-09-06T04:24:35Z</date>
+			<key>Date Added</key><date>2011-09-06T04:25:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3408356336</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:38:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-09-23T16:08:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12168</integer>
+			<key>Sort Album</key><string>Postelles</string>
+			<key>Sort Artist</key><string>Postelles</string>
+			<key>Persistent ID</key><string>29CFAC94B0616877</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/The%20Postelles/01%20White%20Night.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32683</key>
+		<dict>
+			<key>Track ID</key><integer>32683</integer>
+			<key>Name</key><string>Can't Stand Still</string>
+			<key>Artist</key><string>The Postelles</string>
+			<key>Composer</key><string>Billy Cadden/Daniel Balk/David Dargahi/John Speyer</string>
+			<key>Album</key><string>The Postelles</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5188254</integer>
+			<key>Total Time</key><integer>154893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-09-06T04:24:30Z</date>
+			<key>Date Added</key><date>2011-09-06T04:25:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3405829334</integer>
+			<key>Play Date UTC</key><date>2011-12-04T13:42:14Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-25T00:28:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12316</integer>
+			<key>Sort Album</key><string>Postelles</string>
+			<key>Sort Artist</key><string>Postelles</string>
+			<key>Persistent ID</key><string>69FC94F70693C789</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/The%20Postelles/05%20Can't%20Stand%20Still.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32689</key>
+		<dict>
+			<key>Track ID</key><integer>32689</integer>
+			<key>Name</key><string>Hey Little Sister</string>
+			<key>Artist</key><string>The Postelles</string>
+			<key>Composer</key><string>Billy Cadden/Daniel Balk/David Dargahi/John Speyer</string>
+			<key>Album</key><string>The Postelles</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5995003</integer>
+			<key>Total Time</key><integer>182640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-09-06T04:24:26Z</date>
+			<key>Date Added</key><date>2011-09-06T04:25:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3407981503</integer>
+			<key>Play Date UTC</key><date>2011-12-29T11:31:43Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9511</integer>
+			<key>Sort Album</key><string>Postelles</string>
+			<key>Sort Artist</key><string>Postelles</string>
+			<key>Persistent ID</key><string>29C8F3357FCBC908</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/The%20Postelles/08%20Hey%20Little%20Sister.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32707</key>
+		<dict>
+			<key>Track ID</key><integer>32707</integer>
+			<key>Name</key><string>Eazy E vs Johnny Cash-Folsom Prison Gangstaz-106bpm (master).mp3</string>
+			<key>Artist</key><string>DJ TOPCAT</string>
+			<key>Album</key><string>Eazy E vs Johnny Cash Mashup Album</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9601674</integer>
+			<key>Total Time</key><integer>240013</integer>
+			<key>Date Modified</key><date>2011-09-09T03:58:33Z</date>
+			<key>Date Added</key><date>2011-09-09T15:01:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3407141547</integer>
+			<key>Play Date UTC</key><date>2011-12-19T18:12:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-02T20:41:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8A5598FAD75C0708</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Eazy%20E%20vs%20Johnny%20Cash-Folsom%20Prison%20Gangstaz-106bpm%20(master).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32709</key>
+		<dict>
+			<key>Track ID</key><integer>32709</integer>
+			<key>Name</key><string>Look At Mexico Now (Busta Rhymes vs. The Coasters )</string>
+			<key>Artist</key><string>Wick-it </string>
+			<key>Album</key><string>earmilk.com - #MashupMonday</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9374447</integer>
+			<key>Total Time</key><integer>234048</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2011-09-09T04:32:36Z</date>
+			<key>Date Added</key><date>2011-09-09T15:01:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3407897259</integer>
+			<key>Play Date UTC</key><date>2011-12-28T12:07:39Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-02T21:22:27Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4617</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>04CB1E4E30E9DDBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Look%20At%20Mexico%20Now%20-%20Busta%20Rhymes%20vs.%20The%20Coasters%20(Wick-it%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32743</key>
+		<dict>
+			<key>Track ID</key><integer>32743</integer>
+			<key>Name</key><string>Holy Water</string>
+			<key>Artist</key><string>Astronautalis</string>
+			<key>Album Artist</key><string>Astronautalis</string>
+			<key>Composer</key><string>Andy Bothwell</string>
+			<key>Album</key><string>This is Our Science</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7118597</integer>
+			<key>Total Time</key><integer>177345</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-09-13T16:52:05Z</date>
+			<key>Date Added</key><date>2011-09-13T16:52:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3404658926</integer>
+			<key>Play Date UTC</key><date>2011-11-21T00:35:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-07T19:39:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BB9DC5D2ECD9E9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/This%20is%20Our%20Science/08%20Holy%20Water.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-09-19</string>
+			<key>Playlist ID</key><integer>675585</integer>
+			<key>Playlist Persistent ID</key><string>FA8E770AC4DF189C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31935</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29169</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

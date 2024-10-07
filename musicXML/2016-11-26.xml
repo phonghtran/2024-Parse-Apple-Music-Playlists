@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-11-26T22:55:46Z</date>
+	<key>Application Version</key><string>12.5.3.17</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>BA48A96D4D7BB3D9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>47056</key>
+		<dict>
+			<key>Track ID</key><integer>47056</integer>
+			<key>Name</key><string>Surfin' (feat. Pharrell Williams)</string>
+			<key>Artist</key><string>Kid Cudi</string>
+			<key>Album Artist</key><string>Kid Cudi</string>
+			<key>Composer</key><string>Pharrell Williams &#38; Scott Mescudi</string>
+			<key>Album</key><string>Surfin' (feat. Pharrell Williams) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8713993</integer>
+			<key>Total Time</key><integer>238394</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-08T04:12:44Z</date>
+			<key>Date Added</key><date>2016-11-08T04:12:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3562676395</integer>
+			<key>Play Date UTC</key><date>2016-11-23T00:19:55Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-11-23T03:40:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Surfin' (feat. Pharrell Williams) - Single</string>
+			<key>Sort Artist</key><string>Kid Cudi</string>
+			<key>Sort Name</key><string>Surfin' (feat. Pharrell Williams)</string>
+			<key>Persistent ID</key><string>6E0CECDBB04C7D00</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47102</key>
+		<dict>
+			<key>Track ID</key><integer>47102</integer>
+			<key>Name</key><string>Solid Wall of Sound</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Composer</key><string>Kamaal Fareed</string>
+			<key>Album</key><string>We got it from Here... Thank You 4 Your service</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8199237</integer>
+			<key>Total Time</key><integer>223357</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-17T18:04:08Z</date>
+			<key>Date Added</key><date>2016-11-17T18:04:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3562744176</integer>
+			<key>Play Date UTC</key><date>2016-11-23T19:09:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-11-24T07:57:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We got it from Here... Thank You 4 Your service</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Name</key><string>Solid Wall of Sound</string>
+			<key>Persistent ID</key><string>70913FD0F7C429F6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47596</key>
+		<dict>
+			<key>Track ID</key><integer>47596</integer>
+			<key>Name</key><string>C'est La Vie</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Composer</key><string>Tinashe Kachingwe</string>
+			<key>Album</key><string>Nightride</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7701242</integer>
+			<key>Total Time</key><integer>215902</integer>
+			<key>Stop Time</key><integer>155902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-20T17:54:56Z</date>
+			<key>Date Added</key><date>2016-11-20T17:54:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3562745221</integer>
+			<key>Play Date UTC</key><date>2016-11-23T19:27:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nightride</string>
+			<key>Sort Artist</key><string>Tinashe</string>
+			<key>Sort Name</key><string>C'est La Vie</string>
+			<key>Persistent ID</key><string>FD98313A5453F073</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47604</key>
+		<dict>
+			<key>Track ID</key><integer>47604</integer>
+			<key>Name</key><string>Company</string>
+			<key>Artist</key><string>Tinashe</string>
+			<key>Album Artist</key><string>Tinashe</string>
+			<key>Composer</key><string>Tinashe Kachingwe</string>
+			<key>Album</key><string>Nightride</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9376379</integer>
+			<key>Total Time</key><integer>265145</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-20T17:54:56Z</date>
+			<key>Date Added</key><date>2016-11-20T17:54:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3562744843</integer>
+			<key>Play Date UTC</key><date>2016-11-23T19:20:43Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nightride</string>
+			<key>Sort Artist</key><string>Tinashe</string>
+			<key>Sort Name</key><string>Company</string>
+			<key>Persistent ID</key><string>4FBA7E6790616C2D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47658</key>
+		<dict>
+			<key>Track ID</key><integer>47658</integer>
+			<key>Name</key><string>Boyish</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Album</key><string>Boyish - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7974227</integer>
+			<key>Total Time</key><integer>221821</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T04:06:33Z</date>
+			<key>Date Added</key><date>2016-11-22T04:06:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3562745065</integer>
+			<key>Play Date UTC</key><date>2016-11-23T19:24:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boyish - Single</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>Boyish</string>
+			<key>Persistent ID</key><string>EA7D987EC9B3ECA0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47660</key>
+		<dict>
+			<key>Track ID</key><integer>47660</integer>
+			<key>Name</key><string>Get Low</string>
+			<key>Artist</key><string>James Vincent McMorrow</string>
+			<key>Album Artist</key><string>James Vincent McMorrow</string>
+			<key>Composer</key><string>James Vincent McMorrow</string>
+			<key>Album</key><string>We Move</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8848240</integer>
+			<key>Total Time</key><integer>250480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T04:06:43Z</date>
+			<key>Date Added</key><date>2016-11-22T04:06:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3562660378</integer>
+			<key>Play Date UTC</key><date>2016-11-22T19:52:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Move</string>
+			<key>Sort Artist</key><string>James Vincent McMorrow</string>
+			<key>Sort Name</key><string>Get Low</string>
+			<key>Persistent ID</key><string>ED9A2C15ADA87941</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47680</key>
+		<dict>
+			<key>Track ID</key><integer>47680</integer>
+			<key>Name</key><string>Too Young (feat. Rivers Cuomo &#38; Pusha T)</string>
+			<key>Artist</key><string>Zeds Dead</string>
+			<key>Album Artist</key><string>Zeds Dead</string>
+			<key>Composer</key><string>Rivers Cuomo, Terrence Thorton p/k/a Pusha T, Zachary Rapp-Rovan &#38; Dylan Mamid</string>
+			<key>Album</key><string>Northern Lights</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6493770</integer>
+			<key>Total Time</key><integer>180714</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T04:07:10Z</date>
+			<key>Date Added</key><date>2016-11-22T04:07:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3562747217</integer>
+			<key>Play Date UTC</key><date>2016-11-23T20:00:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Northern Lights</string>
+			<key>Sort Artist</key><string>Zeds Dead</string>
+			<key>Sort Name</key><string>Too Young (feat. Rivers Cuomo &#38; Pusha T)</string>
+			<key>Persistent ID</key><string>7F51820C04AC55EE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47682</key>
+		<dict>
+			<key>Track ID</key><integer>47682</integer>
+			<key>Name</key><string>Stardust (feat. Twin Shadow)</string>
+			<key>Artist</key><string>Zeds Dead</string>
+			<key>Album Artist</key><string>Zeds Dead</string>
+			<key>Composer</key><string>Zachary Rapp-Rovan, Dylan Mamid &#38; George Lewis Jr.</string>
+			<key>Album</key><string>Northern Lights</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9033842</integer>
+			<key>Total Time</key><integer>258832</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T04:07:11Z</date>
+			<key>Date Added</key><date>2016-11-22T04:07:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563004633</integer>
+			<key>Play Date UTC</key><date>2016-11-26T19:30:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-11-22T04:10:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Northern Lights</string>
+			<key>Sort Artist</key><string>Zeds Dead</string>
+			<key>Sort Name</key><string>Stardust (feat. Twin Shadow)</string>
+			<key>Persistent ID</key><string>738A5037F74C31CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47710</key>
+		<dict>
+			<key>Track ID</key><integer>47710</integer>
+			<key>Name</key><string>Slumber Party (feat. Tinashe)</string>
+			<key>Artist</key><string>Britney Spears</string>
+			<key>Album Artist</key><string>Britney Spears</string>
+			<key>Composer</key><string>Mattias Larsson, Robin Fredriksson, Julia Michaels &#38; justin tranter</string>
+			<key>Album</key><string>Glory (Deluxe Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7665865</integer>
+			<key>Total Time</key><integer>213535</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T05:21:15Z</date>
+			<key>Date Added</key><date>2016-11-22T05:21:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3562743181</integer>
+			<key>Play Date UTC</key><date>2016-11-23T18:53:01Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Glory (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Britney Spears</string>
+			<key>Sort Name</key><string>Slumber Party (feat. Tinashe)</string>
+			<key>Persistent ID</key><string>8112D5E4915041BC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47712</key>
+		<dict>
+			<key>Track ID</key><integer>47712</integer>
+			<key>Name</key><string>Immigrants (We Get the Job Done)</string>
+			<key>Artist</key><string>K'naan, Snow Tha Product, Riz MC &#38; Residente</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Hamilton Mixtape</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9872021</integer>
+			<key>Total Time</key><integer>281596</integer>
+			<key>Start Time</key><integer>30750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T06:32:18Z</date>
+			<key>Date Added</key><date>2016-11-22T06:32:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3562742230</integer>
+			<key>Play Date UTC</key><date>2016-11-23T18:37:10Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2016-11-23T18:48:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hamilton Mixtape</string>
+			<key>Sort Artist</key><string>K'naan, Snow Tha Product, Riz MC &#38; Residente</string>
+			<key>Sort Name</key><string>Immigrants (We Get the Job Done)</string>
+			<key>Persistent ID</key><string>CE8C00675480BA38</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47714</key>
+		<dict>
+			<key>Track ID</key><integer>47714</integer>
+			<key>Name</key><string>G Train</string>
+			<key>Artist</key><string>Thirdstory</string>
+			<key>Album Artist</key><string>Thirdstory</string>
+			<key>Composer</key><string>Ben Lusher, Richard Saunders, Elliott Skinner, Ruth-Anne Cunningham, Jon Levine &#38; James Ho</string>
+			<key>Album</key><string>Searching EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7794334</integer>
+			<key>Total Time</key><integer>215864</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T07:17:37Z</date>
+			<key>Date Added</key><date>2016-11-22T07:17:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3562790219</integer>
+			<key>Play Date UTC</key><date>2016-11-24T07:56:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Searching EP</string>
+			<key>Sort Artist</key><string>Thirdstory</string>
+			<key>Sort Name</key><string>G Train</string>
+			<key>Persistent ID</key><string>158A0E65CD091B8F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47716</key>
+		<dict>
+			<key>Track ID</key><integer>47716</integer>
+			<key>Name</key><string>Garden (feat. Jay Electronica &#38; Áine Zion)</string>
+			<key>Artist</key><string>Emeli Sandé</string>
+			<key>Album Artist</key><string>Emeli Sandé</string>
+			<key>Composer</key><string>Emeli Sandé, Áine Zion, Chris Loco &#38; Timothy Thedford</string>
+			<key>Album</key><string>Long Live the Angels (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8529468</integer>
+			<key>Total Time</key><integer>242055</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T07:21:13Z</date>
+			<key>Date Added</key><date>2016-11-22T07:21:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3562743423</integer>
+			<key>Play Date UTC</key><date>2016-11-23T18:57:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Long Live the Angels (Deluxe)</string>
+			<key>Sort Artist</key><string>Emeli Sandé</string>
+			<key>Sort Name</key><string>Garden (feat. Jay Electronica &#38; Áine Zion)</string>
+			<key>Persistent ID</key><string>14B93865DDD9B082</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47720</key>
+		<dict>
+			<key>Track ID</key><integer>47720</integer>
+			<key>Name</key><string>Crave</string>
+			<key>Artist</key><string>Pharrell Williams</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Pharrell Williams</string>
+			<key>Album</key><string>Hidden Figures: The Album</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6625725</integer>
+			<key>Total Time</key><integer>173351</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-22T07:34:21Z</date>
+			<key>Date Added</key><date>2016-11-22T07:34:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3562746950</integer>
+			<key>Play Date UTC</key><date>2016-11-23T19:55:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hidden Figures: The Album</string>
+			<key>Sort Artist</key><string>Pharrell Williams</string>
+			<key>Sort Name</key><string>Crave</string>
+			<key>Persistent ID</key><string>711D76F9A1DAEE85</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47724</key>
+		<dict>
+			<key>Track ID</key><integer>47724</integer>
+			<key>Name</key><string>Stay With Me (The Voice Performance)</string>
+			<key>Artist</key><string>Maiya Sykes</string>
+			<key>Album Artist</key><string>Maiya Sykes</string>
+			<key>Composer</key><string>Sam Smith, James Napier &#38; William Phillips</string>
+			<key>Album</key><string>Stay With Me (The Voice Performance) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6598662</integer>
+			<key>Total Time</key><integer>181987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-11-23T04:19:47Z</date>
+			<key>Date Added</key><date>2016-11-23T04:19:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3562744578</integer>
+			<key>Play Date UTC</key><date>2016-11-23T19:16:18Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stay With Me (The Voice Performance) - Single</string>
+			<key>Sort Artist</key><string>Maiya Sykes</string>
+			<key>Sort Name</key><string>Stay With Me (The Voice Performance)</string>
+			<key>Persistent ID</key><string>AF5CA740259CEB9F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47726</key>
+		<dict>
+			<key>Track ID</key><integer>47726</integer>
+			<key>Name</key><string>Tiny Cities (feat. Beck)</string>
+			<key>Artist</key><string>Flume</string>
+			<key>Album Artist</key><string>Flume</string>
+			<key>Album</key><string>Skin</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8593923</integer>
+			<key>Total Time</key><integer>236625</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-23T06:07:45Z</date>
+			<key>Date Added</key><date>2016-11-23T06:07:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Skin</string>
+			<key>Sort Artist</key><string>Flume</string>
+			<key>Sort Name</key><string>Tiny Cities (feat. Beck)</string>
+			<key>Persistent ID</key><string>CCD0889D6559CB3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>108024</key>
+		<dict>
+			<key>Track ID</key><integer>108024</integer>
+			<key>Name</key><string>Secrets</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Album Artist</key><string>The Weeknd</string>
+			<key>Composer</key><string>Abel Tesfaye, Martin McKinney, Henry Russell Walter, Dylan Wiggins, Ronald Orzabal, G. Canler, J. Marions, W. Palamarchuk, M. Skill &#38; P. Solley</string>
+			<key>Album</key><string>Starboy</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9892679</integer>
+			<key>Total Time</key><integer>265607</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-26T17:11:19Z</date>
+			<key>Date Added</key><date>2016-11-26T17:11:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3563016654</integer>
+			<key>Play Date UTC</key><date>2016-11-26T22:50:54Z</date>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Starboy</string>
+			<key>Sort Album Artist</key><string>Weeknd</string>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Sort Name</key><string>Secrets</string>
+			<key>Persistent ID</key><string>4832586BEDCAF1EC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>108039</key>
+		<dict>
+			<key>Track ID</key><integer>108039</integer>
+			<key>Name</key><string>Sidewalks (feat. Kendrick Lamar)</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Album Artist</key><string>The Weeknd</string>
+			<key>Composer</key><string>Abel Tesfaye, Martin McKinney, Daniel Wilson, Robert John Richardson, Kendrick Lamar Duckworth &#38; Ali Shaheed Jones-Muhammad</string>
+			<key>Album</key><string>Starboy</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8149533</integer>
+			<key>Total Time</key><integer>231357</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-26T17:11:19Z</date>
+			<key>Date Added</key><date>2016-11-26T17:11:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3563001196</integer>
+			<key>Play Date UTC</key><date>2016-11-26T18:33:16Z</date>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Starboy</string>
+			<key>Sort Album Artist</key><string>Weeknd</string>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Sort Name</key><string>Sidewalks (feat. Kendrick Lamar)</string>
+			<key>Persistent ID</key><string>654F14BA82E34195</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>108458</integer>
+			<key>Playlist Persistent ID</key><string>56E8E567290DB95D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47056</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47596</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47680</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47710</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47714</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47716</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47726</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>108039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>108024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47682</integer>
+				</dict>
+			</array>
+			<key>Loved</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

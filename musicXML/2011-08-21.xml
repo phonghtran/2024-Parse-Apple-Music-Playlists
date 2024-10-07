@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:43:00Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16163</key>
+		<dict>
+			<key>Track ID</key><integer>16163</integer>
+			<key>Name</key><string>Hot Ride</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Album</key><string>Always Outnumbered, Never Outgunned</string>
+			<key>Genre</key><string>Techno</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7057408</integer>
+			<key>Total Time</key><integer>276271</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-07-19T16:50:44Z</date>
+			<key>Date Added</key><date>2010-06-17T13:23:28Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3398152468</integer>
+			<key>Play Date UTC</key><date>2011-09-06T17:14:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-08-26T01:35:20Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8793</integer>
+			<key>Sort Artist</key><string>Prodigy</string>
+			<key>Persistent ID</key><string>97199AE94DEA2DB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/The%20Prodigy%20-%20Hot%20Ride.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19601</key>
+		<dict>
+			<key>Track ID</key><integer>19601</integer>
+			<key>Name</key><string>Alice</string>
+			<key>Artist</key><string>Moby</string>
+			<key>Album</key><string>Last Night</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6408966</integer>
+			<key>Total Time</key><integer>266945</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-05-23T17:25:39Z</date>
+			<key>Date Added</key><date>2010-06-17T13:25:38Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3403179897</integer>
+			<key>Play Date UTC</key><date>2011-11-03T21:44:57Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-09-03T15:56:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4580</integer>
+			<key>Persistent ID</key><string>0CB9BCB9A65AF216</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Moby%20-%20Last%20Night%20%5B2008%5D%5BCD+2%20SkidVid_Xvid+Cov%5D192Kbps/06%20%20Moby%20-%20Alice.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21075</key>
+		<dict>
+			<key>Track ID</key><integer>21075</integer>
+			<key>Name</key><string>Bring It On</string>
+			<key>Artist</key><string>Leon Jean Marie</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5392768</integer>
+			<key>Total Time</key><integer>181237</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-05-23T17:39:42Z</date>
+			<key>Date Added</key><date>2010-06-17T13:31:10Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3396890302</integer>
+			<key>Play Date UTC</key><date>2011-08-23T02:38:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-08-24T13:46:56Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5268</integer>
+			<key>Persistent ID</key><string>552F03A0BE72F0C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20July%202008/12%20-%20Leon%20Jean%20Marie%20-%20Bring%20It%20On.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24381</key>
+		<dict>
+			<key>Track ID</key><integer>24381</integer>
+			<key>Name</key><string>Sixteen Days</string>
+			<key>Artist</key><string>neil thomas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5083264</integer>
+			<key>Total Time</key><integer>254119</integer>
+			<key>Date Modified</key><date>2009-08-03T04:05:06Z</date>
+			<key>Date Added</key><date>2010-06-17T13:37:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3398034492</integer>
+			<key>Play Date UTC</key><date>2011-09-05T08:28:12Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2011-08-26T14:24:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5420</integer>
+			<key>Persistent ID</key><string>89A0481EB7CD1C7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW%202009/5%20stars/Neil_Thomas-Sixteen_Days.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24505</key>
+		<dict>
+			<key>Track ID</key><integer>24505</integer>
+			<key>Name</key><string>Next Big Thing</string>
+			<key>Artist</key><string>The Shitsez</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3770496</integer>
+			<key>Total Time</key><integer>157074</integer>
+			<key>Date Modified</key><date>2009-08-03T04:05:11Z</date>
+			<key>Date Added</key><date>2010-06-17T13:37:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3398467552</integer>
+			<key>Play Date UTC</key><date>2011-09-10T08:45:52Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2011-08-24T13:41:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3229</integer>
+			<key>Sort Artist</key><string>Shitsez</string>
+			<key>Persistent ID</key><string>23F823D899FE7673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW%202009/4%20stars/The_Shitsez-Next_Big_Thing.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24725</key>
+		<dict>
+			<key>Track ID</key><integer>24725</integer>
+			<key>Name</key><string>Same Old Lines</string>
+			<key>Artist</key><string>Rod Thomas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2936960</integer>
+			<key>Total Time</key><integer>183510</integer>
+			<key>Date Modified</key><date>2009-08-03T04:05:25Z</date>
+			<key>Date Added</key><date>2010-06-17T13:37:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>85</integer>
+			<key>Play Date</key><integer>3404679549</integer>
+			<key>Play Date UTC</key><date>2011-11-21T06:19:09Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2011-10-05T00:18:59Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4329</integer>
+			<key>Persistent ID</key><string>79A41D0C598A24D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW%202009/3%20stars/Rod_Thomas-Same_Old_Lines.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29925</key>
+		<dict>
+			<key>Track ID</key><integer>29925</integer>
+			<key>Name</key><string>Fool for You (feat. Phillip Bailey)</string>
+			<key>Artist</key><string>Cee Lo Green</string>
+			<key>Album Artist</key><string>Cee Lo Green</string>
+			<key>Album</key><string>The Lady Killer (Deluxe Version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7485917</integer>
+			<key>Total Time</key><integer>220708</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-02-20T20:48:29Z</date>
+			<key>Date Added</key><date>2011-02-20T21:14:12Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3402483673</integer>
+			<key>Play Date UTC</key><date>2011-10-26T20:21:13Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-12-04T01:35:30Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lady Killer (Deluxe Version)</string>
+			<key>Persistent ID</key><string>C0B966955F37A5B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Cee%20Lo%20Green%20-%20The%20Lady%20Killer%20%5BExplict%5D%20(Deluxe)%20CDRip%20-2010-%20%5BMJN%5D/10%20-%20Fool%20for%20You%20(feat.%20Phillip%20Bailey).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31455</key>
+		<dict>
+			<key>Track ID</key><integer>31455</integer>
+			<key>Name</key><string>Schizophrenia</string>
+			<key>Artist</key><string>Jukebox the Ghost</string>
+			<key>Album</key><string>Everything Under the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8975904</integer>
+			<key>Total Time</key><integer>224339</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-06T02:34:18Z</date>
+			<key>Date Added</key><date>2011-07-06T03:09:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3407142819</integer>
+			<key>Play Date UTC</key><date>2011-12-19T18:33:39Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>79425EC843DA7A81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jukebox%20The%20Ghost/Jukebox%20the%20Ghost%20-%202010%20-%20Everything%20Under%20the%20Sun%20%5B320%5D/01%20-%20Schizophrenia.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31461</key>
+		<dict>
+			<key>Track ID</key><integer>31461</integer>
+			<key>Name</key><string>Summer Sun</string>
+			<key>Artist</key><string>Jukebox the Ghost</string>
+			<key>Album</key><string>Everything Under the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5423248</integer>
+			<key>Total Time</key><integer>135523</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-06T02:33:33Z</date>
+			<key>Date Added</key><date>2011-07-06T03:09:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3408354342</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:05:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-09T00:10:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>86EAE4B288C14283</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jukebox%20The%20Ghost/Jukebox%20the%20Ghost%20-%202010%20-%20Everything%20Under%20the%20Sun%20%5B320%5D/04%20-%20Summer%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31673</key>
+		<dict>
+			<key>Track ID</key><integer>31673</integer>
+			<key>Name</key><string>Modern Art</string>
+			<key>Artist</key><string>Black Lips</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4994372</integer>
+			<key>Total Time</key><integer>124212</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-04T21:23:46Z</date>
+			<key>Date Added</key><date>2011-07-26T20:32:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3406366300</integer>
+			<key>Play Date UTC</key><date>2011-12-10T18:51:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-08-19T13:52:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11088</integer>
+			<key>Persistent ID</key><string>0761818EF0C386C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Indie69_Tasty_Leftovers_June_2011/Black_Lips-Modern_Art.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31789</key>
+		<dict>
+			<key>Track ID</key><integer>31789</integer>
+			<key>Name</key><string>Everything Goes My Way</string>
+			<key>Artist</key><string>Metronomy</string>
+			<key>Album Artist</key><string>Metronomy</string>
+			<key>Album</key><string>The English Riviera</string>
+			<key>Genre</key><string>Indie; Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6792646</integer>
+			<key>Total Time</key><integer>210155</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-04T21:17:31Z</date>
+			<key>Date Added</key><date>2011-08-04T21:23:06Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3403235326</integer>
+			<key>Play Date UTC</key><date>2011-11-04T13:08:46Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-09-24T20:10:22Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>English Riviera</string>
+			<key>Persistent ID</key><string>8D98B61CE372C63D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Metronomy%20-%20The%20English%20Riviera%20(2011)/03%20Everything%20Goes%20My%20Way.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31871</key>
+		<dict>
+			<key>Track ID</key><integer>31871</integer>
+			<key>Name</key><string>Super Bass</string>
+			<key>Artist</key><string>Nicki Minaj</string>
+			<key>Album Artist</key><string>Nicki Minaj</string>
+			<key>Composer</key><string>D. Johnson, O. Maraj &#38; E. Dean</string>
+			<key>Album</key><string>Super Bass</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7339761</integer>
+			<key>Total Time</key><integer>200013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-21T16:00:24Z</date>
+			<key>Date Added</key><date>2011-08-16T18:10:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.RNBxBeatz.com</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3399098458</integer>
+			<key>Play Date UTC</key><date>2011-09-17T16:00:58Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-09-03T02:34:12Z</date>
+			<key>Release Date</key><date>2011-05-13T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8261</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5DCC157357089BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Nicki%20Minaj%20-%20Super%20Bass%20(iTunes%20Version)/01%20Super%20Bass.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31875</key>
+		<dict>
+			<key>Track ID</key><integer>31875</integer>
+			<key>Name</key><string>Karma</string>
+			<key>Artist</key><string>Joss Stone</string>
+			<key>Album</key><string>LP1</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7613960</integer>
+			<key>Total Time</key><integer>234187</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-16T17:09:24Z</date>
+			<key>Date Added</key><date>2011-08-16T18:10:15Z</date>
+			<key>Bit Rate</key><integer>260</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>no comment</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3399095578</integer>
+			<key>Play Date UTC</key><date>2011-09-17T15:12:58Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-10-09T17:42:09Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>24ECCAF7748BE9B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Joss%20Stone%20-%20LP1-2011-MOD/02_joss_stone_-_karma.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31897</key>
+		<dict>
+			<key>Track ID</key><integer>31897</integer>
+			<key>Name</key><string>Moves Like Jagger (Sex Ray Vision Remix)</string>
+			<key>Artist</key><string>Maroon 5</string>
+			<key>Composer</key><string>www.ohmyrock.net</string>
+			<key>Grouping</key><string>www.ohmyrock.net</string>
+			<key>Genre</key><string>Remix</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9342381</integer>
+			<key>Total Time</key><integer>230687</integer>
+			<key>Disc Number</key><integer>24</integer>
+			<key>Disc Count</key><integer>24</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-21T16:00:14Z</date>
+			<key>Date Added</key><date>2011-08-17T16:44:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.ohmyrock.net</string>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3407788145</integer>
+			<key>Play Date UTC</key><date>2011-12-27T05:49:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-09-01T01:20:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4636</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C37B2F21B030E274</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/24-06%20Moves%20Like%20Jagger%20(Sex%20Ray%20Vision%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31899</key>
+		<dict>
+			<key>Track ID</key><integer>31899</integer>
+			<key>Name</key><string>$hwagger Jagger (Pres Mashup)</string>
+			<key>Artist</key><string>Ludacris vs Ke$ha</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4899981</integer>
+			<key>Total Time</key><integer>204068</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2011-08-17T16:41:21Z</date>
+			<key>Date Added</key><date>2011-08-17T16:44:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3407229060</integer>
+			<key>Play Date UTC</key><date>2011-12-20T18:31:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-09-14T16:47:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C356C60C2F1FA3A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Ludacris%20vs%20Ke$ha%20-%20$hwagger%20Jagger%20(Pres%20Mashup).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-08-21</string>
+			<key>Playlist ID</key><integer>675672</integer>
+			<key>Playlist Persistent ID</key><string>FB6158323E0C08DC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>24505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31897</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16163</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

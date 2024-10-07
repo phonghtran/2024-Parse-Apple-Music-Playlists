@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-02-27T13:22:38Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7736</key>
+		<dict>
+			<key>Track ID</key><integer>7736</integer>
+			<key>Name</key><string>Teddy Pickers</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3918763</integer>
+			<key>Total Time</key><integer>163265</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-19T17:05:27Z</date>
+			<key>Date Added</key><date>2010-06-17T13:07:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3412998105</integer>
+			<key>Play Date UTC</key><date>2012-02-25T13:01:45Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2012-02-25T19:14:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6351</integer>
+			<key>Persistent ID</key><string>747DDF0E0F884296</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Arctic%20Monkeys-Fav%20Worst%20Nightmare%5B2007%5D%5BCD+SkidVid+Cov%5D/02%20%20Arctic%20Monkeys%20-%20Teddy%20Pickers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10784</key>
+		<dict>
+			<key>Track ID</key><integer>10784</integer>
+			<key>Name</key><string>Acoustic #3</string>
+			<key>Artist</key><string>Goo Goo Dolls</string>
+			<key>Album</key><string>Dizzy up the Girl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1871983</integer>
+			<key>Total Time</key><integer>116845</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2008-07-19T16:59:01Z</date>
+			<key>Date Added</key><date>2010-06-17T13:13:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3412924970</integer>
+			<key>Play Date UTC</key><date>2012-02-24T16:42:50Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2012-02-26T20:48:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>553</integer>
+			<key>Persistent ID</key><string>01943EF94FA2A0EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Goo%20Goo%20Dolls%20-%20Acoustic%203.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33158</key>
+		<dict>
+			<key>Track ID</key><integer>33158</integer>
+			<key>Name</key><string>Miami Nights</string>
+			<key>Artist</key><string>Wale</string>
+			<key>Composer</key><string>Olubowale Victor Akintimehin, Mark Henry</string>
+			<key>Album</key><string>Ambition</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8768761</integer>
+			<key>Total Time</key><integer>216293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-27T22:51:11Z</date>
+			<key>Date Added</key><date>2011-11-28T01:24:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3412966471</integer>
+			<key>Play Date UTC</key><date>2012-02-25T04:14:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-02-27T03:09:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5662</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ambition</string>
+			<key>Sort Artist</key><string>Wale</string>
+			<key>Persistent ID</key><string>0C9F04A8D0267842</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Wale%20-%20Ambition%20%5B2011%20Album%5D/03%20Miami%20Nights.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33610</key>
+		<dict>
+			<key>Track ID</key><integer>33610</integer>
+			<key>Name</key><string>Shuffle</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind Of Fix</string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7706824</integer>
+			<key>Total Time</key><integer>235337</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-01-09T01:40:07Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3412951947</integer>
+			<key>Play Date UTC</key><date>2012-02-25T00:12:27Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-02-18T03:40:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Different Kind Of Fix</string>
+			<key>Persistent ID</key><string>30467D928F266EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Bombay_Bicycle_Club-A_Different_Kind_Of_Fix-2011-SiRE/06-bombay_bicycle_club-shuffle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33808</key>
+		<dict>
+			<key>Track ID</key><integer>33808</integer>
+			<key>Name</key><string>Keep Me In Mind</string>
+			<key>Artist</key><string>The Bamboos</string>
+			<key>Album</key><string>4</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10261988</integer>
+			<key>Total Time</key><integer>256444</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2012-01-25T15:56:32Z</date>
+			<key>Date Added</key><date>2012-01-25T15:57:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Imaginariums</string>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3413007052</integer>
+			<key>Play Date UTC</key><date>2012-02-25T15:30:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Bamboos</string>
+			<key>Persistent ID</key><string>DE7E07833C642E8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/The%20Bamboos%20-%204%20(2010).www.lokotorrents.com/10%20Keep%20Me%20In%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33872</key>
+		<dict>
+			<key>Track ID</key><integer>33872</integer>
+			<key>Name</key><string>Teething</string>
+			<key>Artist</key><string>J Irvín Dally</string>
+			<key>Album</key><string>Sun Room</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3850698</integer>
+			<key>Total Time</key><integer>184842</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-02-07T03:55:37Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://jirvindally.bandcamp.com</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3413006795</integer>
+			<key>Play Date UTC</key><date>2012-02-25T15:26:35Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4321</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>429998DAF51D3CE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/J%20Irvi%CC%81n%20Dally%20%E2%80%93%20Teething.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33878</key>
+		<dict>
+			<key>Track ID</key><integer>33878</integer>
+			<key>Name</key><string>Came Out of a Lady</string>
+			<key>Artist</key><string>Rubblebucket</string>
+			<key>Composer</key><string>Alex Toth Kalmia Traver</string>
+			<key>Album</key><string>Came Out of a Lady Suite</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10404228</integer>
+			<key>Total Time</key><integer>260048</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-02-07T03:39:40Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3412926365</integer>
+			<key>Play Date UTC</key><date>2012-02-24T17:06:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B31CB3CA5C94AE56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/Rubblebucket%20-%20Came%20Out%20of%20a%20Lady.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33884</key>
+		<dict>
+			<key>Track ID</key><integer>33884</integer>
+			<key>Name</key><string>Thunder Clatter</string>
+			<key>Artist</key><string>Keegan DeWitt</string>
+			<key>Album</key><string>Spinner Exclusive Preview</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5508941</integer>
+			<key>Total Time</key><integer>270262</integer>
+			<key>Date Modified</key><date>2012-02-07T03:29:46Z</date>
+			<key>Date Added</key><date>2012-02-07T04:14:47Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3413092249</integer>
+			<key>Play Date UTC</key><date>2012-02-26T15:10:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-02-14T16:52:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2520</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44AD05F32E16CB38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/keegan%20dewitt%20%20-%20Thunder-Clatter.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33904</key>
+		<dict>
+			<key>Track ID</key><integer>33904</integer>
+			<key>Name</key><string>All The Words</string>
+			<key>Artist</key><string>Bridges</string>
+			<key>Album Artist</key><string>Bridges</string>
+			<key>Composer</key><string>Isaaca Byrd</string>
+			<key>Album</key><string>Limits Of The Sky</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7565258</integer>
+			<key>Total Time</key><integer>228649</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-02-07T15:22:31Z</date>
+			<key>Date Added</key><date>2012-02-07T15:22:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205971580</string>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3413169187</integer>
+			<key>Play Date UTC</key><date>2012-02-27T12:33:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-02-27T12:28:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9742928A88304054</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Bridges/Limits%20Of%20The%20Sky/01%20-%20All%20The%20Words.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>78270</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33878</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33904</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33872</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33808</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

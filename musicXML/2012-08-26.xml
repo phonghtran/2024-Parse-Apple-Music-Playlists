@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-08-26T15:05:21Z</date>
+	<key>Application Version</key><string>10.6.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>32740</key>
+		<dict>
+			<key>Track ID</key><integer>32740</integer>
+			<key>Name</key><string>My Own Worst Enemy</string>
+			<key>Artist</key><string>Lit</string>
+			<key>Album</key><string>A Place in the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3759859</integer>
+			<key>Total Time</key><integer>169534</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2011-10-03T05:53:55Z</date>
+			<key>Date Added</key><date>2011-10-03T05:54:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3428738751</integer>
+			<key>Play Date UTC</key><date>2012-08-25T16:25:51Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-08T13:35:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Place in the Sun</string>
+			<key>Persistent ID</key><string>DA6808C93D48A2AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/lit-my-own-worst-enemy.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35226</key>
+		<dict>
+			<key>Track ID</key><integer>35226</integer>
+			<key>Name</key><string>너의 세상으로 (ANGEL)</string>
+			<key>Artist</key><string>EXO-K</string>
+			<key>Album Artist</key><string>EXO-K</string>
+			<key>Album</key><string>MAMA</string>
+			<key>Grouping</key><string>EXO-K</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7432259</integer>
+			<key>Total Time</key><integer>180271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-09T02:20:04Z</date>
+			<key>Date Added</key><date>2012-05-24T13:14:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3428744014</integer>
+			<key>Play Date UTC</key><date>2012-08-25T17:53:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-06T22:41:53Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5737</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F122998E783D298C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/EXO-K%20MAMA%20MINI%20Folder/04%20%3F%3F%20%3F%3F%3F%3F%20(ANGEL).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36594</key>
+		<dict>
+			<key>Track ID</key><integer>36594</integer>
+			<key>Name</key><string>Whispers in The Breeze</string>
+			<key>Artist</key><string>Josh Gilligan</string>
+			<key>Album</key><string>Flesh and Blood</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7663918</integer>
+			<key>Total Time</key><integer>229489</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Date Modified</key><date>2012-08-20T02:45:30Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3428668162</integer>
+			<key>Play Date UTC</key><date>2012-08-24T20:49:22Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2012-08-25T16:34:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3085</integer>
+			<key>Persistent ID</key><string>D4A5010D987D0E38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/01%20Whispers%20in%20The%20Breeze.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36620</key>
+		<dict>
+			<key>Track ID</key><integer>36620</integer>
+			<key>Name</key><string>Forget</string>
+			<key>Artist</key><string>Lianne La Havas</string>
+			<key>Album Artist</key><string>Lianne La Havas</string>
+			<key>Album</key><string>Is Your Love Big Enough?</string>
+			<key>Genre</key><string>Neo-Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9297996</integer>
+			<key>Total Time</key><integer>231575</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-20T03:14:57Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3428733204</integer>
+			<key>Play Date UTC</key><date>2012-08-25T14:53:24Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F68732F133ECACCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/2012%20Is%20Your%20Love%20Big%20Enough/06%20-%20Forget.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36648</key>
+		<dict>
+			<key>Track ID</key><integer>36648</integer>
+			<key>Name</key><string>Nine Winning Wives</string>
+			<key>Artist</key><string>Diggs Duke</string>
+			<key>Album</key><string>Mass Exodus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4689553</integer>
+			<key>Total Time</key><integer>110889</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-20T08:00:30Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://diggsduke.bandcamp.com</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3428730038</integer>
+			<key>Play Date UTC</key><date>2012-08-25T14:00:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-08-25T16:34:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCCC6D02BBE54B39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Diggs%20Duke%20-%20Mass%20Exodus/Diggs%20Duke%20-%20Mass%20Exodus%20-%2002%20Nine%20Winning%20Wives.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36650</key>
+		<dict>
+			<key>Track ID</key><integer>36650</integer>
+			<key>Name</key><string>Crazy Like A Fox</string>
+			<key>Artist</key><string>Diggs Duke</string>
+			<key>Album</key><string>Mass Exodus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5189014</integer>
+			<key>Total Time</key><integer>123376</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-20T08:00:30Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://diggsduke.bandcamp.com</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3428776516</integer>
+			<key>Play Date UTC</key><date>2012-08-26T02:55:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-08-24T03:35:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F7155868F941D45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Diggs%20Duke%20-%20Mass%20Exodus/Diggs%20Duke%20-%20Mass%20Exodus%20-%2003%20Crazy%20Like%20A%20Fox.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36656</key>
+		<dict>
+			<key>Track ID</key><integer>36656</integer>
+			<key>Name</key><string>Wide Awake for the Finale (Madeon x Katy Perry)</string>
+			<key>Artist</key><string>TeeTs</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8233602</integer>
+			<key>Total Time</key><integer>205505</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-20T03:16:41Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EARMILK.COM</string>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3428739266</integer>
+			<key>Play Date UTC</key><date>2012-08-25T16:34:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67FB175382AE68B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Madeon-x-Katy-Perry---Wide-Awake-for-the-Finale-(TeeTs-Mashup)--EM0712.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36668</key>
+		<dict>
+			<key>Track ID</key><integer>36668</integer>
+			<key>Name</key><string>Where Will We Go</string>
+			<key>Artist</key><string>Iamdynamite</string>
+			<key>Album Artist</key><string>Iamdynamite</string>
+			<key>Album</key><string>Supermegafantastic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6365872</integer>
+			<key>Total Time</key><integer>184006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-23T02:18:50Z</date>
+			<key>Date Added</key><date>2012-08-23T02:18:50Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 227622524</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3428738376</integer>
+			<key>Play Date UTC</key><date>2012-08-25T16:19:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86722ADC7A23B98C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/Phong/Music/Amazon%20MP3/Iamdynamite/Supermegafantastic/01%20-%20Where%20Will%20We%20Go.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83596</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36648</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36650</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-06-25T13:52:10Z</date>
+	<key>Application Version</key><string>1.1.5.74</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>40927</key>
+		<dict>
+			<key>Track ID</key><integer>40927</integer>
+			<key>Name</key><string>Lay It Down</string>
+			<key>Artist</key><string>Steelix</string>
+			<key>Album</key><string>Steelix</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4723773</integer>
+			<key>Total Time</key><integer>188568</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-27T12:57:29Z</date>
+			<key>Date Added</key><date>2021-04-27T12:54:25Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3707325814</integer>
+			<key>Play Date UTC</key><date>2021-06-24T00:43:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-05-21T15:40:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8FD0D01C7A66F8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Music/Steelix/Steelix/Lay%20It%20Down.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41274</key>
+		<dict>
+			<key>Track ID</key><integer>41274</integer>
+			<key>Name</key><string>Simple and Clean (Planitb Remix)</string>
+			<key>Artist</key><string>Hikaru Utada</string>
+			<key>Album Artist</key><string>Hikaru Utada</string>
+			<key>Composer</key><string>Hikaru Utada</string>
+			<key>Album</key><string>Colors - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11952861</integer>
+			<key>Total Time</key><integer>343493</integer>
+			<key>Start Time</key><integer>119000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-05-15T19:50:55Z</date>
+			<key>Date Added</key><date>2021-05-15T19:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3707324831</integer>
+			<key>Play Date UTC</key><date>2021-06-24T00:27:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-05-21T15:42:03Z</date>
+			<key>Release Date</key><date>2003-01-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colors - EP</string>
+			<key>Sort Artist</key><string>Hikaru Utada</string>
+			<key>Sort Name</key><string>Simple and Clean (Planitb Remix)</string>
+			<key>Persistent ID</key><string>434749BEF3AC701B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41280</key>
+		<dict>
+			<key>Track ID</key><integer>41280</integer>
+			<key>Name</key><string>How Deep Is Your Love (Chris Lake Remix)</string>
+			<key>Artist</key><string>Calvin Harris &#38; Disciples</string>
+			<key>Album Artist</key><string>Calvin Harris &#38; Disciples</string>
+			<key>Composer</key><string>Calvin Harris, Ina Wrolsden, Nathan Duvall, Gavin Koolman &#38; Luke Mc Dermott</string>
+			<key>Album</key><string>How Deep Is Your Love (Remixes) - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10607228</integer>
+			<key>Total Time</key><integer>308573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-05-15T20:00:35Z</date>
+			<key>Date Added</key><date>2021-05-15T20:00:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3707325625</integer>
+			<key>Play Date UTC</key><date>2021-06-24T00:40:25Z</date>
+			<key>Release Date</key><date>2015-08-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How Deep Is Your Love (Remixes) - EP</string>
+			<key>Sort Artist</key><string>Calvin Harris &#38; Disciples</string>
+			<key>Sort Name</key><string>How Deep Is Your Love (Chris Lake Remix)</string>
+			<key>Persistent ID</key><string>1F87EEC1D5E09CC8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41900</key>
+		<dict>
+			<key>Track ID</key><integer>41900</integer>
+			<key>Name</key><string>telepatía</string>
+			<key>Artist</key><string>Kali Uchis</string>
+			<key>Album Artist</key><string>Kali Uchis</string>
+			<key>Composer</key><string>Kali Uchis, Cristina Chiluiza, Servando Moriche Primera Mussett, Manuel Lara, Albert Melendez &#38; Marco Masis</string>
+			<key>Album</key><string>Sin Miedo (del Amor y Otros Demonios) ∞</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5908640</integer>
+			<key>Total Time</key><integer>160191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-27T21:59:03Z</date>
+			<key>Date Added</key><date>2021-05-27T21:59:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3707324998</integer>
+			<key>Play Date UTC</key><date>2021-06-24T00:29:58Z</date>
+			<key>Release Date</key><date>2020-11-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sin Miedo (del Amor y Otros Demonios) ∞</string>
+			<key>Sort Artist</key><string>Kali Uchis</string>
+			<key>Sort Name</key><string>telepatía</string>
+			<key>Persistent ID</key><string>F5D20E5F8DF4173B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42036</key>
+		<dict>
+			<key>Track ID</key><integer>42036</integer>
+			<key>Name</key><string>Go(I)d</string>
+			<key>Artist</key><string>Mereba</string>
+			<key>Album Artist</key><string>Mereba</string>
+			<key>Composer</key><string>Mariam Mereba, Christopher McClenney &#38; Samuel Hoffman</string>
+			<key>Album</key><string>AZEB - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7261702</integer>
+			<key>Total Time</key><integer>203400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-01T20:58:09Z</date>
+			<key>Date Added</key><date>2021-06-01T20:58:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3707326018</integer>
+			<key>Play Date UTC</key><date>2021-06-24T00:46:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-01T20:58:17Z</date>
+			<key>Release Date</key><date>2021-05-26T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>AZEB - EP</string>
+			<key>Sort Artist</key><string>Mereba</string>
+			<key>Sort Name</key><string>Go(I)d</string>
+			<key>Persistent ID</key><string>4410B0A5E04A6370</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42042</key>
+		<dict>
+			<key>Track ID</key><integer>42042</integer>
+			<key>Name</key><string>Stranger Love</string>
+			<key>Artist</key><string>PNAU &#38; Budjerah</string>
+			<key>Album Artist</key><string>PNAU &#38; Budjerah</string>
+			<key>Composer</key><string>Nicholas Littlemore, Peter Mayes, Sam Littlemore, Budjerah Slabb &#38; Joel Quartermain</string>
+			<key>Album</key><string>Stranger Love - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7946126</integer>
+			<key>Total Time</key><integer>225459</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-01T21:24:25Z</date>
+			<key>Date Added</key><date>2021-06-01T21:24:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3707286044</integer>
+			<key>Play Date UTC</key><date>2021-06-23T13:40:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-24T00:27:17Z</date>
+			<key>Release Date</key><date>2021-05-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stranger Love - Single</string>
+			<key>Sort Artist</key><string>PNAU &#38; Budjerah</string>
+			<key>Sort Name</key><string>Stranger Love</string>
+			<key>Persistent ID</key><string>1CBE05828E3FCF7C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113283</key>
+		<dict>
+			<key>Track ID</key><integer>113283</integer>
+			<key>Name</key><string>We Made It</string>
+			<key>Artist</key><string>H.E.R.</string>
+			<key>Album Artist</key><string>H.E.R.</string>
+			<key>Composer</key><string>H.E.R., Darhyl "Hey DJ" Camper, Jr., Ronald "Flippa" Colson, Tiara Thomas, Elijah Dias, Carole Bayer Sager &#38; David Forster</string>
+			<key>Album</key><string>Back of My Mind (Apple Music Edition)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10912292</integer>
+			<key>Total Time</key><integer>314849</integer>
+			<key>Stop Time</key><integer>166000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-15T02:05:53Z</date>
+			<key>Date Added</key><date>2021-06-15T02:05:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3707326367</integer>
+			<key>Play Date UTC</key><date>2021-06-24T00:52:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-24T14:48:10Z</date>
+			<key>Release Date</key><date>2021-06-11T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back of My Mind (Apple Music Edition)</string>
+			<key>Sort Artist</key><string>H.E.R.</string>
+			<key>Sort Name</key><string>We Made It</string>
+			<key>Persistent ID</key><string>48B16155ECA78268</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>114518</key>
+		<dict>
+			<key>Track ID</key><integer>114518</integer>
+			<key>Name</key><string>浮躁</string>
+			<key>Artist</key><string>Faye Wong</string>
+			<key>Album Artist</key><string>Faye Wong</string>
+			<key>Composer</key><string>Faye Wong</string>
+			<key>Album</key><string>Eco Pack - 浮躁</string>
+			<key>Genre</key><string>Mandopop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6567544</integer>
+			<key>Total Time</key><integer>183093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2021-06-17T07:01:34Z</date>
+			<key>Date Added</key><date>2021-06-17T07:01:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3707375603</integer>
+			<key>Play Date UTC</key><date>2021-06-24T14:33:23Z</date>
+			<key>Release Date</key><date>1996-01-01T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Eco Pack - 浮躁</string>
+			<key>Sort Artist</key><string>Faye Wong</string>
+			<key>Sort Name</key><string>浮躁</string>
+			<key>Persistent ID</key><string>20AF570E83107938</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>115735</key>
+		<dict>
+			<key>Track ID</key><integer>115735</integer>
+			<key>Name</key><string>Raindrops (feat. Flo Milli)</string>
+			<key>Artist</key><string>GoldLink</string>
+			<key>Album Artist</key><string>GoldLink</string>
+			<key>Composer</key><string>D'Anthony Carlos, Tobias Breuer, Tamia Carter, João Paulo, Guilherme Rodrigues &#38; Jair Claudino Rodrigues Jr</string>
+			<key>Album</key><string>HARAM!</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5576057</integer>
+			<key>Total Time</key><integer>153973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-22T15:07:51Z</date>
+			<key>Date Added</key><date>2021-06-22T15:07:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3707375757</integer>
+			<key>Play Date UTC</key><date>2021-06-24T14:35:57Z</date>
+			<key>Release Date</key><date>2021-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HARAM!</string>
+			<key>Sort Artist</key><string>GoldLink</string>
+			<key>Sort Name</key><string>Raindrops (feat. Flo Milli)</string>
+			<key>Persistent ID</key><string>73FF72F041F2811F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>115841</key>
+		<dict>
+			<key>Track ID</key><integer>115841</integer>
+			<key>Name</key><string>QUARTZ</string>
+			<key>Artist</key><string>Boslen &#38; Charmaine</string>
+			<key>Album Artist</key><string>Boslen &#38; Charmaine</string>
+			<key>Composer</key><string>Charmaine Tafadzwa Willie, Corben Nikk Bowen, Lorenz Krapp, Michael Lantz, Moritz Leppers, Ozcan Sayin &#38; Tyler Jones</string>
+			<key>Album</key><string>QUARTZ - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5659078</integer>
+			<key>Total Time</key><integer>155469</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-22T15:15:45Z</date>
+			<key>Date Added</key><date>2021-06-22T15:15:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3707376617</integer>
+			<key>Play Date UTC</key><date>2021-06-24T14:50:17Z</date>
+			<key>Release Date</key><date>2021-06-18T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>QUARTZ - Single</string>
+			<key>Sort Artist</key><string>Boslen &#38; Charmaine</string>
+			<key>Sort Name</key><string>QUARTZ</string>
+			<key>Persistent ID</key><string>B9ABE904D6838E5D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>116150</key>
+		<dict>
+			<key>Track ID</key><integer>116150</integer>
+			<key>Name</key><string>Catholic Country (feat. Feist)</string>
+			<key>Artist</key><string>Kings of Convenience</string>
+			<key>Album Artist</key><string>Kings of Convenience</string>
+			<key>Composer</key><string>Eirik Glambek Bøe, Erlend Øye, Davide Bertolini, Camilla Staveley-Taylor, Emily Staveley-Taylor &#38; Jessica Staveley-Taylor</string>
+			<key>Album</key><string>Peace Or Love</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6844746</integer>
+			<key>Total Time</key><integer>181140</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-23T03:24:56Z</date>
+			<key>Date Added</key><date>2021-06-23T03:24:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3707376093</integer>
+			<key>Play Date UTC</key><date>2021-06-24T14:41:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-23T03:26:43Z</date>
+			<key>Release Date</key><date>2021-06-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Peace Or Love</string>
+			<key>Sort Artist</key><string>Kings of Convenience</string>
+			<key>Sort Name</key><string>Catholic Country (feat. Feist)</string>
+			<key>Persistent ID</key><string>E75021913EC1EEB6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>116153</key>
+		<dict>
+			<key>Track ID</key><integer>116153</integer>
+			<key>Name</key><string>Been Through That</string>
+			<key>Artist</key><string>Majid Jordan</string>
+			<key>Album Artist</key><string>Majid Jordan</string>
+			<key>Composer</key><string>M. Al-Maskati, J. Ullman &#38; R. Monroe</string>
+			<key>Album</key><string>Been Through That - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6999028</integer>
+			<key>Total Time</key><integer>194667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-23T04:08:26Z</date>
+			<key>Date Added</key><date>2021-06-23T04:08:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3707376288</integer>
+			<key>Play Date UTC</key><date>2021-06-24T14:44:48Z</date>
+			<key>Release Date</key><date>2021-06-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Been Through That - Single</string>
+			<key>Sort Artist</key><string>Majid Jordan</string>
+			<key>Sort Name</key><string>Been Through That</string>
+			<key>Persistent ID</key><string>9C388811A4A33FC2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>116763</key>
+		<dict>
+			<key>Track ID</key><integer>116763</integer>
+			<key>Name</key><string>Queen of Disaster</string>
+			<key>Artist</key><string>SirLofi</string>
+			<key>Album Artist</key><string>SirLofi</string>
+			<key>Composer</key><string>Spencer Sears</string>
+			<key>Album</key><string>Queen of Disaster - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6961611</integer>
+			<key>Total Time</key><integer>195840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-06-24T21:49:01Z</date>
+			<key>Date Added</key><date>2021-06-24T21:49:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen of Disaster - Single</string>
+			<key>Sort Artist</key><string>SirLofi</string>
+			<key>Sort Name</key><string>Queen of Disaster</string>
+			<key>Persistent ID</key><string>B4D12366C3501639</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101743</integer>
+			<key>Playlist Persistent ID</key><string>D2F59608E714CD4E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116763</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

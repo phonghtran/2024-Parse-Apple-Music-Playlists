@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:42:26Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14937</key>
+		<dict>
+			<key>Track ID</key><integer>14937</integer>
+			<key>Name</key><string>Testify</string>
+			<key>Artist</key><string>Rage Against The Machine</string>
+			<key>Album</key><string>The Battle of Los Angeles</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5072896</integer>
+			<key>Total Time</key><integer>210729</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-07-19T16:53:17Z</date>
+			<key>Date Added</key><date>2010-06-17T13:21:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3402781768</integer>
+			<key>Play Date UTC</key><date>2011-10-30T07:09:28Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-30T19:10:01Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4607</integer>
+			<key>Sort Album</key><string>Battle of Los Angeles</string>
+			<key>Persistent ID</key><string>5003C8D16905ED45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/Rage%20Against%20The%20Machine%20-%20Testify.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32431</key>
+		<dict>
+			<key>Track ID</key><integer>32431</integer>
+			<key>Name</key><string>Flipping Out</string>
+			<key>Artist</key><string>Hoodie Allen</string>
+			<key>Album</key><string>Leap Year</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8512049</integer>
+			<key>Total Time</key><integer>169456</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-07-25T17:12:06Z</date>
+			<key>Date Added</key><date>2011-08-29T22:14:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3404533594</integer>
+			<key>Play Date UTC</key><date>2011-11-19T13:46:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-27T00:56:47Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2551</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87DD3F0683AFDA77</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/LeapYear/10%20Flipping%20Out.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32811</key>
+		<dict>
+			<key>Track ID</key><integer>32811</integer>
+			<key>Name</key><string>My Own Worst Enemy</string>
+			<key>Artist</key><string>Lit</string>
+			<key>Album</key><string>A Place in the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3759859</integer>
+			<key>Total Time</key><integer>169613</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2011-10-03T06:53:55Z</date>
+			<key>Date Added</key><date>2011-10-03T06:54:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3407141717</integer>
+			<key>Play Date UTC</key><date>2011-12-19T18:15:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-08T14:35:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Place in the Sun</string>
+			<key>Persistent ID</key><string>DA6808C93D48A2AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/lit-my-own-worst-enemy.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32941</key>
+		<dict>
+			<key>Track ID</key><integer>32941</integer>
+			<key>Name</key><string>I'm Flexin' (feat. Big K.R.I.T.)</string>
+			<key>Artist</key><string>T.I.</string>
+			<key>Album Artist</key><string>T.I.</string>
+			<key>Album</key><string>I'm Flexin' (feat. Big K.R.I.T) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7568515</integer>
+			<key>Total Time</key><integer>186383</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-05T05:47:29Z</date>
+			<key>Date Added</key><date>2011-10-05T07:06:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3406180847</integer>
+			<key>Play Date UTC</key><date>2011-12-08T15:20:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-08T04:01:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8C7C04C0BD960C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/T.I.%20-%20I'm%20Flexin'%20(feat.%20Big%20K.R.I.T.)/01%20I'm%20Flexin'%20(feat.%20Big%20K.R.I.T.).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32953</key>
+		<dict>
+			<key>Track ID</key><integer>32953</integer>
+			<key>Name</key><string>The Lady Is A Tramp (Ft. Lady Gaga)</string>
+			<key>Artist</key><string>Tony Bennett</string>
+			<key>Album Artist</key><string>Tony Bennett</string>
+			<key>Album</key><string>Duets II</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8019551</integer>
+			<key>Total Time</key><integer>198321</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-05T06:53:35Z</date>
+			<key>Date Added</key><date>2011-10-05T07:06:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3407920406</integer>
+			<key>Play Date UTC</key><date>2011-12-28T18:33:26Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2011-12-21T02:39:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Lady Is A Tramp (Ft. Lady Gaga)</string>
+			<key>Persistent ID</key><string>34069B57C9EDB3A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Tony%20Bennett%20-%20Duets%20II%20(2011)%20320kbps%20by%20moldiver/01%20-%20The%20Lady%20Is%20A%20Tramp%20(Ft.%20Lady%20Gaga).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33019</key>
+		<dict>
+			<key>Track ID</key><integer>33019</integer>
+			<key>Name</key><string>The Walk</string>
+			<key>Artist</key><string>Mayer Hawthorne</string>
+			<key>Album Artist</key><string>Mayer Hawthorne</string>
+			<key>Composer</key><string>Mayer Hawthorne</string>
+			<key>Album</key><string>How Do You Do</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7770339</integer>
+			<key>Total Time</key><integer>218413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-05T17:03:48Z</date>
+			<key>Date Added</key><date>2011-10-05T17:02:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3407602639</integer>
+			<key>Play Date UTC</key><date>2011-12-25T02:17:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-07T03:16:40Z</date>
+			<key>Release Date</key><date>2011-10-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4524</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Walk</string>
+			<key>Persistent ID</key><string>B498C6064DCB784C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/Mayer%20Hawthorne/How%20Do%20You%20Do/05%20The%20Walk.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33045</key>
+		<dict>
+			<key>Track ID</key><integer>33045</integer>
+			<key>Name</key><string>By Your Hand</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8675660</integer>
+			<key>Total Time</key><integer>246360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-07T03:15:54Z</date>
+			<key>Date Added</key><date>2011-10-07T03:15:28Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3407202824</integer>
+			<key>Play Date UTC</key><date>2011-12-20T11:13:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-25T19:23:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D541F9847FDC1F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/13%20-%20Los%20Campesinos!%20-%20By%20Your%20Hand.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33097</key>
+		<dict>
+			<key>Track ID</key><integer>33097</integer>
+			<key>Name</key><string>Faster</string>
+			<key>Artist</key><string>Rachael Yamagata</string>
+			<key>Album Artist</key><string>Rachael Yamagata</string>
+			<key>Composer</key><string>Rachael Yamagata</string>
+			<key>Album</key><string>Elephants...Teeth Sinking Into Heart</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5690874</integer>
+			<key>Total Time</key><integer>232045</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-10-12T18:19:54Z</date>
+			<key>Date Added</key><date>2011-10-12T18:58:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3406698827</integer>
+			<key>Play Date UTC</key><date>2011-12-14T15:13:47Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-28T14:40:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6019</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22018AD595C699E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/Rachael%20Yamagata/Rachael%20Yamagata-%20Faster.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33115</key>
+		<dict>
+			<key>Track ID</key><integer>33115</integer>
+			<key>Name</key><string>Chris Brown's Temper (Rihanna x Axwell &#38; Dirty South x Temper Trap)</string>
+			<key>Artist</key><string>Kap Slap</string>
+			<key>Album</key><string>Kap Slap &#38; 3LAU - EDM Mayhem</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11760522</integer>
+			<key>Total Time</key><integer>271699</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2011-10-12T21:15:39Z</date>
+			<key>Date Added</key><date>2011-10-12T22:06:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>53</integer>
+			<key>Comments</key><string>If you liked our playlist, download our FREE mashups &#38; bootlegs:
+Facebook.com/KapSlapMashups
+Facebook.com/DJ3LAU
+KapSlap.com
+3LAU.com
+</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3406182233</integer>
+			<key>Play Date UTC</key><date>2011-12-08T15:43:53Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-17T16:36:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6871</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87E94B5D0440768E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Chris%20Brown's%20Temper%20(Rihanna%20x%20Axwell%20&#38;%20Dirty%20South%20x%20Temper%20Trap).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33145</key>
+		<dict>
+			<key>Track ID</key><integer>33145</integer>
+			<key>Name</key><string>Good Good Night</string>
+			<key>Artist</key><string>Roscoe Dash</string>
+			<key>Album Artist</key><string>Roscoe Dash</string>
+			<key>Composer</key><string>Jeffery Johnson &#38; Tony Scales</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8321211</integer>
+			<key>Total Time</key><integer>205165</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-17T16:36:43Z</date>
+			<key>Date Added</key><date>2011-10-14T17:21:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3408352345</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:32:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-23T04:31:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6A92F8FA1887AA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/Roscoe%20Dash%20-%20Good%20Good%20Night/01%20Good%20Good%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33153</key>
+		<dict>
+			<key>Track ID</key><integer>33153</integer>
+			<key>Name</key><string>On'n'On</string>
+			<key>Artist</key><string>Justice</string>
+			<key>Album Artist</key><string>Justice</string>
+			<key>Album</key><string>Audio, Video, Disco</string>
+			<key>Genre</key><string>Electonic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13976543</integer>
+			<key>Total Time</key><integer>270733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-17T16:31:43Z</date>
+			<key>Date Added</key><date>2011-10-17T16:32:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3403152075</integer>
+			<key>Play Date UTC</key><date>2011-11-03T14:01:15Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>419D4D9624EA1EDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Justice-Onnon.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33159</key>
+		<dict>
+			<key>Track ID</key><integer>33159</integer>
+			<key>Name</key><string>Original Don (Ft. The Partysquad)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Genre</key><string>Moombahton</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4682574</integer>
+			<key>Total Time</key><integer>253518</integer>
+			<key>Date Modified</key><date>2011-10-17T16:47:34Z</date>
+			<key>Date Added</key><date>2011-10-17T16:47:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.freshnewtracks.com</string>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3403151388</integer>
+			<key>Play Date UTC</key><date>2011-11-03T13:49:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-30T03:18:23Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BB1677F5D71D89EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/major%20lazer%20-%20Original%20Don%20(Ft.%20The%20Partysquad).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33169</key>
+		<dict>
+			<key>Track ID</key><integer>33169</integer>
+			<key>Name</key><string>Well OK Honey</string>
+			<key>Artist</key><string>Jenny O.</string>
+			<key>Album</key><string>Home Ep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3406929</integer>
+			<key>Total Time</key><integer>170240</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-10-20T19:29:36Z</date>
+			<key>Date Added</key><date>2011-10-20T19:28:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Jenny O.</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3406108712</integer>
+			<key>Play Date UTC</key><date>2011-12-07T19:18:32Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-12-05T16:49:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1130</integer>
+			<key>Persistent ID</key><string>A829D6AAF1EB92A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jenny%20O.%20%20-%20Well%20OK%20Honey.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-10-31</string>
+			<key>Playlist ID</key><integer>675492</integer>
+			<key>Playlist Persistent ID</key><string>0491F17A71672125</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33169</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

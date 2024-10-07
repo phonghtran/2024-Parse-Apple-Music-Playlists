@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-03-18T14:37:12Z</date>
+	<key>Application Version</key><string>1.2.3.56</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>40820</key>
+		<dict>
+			<key>Track ID</key><integer>40820</integer>
+			<key>Name</key><string>In the Meantime</string>
+			<key>Artist</key><string>Spacehog</string>
+			<key>Album Artist</key><string>Spacehog</string>
+			<key>Composer</key><string>Royston Langdon &#38; Langdon</string>
+			<key>Album</key><string>Resident Alien</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10723948</integer>
+			<key>Total Time</key><integer>299507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-26T02:59:33Z</date>
+			<key>Date Added</key><date>2021-09-26T02:59:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3730361424</integer>
+			<key>Play Date UTC</key><date>2022-03-17T15:30:24Z</date>
+			<key>Release Date</key><date>1995-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Resident Alien</string>
+			<key>Sort Artist</key><string>Spacehog</string>
+			<key>Sort Name</key><string>In the Meantime</string>
+			<key>Persistent ID</key><string>4DDFA91C0A6573B8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41831</key>
+		<dict>
+			<key>Track ID</key><integer>41831</integer>
+			<key>Name</key><string>My Window (feat. Mahalia)</string>
+			<key>Artist</key><string>Lucky Daye</string>
+			<key>Album Artist</key><string>Lucky Daye</string>
+			<key>Composer</key><string>David Brown, Oliver Rodigan, Carl Devonish, Jr., Sam Wills, Jorja Smith, Mahalia Burkmar, Ann Peebles, Bernard Miller &#38; Don Bryant</string>
+			<key>Album</key><string>Table For Two</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9820997</integer>
+			<key>Total Time</key><integer>280107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-12-04T22:36:08Z</date>
+			<key>Date Added</key><date>2021-12-04T22:36:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3730267486</integer>
+			<key>Play Date UTC</key><date>2022-03-16T13:24:46Z</date>
+			<key>Release Date</key><date>2021-02-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Table For Two</string>
+			<key>Sort Artist</key><string>Lucky Daye</string>
+			<key>Sort Name</key><string>My Window (feat. Mahalia)</string>
+			<key>Persistent ID</key><string>A109F35976876FD8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42063</key>
+		<dict>
+			<key>Track ID</key><integer>42063</integer>
+			<key>Name</key><string>Ride or Die</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Composer</key><string>Jake Luppen, Nathan Stocker, Whistler Allen &#38; Zach Sutton</string>
+			<key>Album</key><string>LP3</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7779498</integer>
+			<key>Total Time</key><integer>210609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2021-12-10T05:34:31Z</date>
+			<key>Date Added</key><date>2022-01-11T06:03:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3730358578</integer>
+			<key>Play Date UTC</key><date>2022-03-17T14:42:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-28T00:00:00Z</date>
+			<key>Release Date</key><date>2022-01-11T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LP3</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>Ride or Die</string>
+			<key>Persistent ID</key><string>40C619BB7C28FF28</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42235</key>
+		<dict>
+			<key>Track ID</key><integer>42235</integer>
+			<key>Name</key><string>Shadows from the Moon</string>
+			<key>Artist</key><string>Babylon</string>
+			<key>Album Artist</key><string>Babylon</string>
+			<key>Composer</key><string>Babylon, Vincenzo, Any Masingga &#38; Fuxxy</string>
+			<key>Album</key><string>Shadows from the Moon - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7332081</integer>
+			<key>Total Time</key><integer>204801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-12-16T21:57:30Z</date>
+			<key>Date Added</key><date>2021-12-16T21:57:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>114</integer>
+			<key>Play Date</key><integer>3730265661</integer>
+			<key>Play Date UTC</key><date>2022-03-16T12:54:21Z</date>
+			<key>Release Date</key><date>2019-04-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Shadows from the Moon - Single</string>
+			<key>Sort Artist</key><string>Babylon</string>
+			<key>Sort Name</key><string>Shadows from the Moon</string>
+			<key>Persistent ID</key><string>ACC5AEFABF739D72</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42419</key>
+		<dict>
+			<key>Track ID</key><integer>42419</integer>
+			<key>Name</key><string>7 Days</string>
+			<key>Artist</key><string>NCT DREAM</string>
+			<key>Album Artist</key><string>NCT DREAM</string>
+			<key>Composer</key><string>Bryld Wolsing, Castle &#38; minGtion</string>
+			<key>Album</key><string>Reload - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7365219</integer>
+			<key>Total Time</key><integer>197280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-01-01T01:34:15Z</date>
+			<key>Date Added</key><date>2022-01-01T01:34:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3730278382</integer>
+			<key>Play Date UTC</key><date>2022-03-16T16:26:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-02-27T23:59:52Z</date>
+			<key>Release Date</key><date>2020-04-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Reload - EP</string>
+			<key>Sort Artist</key><string>NCT DREAM</string>
+			<key>Sort Name</key><string>7 Days</string>
+			<key>Persistent ID</key><string>9DD59B05DF7E111C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43014</key>
+		<dict>
+			<key>Track ID</key><integer>43014</integer>
+			<key>Name</key><string>Original Sin</string>
+			<key>Artist</key><string>Sofi Tukker</string>
+			<key>Album Artist</key><string>Sofi Tukker</string>
+			<key>Composer</key><string>Sophie Hawley-Weld, Richard Beynon &#38; Tucker Halpern</string>
+			<key>Album</key><string>Original Sin - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6217217</integer>
+			<key>Total Time</key><integer>171599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-02-06T20:30:49Z</date>
+			<key>Date Added</key><date>2022-02-06T20:30:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3730359453</integer>
+			<key>Play Date UTC</key><date>2022-03-17T14:57:33Z</date>
+			<key>Release Date</key><date>2022-02-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Original Sin - Single</string>
+			<key>Sort Artist</key><string>Sofi Tukker</string>
+			<key>Sort Name</key><string>Original Sin</string>
+			<key>Persistent ID</key><string>F0F3087B15A228C5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43166</key>
+		<dict>
+			<key>Track ID</key><integer>43166</integer>
+			<key>Name</key><string>i h8 that i still feel bad for u</string>
+			<key>Artist</key><string>Claire Rosinkranz</string>
+			<key>Album Artist</key><string>Claire Rosinkranz</string>
+			<key>Composer</key><string>Claire Rosinkranz, Adam Friedman &#38; Brian Brundage</string>
+			<key>Album</key><string>i h8 that i still feel bad for u - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6334497</integer>
+			<key>Total Time</key><integer>175030</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-02-17T06:48:39Z</date>
+			<key>Date Added</key><date>2022-02-17T06:48:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3730359628</integer>
+			<key>Play Date UTC</key><date>2022-03-17T15:00:28Z</date>
+			<key>Release Date</key><date>2022-02-11T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>i h8 that i still feel bad for u - Single</string>
+			<key>Sort Artist</key><string>Claire Rosinkranz</string>
+			<key>Sort Name</key><string>i h8 that i still feel bad for u</string>
+			<key>Persistent ID</key><string>1208D6EEAA969B2A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43304</key>
+		<dict>
+			<key>Track ID</key><integer>43304</integer>
+			<key>Name</key><string>Fashion Tán Gái</string>
+			<key>Artist</key><string>Low G. &#38; Wren Evans</string>
+			<key>Album Artist</key><string>Low G. &#38; Wren Evans</string>
+			<key>Composer</key><string>Le Phan &#38; Nguyen Hoang Long</string>
+			<key>Album</key><string>Fashion Tán Gái - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7893066</integer>
+			<key>Total Time</key><integer>225822</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-02-25T21:18:49Z</date>
+			<key>Date Added</key><date>2022-02-25T21:18:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3730359854</integer>
+			<key>Play Date UTC</key><date>2022-03-17T15:04:14Z</date>
+			<key>Release Date</key><date>2021-12-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fashion Tán Gái - Single</string>
+			<key>Sort Artist</key><string>Low G. &#38; Wren Evans</string>
+			<key>Sort Name</key><string>Fashion Tán Gái</string>
+			<key>Persistent ID</key><string>FA3094784B695D44</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43312</key>
+		<dict>
+			<key>Track ID</key><integer>43312</integer>
+			<key>Name</key><string>WATERBOYZ</string>
+			<key>Artist</key><string>EARTHGANG, JID &#38; J. Cole</string>
+			<key>Album Artist</key><string>EARTHGANG</string>
+			<key>Composer</key><string>Elan Parker, Olu Fann, Benjamin Tolbert, Michael Neil &#38; Daoud Anthony</string>
+			<key>Album</key><string>GHETTO GODS</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10562724</integer>
+			<key>Total Time</key><integer>303400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-03-01T18:30:05Z</date>
+			<key>Date Added</key><date>2022-03-01T18:30:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3730116181</integer>
+			<key>Play Date UTC</key><date>2022-03-14T19:23:01Z</date>
+			<key>Release Date</key><date>2022-02-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GHETTO GODS</string>
+			<key>Sort Artist</key><string>EARTHGANG, JID &#38; J. Cole</string>
+			<key>Sort Name</key><string>WATERBOYZ</string>
+			<key>Persistent ID</key><string>ECD8FC8331C82820</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43368</key>
+		<dict>
+			<key>Track ID</key><integer>43368</integer>
+			<key>Name</key><string>Deserve It</string>
+			<key>Artist</key><string>Shenseea</string>
+			<key>Album Artist</key><string>Shenseea</string>
+			<key>Composer</key><string>CHINSEA LEE, Tarik Johnston &#38; Andrew Green</string>
+			<key>Album</key><string>ALPHA (Apple Music Up Next Film Edition)</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6863175</integer>
+			<key>Total Time</key><integer>193456</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-03-04T21:06:33Z</date>
+			<key>Date Added</key><date>2022-03-04T21:06:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3730439075</integer>
+			<key>Play Date UTC</key><date>2022-03-18T13:04:35Z</date>
+			<key>Release Date</key><date>2022-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ALPHA (Apple Music Up Next Film Edition)</string>
+			<key>Sort Artist</key><string>Shenseea</string>
+			<key>Sort Name</key><string>Deserve It</string>
+			<key>Persistent ID</key><string>A67F364123BA2882</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43436</key>
+		<dict>
+			<key>Track ID</key><integer>43436</integer>
+			<key>Name</key><string>GET IT</string>
+			<key>Artist</key><string>keshi</string>
+			<key>Album Artist</key><string>keshi</string>
+			<key>Composer</key><string>Casey Luong, Elie Jay Rizk &#38; Zachary Denious</string>
+			<key>Album</key><string>GABRIEL</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5513037</integer>
+			<key>Total Time</key><integer>151302</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-03-06T14:22:31Z</date>
+			<key>Date Added</key><date>2022-03-06T14:22:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3730360795</integer>
+			<key>Play Date UTC</key><date>2022-03-17T15:19:55Z</date>
+			<key>Release Date</key><date>2022-03-04T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GABRIEL</string>
+			<key>Sort Artist</key><string>keshi</string>
+			<key>Sort Name</key><string>GET IT</string>
+			<key>Persistent ID</key><string>35BEE5A8D7E8834E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43438</key>
+		<dict>
+			<key>Track ID</key><integer>43438</integer>
+			<key>Name</key><string>moves</string>
+			<key>Artist</key><string>Amelia Moore</string>
+			<key>Album Artist</key><string>Amelia Moore</string>
+			<key>Composer</key><string>Amelia Moore, Charles Roberts Nelsen, Kyle Buckley, Gabriella Laura Caspi, Max Levin &#38; Kyle Scherrer</string>
+			<key>Album</key><string>moves - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6056226</integer>
+			<key>Total Time</key><integer>167380</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-03-06T14:37:44Z</date>
+			<key>Date Added</key><date>2022-03-06T14:37:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3730360962</integer>
+			<key>Play Date UTC</key><date>2022-03-17T15:22:42Z</date>
+			<key>Release Date</key><date>2022-03-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>moves - Single</string>
+			<key>Sort Artist</key><string>Amelia Moore</string>
+			<key>Sort Name</key><string>moves</string>
+			<key>Persistent ID</key><string>6D02E7F5956DE278</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43508</key>
+		<dict>
+			<key>Track ID</key><integer>43508</integer>
+			<key>Name</key><string>Alone</string>
+			<key>Artist</key><string>Slayyyter</string>
+			<key>Album Artist</key><string>Slayyyter</string>
+			<key>Composer</key><string>Slayyyter &#38; Ayesha Erotica</string>
+			<key>Album</key><string>Slayyyter</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5960470</integer>
+			<key>Total Time</key><integer>162000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-03-10T02:14:04Z</date>
+			<key>Date Added</key><date>2022-03-10T02:14:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3730361124</integer>
+			<key>Play Date UTC</key><date>2022-03-17T15:25:24Z</date>
+			<key>Release Date</key><date>2018-12-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Slayyyter</string>
+			<key>Sort Artist</key><string>Slayyyter</string>
+			<key>Sort Name</key><string>Alone</string>
+			<key>Persistent ID</key><string>19C8ECD3D90E1325</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43510</key>
+		<dict>
+			<key>Track ID</key><integer>43510</integer>
+			<key>Name</key><string>Powerful (feat. Ellie Goulding &#38; Tarrus Riley)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Album Artist</key><string>Major Lazer</string>
+			<key>Composer</key><string>C. Picard, F. Hall, I. Juber, M. Picard, O. Riley &#38; T. Pentz</string>
+			<key>Album</key><string>Peace Is The Mission (Extended)</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7349131</integer>
+			<key>Total Time</key><integer>206327</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2022-03-10T02:14:31Z</date>
+			<key>Date Added</key><date>2022-03-10T02:14:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3730115680</integer>
+			<key>Play Date UTC</key><date>2022-03-14T19:14:40Z</date>
+			<key>Release Date</key><date>2015-05-29T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Peace Is The Mission (Extended)</string>
+			<key>Sort Artist</key><string>Major Lazer</string>
+			<key>Sort Name</key><string>Powerful (feat. Ellie Goulding &#38; Tarrus Riley)</string>
+			<key>Persistent ID</key><string>242D4D270E18D431</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44000</key>
+		<dict>
+			<key>Track ID</key><integer>44000</integer>
+			<key>Name</key><string>If (Kaytranada Remix) [Mixed]</string>
+			<key>Artist</key><string>Janet Jackson</string>
+			<key>Album Artist</key><string>Nightmares On Wax</string>
+			<key>Album</key><string>Boiler Room: Nightmares On Wax in London, Aug 28, 2013</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9559691</integer>
+			<key>Total Time</key><integer>270100</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2022-03-11T04:00:15Z</date>
+			<key>Date Added</key><date>2022-03-11T04:00:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3730267205</integer>
+			<key>Play Date UTC</key><date>2022-03-16T13:20:05Z</date>
+			<key>Release Date</key><date>2013-08-28T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boiler Room: Nightmares On Wax in London, Aug 28, 2013</string>
+			<key>Sort Artist</key><string>Janet Jackson</string>
+			<key>Sort Name</key><string>If (Kaytranada Remix) [Mixed]</string>
+			<key>Persistent ID</key><string>C46B0A5C36A3EB52</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>106646</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>42235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40820</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41831</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:42:15Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>18313</key>
+		<dict>
+			<key>Track ID</key><integer>18313</integer>
+			<key>Name</key><string>Feedback</string>
+			<key>Artist</key><string>Janet Jackson</string>
+			<key>Album</key><string>Discipline</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5241105</integer>
+			<key>Total Time</key><integer>218279</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-07-19T16:45:42Z</date>
+			<key>Date Added</key><date>2010-06-17T13:25:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3406264416</integer>
+			<key>Play Date UTC</key><date>2011-12-09T14:33:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-15T17:54:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2067</integer>
+			<key>Persistent ID</key><string>3F2ED887ED60C1E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Janet%20Jackson%20-%20Discipline%20%5B2008%5D%5BCD+SkidVid_XviD+Cov%5D/02%20%20Janet%20Jackson%20-%20Feedback.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>22121</key>
+		<dict>
+			<key>Track ID</key><integer>22121</integer>
+			<key>Name</key><string>December</string>
+			<key>Artist</key><string>Collective Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4577021</integer>
+			<key>Total Time</key><integer>285413</integer>
+			<key>Date Modified</key><date>2009-05-23T17:50:37Z</date>
+			<key>Date Added</key><date>2010-06-17T13:33:01Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3404820201</integer>
+			<key>Play Date UTC</key><date>2011-11-22T21:23:21Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2011-11-27T02:58:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3480</integer>
+			<key>Persistent ID</key><string>72925C9EFB1E4F70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Collective%20Soul%20-%20December.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25221</key>
+		<dict>
+			<key>Track ID</key><integer>25221</integer>
+			<key>Name</key><string>Crown of Age</string>
+			<key>Artist</key><string>The Ettes</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2664576</integer>
+			<key>Total Time</key><integer>133120</integer>
+			<key>Date Modified</key><date>2009-08-03T04:05:35Z</date>
+			<key>Date Added</key><date>2010-06-17T13:38:09Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3404964850</integer>
+			<key>Play Date UTC</key><date>2011-11-24T13:34:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-27T02:58:15Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6997</integer>
+			<key>Sort Artist</key><string>Ettes</string>
+			<key>Persistent ID</key><string>8F296267DA654139</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW%202009/2%20stars/The_Ettes-Crown_of_Age.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29149</key>
+		<dict>
+			<key>Track ID</key><integer>29149</integer>
+			<key>Name</key><string>Anti Matter</string>
+			<key>Artist</key><string>N.E.R.D</string>
+			<key>Album Artist</key><string>N.E.R.D</string>
+			<key>Album</key><string>Seeing Sounds</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6268659</integer>
+			<key>Total Time</key><integer>241711</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-11-08T17:30:56Z</date>
+			<key>Date Added</key><date>2010-11-08T04:59:10Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3407192005</integer>
+			<key>Play Date UTC</key><date>2011-12-20T08:13:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>179F809B85C777A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/N.E.R.D.%20-%20Seeing%20Sounds/seeing%20sounds-04-n.e.r.d-anti%20matter.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32425</key>
+		<dict>
+			<key>Track ID</key><integer>32425</integer>
+			<key>Name</key><string>Every Time You Go</string>
+			<key>Artist</key><string>Hoodie Allen</string>
+			<key>Album</key><string>Leap Year</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7729425</integer>
+			<key>Total Time</key><integer>149890</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-07-25T17:12:05Z</date>
+			<key>Date Added</key><date>2011-08-29T22:14:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3406187483</integer>
+			<key>Play Date UTC</key><date>2011-12-08T17:11:23Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-08T14:27:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2827</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35E5E34FE34E3402</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/LeapYear/07%20Every%20Time%20You%20Go.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33169</key>
+		<dict>
+			<key>Track ID</key><integer>33169</integer>
+			<key>Name</key><string>Well OK Honey</string>
+			<key>Artist</key><string>Jenny O.</string>
+			<key>Album</key><string>Home Ep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3406929</integer>
+			<key>Total Time</key><integer>170240</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-10-20T19:29:36Z</date>
+			<key>Date Added</key><date>2011-10-20T19:28:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Jenny O.</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3406108712</integer>
+			<key>Play Date UTC</key><date>2011-12-07T19:18:32Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-12-05T16:49:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1130</integer>
+			<key>Persistent ID</key><string>A829D6AAF1EB92A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jenny%20O.%20%20-%20Well%20OK%20Honey.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33225</key>
+		<dict>
+			<key>Track ID</key><integer>33225</integer>
+			<key>Name</key><string>Block After Block</string>
+			<key>Artist</key><string>Matt &#38; Kim</string>
+			<key>Composer</key><string>Kim Schifino/Matt Johnson</string>
+			<key>Album</key><string>Sidewalks</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7037545</integer>
+			<key>Total Time</key><integer>175882</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-11-06T16:04:22Z</date>
+			<key>Date Added</key><date>2011-11-06T16:06:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3406182838</integer>
+			<key>Play Date UTC</key><date>2011-12-08T15:53:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-13T08:20:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7488</integer>
+			<key>Persistent ID</key><string>A37645DF0E096BC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Matt%20&#38;%20Kim/Sidewalks/01%20Block%20After%20Block.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33267</key>
+		<dict>
+			<key>Track ID</key><integer>33267</integer>
+			<key>Name</key><string>Knock Knock</string>
+			<key>Artist</key><string>Mac Miller</string>
+			<key>Album Artist</key><string>Mac Miller</string>
+			<key>Album</key><string>KIDS</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3961385</integer>
+			<key>Total Time</key><integer>198008</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-11-06T16:19:25Z</date>
+			<key>Date Added</key><date>2011-11-06T16:06:36Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>MixFiend.com / MixtapeTorrent.com</string>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3406264198</integer>
+			<key>Play Date UTC</key><date>2011-12-09T14:29:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7AEE73EFBF91409C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Mac%20Miller%20-%20KIDS-2010-MIXFIEND/12%20-%20Knock%20Knock.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33279</key>
+		<dict>
+			<key>Track ID</key><integer>33279</integer>
+			<key>Name</key><string>Fascinated</string>
+			<key>Artist</key><string>Freesol feat. Justin Timberlake &#38; Timbaland</string>
+			<key>Album Artist</key><string>www.RnBXclusive.com</string>
+			<key>Composer</key><string>www.RnBXclusive.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9094630</integer>
+			<key>Total Time</key><integer>226246</integer>
+			<key>Date Modified</key><date>2011-11-06T16:49:04Z</date>
+			<key>Date Added</key><date>2011-11-06T16:06:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.RnBXclusive.com</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3406761055</integer>
+			<key>Play Date UTC</key><date>2011-12-15T08:30:55Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-30T20:19:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FC3A26022CCE8C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Freesol%20feat.%20Justin%20Timberlake%20&#38;%20Timbaland%20-%20Fascinated.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33281</key>
+		<dict>
+			<key>Track ID</key><integer>33281</integer>
+			<key>Name</key><string>I Can Transform Ya (Feat. Lil' Wayne &#38; Swizz Beatz)</string>
+			<key>Artist</key><string>Chris Brown</string>
+			<key>Album</key><string>Graffiti</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5653159</integer>
+			<key>Total Time</key><integer>229355</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-11-06T15:49:41Z</date>
+			<key>Date Added</key><date>2011-11-06T16:06:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3408086279</integer>
+			<key>Play Date UTC</key><date>2011-12-30T16:37:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-30T19:37:45Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75AB31B2DD2DC771</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/chris_brown_ft_lil_wayne__swizz_beatz_-_i_can_transform_ya.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33301</key>
+		<dict>
+			<key>Track ID</key><integer>33301</integer>
+			<key>Name</key><string>Give Me Everything (Tonight)</string>
+			<key>Artist</key><string>Pitbull Ft. Ne-Yo, Afrojack &#38; Nayer</string>
+			<key>Album Artist</key><string>Pitbull</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8037616</integer>
+			<key>Total Time</key><integer>246674</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-06T16:48:30Z</date>
+			<key>Date Added</key><date>2011-11-06T16:06:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3408009539</integer>
+			<key>Play Date UTC</key><date>2011-12-29T19:18:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18CD13D024081CE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/pitbull-ft-ne-yo-afrojack-nayer-give-me-everything-tonight-im1.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33307</key>
+		<dict>
+			<key>Track ID</key><integer>33307</integer>
+			<key>Name</key><string>Dreaming of Love and Drugs (Rihanna x Kesha x Beyonce x Nicki Minaj)</string>
+			<key>Artist</key><string>The Musicmatician</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3451879</integer>
+			<key>Total Time</key><integer>215719</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-06T16:14:25Z</date>
+			<key>Date Added</key><date>2011-11-06T16:15:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Instrumental courtesy of YouTube user ddd94100.  Songs include Rihanna feat. Calvin Harris "We Found Love", Kesha "Your Love is My Drug", Beyonce and Nicki Minaj "Sweet Dreams" (Lil Wayne Remix)</string>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3406837110</integer>
+			<key>Play Date UTC</key><date>2011-12-16T05:38:30Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-12-15T21:26:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Musicmatician</string>
+			<key>Persistent ID</key><string>E47DC329D454CDE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Musicmatician%20-%20Dreaming%20of%20Love%20and%20Drugs%20(Rihanna%20x%20Kesha%20x%20Beyonce%20x%20Nicki%20Minaj).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33313</key>
+		<dict>
+			<key>Track ID</key><integer>33313</integer>
+			<key>Name</key><string>The Motto (Remix)</string>
+			<key>Artist</key><string>Drake ft. Lil' Wayne &#38; Tyga</string>
+			<key>Album</key><string>www.earmilk.com</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9354127</integer>
+			<key>Total Time</key><integer>233743</integer>
+			<key>Date Modified</key><date>2011-11-06T16:10:34Z</date>
+			<key>Date Added</key><date>2011-11-06T16:15:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.earmilk.com</string>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3407200518</integer>
+			<key>Play Date UTC</key><date>2011-12-20T10:35:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-09T14:23:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Motto (Remix)</string>
+			<key>Persistent ID</key><string>5D1D0BC9069E0C24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Drake%20-%20The%20Motto%20(Remix)%20(ft.%20Lil%20Wayne%20%20Tyga).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33315</key>
+		<dict>
+			<key>Track ID</key><integer>33315</integer>
+			<key>Name</key><string>Don't Move</string>
+			<key>Artist</key><string>Phantogram</string>
+			<key>Album</key><string>Nightlife</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6188173</integer>
+			<key>Total Time</key><integer>257750</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Date Modified</key><date>2011-11-06T16:10:12Z</date>
+			<key>Date Added</key><date>2011-11-06T16:15:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3405925751</integer>
+			<key>Play Date UTC</key><date>2011-12-05T16:29:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-14T13:40:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5854</integer>
+			<key>Persistent ID</key><string>EC9A4D1BD84CB448</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/phantogram_-_dont_move.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33319</key>
+		<dict>
+			<key>Track ID</key><integer>33319</integer>
+			<key>Name</key><string>Heart It Races</string>
+			<key>Artist</key><string>Dr. Dog</string>
+			<key>Album</key><string>Heart It Races - Single</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9328768</integer>
+			<key>Total Time</key><integer>233195</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-11-07T15:47:48Z</date>
+			<key>Date Added</key><date>2011-11-07T16:00:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3406477725</integer>
+			<key>Play Date UTC</key><date>2011-12-12T01:48:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-07T01:29:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3271</integer>
+			<key>Persistent ID</key><string>02E1DCD8044DE5C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/dr-dog-heart-it-races.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33327</key>
+		<dict>
+			<key>Track ID</key><integer>33327</integer>
+			<key>Name</key><string>Beacon</string>
+			<key>Artist</key><string>Doomtree</string>
+			<key>Album</key><string>No Kings</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6018446</integer>
+			<key>Total Time</key><integer>250592</integer>
+			<key>Date Modified</key><date>2011-11-10T17:34:15Z</date>
+			<key>Date Added</key><date>2011-11-12T00:32:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3405509529</integer>
+			<key>Play Date UTC</key><date>2011-11-30T20:52:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-30T19:43:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>AB91A24CB584A0E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/doomtree%20-%2004_Beacon.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33329</key>
+		<dict>
+			<key>Track ID</key><integer>33329</integer>
+			<key>Name</key><string>Songs About Your Girlfriend</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album Artist</key><string>Los Campesinos!</string>
+			<key>Album</key><string>Hello Sadness</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8055151</integer>
+			<key>Total Time</key><integer>198948</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-12T15:10:00Z</date>
+			<key>Date Added</key><date>2011-11-12T15:19:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.mp3ville.in</string>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3408355312</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:21:52Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-12-28T02:49:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1CB5C75CBFB221C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Los%20Campesinos!-%20Hello%20Sadness-%20%5B2011%5D-%20Mp3ViLLe/02%20-%20Songs%20About%20Your%20Girlfriend.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33353</key>
+		<dict>
+			<key>Track ID</key><integer>33353</integer>
+			<key>Name</key><string>Rave N Roll On The Floor (Club Mix)</string>
+			<key>Artist</key><string>Kap Slap</string>
+			<key>Composer</key><string>Jared Lucas</string>
+			<key>Album</key><string>AA: Audio Appropriation (Club Mixes)</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12115583</integer>
+			<key>Total Time</key><integer>273815</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2011-11-12T15:27:33Z</date>
+			<key>Date Added</key><date>2011-11-12T15:29:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>34</integer>
+			<key>Comments</key><string>Download free, streamlined party music at KapSlap.com.
+
+Go like my page for new music updates at Facebook.com/KapSlapMashups
+
+Book me at KapSlapBooking@gmail.com.  I throw down.</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3405573654</integer>
+			<key>Play Date UTC</key><date>2011-12-01T14:40:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-01T19:44:25Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11760</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1D39BB8F7E63E706</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/08%20Rave%20N%20Roll%20On%20The%20Floor%20(Club%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-11-14</string>
+			<key>Playlist ID</key><integer>675429</integer>
+			<key>Playlist Persistent ID</key><string>F0C0E49402A01500</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25221</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

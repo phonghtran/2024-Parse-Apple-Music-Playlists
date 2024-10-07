@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-08-25T22:36:27Z</date>
+	<key>Application Version</key><string>11.0.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13572</key>
+		<dict>
+			<key>Track ID</key><integer>13572</integer>
+			<key>Name</key><string>Hollaback Girl</string>
+			<key>Artist</key><string>Gwen Stefani</string>
+			<key>Album Artist</key><string>Gwen Stefani</string>
+			<key>Album</key><string>Love. Angel. Music. Baby.</string>
+			<key>Genre</key><string>Pop, Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5909944</integer>
+			<key>Total Time</key><integer>199915</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-08-23T22:33:27Z</date>
+			<key>Date Added</key><date>2010-06-17T12:13:42Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3460296434</integer>
+			<key>Play Date UTC</key><date>2013-08-25T22:27:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2009-01-30T11:54:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11050</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Stefani, Gwen</string>
+			<key>Sort Artist</key><string>Stefani, Gwen</string>
+			<key>Persistent ID</key><string>63A23566D2E71EAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Gwen%20Stefani%20-%20Hollandback%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41348</key>
+		<dict>
+			<key>Track ID</key><integer>41348</integer>
+			<key>Name</key><string>Right There</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3973561</integer>
+			<key>Total Time</key><integer>247693</integer>
+			<key>Date Modified</key><date>2013-08-12T14:28:50Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3460296681</integer>
+			<key>Play Date UTC</key><date>2013-08-25T22:31:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A76F78E8B378444A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Right%20There%20-%20Ariana%20Grande%20(feat.%20Big%20Sean)%20-%20360p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41350</key>
+		<dict>
+			<key>Track ID</key><integer>41350</integer>
+			<key>Name</key><string>Waiting All Night feat. Ella Eyre</string>
+			<key>Artist</key><string>Rudimental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10059884</integer>
+			<key>Total Time</key><integer>314044</integer>
+			<key>Start Time</key><integer>33000</integer>
+			<key>Date Modified</key><date>2013-08-12T00:11:02Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3460214090</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:34:50Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-08-15T14:16:23Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5BE02D9ABAD70C9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Rudimental%20-%20Waiting%20All%20Night%20feat.%20Ella%20Eyre%20(Official%20Video)%20-%20OUT%20NOW%20-%20480p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41360</key>
+		<dict>
+			<key>Track ID</key><integer>41360</integer>
+			<key>Name</key><string>Habits</string>
+			<key>Artist</key><string>Tove Lo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6703642</integer>
+			<key>Total Time</key><integer>209162</integer>
+			<key>Date Modified</key><date>2013-08-12T00:06:14Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3460212279</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:04:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>92F03A6720BD7C3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Tove%20Lo%20-%20Habits.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41362</key>
+		<dict>
+			<key>Track ID</key><integer>41362</integer>
+			<key>Name</key><string>smalltalk (Four Tet remix)</string>
+			<key>Artist</key><string>ultraísta</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11755969</integer>
+			<key>Total Time</key><integer>367046</integer>
+			<key>Stop Time</key><integer>357000</integer>
+			<key>Date Modified</key><date>2013-08-12T16:13:00Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3460213167</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:19:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7C52963456052479</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/ultrai%CC%81sta%20-%20smalltalk%20(Four%20Tet%20remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41364</key>
+		<dict>
+			<key>Track ID</key><integer>41364</integer>
+			<key>Name</key><string>Blurred Lines (Ft. T.I. + Pharrell) (Bee's Knees Remix) (Bonus Track)</string>
+			<key>Artist</key><string>Robin Thicke</string>
+			<key>Album</key><string>Blurred Lines</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9229207</integer>
+			<key>Total Time</key><integer>279980</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T22:26:04Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:33Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>DJ YASI</string>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3460210684</integer>
+			<key>Play Date UTC</key><date>2013-08-24T22:38:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-17T17:57:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>14488AF94A072A7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Robin%20Thicke%20-%20Blurred%20Lines%20%5BDeluxe%20Edition%5D%5B2013%20-%20MP3%20-%20VBR%5D%5BLATEST%20ALBUM%5D%20%20-%20%5BMAHIY%5D/015-robin_thicke-blurred_lines_(ft._t.i._and_pharrell)_(bees_knees_remix)_(bonus_track).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41372</key>
+		<dict>
+			<key>Track ID</key><integer>41372</integer>
+			<key>Name</key><string>Ceilings</string>
+			<key>Artist</key><string>Local Natives</string>
+			<key>Album Artist</key><string>Local Natives</string>
+			<key>Album</key><string>Hummingbird</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7670899</integer>
+			<key>Total Time</key><integer>176457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T23:37:29Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>*** C A P A J E B O ***</string>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3460209947</integer>
+			<key>Play Date UTC</key><date>2013-08-24T22:25:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-15T19:46:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BD472CC573FAF39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Local%20Natives%20-%20Hummingbird%20%5B2013%5D%20320/Hummingbird%20-%20320/03%20-%20Ceilings.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41422</key>
+		<dict>
+			<key>Track ID</key><integer>41422</integer>
+			<key>Name</key><string>Float (RAC Mix)</string>
+			<key>Artist</key><string>Pacific Air</string>
+			<key>Album</key><string>Float</string>
+			<key>Genre</key><string>Avant-Garde</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8974760</integer>
+			<key>Total Time</key><integer>224313</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-08-11T23:06:42Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://rac.fm</string>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3460211386</integer>
+			<key>Play Date UTC</key><date>2013-08-24T22:49:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-19T11:07:28Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3463</integer>
+			<key>Persistent ID</key><string>2193C01200661120</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Pacific%20Air%20-%20Float%20(RAC%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41432</key>
+		<dict>
+			<key>Track ID</key><integer>41432</integer>
+			<key>Name</key><string>Hip Hop Kids</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Album</key><string>Evil Friends</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8409919</integer>
+			<key>Total Time</key><integer>208666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T23:03:05Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>*** C A P A J E B O ***</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3460213597</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:26:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>263E450CF04D55C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Portugal.%20The%20Man%20-%20Evil%20Friends%20%5B2013%5D%20320/Evil%20Friends%20@%20320/05%20-%20Hip%20Hop%20Kids.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41434</key>
+		<dict>
+			<key>Track ID</key><integer>41434</integer>
+			<key>Name</key><string>Atomic Man</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Album</key><string>Evil Friends</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9216576</integer>
+			<key>Total Time</key><integer>228832</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T23:03:02Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>*** C A P A J E B O ***</string>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3460220728</integer>
+			<key>Play Date UTC</key><date>2013-08-25T01:25:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2C04E9879D0C24C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Portugal.%20The%20Man%20-%20Evil%20Friends%20%5B2013%5D%20320/Evil%20Friends%20@%20320/06%20-%20Atomic%20Man.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41450</key>
+		<dict>
+			<key>Track ID</key><integer>41450</integer>
+			<key>Name</key><string>Let Me Go</string>
+			<key>Artist</key><string>Haim</string>
+			<key>Album Artist</key><string>Haim</string>
+			<key>Composer</key><string>Este Haim, Danielle Haim &#38; Alana Haim</string>
+			<key>Album</key><string>Days Are Gone</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10167168</integer>
+			<key>Total Time</key><integer>248496</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T22:41:32Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3460212069</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:01:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>138E143E4734B008</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Haim%20-%20Let%20Me%20Go%20-%20The%20Wire/Let%20Me%20Go.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41464</key>
+		<dict>
+			<key>Track ID</key><integer>41464</integer>
+			<key>Name</key><string>Can’t Stop</string>
+			<key>Artist</key><string>OneRepublic</string>
+			<key>Album Artist</key><string>OneRepublic</string>
+			<key>Album</key><string>Native</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10171818</integer>
+			<key>Total Time</key><integer>249626</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-12T00:00:59Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3460211162</integer>
+			<key>Play Date UTC</key><date>2013-08-24T22:46:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-19T14:53:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F628CA271898677</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/One%20Republic%20-%20Native%20(Deluxe%20Edition)%5Bkely258%5D/OneRepublic%20-%20Native%20(2013)%20%5BMP3%20320%5D/07%20-%20Can%E2%80%99t%20Stop.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41488</key>
+		<dict>
+			<key>Track ID</key><integer>41488</integer>
+			<key>Name</key><string>Sister Cities</string>
+			<key>Artist</key><string>Hop Along</string>
+			<key>Album Artist</key><string>Weathervane Music</string>
+			<key>Album</key><string>Shaking Through Volume 4</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9296694</integer>
+			<key>Total Time</key><integer>283454</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-11T22:15:31Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://wvmusic.bandcamp.com</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3460212562</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:09:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-12T04:35:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>306DD204C5E9E0A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Hop%20Along%20-%20Sister%20Cities.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41512</key>
+		<dict>
+			<key>Track ID</key><integer>41512</integer>
+			<key>Name</key><string>Always Something</string>
+			<key>Artist</key><string>Cage The Elephant</string>
+			<key>Album</key><string>Thank You, Happy Birthday</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8882634</integer>
+			<key>Total Time</key><integer>222014</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-08-11T22:02:19Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3460213389</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:23:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>20E81335958A12B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Thank%20You,%20Happy%20Birthday%20(2011)/01%20Always%20Something.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41518</key>
+		<dict>
+			<key>Track ID</key><integer>41518</integer>
+			<key>Name</key><string>Shake Me Down</string>
+			<key>Artist</key><string>Cage The Elephant</string>
+			<key>Album</key><string>Thank You, Happy Birthday</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8459451</integer>
+			<key>Total Time</key><integer>211435</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-08-11T22:02:12Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3460210404</integer>
+			<key>Play Date UTC</key><date>2013-08-24T22:33:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-14T22:11:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>356541E1282BA93A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Thank%20You,%20Happy%20Birthday%20(2011)/04%20Shake%20Me%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41538</key>
+		<dict>
+			<key>Track ID</key><integer>41538</integer>
+			<key>Name</key><string>Turn It Around</string>
+			<key>Artist</key><string>Lucius</string>
+			<key>Album Artist</key><string>Lucius</string>
+			<key>Album</key><string>Lucius EP</string>
+			<key>Genre</key><string>Alternative, Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8468162</integer>
+			<key>Total Time</key><integer>211696</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-08-12T00:03:51Z</date>
+			<key>Date Added</key><date>2013-08-12T00:04:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3460213809</integer>
+			<key>Play Date UTC</key><date>2013-08-24T23:30:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-14T17:16:09Z</date>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B249E73FA3AD0403</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Lucius%20-%20Lucius%20EP%20(2012)%20%5BWEB%5D/02.%20Turn%20It%20Around.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41560</key>
+		<dict>
+			<key>Track ID</key><integer>41560</integer>
+			<key>Name</key><string>The Wire</string>
+			<key>Artist</key><string>HAIM</string>
+			<key>Album Artist</key><string>HAIM</string>
+			<key>Composer</key><string>Danielle Haim, Alana Haim &#38; Este Haim</string>
+			<key>Album</key><string>The Wire - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8798137</integer>
+			<key>Total Time</key><integer>245786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-15T14:14:24Z</date>
+			<key>Date Added</key><date>2013-08-15T14:14:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3460210193</integer>
+			<key>Play Date UTC</key><date>2013-08-24T22:29:53Z</date>
+			<key>Release Date</key><date>2013-08-13T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4503</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wire - Single</string>
+			<key>Sort Name</key><string>Wire</string>
+			<key>Persistent ID</key><string>8C7B7B8E0C7D33DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/HAIM/The%20Wire%20-%20Single/01%20The%20Wire.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41766</key>
+		<dict>
+			<key>Track ID</key><integer>41766</integer>
+			<key>Name</key><string>Made Up Mind</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9422144</integer>
+			<key>Total Time</key><integer>234893</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-23T23:15:04Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3460223274</integer>
+			<key>Play Date UTC</key><date>2013-08-25T02:07:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-24T00:56:22Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A031CF1BE1DD3ED4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Tedeschi%20Trucks%20Band%20-%20Made%20Up%20Mind%20(2013)%20mp3@320%20%7B1337x%7D-kawli/01%20Made%20Up%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>113935</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41464</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41766</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

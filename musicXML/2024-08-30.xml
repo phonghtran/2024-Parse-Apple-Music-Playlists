@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-08-30T13:29:18Z</date>
+	<key>Application Version</key><string>1.4.6.32</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>41485</key>
+		<dict>
+			<key>Track ID</key><integer>41485</integer>
+			<key>Name</key><string>Die Hard</string>
+			<key>Artist</key><string>Kendrick Lamar, Blxst &#38; Amanda Reifer</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, Amanda Reifer, Matthew Burdette, Hykeem Carter, M. Spears, J. Pounds, D. Natche, Michael John Mule, Isaac John De Boni, Thundercat, Sam Dew, Victor Ekpo, M. Smith &#38; R. Smith</string>
+			<key>Album</key><string>Mr. Morale &#38; The Big Steppers</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8499126</integer>
+			<key>Total Time</key><integer>239027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-05-13T11:11:45Z</date>
+			<key>Date Added</key><date>2022-05-13T11:11:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3807258628</integer>
+			<key>Play Date UTC</key><date>2024-08-23T15:50:28Z</date>
+			<key>Release Date</key><date>2022-05-13T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mr. Morale &#38; The Big Steppers</string>
+			<key>Sort Artist</key><string>Kendrick Lamar, Blxst &#38; Amanda Reifer</string>
+			<key>Sort Name</key><string>Die Hard</string>
+			<key>Persistent ID</key><string>C7D415A9A8E04C34</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43882</key>
+		<dict>
+			<key>Track ID</key><integer>43882</integer>
+			<key>Name</key><string>beside you</string>
+			<key>Artist</key><string>keshi</string>
+			<key>Album Artist</key><string>keshi</string>
+			<key>Composer</key><string>keshi &#38; Hugo Leclercq</string>
+			<key>Album</key><string>beside you - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6046402</integer>
+			<key>Total Time</key><integer>166023</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-08-25T04:47:01Z</date>
+			<key>Date Added</key><date>2023-08-25T04:47:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3807511081</integer>
+			<key>Play Date UTC</key><date>2024-08-26T13:58:01Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2024-03-13T01:27:26Z</date>
+			<key>Release Date</key><date>2021-04-23T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3291</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>beside you - Single</string>
+			<key>Sort Artist</key><string>keshi</string>
+			<key>Sort Name</key><string>beside you</string>
+			<key>Persistent ID</key><string>27A9E93CB433A986</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45969</key>
+		<dict>
+			<key>Track ID</key><integer>45969</integer>
+			<key>Name</key><string>tres tristes tragos</string>
+			<key>Artist</key><string>Young Miko</string>
+			<key>Album Artist</key><string>Young Miko</string>
+			<key>Composer</key><string>María Victoria Ramírez De Arellano Cardona, Diego Amaury Lopez Crespo, Hector C. Lopez Jimenez, Robert Rodriguez Cruz &#38; Mariana Beatriz Lopez Crespo</string>
+			<key>Album</key><string>att. (Apple Music Edition)</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5719072</integer>
+			<key>Total Time</key><integer>155214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-03-21T17:17:13Z</date>
+			<key>Date Added</key><date>2024-04-05T04:03:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3807679642</integer>
+			<key>Play Date UTC</key><date>2024-08-28T12:47:22Z</date>
+			<key>Release Date</key><date>2024-04-05T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>att. (Apple Music Edition)</string>
+			<key>Sort Artist</key><string>Young Miko</string>
+			<key>Sort Name</key><string>tres tristes tragos</string>
+			<key>Persistent ID</key><string>8AFCC31390EFAB7B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46063</key>
+		<dict>
+			<key>Track ID</key><integer>46063</integer>
+			<key>Name</key><string>Whatever She Wants</string>
+			<key>Artist</key><string>Bryson Tiller</string>
+			<key>Album Artist</key><string>Bryson Tiller</string>
+			<key>Composer</key><string>Bryson Tiller, Tiffany Majette &#38; Tylian Jamel Francois</string>
+			<key>Album</key><string>Whatever She Wants - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5939525</integer>
+			<key>Total Time</key><integer>161342</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-04-02T19:32:48Z</date>
+			<key>Date Added</key><date>2024-04-02T19:32:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3806988670</integer>
+			<key>Play Date UTC</key><date>2024-08-20T12:51:10Z</date>
+			<key>Release Date</key><date>2024-02-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2349</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Whatever She Wants - Single</string>
+			<key>Sort Artist</key><string>Bryson Tiller</string>
+			<key>Sort Name</key><string>Whatever She Wants</string>
+			<key>Persistent ID</key><string>DC1056A3901A3028</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46712</key>
+		<dict>
+			<key>Track ID</key><integer>46712</integer>
+			<key>Name</key><string>CHIHIRO</string>
+			<key>Artist</key><string>Billie Eilish</string>
+			<key>Album Artist</key><string>Billie Eilish</string>
+			<key>Composer</key><string>Billie Eilish &#38; FINNEAS</string>
+			<key>Album</key><string>HIT ME HARD AND SOFT</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10613104</integer>
+			<key>Total Time</key><integer>303440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-05-23T22:33:21Z</date>
+			<key>Date Added</key><date>2024-05-23T22:33:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3807259618</integer>
+			<key>Play Date UTC</key><date>2024-08-23T16:06:58Z</date>
+			<key>Release Date</key><date>2024-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HIT ME HARD AND SOFT</string>
+			<key>Sort Artist</key><string>Billie Eilish</string>
+			<key>Sort Name</key><string>CHIHIRO</string>
+			<key>Persistent ID</key><string>354CBFA5834AD0F6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46840</key>
+		<dict>
+			<key>Track ID</key><integer>46840</integer>
+			<key>Name</key><string>Snap My Finger (feat. PinkPantheress)</string>
+			<key>Artist</key><string>KAYTRANADA</string>
+			<key>Album Artist</key><string>KAYTRANADA</string>
+			<key>Composer</key><string>PinkPantheress &#38; Louis Kevin Celestin</string>
+			<key>Album</key><string>TIMELESS</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7449694</integer>
+			<key>Total Time</key><integer>201372</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-05-24T15:09:05Z</date>
+			<key>Date Added</key><date>2024-06-07T04:03:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3807703004</integer>
+			<key>Play Date UTC</key><date>2024-08-28T19:16:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2024-08-16T20:02:55Z</date>
+			<key>Release Date</key><date>2024-06-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TIMELESS</string>
+			<key>Sort Artist</key><string>KAYTRANADA</string>
+			<key>Sort Name</key><string>Snap My Finger (feat. PinkPantheress)</string>
+			<key>Persistent ID</key><string>28F76A85DA701D6B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47246</key>
+		<dict>
+			<key>Track ID</key><integer>47246</integer>
+			<key>Name</key><string>HOT ONE</string>
+			<key>Artist</key><string>Denzel Curry, TiaCorine &#38; A$AP Ferg</string>
+			<key>Album Artist</key><string>Denzel Curry</string>
+			<key>Composer</key><string>D. Curry, D. Ferguson Jr, T. Thompson-Shulz, D. Hill, A. Porterfield, M. Mule, I. De Boni &#38; E. Ferrera</string>
+			<key>Album</key><string>King Of The Mischievous South Vol. 2</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6057234</integer>
+			<key>Total Time</key><integer>165271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-06-08T21:20:18Z</date>
+			<key>Date Added</key><date>2024-06-08T21:20:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3806988346</integer>
+			<key>Play Date UTC</key><date>2024-08-20T12:45:46Z</date>
+			<key>Release Date</key><date>2024-06-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>King Of The Mischievous South Vol. 2</string>
+			<key>Sort Artist</key><string>Denzel Curry, TiaCorine &#38; A$AP Ferg</string>
+			<key>Sort Name</key><string>HOT ONE</string>
+			<key>Persistent ID</key><string>7E25BA9EDED8230B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47252</key>
+		<dict>
+			<key>Track ID</key><integer>47252</integer>
+			<key>Name</key><string>Take A Bite</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus</string>
+			<key>Album</key><string>Coming Home - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5846859</integer>
+			<key>Total Time</key><integer>159389</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-06-09T01:38:02Z</date>
+			<key>Date Added</key><date>2024-06-09T01:38:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3807680829</integer>
+			<key>Play Date UTC</key><date>2024-08-28T13:07:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2024-08-22T20:21:49Z</date>
+			<key>Release Date</key><date>2024-05-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4591</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Coming Home - Single</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Take A Bite</string>
+			<key>Persistent ID</key><string>CD06CD28C4045D57</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47534</key>
+		<dict>
+			<key>Track ID</key><integer>47534</integer>
+			<key>Name</key><string>Cake</string>
+			<key>Artist</key><string>Lupe Fiasco</string>
+			<key>Album Artist</key><string>Lupe Fiasco</string>
+			<key>Composer</key><string>Wasalu Jaco p/k/a: Lupe Fisaco</string>
+			<key>Album</key><string>Samurai</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7197786</integer>
+			<key>Total Time</key><integer>202920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-07-07T19:42:51Z</date>
+			<key>Date Added</key><date>2024-07-07T19:42:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3807347930</integer>
+			<key>Play Date UTC</key><date>2024-08-24T16:38:50Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2024-08-28T19:05:34Z</date>
+			<key>Release Date</key><date>2024-06-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Samurai</string>
+			<key>Sort Artist</key><string>Lupe Fiasco</string>
+			<key>Sort Name</key><string>Cake</string>
+			<key>Persistent ID</key><string>EF3236C203984B4E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47546</key>
+		<dict>
+			<key>Track ID</key><integer>47546</integer>
+			<key>Name</key><string>Right Now</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Lolo Zouaï, FRNK, satomoka &#38; Gigi</string>
+			<key>Album</key><string>Supernatural - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5919817</integer>
+			<key>Total Time</key><integer>160413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-07-07T22:18:52Z</date>
+			<key>Date Added</key><date>2024-07-07T22:18:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3807680086</integer>
+			<key>Play Date UTC</key><date>2024-08-28T12:54:46Z</date>
+			<key>Release Date</key><date>2024-06-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Supernatural - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>Right Now</string>
+			<key>Persistent ID</key><string>88989F75973023F7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47761</key>
+		<dict>
+			<key>Track ID</key><integer>47761</integer>
+			<key>Name</key><string>I Might be Fake</string>
+			<key>Artist</key><string>Master Peace &#38; Georgia</string>
+			<key>Album Artist</key><string>Master Peace</string>
+			<key>Composer</key><string>Peace Okezie, Georgia Barnes &#38; Matt Schwartz</string>
+			<key>Album</key><string>How To Make a Master Peace</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6373583</integer>
+			<key>Total Time</key><integer>168806</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2024-07-30T19:54:58Z</date>
+			<key>Date Added</key><date>2024-07-30T19:54:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3807510915</integer>
+			<key>Play Date UTC</key><date>2024-08-26T13:55:15Z</date>
+			<key>Release Date</key><date>2023-10-06T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7591</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How To Make a Master Peace</string>
+			<key>Sort Artist</key><string>Master Peace &#38; Georgia</string>
+			<key>Sort Name</key><string>I Might be Fake</string>
+			<key>Persistent ID</key><string>C1FD04000B343764</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47787</key>
+		<dict>
+			<key>Track ID</key><integer>47787</integer>
+			<key>Name</key><string>Big Dawgs</string>
+			<key>Artist</key><string>Hanumankind &#38; Kalmi</string>
+			<key>Album Artist</key><string>Hanumankind &#38; Kalmi</string>
+			<key>Composer</key><string>Hanumankind &#38; Kalmi</string>
+			<key>Album</key><string>Big Dawgs - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6895376</integer>
+			<key>Total Time</key><integer>190666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-08-02T02:02:35Z</date>
+			<key>Date Added</key><date>2024-08-02T02:02:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3807702522</integer>
+			<key>Play Date UTC</key><date>2024-08-28T19:08:42Z</date>
+			<key>Release Date</key><date>2024-07-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Dawgs - Single</string>
+			<key>Sort Artist</key><string>Hanumankind &#38; Kalmi</string>
+			<key>Sort Name</key><string>Big Dawgs</string>
+			<key>Persistent ID</key><string>7474B19A0C8B3598</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47831</key>
+		<dict>
+			<key>Track ID</key><integer>47831</integer>
+			<key>Name</key><string>NISSAN ALTIMA</string>
+			<key>Artist</key><string>Doechii</string>
+			<key>Album Artist</key><string>Doechii</string>
+			<key>Composer</key><string>Jaylah Hickmon &#38; Randle Markus Alandrus</string>
+			<key>Album</key><string>NISSAN ALTIMA - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4813943</integer>
+			<key>Total Time</key><integer>128132</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-08-04T00:25:37Z</date>
+			<key>Date Added</key><date>2024-08-04T00:25:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3807679770</integer>
+			<key>Play Date UTC</key><date>2024-08-28T12:49:30Z</date>
+			<key>Release Date</key><date>2024-08-02T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4280</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NISSAN ALTIMA - Single</string>
+			<key>Sort Artist</key><string>Doechii</string>
+			<key>Sort Name</key><string>NISSAN ALTIMA</string>
+			<key>Persistent ID</key><string>0D426C1F13718F9C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47967</key>
+		<dict>
+			<key>Track ID</key><integer>47967</integer>
+			<key>Name</key><string>What’s In the Tea?</string>
+			<key>Artist</key><string>Calimossa</string>
+			<key>Album Artist</key><string>Calimossa</string>
+			<key>Album</key><string>Club 555</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6426081</integer>
+			<key>Total Time</key><integer>173500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2024-08-13T21:23:01Z</date>
+			<key>Date Added</key><date>2024-08-13T21:23:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3807703174</integer>
+			<key>Play Date UTC</key><date>2024-08-28T19:19:34Z</date>
+			<key>Release Date</key><date>2023-01-13T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2180</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Club 555</string>
+			<key>Sort Artist</key><string>Calimossa</string>
+			<key>Sort Name</key><string>What’s In the Tea?</string>
+			<key>Persistent ID</key><string>DBABAEFE39045734</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48025</key>
+		<dict>
+			<key>Track ID</key><integer>48025</integer>
+			<key>Name</key><string>New Woman (feat. ROSALÍA)</string>
+			<key>Artist</key><string>LISA</string>
+			<key>Album Artist</key><string>LISA</string>
+			<key>Composer</key><string>LISA, Max Martin, ILYA, Tove Burman, ROSALÍA &#38; Tove Lo</string>
+			<key>Album</key><string>New Woman (feat. ROSALÍA) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6575725</integer>
+			<key>Total Time</key><integer>179790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-08-16T11:45:09Z</date>
+			<key>Date Added</key><date>2024-08-16T11:45:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3807258393</integer>
+			<key>Play Date UTC</key><date>2024-08-23T15:46:33Z</date>
+			<key>Release Date</key><date>2024-08-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>New Woman (feat. ROSALÍA) - Single</string>
+			<key>Sort Artist</key><string>LISA</string>
+			<key>Sort Name</key><string>New Woman (feat. ROSALÍA)</string>
+			<key>Persistent ID</key><string>BEADFBA1F4584E13</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48065</key>
+		<dict>
+			<key>Track ID</key><integer>48065</integer>
+			<key>Name</key><string>Đừng Làm Trái Tim Anh Đau</string>
+			<key>Artist</key><string>Sơn Tùng M-TP</string>
+			<key>Album Artist</key><string>Sơn Tùng M-TP</string>
+			<key>Composer</key><string>Sơn Tùng M-TP</string>
+			<key>Album</key><string>Đừng Làm Trái Tim Anh Đau - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9778538</integer>
+			<key>Total Time</key><integer>279208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-08-16T21:16:59Z</date>
+			<key>Date Added</key><date>2024-08-16T21:16:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3807680668</integer>
+			<key>Play Date UTC</key><date>2024-08-28T13:04:28Z</date>
+			<key>Release Date</key><date>2024-06-08T12:00:00Z</date>
+			<key>Normalization</key><integer>4251</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Đừng Làm Trái Tim Anh Đau - Single</string>
+			<key>Sort Artist</key><string>Sơn Tùng M-TP</string>
+			<key>Sort Name</key><string>Đừng Làm Trái Tim Anh Đau</string>
+			<key>Persistent ID</key><string>3B41AB736B044FA2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48429</key>
+		<dict>
+			<key>Track ID</key><integer>48429</integer>
+			<key>Name</key><string>Soft Side</string>
+			<key>Artist</key><string>BENEE</string>
+			<key>Album Artist</key><string>BENEE</string>
+			<key>Composer</key><string>Stella Bennett &#38; Kenneth Blume III</string>
+			<key>Album</key><string>Lychee</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5659629</integer>
+			<key>Total Time</key><integer>154732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-08-23T21:08:43Z</date>
+			<key>Date Added</key><date>2024-08-23T21:08:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3807679925</integer>
+			<key>Play Date UTC</key><date>2024-08-28T12:52:05Z</date>
+			<key>Release Date</key><date>2022-03-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lychee</string>
+			<key>Sort Artist</key><string>BENEE</string>
+			<key>Sort Name</key><string>Soft Side</string>
+			<key>Persistent ID</key><string>1621E8419C1D788C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48431</key>
+		<dict>
+			<key>Track ID</key><integer>48431</integer>
+			<key>Name</key><string>do me right</string>
+			<key>Artist</key><string>brb.</string>
+			<key>Album Artist</key><string>brb.</string>
+			<key>Composer</key><string>Clarence Liew Xian-Yi, Marc Lian &#38; Mohamad Auzaie Bin Mohamad Khanafi</string>
+			<key>Album</key><string>relationshit</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6535230</integer>
+			<key>Total Time</key><integer>178560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-08-24T18:31:20Z</date>
+			<key>Date Added</key><date>2024-08-24T18:31:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3807680389</integer>
+			<key>Play Date UTC</key><date>2024-08-28T12:59:49Z</date>
+			<key>Release Date</key><date>2020-03-13T12:00:00Z</date>
+			<key>Normalization</key><integer>2278</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>relationshit</string>
+			<key>Sort Artist</key><string>brb.</string>
+			<key>Sort Name</key><string>do me right</string>
+			<key>Persistent ID</key><string>3DE13A77509233D1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>126259</key>
+		<dict>
+			<key>Track ID</key><integer>126259</integer>
+			<key>Name</key><string>Sugarcoat</string>
+			<key>Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Album Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Composer</key><string>Manuel Gagneux</string>
+			<key>Album</key><string>GREIF</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6703398</integer>
+			<key>Total Time</key><integer>177760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-08-25T17:03:02Z</date>
+			<key>Date Added</key><date>2024-08-25T17:03:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-08-23T12:00:00Z</date>
+			<key>Normalization</key><integer>2756</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GREIF</string>
+			<key>Sort Artist</key><string>Zeal &#38; Ardor</string>
+			<key>Sort Name</key><string>Sugarcoat</string>
+			<key>Persistent ID</key><string>692F6F2C8ABED903</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>121270</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43882</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45969</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-08-23T12:00:51Z</date>
+	<key>Application Version</key><string>12.9.5.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>1BA1574FA2FAD306</string>
+	<key>Tracks</key>
+	<dict>
+		<key>20606</key>
+		<dict>
+			<key>Track ID</key><integer>20606</integer>
+			<key>Name</key><string>Needle and a Knife</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Composer</key><string>Aliana Joy Riley/Patrick Riley</string>
+			<key>Album</key><string>Ritual In Repeat</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6638761</integer>
+			<key>Total Time</key><integer>203440</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2014-12-14T07:04:06Z</date>
+			<key>Date Added</key><date>2014-12-14T06:05:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3649255664</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:07:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-06-08T06:10:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA792A20E9F15A87</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>22884</key>
+		<dict>
+			<key>Track ID</key><integer>22884</integer>
+			<key>Name</key><string>Paint's Peeling</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Execution of All Things</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6790199</integer>
+			<key>Total Time</key><integer>200933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-01-07T16:28:31Z</date>
+			<key>Date Added</key><date>2010-06-17T00:33:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 0000100B 0000127E 00007EA7 00005AA1 00027117 00027117 00008000 00007FC4 00004E37 000249F0</string>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3649256677</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:24:37Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7825</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Execution of All Things</string>
+			<key>Persistent ID</key><string>3AF9F76AA0608E45</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>33462</key>
+		<dict>
+			<key>Track ID</key><integer>33462</integer>
+			<key>Name</key><string>Will We Talk?</string>
+			<key>Artist</key><string>Sam Fender</string>
+			<key>Album Artist</key><string>Sam Fender</string>
+			<key>Composer</key><string>Sam Fender</string>
+			<key>Album</key><string>Hypersonic Missiles</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5848184</integer>
+			<key>Total Time</key><integer>162600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-05T19:14:18Z</date>
+			<key>Date Added</key><date>2019-07-05T19:14:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3649256198</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:16:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-14T16:17:48Z</date>
+			<key>Release Date</key><date>2019-08-09T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hypersonic Missiles</string>
+			<key>Sort Artist</key><string>Sam Fender</string>
+			<key>Sort Name</key><string>Will We Talk?</string>
+			<key>Persistent ID</key><string>E7F29928EC25F8EB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33578</key>
+		<dict>
+			<key>Track ID</key><integer>33578</integer>
+			<key>Name</key><string>Antisocial</string>
+			<key>Artist</key><string>Ed Sheeran &#38; Travis Scott</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Album</key><string>No.6 Collaborations Project</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5780394</integer>
+			<key>Total Time</key><integer>161747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-12T17:48:27Z</date>
+			<key>Date Added</key><date>2019-07-12T17:48:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3649255173</integer>
+			<key>Play Date UTC</key><date>2019-08-21T21:59:33Z</date>
+			<key>Release Date</key><date>2019-07-12T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No.6 Collaborations Project</string>
+			<key>Sort Artist</key><string>Ed Sheeran &#38; Travis Scott</string>
+			<key>Sort Name</key><string>Antisocial</string>
+			<key>Persistent ID</key><string>1D8AB48916F5EA97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33682</key>
+		<dict>
+			<key>Track ID</key><integer>33682</integer>
+			<key>Name</key><string>Gone</string>
+			<key>Artist</key><string>Charli XCX &#38; Christine and the Queens</string>
+			<key>Album Artist</key><string>Charli XCX</string>
+			<key>Composer</key><string>Charlotte Aitchison, Héloïse Letissier, Linus Wiklund, Nicolas Petitfrère &#38; Noonie Bao</string>
+			<key>Album</key><string>Charli</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8677052</integer>
+			<key>Total Time</key><integer>246440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-21T23:47:17Z</date>
+			<key>Date Added</key><date>2019-07-21T23:47:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3649257289</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:34:49Z</date>
+			<key>Release Date</key><date>2019-07-19T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Charli</string>
+			<key>Sort Artist</key><string>Charli XCX &#38; Christine and the Queens</string>
+			<key>Sort Name</key><string>Gone</string>
+			<key>Persistent ID</key><string>1F933DC9B5FF7FDE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33684</key>
+		<dict>
+			<key>Track ID</key><integer>33684</integer>
+			<key>Name</key><string>Acid Dreams</string>
+			<key>Artist</key><string>MAX &#38; Felly</string>
+			<key>Album Artist</key><string>MAX &#38; Felly</string>
+			<key>Composer</key><string>Christian Felner, Maxwell Schneider, Ryan Siegel, Alexander Jerard Lewis &#38; Ivan Jackson Rosenberg</string>
+			<key>Album</key><string>Acid Dreams - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6618723</integer>
+			<key>Total Time</key><integer>183930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-22T02:08:53Z</date>
+			<key>Date Added</key><date>2019-07-22T02:08:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3649257043</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:30:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-08-20T00:26:30Z</date>
+			<key>Release Date</key><date>2019-07-19T00:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Acid Dreams - Single</string>
+			<key>Sort Artist</key><string>MAX &#38; Felly</string>
+			<key>Sort Name</key><string>Acid Dreams</string>
+			<key>Persistent ID</key><string>0304D2A73E69EA03</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33790</key>
+		<dict>
+			<key>Track ID</key><integer>33790</integer>
+			<key>Name</key><string>Boyfriend</string>
+			<key>Artist</key><string>Ariana Grande &#38; Social House</string>
+			<key>Album Artist</key><string>Ariana Grande &#38; Social House</string>
+			<key>Composer</key><string>Ariana Grande, Edgar Barrera, Steven Franks, Tommy Brown, Michael Foster &#38; Charles Anderson</string>
+			<key>Album</key><string>Boyfriend - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7036986</integer>
+			<key>Total Time</key><integer>186098</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-02T13:41:55Z</date>
+			<key>Date Added</key><date>2019-08-02T13:41:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3649259077</integer>
+			<key>Play Date UTC</key><date>2019-08-21T23:04:37Z</date>
+			<key>Release Date</key><date>2019-08-02T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boyfriend - Single</string>
+			<key>Sort Artist</key><string>Ariana Grande &#38; Social House</string>
+			<key>Sort Name</key><string>Boyfriend</string>
+			<key>Persistent ID</key><string>09A416B9F8ABD03B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33802</key>
+		<dict>
+			<key>Track ID</key><integer>33802</integer>
+			<key>Name</key><string>Don't Wanna Be Without Ya</string>
+			<key>Artist</key><string>Penny &#38; Sparrow</string>
+			<key>Album Artist</key><string>Penny &#38; Sparrow</string>
+			<key>Composer</key><string>Andy Baxter &#38; Kyle Jahnke</string>
+			<key>Album</key><string>Finch</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7246101</integer>
+			<key>Total Time</key><integer>207763</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-02T21:17:18Z</date>
+			<key>Date Added</key><date>2019-08-02T21:17:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3649256035</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:13:55Z</date>
+			<key>Release Date</key><date>2019-05-31T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Finch</string>
+			<key>Sort Artist</key><string>Penny &#38; Sparrow</string>
+			<key>Sort Name</key><string>Don't Wanna Be Without Ya</string>
+			<key>Persistent ID</key><string>D3CB0EE8CBB3B95D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33846</key>
+		<dict>
+			<key>Track ID</key><integer>33846</integer>
+			<key>Name</key><string>Impossible</string>
+			<key>Artist</key><string>Clairo</string>
+			<key>Album Artist</key><string>Clairo</string>
+			<key>Composer</key><string>Rostam &#38; Claire Cottrill</string>
+			<key>Album</key><string>Immunity</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8096377</integer>
+			<key>Total Time</key><integer>230347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-03T01:40:55Z</date>
+			<key>Date Added</key><date>2019-08-03T01:40:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3649258613</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:56:53Z</date>
+			<key>Release Date</key><date>2019-08-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Immunity</string>
+			<key>Sort Artist</key><string>Clairo</string>
+			<key>Sort Name</key><string>Impossible</string>
+			<key>Persistent ID</key><string>FDE25A1133FE52F2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>33850</key>
+		<dict>
+			<key>Track ID</key><integer>33850</integer>
+			<key>Name</key><string>Pay No Mind (feat. Passion Pit)</string>
+			<key>Artist</key><string>Madeon</string>
+			<key>Album Artist</key><string>Madeon</string>
+			<key>Composer</key><string>Hugo Leclercq &#38; Michael Angelakos</string>
+			<key>Album</key><string>Adventure (Deluxe)</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8783992</integer>
+			<key>Total Time</key><integer>249442</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-08-07T14:58:20Z</date>
+			<key>Date Added</key><date>2019-08-07T14:58:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3649258383</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:53:03Z</date>
+			<key>Release Date</key><date>2015-02-09T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Adventure (Deluxe)</string>
+			<key>Sort Artist</key><string>Madeon</string>
+			<key>Sort Name</key><string>Pay No Mind (feat. Passion Pit)</string>
+			<key>Persistent ID</key><string>A730AF3B695FA1BE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34068</key>
+		<dict>
+			<key>Track ID</key><integer>34068</integer>
+			<key>Name</key><string>BOY BYE</string>
+			<key>Artist</key><string>BROCKHAMPTON</string>
+			<key>Album Artist</key><string>BROCKHAMPTON</string>
+			<key>Composer</key><string>Russell Boring, Matthew Champion, Ciarán McDonald, Ian Simpson, Romil Hemnani, Dominique Simpson, William Wood, Jabari Manwarring, Isaiah Merriweather, Varoujan &#38; Reza Attaei</string>
+			<key>Album</key><string>BOY BYE - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5299468</integer>
+			<key>Total Time</key><integer>142182</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-16T17:54:27Z</date>
+			<key>Date Added</key><date>2019-08-16T17:54:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3649255315</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:01:55Z</date>
+			<key>Release Date</key><date>2019-08-15T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BOY BYE - Single</string>
+			<key>Sort Artist</key><string>BROCKHAMPTON</string>
+			<key>Sort Name</key><string>BOY BYE</string>
+			<key>Persistent ID</key><string>6B04DEAF7B4F9D10</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34072</key>
+		<dict>
+			<key>Track ID</key><integer>34072</integer>
+			<key>Name</key><string>Title</string>
+			<key>Artist</key><string>Kiana Ledé</string>
+			<key>Album Artist</key><string>Kiana Ledé</string>
+			<key>Composer</key><string>Kiana Ledé, Lisa Scinta, Alec King, Amanda Reifer, Andre Robertson, Vaidel Vidal, Zachary Perry &#38; Brandon Hamlin</string>
+			<key>Album</key><string>Title - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5409091</integer>
+			<key>Total Time</key><integer>145928</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-16T17:59:22Z</date>
+			<key>Date Added</key><date>2019-08-16T17:59:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3649255461</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:04:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-19T23:48:21Z</date>
+			<key>Release Date</key><date>2019-08-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Title - Single</string>
+			<key>Sort Artist</key><string>Kiana Ledé</string>
+			<key>Sort Name</key><string>Title</string>
+			<key>Persistent ID</key><string>AD2A079D7A396C30</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34272</key>
+		<dict>
+			<key>Track ID</key><integer>34272</integer>
+			<key>Name</key><string>Friends (feat. Ashe)</string>
+			<key>Artist</key><string>Big Gigantic</string>
+			<key>Album Artist</key><string>Big Gigantic</string>
+			<key>Composer</key><string>Dominic Lalli &#38; Ashlyn Willson</string>
+			<key>Album</key><string>Friends (feat. Ashe) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8433888</integer>
+			<key>Total Time</key><integer>238330</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-18T15:30:58Z</date>
+			<key>Date Added</key><date>2019-08-18T15:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3649258134</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:48:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-20T19:52:02Z</date>
+			<key>Release Date</key><date>2019-08-13T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Friends (feat. Ashe) - Single</string>
+			<key>Sort Artist</key><string>Big Gigantic</string>
+			<key>Sort Name</key><string>Friends (feat. Ashe)</string>
+			<key>Persistent ID</key><string>1D14CAF1B99DB3C9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>34274</key>
+		<dict>
+			<key>Track ID</key><integer>34274</integer>
+			<key>Name</key><string>Running</string>
+			<key>Artist</key><string>Arlissa</string>
+			<key>Album Artist</key><string>Arlissa</string>
+			<key>Composer</key><string>Matt Schwartz, Martin Terefe &#38; Arlissa Ruppert</string>
+			<key>Album</key><string>Running - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6142097</integer>
+			<key>Total Time</key><integer>167931</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-18T15:38:51Z</date>
+			<key>Date Added</key><date>2019-08-18T15:38:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3649257486</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:38:06Z</date>
+			<key>Release Date</key><date>2019-08-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Running - Single</string>
+			<key>Sort Artist</key><string>Arlissa</string>
+			<key>Sort Name</key><string>Running</string>
+			<key>Persistent ID</key><string>439078DB78FE6306</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>83868</key>
+		<dict>
+			<key>Track ID</key><integer>83868</integer>
+			<key>Name</key><string>Bon Bon Chocolat</string>
+			<key>Artist</key><string>EVERGLOW</string>
+			<key>Album Artist</key><string>EVERGLOW</string>
+			<key>Album</key><string>ARRIVAL OF EVERGLOW - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8253967</integer>
+			<key>Total Time</key><integer>228682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-20T05:46:44Z</date>
+			<key>Date Added</key><date>2019-08-20T05:46:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3649257715</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:41:55Z</date>
+			<key>Release Date</key><date>2019-03-18T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ARRIVAL OF EVERGLOW - Single</string>
+			<key>Sort Artist</key><string>EVERGLOW</string>
+			<key>Sort Name</key><string>Bon Bon Chocolat</string>
+			<key>Persistent ID</key><string>ED5B4A8C413FD8C6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>84348</key>
+		<dict>
+			<key>Track ID</key><integer>84348</integer>
+			<key>Name</key><string>False Direction</string>
+			<key>Artist</key><string>Dayglow</string>
+			<key>Album Artist</key><string>Dayglow</string>
+			<key>Album</key><string>Fuzzybrain</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9983379</integer>
+			<key>Total Time</key><integer>277200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-08-21T14:12:06Z</date>
+			<key>Date Added</key><date>2019-08-21T14:12:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3649258891</integer>
+			<key>Play Date UTC</key><date>2019-08-21T23:01:31Z</date>
+			<key>Release Date</key><date>2018-09-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fuzzybrain</string>
+			<key>Sort Artist</key><string>Dayglow</string>
+			<key>Sort Name</key><string>False Direction</string>
+			<key>Persistent ID</key><string>634398F5CC3ABD0C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>84355</key>
+		<dict>
+			<key>Track ID</key><integer>84355</integer>
+			<key>Name</key><string>Footscray Station</string>
+			<key>Artist</key><string>Camp Cope</string>
+			<key>Album Artist</key><string>Camp Cope &#38; Cayetana</string>
+			<key>Album</key><string>Split - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10158966</integer>
+			<key>Total Time</key><integer>277856</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-08-21T14:20:47Z</date>
+			<key>Date Added</key><date>2019-08-21T14:20:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3649256476</integer>
+			<key>Play Date UTC</key><date>2019-08-21T22:21:16Z</date>
+			<key>Release Date</key><date>2017-01-20T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Split - EP</string>
+			<key>Sort Artist</key><string>Camp Cope</string>
+			<key>Sort Name</key><string>Footscray Station</string>
+			<key>Persistent ID</key><string>2E7D32C496AF7615</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>84566</key>
+		<dict>
+			<key>Track ID</key><integer>84566</integer>
+			<key>Name</key><string>Version of Me</string>
+			<key>Artist</key><string>Sasha Sloan</string>
+			<key>Album Artist</key><string>Sasha Sloan</string>
+			<key>Composer</key><string>Emi Dragoi, Henry Agincourt Allen, Sarah Hudson &#38; Sasha Sloan</string>
+			<key>Album</key><string>Loser - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6617064</integer>
+			<key>Total Time</key><integer>181971</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-08-21T18:35:54Z</date>
+			<key>Date Added</key><date>2019-08-21T18:35:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3649315055</integer>
+			<key>Play Date UTC</key><date>2019-08-22T14:37:35Z</date>
+			<key>Release Date</key><date>2018-11-29T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Loser - EP</string>
+			<key>Sort Artist</key><string>Sasha Sloan</string>
+			<key>Sort Name</key><string>Version of Me</string>
+			<key>Persistent ID</key><string>3174B292C06188BD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>78944</integer>
+			<key>Playlist Persistent ID</key><string>317E07F776CE71F6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33682</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33684</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33790</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33802</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34068</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34072</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33846</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>83868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>84348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>84355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>84566</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

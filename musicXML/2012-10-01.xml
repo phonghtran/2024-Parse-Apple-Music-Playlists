@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-10-02T02:31:11Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31258</key>
+		<dict>
+			<key>Track ID</key><integer>31258</integer>
+			<key>Name</key><string>Cold Water</string>
+			<key>Artist</key><string>Lulu &#38; The Lampshades</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5939822</integer>
+			<key>Total Time</key><integer>194377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T05:14:31Z</date>
+			<key>Date Added</key><date>2011-06-01T06:29:03Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3431866532</integer>
+			<key>Play Date UTC</key><date>2012-09-30T21:15:32Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2012-10-02T01:22:11Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F67A514DB103F370</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/29%20-%20Lulu%20&#38;%20The%20Lampshades%20-%20Cold%20Water.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34204</key>
+		<dict>
+			<key>Track ID</key><integer>34204</integer>
+			<key>Name</key><string>Gold On the Ceiling</string>
+			<key>Artist</key><string>The Black Keys</string>
+			<key>Album Artist</key><string>The Black Keys</string>
+			<key>Album</key><string>El Camino</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9096866</integer>
+			<key>Total Time</key><integer>224444</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-03-08T15:48:21Z</date>
+			<key>Date Added</key><date>2012-03-08T15:52:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3431927372</integer>
+			<key>Play Date UTC</key><date>2012-10-01T14:09:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-09-30T13:47:24Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Black Keys</string>
+			<key>Sort Artist</key><string>Black Keys</string>
+			<key>Persistent ID</key><string>72DEDD433D0F9F67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/The%20Black%20Keys%20-%20El%20Camino/03%20Gold%20On%20the%20Ceiling.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36632</key>
+		<dict>
+			<key>Track ID</key><integer>36632</integer>
+			<key>Name</key><string>Second Hand</string>
+			<key>Artist</key><string>We Were Evergreen</string>
+			<key>Album Artist</key><string>We Were Evergreen</string>
+			<key>Composer</key><string>michael liot, Fabienne Débarre &#38; William Serfass</string>
+			<key>Album</key><string>Baby Blue - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8775279</integer>
+			<key>Total Time</key><integer>242000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-09-11T04:00:36Z</date>
+			<key>Date Added</key><date>2012-09-11T04:00:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3431866337</integer>
+			<key>Play Date UTC</key><date>2012-09-30T21:12:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-09-17T22:47:50Z</date>
+			<key>Release Date</key><date>2012-06-04T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3868</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72DD97FE6303CC6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/Phong/Music/iTunes/iTunes%20Music/We%20Were%20Evergreen/Baby%20Blue%20-%20Single/02%20Second%20Hand.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>36698</key>
+		<dict>
+			<key>Track ID</key><integer>36698</integer>
+			<key>Name</key><string>Lady Killers ft. Hoodie Allen</string>
+			<key>Artist</key><string>G-Eazy</string>
+			<key>Album</key><string>Must Be Nice - Coming 9/26/12</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4572723</integer>
+			<key>Total Time</key><integer>249552</integer>
+			<key>Date Modified</key><date>2012-09-17T03:36:47Z</date>
+			<key>Date Added</key><date>2012-09-17T03:55:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3431960325</integer>
+			<key>Play Date UTC</key><date>2012-10-01T23:18:45Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2864</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4D5366E14587E93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Lady%20Killers%20ft.%20Hoodie%20Allen.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36700</key>
+		<dict>
+			<key>Track ID</key><integer>36700</integer>
+			<key>Name</key><string>@deathgripz</string>
+			<key>Artist</key><string>Death Grips</string>
+			<key>Album</key><string>Adult Swim Singles Program 2012</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8662714</integer>
+			<key>Total Time</key><integer>265038</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-09-17T03:58:56Z</date>
+			<key>Date Added</key><date>2012-09-17T03:59:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3431936080</integer>
+			<key>Play Date UTC</key><date>2012-10-01T16:34:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-10-02T01:18:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EB28180C8E6A673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Death_Grips_-_deathgripz.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625706</key>
+		<dict>
+			<key>Track ID</key><integer>625706</integer>
+			<key>Name</key><string>Thinkin Bout You (Frank Ocean Cover)</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9489034</integer>
+			<key>Total Time</key><integer>289388</integer>
+			<key>Start Time</key><integer>7000</integer>
+			<key>Stop Time</key><integer>285000</integer>
+			<key>Date Modified</key><date>2012-09-29T15:46:40Z</date>
+			<key>Date Added</key><date>2012-09-29T15:45:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3431967370</integer>
+			<key>Play Date UTC</key><date>2012-10-02T01:16:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>95089C2C791DA409</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yuna%20Thinkin%20Bout%20You%20(Frank%20Ocean%20Cover).m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625770</key>
+		<dict>
+			<key>Track ID</key><integer>625770</integer>
+			<key>Name</key><string>Forever (The Knocks Remix)</string>
+			<key>Artist</key><string>Haim</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9990065</integer>
+			<key>Total Time</key><integer>243226</integer>
+			<key>Date Modified</key><date>2012-09-29T16:26:28Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3431967728</integer>
+			<key>Play Date UTC</key><date>2012-10-02T01:22:08Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2645</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>31B23BD78E3892F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/forever%20(the%20knocks%20remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625776</key>
+		<dict>
+			<key>Track ID</key><integer>625776</integer>
+			<key>Name</key><string>Mrs. Fantastic (d.veloped x Manic Focus)</string>
+			<key>Artist</key><string>d.veloped</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3283770</integer>
+			<key>Total Time</key><integer>204591</integer>
+			<key>Date Modified</key><date>2012-09-29T16:29:49Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3431959334</integer>
+			<key>Play Date UTC</key><date>2012-10-01T23:02:14Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0BF80F1BE74F94A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/d.veloped%20-%20mrs.%20fantastic%20(d.veloped%20x%20manic%20focus).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625782</key>
+		<dict>
+			<key>Track ID</key><integer>625782</integer>
+			<key>Name</key><string>Super Mario</string>
+			<key>Artist</key><string>Snoop Dogg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3896470</integer>
+			<key>Total Time</key><integer>242886</integer>
+			<key>Date Modified</key><date>2012-09-29T16:31:07Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3431967983</integer>
+			<key>Play Date UTC</key><date>2012-10-02T01:26:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>64B3A1000E409663</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/snoop%20dogg%20-%20super%20mario.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625785</key>
+		<dict>
+			<key>Track ID</key><integer>625785</integer>
+			<key>Name</key><string>Settle Down (Major Lazer Remix)</string>
+			<key>Artist</key><string>No Doubt</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4717360</integer>
+			<key>Total Time</key><integer>294191</integer>
+			<key>Stop Time</key><integer>223000</integer>
+			<key>Date Modified</key><date>2012-09-29T17:24:14Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3431966651</integer>
+			<key>Play Date UTC</key><date>2012-10-02T01:04:11Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>764010A2B9532D3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/no%20doubt%20-%20settle%20down%20(major%20lazer%20remix).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625794</key>
+		<dict>
+			<key>Track ID</key><integer>625794</integer>
+			<key>Name</key><string>Cast Away</string>
+			<key>Artist</key><string>Strange Talk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4348702</integer>
+			<key>Total Time</key><integer>271151</integer>
+			<key>Date Modified</key><date>2012-09-29T16:31:41Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3431966924</integer>
+			<key>Play Date UTC</key><date>2012-10-02T01:08:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1496D451F6C8A2DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/strange%20talk%20-%20cast%20away.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625800</key>
+		<dict>
+			<key>Track ID</key><integer>625800</integer>
+			<key>Name</key><string>Crystal</string>
+			<key>Artist</key><string>SRC411</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1382438</integer>
+			<key>Total Time</key><integer>85760</integer>
+			<key>Date Modified</key><date>2012-09-29T16:31:31Z</date>
+			<key>Date Added</key><date>2012-09-29T16:29:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3431967464</integer>
+			<key>Play Date UTC</key><date>2012-10-02T01:17:44Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>503A9E45D27C13DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/src411%20-%20crystal.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>625941</key>
+		<dict>
+			<key>Track ID</key><integer>625941</integer>
+			<key>Name</key><string>Moves like Jagger &#38; The Muppet's Rainbow Connection</string>
+			<key>Artist</key><string>Jane Lui</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5077816</integer>
+			<key>Total Time</key><integer>253361</integer>
+			<key>Stop Time</key><integer>146000</integer>
+			<key>Date Modified</key><date>2012-09-29T16:56:21Z</date>
+			<key>Date Added</key><date>2012-09-29T16:51:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3431944688</integer>
+			<key>Play Date UTC</key><date>2012-10-01T18:58:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-10-02T01:17:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4843963B9EE59D3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Maroon%205%20Moves%20like%20Jagger%20The%20Muppets%20Rainbow%20Connection.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>626106</key>
+		<dict>
+			<key>Track ID</key><integer>626106</integer>
+			<key>Name</key><string>The Key</string>
+			<key>Artist</key><string>Speech Debelle</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5489148</integer>
+			<key>Total Time</key><integer>179748</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2012-09-29T17:06:02Z</date>
+			<key>Date Added</key><date>2012-09-29T17:06:07Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3431953344</integer>
+			<key>Play Date UTC</key><date>2012-10-01T21:22:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-10-01T23:18:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Key</string>
+			<key>Persistent ID</key><string>7F9577AD63643068</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Speech%20Debelle%20-%20The%20Key.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83757</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>31258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36632</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36698</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36700</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625782</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>626106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625776</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

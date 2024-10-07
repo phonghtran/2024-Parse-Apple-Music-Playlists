@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-09-20T12:35:25Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>47713</key>
+		<dict>
+			<key>Track ID</key><integer>47713</integer>
+			<key>Name</key><string>One Last Time</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>David Guetta, Savan Kotecha, Giorgio Tuinfort, Rami Yacoub &#38; Carl Falk</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7937741</integer>
+			<key>Total Time</key><integer>197328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-27T01:25:25Z</date>
+			<key>Date Added</key><date>2014-08-27T01:51:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3493869338</integer>
+			<key>Play Date UTC</key><date>2014-09-18T12:15:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-17T13:42:24Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>444670193C0E619F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/My%20Everything%20(Deluxe)/03%20One%20Last%20Time.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47729</key>
+		<dict>
+			<key>Track ID</key><integer>47729</integer>
+			<key>Name</key><string>My Everything</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Ariana Grande, Tommy Brown, Victoria McCants &#38; Taylor Parks</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6785243</integer>
+			<key>Total Time</key><integer>168515</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-27T01:25:25Z</date>
+			<key>Date Added</key><date>2014-08-27T01:51:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3493868888</integer>
+			<key>Play Date UTC</key><date>2014-09-18T12:08:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-15T13:47:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10FB33882D6E2AD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/My%20Everything%20(Deluxe)/12%20My%20Everything.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47733</key>
+		<dict>
+			<key>Track ID</key><integer>47733</integer>
+			<key>Name</key><string>Only 1</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Ariana Grande, Tommy Brown, Travis Sayles, Victoria McCants &#38; Dennis Jenkins</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7805032</integer>
+			<key>Total Time</key><integer>194011</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-27T01:25:30Z</date>
+			<key>Date Added</key><date>2014-08-27T01:51:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3493788339</integer>
+			<key>Play Date UTC</key><date>2014-09-17T13:45:39Z</date>
+			<key>Skip Date</key><date>2014-09-05T23:05:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA3FAC8CE34C7EE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/My%20Everything%20(Deluxe)/14%20Only%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47891</key>
+		<dict>
+			<key>Track ID</key><integer>47891</integer>
+			<key>Name</key><string>Kathleen</string>
+			<key>Artist</key><string>Catfish and the Bottlemen</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2642762</integer>
+			<key>Total Time</key><integer>164493</integer>
+			<key>Date Modified</key><date>2014-09-06T23:02:11Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3493703297</integer>
+			<key>Play Date UTC</key><date>2014-09-16T14:08:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-09-17T13:39:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>909A416779CD3240</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Catfish%20and%20the%20Bottlemen/Unknown%20Album/Kathleen.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47907</key>
+		<dict>
+			<key>Track ID</key><integer>47907</integer>
+			<key>Name</key><string>멘붕 MTBD (CL Solo)</string>
+			<key>Artist</key><string>2NE1</string>
+			<key>Album Artist</key><string>2NE1</string>
+			<key>Album</key><string>Crush</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7000298</integer>
+			<key>Total Time</key><integer>195898</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T01:36:59Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3493822899</integer>
+			<key>Play Date UTC</key><date>2014-09-17T23:21:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-07T14:48:29Z</date>
+			<key>Release Date</key><date>2014-02-27T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6448</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CDD64508E52D29F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/2NE1/Crush/06%20%E1%84%86%E1%85%A6%E1%86%AB%E1%84%87%E1%85%AE%E1%86%BC%20MTBD%20(CL%20Solo).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47921</key>
+		<dict>
+			<key>Track ID</key><integer>47921</integer>
+			<key>Name</key><string>Cool Kids</string>
+			<key>Artist</key><string>Echosmith</string>
+			<key>Album</key><string>Talking Dreams</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7698072</integer>
+			<key>Total Time</key><integer>237662</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-09-06T22:41:37Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3493822147</integer>
+			<key>Play Date UTC</key><date>2014-09-17T23:09:07Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-09-17T13:49:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2E76C133838CCE20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Echosmith/Talking%20Dreams/03%20Cool%20Kids.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47923</key>
+		<dict>
+			<key>Track ID</key><integer>47923</integer>
+			<key>Name</key><string>March Into The Sun</string>
+			<key>Artist</key><string>Echosmith</string>
+			<key>Album</key><string>Talking Dreams</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6542758</integer>
+			<key>Total Time</key><integer>202135</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-09-06T22:41:52Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>258</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3493868719</integer>
+			<key>Play Date UTC</key><date>2014-09-18T12:05:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>57FBFE4F5A58146E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Echosmith/Talking%20Dreams/04%20March%20Into%20The%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47941</key>
+		<dict>
+			<key>Track ID</key><integer>47941</integer>
+			<key>Name</key><string>I'm Not Your Toy (Data Remix)</string>
+			<key>Artist</key><string>La Roux</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5091173</integer>
+			<key>Total Time</key><integer>317518</integer>
+			<key>Date Modified</key><date>2014-09-06T23:02:22Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3493822464</integer>
+			<key>Play Date UTC</key><date>2014-09-17T23:14:24Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-09-12T00:23:41Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8AD5F8C84B08E8D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/La%20Roux/Unknown%20Album/I'm%20Not%20Your%20Toy%20(Data%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47945</key>
+		<dict>
+			<key>Track ID</key><integer>47945</integer>
+			<key>Name</key><string>I Loved You</string>
+			<key>Artist</key><string>Blonde</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2983800</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Date Modified</key><date>2014-09-06T23:01:56Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3493820696</integer>
+			<key>Play Date UTC</key><date>2014-09-17T22:44:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-07T20:25:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B6E2C49D957D55D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Blonde/Unknown%20Album/I%20Loved%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47951</key>
+		<dict>
+			<key>Track ID</key><integer>47951</integer>
+			<key>Name</key><string>I'm Not The Only One</string>
+			<key>Artist</key><string>Sam Smith</string>
+			<key>Album Artist</key><string>Sam Smith</string>
+			<key>Album</key><string>In The Lonely Hour (Deluxe Edition)</string>
+			<key>Genre</key><string>RnB/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9587159</integer>
+			<key>Total Time</key><integer>239490</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T22:37:52Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3493822704</integer>
+			<key>Play Date UTC</key><date>2014-09-17T23:18:24Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-09-17T13:42:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>865ECBAC4C07C21E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Sam%20Smith/In%20The%20Lonely%20Hour%20(Deluxe%20Edition)/05%20I'm%20Not%20The%20Only%20One.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48073</key>
+		<dict>
+			<key>Track ID</key><integer>48073</integer>
+			<key>Name</key><string>Harlem</string>
+			<key>Artist</key><string>Cathedrals</string>
+			<key>Album Artist</key><string>Cathedrals</string>
+			<key>Album</key><string>Cathedrals EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8764147</integer>
+			<key>Total Time</key><integer>246440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-13T21:18:57Z</date>
+			<key>Date Added</key><date>2014-09-13T19:34:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3493869585</integer>
+			<key>Play Date UTC</key><date>2014-09-18T12:19:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-17T13:39:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6262</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9375E934290DAB76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cathedrals/Cathedrals%20EP/01%20Harlem.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48075</key>
+		<dict>
+			<key>Track ID</key><integer>48075</integer>
+			<key>Name</key><string>In the Dark</string>
+			<key>Artist</key><string>Cathedrals</string>
+			<key>Album Artist</key><string>Cathedrals</string>
+			<key>Album</key><string>Cathedrals EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7948790</integer>
+			<key>Total Time</key><integer>223759</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-13T21:18:57Z</date>
+			<key>Date Added</key><date>2014-09-13T19:34:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3493869808</integer>
+			<key>Play Date UTC</key><date>2014-09-18T12:23:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6897</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F431CA9553E3CDC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cathedrals/Cathedrals%20EP/02%20In%20the%20Dark.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>48077</key>
+		<dict>
+			<key>Track ID</key><integer>48077</integer>
+			<key>Name</key><string>OOO AAA</string>
+			<key>Artist</key><string>Cathedrals</string>
+			<key>Album Artist</key><string>Cathedrals</string>
+			<key>Album</key><string>Cathedrals EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10854435</integer>
+			<key>Total Time</key><integer>325333</integer>
+			<key>Stop Time</key><integer>303000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-13T21:18:57Z</date>
+			<key>Date Added</key><date>2014-09-13T19:34:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3493870111</integer>
+			<key>Play Date UTC</key><date>2014-09-18T12:28:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5733</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35C57B35BBF60F6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cathedrals/Cathedrals%20EP/03%20OOO%20AAA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>134372</integer>
+			<key>Playlist Persistent ID</key><string>1A7854ACB6ADA4CD</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47945</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47923</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48077</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-06-12T17:53:50Z</date>
+	<key>Application Version</key><string>12.4.1.6</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>DD9571CA9C22FE42</string>
+	<key>Tracks</key>
+	<dict>
+		<key>41038</key>
+		<dict>
+			<key>Track ID</key><integer>41038</integer>
+			<key>Name</key><string>Do I Wanna Know</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7533062</integer>
+			<key>Total Time</key><integer>313443</integer>
+			<key>Start Time</key><integer>4500</integer>
+			<key>Stop Time</key><integer>260000</integer>
+			<key>Date Modified</key><date>2014-02-18T04:29:31Z</date>
+			<key>Date Added</key><date>2014-02-18T01:29:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3548408751</integer>
+			<key>Play Date UTC</key><date>2016-06-10T20:05:51Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2014-02-26T01:53:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C67DB7D6A4EE2E59</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>42494</key>
+		<dict>
+			<key>Track ID</key><integer>42494</integer>
+			<key>Name</key><string>Needle and a Knife</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Composer</key><string>Aliana Joy Riley/Patrick Riley</string>
+			<key>Album</key><string>Ritual In Repeat</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8164315</integer>
+			<key>Total Time</key><integer>204094</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2014-12-14T07:04:06Z</date>
+			<key>Date Added</key><date>2014-12-14T05:05:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3548448173</integer>
+			<key>Play Date UTC</key><date>2016-06-11T07:02:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-06-08T06:10:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC83FAE71A35ED03</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>45580</key>
+		<dict>
+			<key>Track ID</key><integer>45580</integer>
+			<key>Name</key><string>Something New (feat. Chris Brown)</string>
+			<key>Artist</key><string>Zendaya</string>
+			<key>Album Artist</key><string>Zendaya</string>
+			<key>Composer</key><string>Dallas Austin, Kenny "Babyface" Edmonds, Khris Riddick-Tynes, Christopher Dotson, Kyle Coleman, Leon Thomas III, Zendaya Coleman &#38; Antonio Dixon</string>
+			<key>Album</key><string>Something New (feat. Chris Brown) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7790933</integer>
+			<key>Total Time</key><integer>212906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-05-02T23:25:58Z</date>
+			<key>Date Added</key><date>2016-05-02T23:25:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>116</integer>
+			<key>Play Date</key><integer>3548567576</integer>
+			<key>Play Date UTC</key><date>2016-06-12T16:12:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-06-08T04:39:10Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Something New (feat. Chris Brown) - Single</string>
+			<key>Sort Artist</key><string>Zendaya</string>
+			<key>Sort Name</key><string>Something New (feat. Chris Brown)</string>
+			<key>Persistent ID</key><string>6A55D5C69277D55E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45610</key>
+		<dict>
+			<key>Track ID</key><integer>45610</integer>
+			<key>Name</key><string>I Need a Forest Fire (feat. Bon Iver)</string>
+			<key>Artist</key><string>James Blake</string>
+			<key>Album Artist</key><string>James Blake</string>
+			<key>Composer</key><string>James Blake &#38; Justin Vernon</string>
+			<key>Album</key><string>The Colour in Anything</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10030842</integer>
+			<key>Total Time</key><integer>257220</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-05-07T05:50:40Z</date>
+			<key>Date Added</key><date>2016-05-07T05:50:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3548449062</integer>
+			<key>Play Date UTC</key><date>2016-06-11T07:17:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-06-11T06:56:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colour in Anything</string>
+			<key>Sort Artist</key><string>James Blake</string>
+			<key>Sort Name</key><string>I Need a Forest Fire (feat. Bon Iver)</string>
+			<key>Persistent ID</key><string>F87D370EC2422C63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45670</key>
+		<dict>
+			<key>Track ID</key><integer>45670</integer>
+			<key>Name</key><string>No Problem (feat. Lil Wayne &#38; 2 Chainz)</string>
+			<key>Artist</key><string>Chance the Rapper</string>
+			<key>Album Artist</key><string>Chance the Rapper</string>
+			<key>Composer</key><string>2 Chainz, Ashwin Torke, Brass Tracks, Cam O'bi, Chance the Rapper, HaHa Davis, James Francies, Jamie Woods, Jeff Lane, Jonathan Hoard, Lakeitsha Williams, Lil Wayne, Rachel Cato &#38; Zarif Wilder</string>
+			<key>Album</key><string>Coloring Book</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10630486</integer>
+			<key>Total Time</key><integer>304607</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-05-13T05:36:10Z</date>
+			<key>Date Added</key><date>2016-05-13T05:36:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3548422820</integer>
+			<key>Play Date UTC</key><date>2016-06-11T00:00:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Coloring Book</string>
+			<key>Sort Artist</key><string>Chance the Rapper</string>
+			<key>Sort Name</key><string>No Problem (feat. Lil Wayne &#38; 2 Chainz)</string>
+			<key>Persistent ID</key><string>0A41F147CF52CF32</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45954</key>
+		<dict>
+			<key>Track ID</key><integer>45954</integer>
+			<key>Name</key><string>Too Close</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album Artist</key><string>Yuna</string>
+			<key>Composer</key><string>Yunalis Zarai &#38; Robin Braun</string>
+			<key>Album</key><string>Chapters (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8871990</integer>
+			<key>Total Time</key><integer>253539</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-05-20T05:44:05Z</date>
+			<key>Date Added</key><date>2016-05-20T05:44:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3548409005</integer>
+			<key>Play Date UTC</key><date>2016-06-10T20:10:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-06-07T14:50:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chapters (Deluxe)</string>
+			<key>Sort Artist</key><string>Yuna</string>
+			<key>Sort Name</key><string>Too Close</string>
+			<key>Persistent ID</key><string>D7D220AC2F186E9B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45970</key>
+		<dict>
+			<key>Track ID</key><integer>45970</integer>
+			<key>Name</key><string>Girlfriend</string>
+			<key>Artist</key><string>NAO</string>
+			<key>Album Artist</key><string>NAO</string>
+			<key>Composer</key><string>Neo Joshua &#38; Ajay Bhattacharyya</string>
+			<key>Album</key><string>For All We Know</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8110560</integer>
+			<key>Total Time</key><integer>225513</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-05-31T11:24:26Z</date>
+			<key>Date Added</key><date>2016-05-31T14:24:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3548448592</integer>
+			<key>Play Date UTC</key><date>2016-06-11T07:09:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>For All We Know</string>
+			<key>Sort Artist</key><string>NAO</string>
+			<key>Sort Name</key><string>Girlfriend</string>
+			<key>Persistent ID</key><string>95538C0A7CA59BD7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45980</key>
+		<dict>
+			<key>Track ID</key><integer>45980</integer>
+			<key>Name</key><string>Technique</string>
+			<key>Artist</key><string>Mai Lan</string>
+			<key>Album Artist</key><string>Mai Lan</string>
+			<key>Composer</key><string>Mai Lan Chapiron, Max Lebarthe &#38; Nick Sylvester</string>
+			<key>Album</key><string>Technique - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7287520</integer>
+			<key>Total Time</key><integer>192933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-04T06:25:36Z</date>
+			<key>Date Added</key><date>2016-06-04T06:25:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3548448366</integer>
+			<key>Play Date UTC</key><date>2016-06-11T07:06:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-06-07T02:28:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Technique - Single</string>
+			<key>Sort Artist</key><string>Mai Lan</string>
+			<key>Sort Name</key><string>Technique</string>
+			<key>Persistent ID</key><string>8DFB85B9C07D1AD8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45984</key>
+		<dict>
+			<key>Track ID</key><integer>45984</integer>
+			<key>Name</key><string>How It's Done</string>
+			<key>Artist</key><string>Maren Morris</string>
+			<key>Album Artist</key><string>Maren Morris</string>
+			<key>Composer</key><string>Maren Morris, Busbee &#38; Natalie Hemby</string>
+			<key>Album</key><string>Hero</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7387562</integer>
+			<key>Total Time</key><integer>205620</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-04T06:44:45Z</date>
+			<key>Date Added</key><date>2016-06-04T06:44:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3548424180</integer>
+			<key>Play Date UTC</key><date>2016-06-11T00:23:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hero</string>
+			<key>Sort Artist</key><string>Maren Morris</string>
+			<key>Sort Name</key><string>How It's Done</string>
+			<key>Persistent ID</key><string>5CDA96135C082EE5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45988</key>
+		<dict>
+			<key>Track ID</key><integer>45988</integer>
+			<key>Name</key><string>Faint of Heart</string>
+			<key>Artist</key><string>Tegan and Sara</string>
+			<key>Album Artist</key><string>Tegan and Sara</string>
+			<key>Album</key><string>Love You to Death</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6542758</integer>
+			<key>Total Time</key><integer>174960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-04T16:07:30Z</date>
+			<key>Date Added</key><date>2016-06-04T16:07:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3548412336</integer>
+			<key>Play Date UTC</key><date>2016-06-10T21:05:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love You to Death</string>
+			<key>Sort Artist</key><string>Tegan and Sara</string>
+			<key>Sort Name</key><string>Faint of Heart</string>
+			<key>Persistent ID</key><string>CBAA13549EAF1B62</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46010</key>
+		<dict>
+			<key>Track ID</key><integer>46010</integer>
+			<key>Name</key><string>오늘 모해 #WYD</string>
+			<key>Artist</key><string>iKON</string>
+			<key>Album Artist</key><string>iKON</string>
+			<key>Album</key><string>오늘 모해 #WYD - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7475374</integer>
+			<key>Total Time</key><integer>211144</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-05T07:19:36Z</date>
+			<key>Date Added</key><date>2016-06-05T07:19:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3548429641</integer>
+			<key>Play Date UTC</key><date>2016-06-11T01:54:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>오늘 모해 #WYD - Single</string>
+			<key>Sort Artist</key><string>iKON</string>
+			<key>Sort Name</key><string>오늘 모해 #WYD</string>
+			<key>Persistent ID</key><string>D2F5F1C73334587B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46014</key>
+		<dict>
+			<key>Track ID</key><integer>46014</integer>
+			<key>Name</key><string>4PM IN CALABASAS</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3268639</integer>
+			<key>Total Time</key><integer>204277</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-05T22:50:59Z</date>
+			<key>Date Added</key><date>2016-06-05T22:50:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3548390275</integer>
+			<key>Play Date UTC</key><date>2016-06-10T14:57:55Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>CBEA34EC00E349B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Drake/Unknown%20Album/4PM%20IN%20CALABASAS.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46016</key>
+		<dict>
+			<key>Track ID</key><integer>46016</integer>
+			<key>Name</key><string>Fool to Love</string>
+			<key>Artist</key><string>NAO</string>
+			<key>Album Artist</key><string>NAO</string>
+			<key>Composer</key><string>Neo Joshua &#38; Daniel Traynor</string>
+			<key>Album</key><string>For All We Know</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7292918</integer>
+			<key>Total Time</key><integer>203098</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-06T05:26:12Z</date>
+			<key>Date Added</key><date>2016-06-06T05:26:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3548482941</integer>
+			<key>Play Date UTC</key><date>2016-06-11T16:42:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-06-10T14:32:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>For All We Know</string>
+			<key>Sort Artist</key><string>NAO</string>
+			<key>Sort Name</key><string>Fool to Love</string>
+			<key>Persistent ID</key><string>F07E5D399A2A3800</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46018</key>
+		<dict>
+			<key>Track ID</key><integer>46018</integer>
+			<key>Name</key><string>Empty</string>
+			<key>Artist</key><string>Garbage</string>
+			<key>Album Artist</key><string>Garbage</string>
+			<key>Composer</key><string>Duke Erikson, Shirley Manson, Steve Marker &#38; Butch Vig</string>
+			<key>Album</key><string>Strange Little Birds</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8395376</integer>
+			<key>Total Time</key><integer>234680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-06T05:38:45Z</date>
+			<key>Date Added</key><date>2016-06-06T05:38:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3548423717</integer>
+			<key>Play Date UTC</key><date>2016-06-11T00:15:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strange Little Birds</string>
+			<key>Sort Artist</key><string>Garbage</string>
+			<key>Sort Name</key><string>Empty</string>
+			<key>Persistent ID</key><string>D95A70B002D2C492</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46020</key>
+		<dict>
+			<key>Track ID</key><integer>46020</integer>
+			<key>Name</key><string>Bury It (feat. Hayley Williams)</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Album Artist</key><string>CHVRCHES</string>
+			<key>Composer</key><string>Hayley Williams, Iain Cook, Martin Doherty &#38; Lauren Mayberry</string>
+			<key>Album</key><string>Bury It (feat. Hayley Williams) - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6673913</integer>
+			<key>Total Time</key><integer>185676</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-10T05:49:22Z</date>
+			<key>Date Added</key><date>2016-06-10T05:49:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3548573048</integer>
+			<key>Play Date UTC</key><date>2016-06-12T17:44:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bury It (feat. Hayley Williams) - Single</string>
+			<key>Sort Artist</key><string>CHVRCHES</string>
+			<key>Sort Name</key><string>Bury It (feat. Hayley Williams)</string>
+			<key>Persistent ID</key><string>62659D5136276FE0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46022</key>
+		<dict>
+			<key>Track ID</key><integer>46022</integer>
+			<key>Name</key><string>All Nite (feat. Vince Staples)</string>
+			<key>Artist</key><string>Clams Casino</string>
+			<key>Album Artist</key><string>Clams Casino</string>
+			<key>Composer</key><string>Vince Staples &#38; Michael Volpe</string>
+			<key>Album</key><string>32 Levels (Deluxe)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6015029</integer>
+			<key>Total Time</key><integer>167751</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-10T07:11:33Z</date>
+			<key>Date Added</key><date>2016-06-10T07:11:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3548573216</integer>
+			<key>Play Date UTC</key><date>2016-06-12T17:46:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>32 Levels (Deluxe)</string>
+			<key>Sort Artist</key><string>Clams Casino</string>
+			<key>Sort Name</key><string>All Nite (feat. Vince Staples)</string>
+			<key>Persistent ID</key><string>152215871FA255DB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>131191</key>
+		<dict>
+			<key>Track ID</key><integer>131191</integer>
+			<key>Name</key><string>Heartlines</string>
+			<key>Artist</key><string>Broods</string>
+			<key>Album Artist</key><string>Broods</string>
+			<key>Composer</key><string>Ella Yelich O'Connor, Georgia Nott, Caleb Nott &#38; Joel Little</string>
+			<key>Album</key><string>Heartlines - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7036424</integer>
+			<key>Total Time</key><integer>197000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-10T21:26:37Z</date>
+			<key>Date Added</key><date>2016-06-10T21:26:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3548573603</integer>
+			<key>Play Date UTC</key><date>2016-06-12T17:53:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heartlines - Single</string>
+			<key>Sort Artist</key><string>Broods</string>
+			<key>Sort Name</key><string>Heartlines</string>
+			<key>Persistent ID</key><string>A80AD30B6DE9B5CF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>124588</integer>
+			<key>Playlist Persistent ID</key><string>4A847E21B9288AF6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45970</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45980</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131191</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

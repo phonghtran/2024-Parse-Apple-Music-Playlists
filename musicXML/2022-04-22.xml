@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-04-22T21:05:10Z</date>
+	<key>Application Version</key><string>1.2.3.56</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>27721</key>
+		<dict>
+			<key>Track ID</key><integer>27721</integer>
+			<key>Name</key><string>I Don't Need To Know</string>
+			<key>Artist</key><string>Maddie &#38; Tae</string>
+			<key>Album Artist</key><string>Maddie &#38; Tae</string>
+			<key>Composer</key><string>Jimmy Robbins, Maddie Marlow, Taylor Dye &#38; Adam Hambrick</string>
+			<key>Album</key><string>The Way It Feels</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7544529</integer>
+			<key>Total Time</key><integer>200762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-04-12T21:05:05Z</date>
+			<key>Date Added</key><date>2020-04-12T21:05:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3733147062</integer>
+			<key>Play Date UTC</key><date>2022-04-18T21:17:42Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-04-13T11:31:00Z</date>
+			<key>Release Date</key><date>2020-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Way It Feels</string>
+			<key>Sort Artist</key><string>Maddie &#38; Tae</string>
+			<key>Sort Name</key><string>I Don't Need To Know</string>
+			<key>Persistent ID</key><string>E4D959C4D4E514F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>30715</key>
+		<dict>
+			<key>Track ID</key><integer>30715</integer>
+			<key>Name</key><string>Greek Tragedy (Oliver Nelson Remix)</string>
+			<key>Artist</key><string>The Wombats</string>
+			<key>Album Artist</key><string>The Wombats</string>
+			<key>Composer</key><string>Daniel Haggis, MATTHEW MURPHY &#38; Tord Øverland Knudsen</string>
+			<key>Album</key><string>Greek Tragedy (Oliver Nelson Remix) - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10627837</integer>
+			<key>Total Time</key><integer>306429</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-02-17T20:05:45Z</date>
+			<key>Date Added</key><date>2021-02-17T20:05:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3733460043</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:14:03Z</date>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greek Tragedy (Oliver Nelson Remix) - Single</string>
+			<key>Sort Album Artist</key><string>Wombats</string>
+			<key>Sort Artist</key><string>Wombats</string>
+			<key>Sort Name</key><string>Greek Tragedy (Oliver Nelson Remix)</string>
+			<key>Persistent ID</key><string>501756252BFB045D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41518</key>
+		<dict>
+			<key>Track ID</key><integer>41518</integer>
+			<key>Name</key><string>Ride or Die</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Composer</key><string>Jake Luppen, Nathan Stocker, Whistler Allen &#38; Zach Sutton</string>
+			<key>Album</key><string>LP3</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7779498</integer>
+			<key>Total Time</key><integer>210609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2021-12-10T05:34:31Z</date>
+			<key>Date Added</key><date>2022-01-11T06:03:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3733460456</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:20:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-28T00:00:00Z</date>
+			<key>Release Date</key><date>2022-01-11T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LP3</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>Ride or Die</string>
+			<key>Persistent ID</key><string>40C619BB7C28FF28</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42251</key>
+		<dict>
+			<key>Track ID</key><integer>42251</integer>
+			<key>Name</key><string>Original Sin</string>
+			<key>Artist</key><string>Sofi Tukker</string>
+			<key>Album Artist</key><string>Sofi Tukker</string>
+			<key>Composer</key><string>Sophie Hawley-Weld, Richard Beynon &#38; Tucker Halpern</string>
+			<key>Album</key><string>Original Sin - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6217217</integer>
+			<key>Total Time</key><integer>171599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-02-06T20:30:49Z</date>
+			<key>Date Added</key><date>2022-02-06T20:30:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>65</integer>
+			<key>Play Date</key><integer>3733031823</integer>
+			<key>Play Date UTC</key><date>2022-04-17T13:17:03Z</date>
+			<key>Release Date</key><date>2022-02-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Original Sin - Single</string>
+			<key>Sort Artist</key><string>Sofi Tukker</string>
+			<key>Sort Name</key><string>Original Sin</string>
+			<key>Persistent ID</key><string>F0F3087B15A228C5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42999</key>
+		<dict>
+			<key>Track ID</key><integer>42999</integer>
+			<key>Name</key><string>Eat My Love</string>
+			<key>Artist</key><string>BIBI</string>
+			<key>Album Artist</key><string>BIBI</string>
+			<key>Album</key><string>Eat My Love - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5912827</integer>
+			<key>Total Time</key><integer>162867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-03-24T14:41:21Z</date>
+			<key>Date Added</key><date>2022-03-24T14:41:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3733459737</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:08:57Z</date>
+			<key>Release Date</key><date>2021-02-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6609</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Eat My Love - Single</string>
+			<key>Sort Artist</key><string>BIBI</string>
+			<key>Sort Name</key><string>Eat My Love</string>
+			<key>Persistent ID</key><string>EE3A750EEC2ED849</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43299</key>
+		<dict>
+			<key>Track ID</key><integer>43299</integer>
+			<key>Name</key><string>Getcho Mans</string>
+			<key>Artist</key><string>Rich Brian &#38; Warren Hue</string>
+			<key>Album Artist</key><string>Rich Brian</string>
+			<key>Composer</key><string>Brian Imanuel, Jacob Ray, Powers Pleasant &#38; Warren Hui</string>
+			<key>Album</key><string>Brightside - EP</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7541022</integer>
+			<key>Total Time</key><integer>211307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-02T21:34:38Z</date>
+			<key>Date Added</key><date>2022-04-02T21:34:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3733460994</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:29:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-04-02T21:37:25Z</date>
+			<key>Release Date</key><date>2022-01-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Brightside - EP</string>
+			<key>Sort Artist</key><string>Rich Brian &#38; Warren Hue</string>
+			<key>Sort Name</key><string>Getcho Mans</string>
+			<key>Persistent ID</key><string>774316DB0BE61606</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43597</key>
+		<dict>
+			<key>Track ID</key><integer>43597</integer>
+			<key>Name</key><string>psychofreak (feat. WILLOW)</string>
+			<key>Artist</key><string>Camila Cabello</string>
+			<key>Album Artist</key><string>Camila Cabello</string>
+			<key>Composer</key><string>Camila Cabello, Tom Peyton, Willow Smith, Eric Frederic &#38; Scott Harris</string>
+			<key>Album</key><string>Familia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7264571</integer>
+			<key>Total Time</key><integer>201495</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-10T13:48:08Z</date>
+			<key>Date Added</key><date>2022-04-10T13:48:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3733460246</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:17:26Z</date>
+			<key>Release Date</key><date>2022-04-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Familia</string>
+			<key>Sort Artist</key><string>Camila Cabello</string>
+			<key>Sort Name</key><string>psychofreak (feat. WILLOW)</string>
+			<key>Persistent ID</key><string>F9B516BEDA10A2A2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43599</key>
+		<dict>
+			<key>Track ID</key><integer>43599</integer>
+			<key>Name</key><string>Crazy</string>
+			<key>Artist</key><string>Doechii</string>
+			<key>Album Artist</key><string>Doechii</string>
+			<key>Composer</key><string>Kal Banx &#38; Jaylah Hickmon</string>
+			<key>Album</key><string>Crazy - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5070170</integer>
+			<key>Total Time</key><integer>134116</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-10T16:11:16Z</date>
+			<key>Date Added</key><date>2022-04-10T16:11:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3733460782</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:26:22Z</date>
+			<key>Release Date</key><date>2022-04-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5365</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Crazy - Single</string>
+			<key>Sort Artist</key><string>Doechii</string>
+			<key>Sort Name</key><string>Crazy</string>
+			<key>Persistent ID</key><string>5ADEF08ABBE86834</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43601</key>
+		<dict>
+			<key>Track ID</key><integer>43601</integer>
+			<key>Name</key><string>DAYZEE</string>
+			<key>Artist</key><string>ElyOtto</string>
+			<key>Album Artist</key><string>ElyOtto</string>
+			<key>Composer</key><string>Elliott Platt, Gregory C. Coleman, Ray Maritano, Quincy Mattison, Sonny Pekerol, Richard Lewis Spencer &#38; Phil Tolotta</string>
+			<key>Album</key><string>HELLSCAPE SUBURBIA</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5080353</integer>
+			<key>Total Time</key><integer>134955</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-10T16:11:17Z</date>
+			<key>Date Added</key><date>2022-04-10T16:11:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3733031650</integer>
+			<key>Play Date UTC</key><date>2022-04-17T13:14:10Z</date>
+			<key>Release Date</key><date>2022-04-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HELLSCAPE SUBURBIA</string>
+			<key>Sort Artist</key><string>ElyOtto</string>
+			<key>Sort Name</key><string>DAYZEE</string>
+			<key>Persistent ID</key><string>1F961A9F976B7D94</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43957</key>
+		<dict>
+			<key>Track ID</key><integer>43957</integer>
+			<key>Name</key><string>I’m Hooked (feat. nafla &#38; Hash Swan)</string>
+			<key>Artist</key><string>Way Ched</string>
+			<key>Album Artist</key><string>Way Ched</string>
+			<key>Composer</key><string>Way Ched, Hash Swan &#38; nafla</string>
+			<key>Album</key><string>2MONTHS</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8466858</integer>
+			<key>Total Time</key><integer>240109</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-04-14T22:12:26Z</date>
+			<key>Date Added</key><date>2022-04-14T22:12:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3733461243</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:34:03Z</date>
+			<key>Release Date</key><date>2020-05-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2MONTHS</string>
+			<key>Sort Artist</key><string>Way Ched</string>
+			<key>Sort Name</key><string>I’m Hooked (feat. nafla &#38; Hash Swan)</string>
+			<key>Persistent ID</key><string>3AB7F6EDAE12DAD1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43959</key>
+		<dict>
+			<key>Track ID</key><integer>43959</integer>
+			<key>Name</key><string>Goin′ Nuts (feat. SUPERBEE &#38; ZENE THE ZILLA)</string>
+			<key>Artist</key><string>Way Ched</string>
+			<key>Album Artist</key><string>Way Ched</string>
+			<key>Composer</key><string>Way Ched, SUPERBEE &#38; ZENE THE ZILLA</string>
+			<key>Album</key><string>2MONTHS</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6377431</integer>
+			<key>Total Time</key><integer>176945</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-04-14T22:12:26Z</date>
+			<key>Date Added</key><date>2022-04-14T22:12:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3733459573</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:06:13Z</date>
+			<key>Release Date</key><date>2020-05-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2MONTHS</string>
+			<key>Sort Artist</key><string>Way Ched</string>
+			<key>Sort Name</key><string>Goin′ Nuts (feat. SUPERBEE &#38; ZENE THE ZILLA)</string>
+			<key>Persistent ID</key><string>3A69965A90BEA8B2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43963</key>
+		<dict>
+			<key>Track ID</key><integer>43963</integer>
+			<key>Name</key><string>Balance (feat. CHANGMO &#38; Paul Blanco)</string>
+			<key>Artist</key><string>Way Ched</string>
+			<key>Album Artist</key><string>Way Ched</string>
+			<key>Composer</key><string>Way Ched, CHANGMO &#38; Paul Blanco</string>
+			<key>Album</key><string>2MONTHS</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6206262</integer>
+			<key>Total Time</key><integer>170987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-04-14T22:12:26Z</date>
+			<key>Date Added</key><date>2022-04-14T22:12:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3733460648</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:24:08Z</date>
+			<key>Release Date</key><date>2020-05-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2MONTHS</string>
+			<key>Sort Artist</key><string>Way Ched</string>
+			<key>Sort Name</key><string>Balance (feat. CHANGMO &#38; Paul Blanco)</string>
+			<key>Persistent ID</key><string>954D7F610D38A47D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43969</key>
+		<dict>
+			<key>Track ID</key><integer>43969</integer>
+			<key>Name</key><string>Run It</string>
+			<key>Artist</key><string>DJ Snake, Rick Ross &#38; Rich Brian</string>
+			<key>Album Artist</key><string>DJ Snake, Rick Ross &#38; Rich Brian</string>
+			<key>Composer</key><string>DJ Snake, Rick Ross, Brian Imanuel, Christian Dold, Marvel Comics &#38; SiM</string>
+			<key>Album</key><string>Run It - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6077281</integer>
+			<key>Total Time</key><integer>163390</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-04-15T00:54:28Z</date>
+			<key>Date Added</key><date>2022-04-15T00:54:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3733459396</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:03:16Z</date>
+			<key>Release Date</key><date>2021-08-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Run It - Single</string>
+			<key>Sort Artist</key><string>DJ Snake, Rick Ross &#38; Rich Brian</string>
+			<key>Sort Name</key><string>Run It</string>
+			<key>Persistent ID</key><string>7AE16CF2E9CF0D9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>43977</key>
+		<dict>
+			<key>Track ID</key><integer>43977</integer>
+			<key>Name</key><string>Back From 0</string>
+			<key>Artist</key><string>Sik-K, pH-1, Woodie Gochild &#38; HAON</string>
+			<key>Album Artist</key><string>H1GHR MUSIC</string>
+			<key>Composer</key><string>Sik-K, pH-1, Woodie Gochild, HAON &#38; BOYCOLD</string>
+			<key>Album</key><string>H1GHR : BLUE TAPE</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6248318</integer>
+			<key>Total Time</key><integer>174240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-04-15T12:39:25Z</date>
+			<key>Date Added</key><date>2022-04-15T12:39:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3733461417</integer>
+			<key>Play Date UTC</key><date>2022-04-22T12:36:57Z</date>
+			<key>Release Date</key><date>2020-09-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>H1GHR : BLUE TAPE</string>
+			<key>Sort Artist</key><string>Sik-K, pH-1, Woodie Gochild &#38; HAON</string>
+			<key>Sort Name</key><string>Back From 0</string>
+			<key>Persistent ID</key><string>9D67D895E9B9FC99</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>107090</integer>
+			<key>Playlist Persistent ID</key><string>DB122AD1F555B11A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43977</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

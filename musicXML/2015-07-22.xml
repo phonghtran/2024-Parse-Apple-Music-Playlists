@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-07-23T03:56:25Z</date>
+	<key>Application Version</key><string>12.2.1.16</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>44631</key>
+		<dict>
+			<key>Track ID</key><integer>44631</integer>
+			<key>Name</key><string>Roses</string>
+			<key>Artist</key><string>The Chainsmokers</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7058218</integer>
+			<key>Total Time</key><integer>228153</integer>
+			<key>Date Modified</key><date>2015-06-18T14:48:15Z</date>
+			<key>Date Added</key><date>2015-06-18T14:47:28Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3520316938</integer>
+			<key>Play Date UTC</key><date>2015-07-21T16:48:58Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-07-09T15:23:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Chainsmokers</string>
+			<key>Persistent ID</key><string>AADF12BD006C0FF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/The%20Chainsmokers/Unknown%20Album/Roses.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44681</key>
+		<dict>
+			<key>Track ID</key><integer>44681</integer>
+			<key>Name</key><string>Here</string>
+			<key>Artist</key><string>Alessia Cara</string>
+			<key>Album Artist</key><string>Alessia Cara</string>
+			<key>Composer</key><string>Alessia Caracciolo, Andrew "Pop" Wansel, Warren "Oak" Felder, Coleridge Tillman &#38; Isaac Hayes</string>
+			<key>Album</key><string>Here - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7141503</integer>
+			<key>Total Time</key><integer>200213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-01T14:43:21Z</date>
+			<key>Date Added</key><date>2015-07-01T14:34:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3520255291</integer>
+			<key>Play Date UTC</key><date>2015-07-20T23:41:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-07-17T03:45:12Z</date>
+			<key>Release Date</key><date>2015-05-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6838</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Here - Single</string>
+			<key>Sort Artist</key><string>Alessia Cara</string>
+			<key>Sort Name</key><string>Here</string>
+			<key>Persistent ID</key><string>A3C52B7D6EDFC478</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Apple%20Music/Alessia%20Cara/Here%20-%20Single/01%20Here.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44683</key>
+		<dict>
+			<key>Track ID</key><integer>44683</integer>
+			<key>Name</key><string>Lost Ones</string>
+			<key>Artist</key><string>Lauryn Hill</string>
+			<key>Album Artist</key><string>Lauryn Hill</string>
+			<key>Composer</key><string>Lauryn Hill &#38; Frederick Hibbert</string>
+			<key>Album</key><string>The Miseducation of Lauryn Hill</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11580800</integer>
+			<key>Total Time</key><integer>333906</integer>
+			<key>Stop Time</key><integer>264000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2015-07-02T03:34:17Z</date>
+			<key>Date Added</key><date>2015-07-02T03:34:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3520254891</integer>
+			<key>Play Date UTC</key><date>2015-07-20T23:34:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-07-21T16:40:41Z</date>
+			<key>Release Date</key><date>1998-08-25T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2127</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Miseducation of Lauryn Hill</string>
+			<key>Sort Artist</key><string>Lauryn Hill</string>
+			<key>Sort Name</key><string>Lost Ones</string>
+			<key>Persistent ID</key><string>13798E342B0BB8D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Apple%20Music/Lauryn%20Hill/The%20Miseducation%20of%20Lauryn%20Hill/02%20Lost%20Ones.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44689</key>
+		<dict>
+			<key>Track ID</key><integer>44689</integer>
+			<key>Name</key><string>Long Snake Moan</string>
+			<key>Artist</key><string>PJ Harvey</string>
+			<key>Album Artist</key><string>PJ Harvey</string>
+			<key>Composer</key><string>PJ Harvey</string>
+			<key>Album</key><string>To Bring You My Love</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10884080</integer>
+			<key>Total Time</key><integer>315267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2015-07-10T02:49:40Z</date>
+			<key>Date Added</key><date>2015-07-10T02:49:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3520245355</integer>
+			<key>Play Date UTC</key><date>2015-07-20T20:55:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-07-21T16:56:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Bring You My Love</string>
+			<key>Sort Artist</key><string>PJ Harvey</string>
+			<key>Sort Name</key><string>Long Snake Moan</string>
+			<key>Persistent ID</key><string>A85EAB34DF2BCA8C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>44745</key>
+		<dict>
+			<key>Track ID</key><integer>44745</integer>
+			<key>Name</key><string>Party</string>
+			<key>Artist</key><string>Girls' Generation</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6508055</integer>
+			<key>Total Time</key><integer>217234</integer>
+			<key>Start Time</key><integer>20200</integer>
+			<key>Date Modified</key><date>2015-07-11T05:23:38Z</date>
+			<key>Date Added</key><date>2015-07-11T05:22:53Z</date>
+			<key>Bit Rate</key><integer>239</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3520442443</integer>
+			<key>Play Date UTC</key><date>2015-07-23T03:40:43Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2015-07-19T17:54:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>25F3E6ECFDEDF029</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Girls'%20Generation/Unknown%20Album/Party.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44747</key>
+		<dict>
+			<key>Track ID</key><integer>44747</integer>
+			<key>Name</key><string>Curtains Closed</string>
+			<key>Artist</key><string>Tenement</string>
+			<key>Album Artist</key><string>Tenement</string>
+			<key>Album</key><string>Predatory Headlights</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4775282</integer>
+			<key>Total Time</key><integer>125987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-11T07:27:27Z</date>
+			<key>Date Added</key><date>2015-07-11T07:27:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3520442246</integer>
+			<key>Play Date UTC</key><date>2015-07-23T03:37:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-07-18T17:52:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Predatory Headlights</string>
+			<key>Sort Artist</key><string>Tenement</string>
+			<key>Sort Name</key><string>Curtains Closed</string>
+			<key>Persistent ID</key><string>787D7D8FC2A2ECD6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>44753</key>
+		<dict>
+			<key>Track ID</key><integer>44753</integer>
+			<key>Name</key><string>Worship</string>
+			<key>Artist</key><string>Years &#38; Years</string>
+			<key>Album Artist</key><string>Years &#38; Years</string>
+			<key>Composer</key><string>Olly Alexander, Emre Turkmen, Michael Goldsworthy, Tom Barnes, Ben Kohn, Peter Kelleher &#38; Tom Hull</string>
+			<key>Album</key><string>Communion (Deluxe)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7823022</integer>
+			<key>Total Time</key><integer>221813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-12T08:08:52Z</date>
+			<key>Date Added</key><date>2015-07-12T08:08:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3520441546</integer>
+			<key>Play Date UTC</key><date>2015-07-23T03:25:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Communion (Deluxe)</string>
+			<key>Sort Artist</key><string>Years &#38; Years</string>
+			<key>Sort Name</key><string>Worship</string>
+			<key>Persistent ID</key><string>FACC00D1E32A2A97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>44761</key>
+		<dict>
+			<key>Track ID</key><integer>44761</integer>
+			<key>Name</key><string>Desire</string>
+			<key>Artist</key><string>Years &#38; Years</string>
+			<key>Album Artist</key><string>Years &#38; Years</string>
+			<key>Composer</key><string>Olly Alexander, Emre Turkmen, Michael Goldsworthy &#38; Tom Hull</string>
+			<key>Album</key><string>Communion (Deluxe)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7258466</integer>
+			<key>Total Time</key><integer>206773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-12T08:08:52Z</date>
+			<key>Date Added</key><date>2015-07-12T08:08:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3520441979</integer>
+			<key>Play Date UTC</key><date>2015-07-23T03:32:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Communion (Deluxe)</string>
+			<key>Sort Artist</key><string>Years &#38; Years</string>
+			<key>Sort Name</key><string>Desire</string>
+			<key>Persistent ID</key><string>6ADDEDEB6DF802EE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>136418</key>
+		<dict>
+			<key>Track ID</key><integer>136418</integer>
+			<key>Name</key><string>LoveHate Thing (feat. Sam Dew)</string>
+			<key>Artist</key><string>Wale</string>
+			<key>Album Artist</key><string>Wale</string>
+			<key>Album</key><string>The Gifted</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9368768</integer>
+			<key>Total Time</key><integer>267400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-07-14T13:45:17Z</date>
+			<key>Date Added</key><date>2015-07-14T13:45:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3520441068</integer>
+			<key>Play Date UTC</key><date>2015-07-23T03:17:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gifted</string>
+			<key>Sort Artist</key><string>Wale</string>
+			<key>Sort Name</key><string>LoveHate Thing (feat. Sam Dew)</string>
+			<key>Persistent ID</key><string>EC922782F1A4A9E6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>136426</key>
+		<dict>
+			<key>Track ID</key><integer>136426</integer>
+			<key>Name</key><string>Air</string>
+			<key>Artist</key><string>Sam Dew</string>
+			<key>Album Artist</key><string>Sam Dew</string>
+			<key>Composer</key><string>Sam Dew &#38; David Andrew Sitek</string>
+			<key>Album</key><string>Damn Sue - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6693476</integer>
+			<key>Total Time</key><integer>188616</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-14T13:45:22Z</date>
+			<key>Date Added</key><date>2015-07-14T13:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3520396686</integer>
+			<key>Play Date UTC</key><date>2015-07-22T14:58:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Damn Sue - EP</string>
+			<key>Sort Artist</key><string>Sam Dew</string>
+			<key>Sort Name</key><string>Air</string>
+			<key>Persistent ID</key><string>852C26DEAC52560B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>136432</key>
+		<dict>
+			<key>Track ID</key><integer>136432</integer>
+			<key>Name</key><string>Rewind</string>
+			<key>Artist</key><string>Sam Dew</string>
+			<key>Album Artist</key><string>Sam Dew</string>
+			<key>Composer</key><string>Sam Dew &#38; David Andrew Sitek</string>
+			<key>Album</key><string>Damn Sue - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7478224</integer>
+			<key>Total Time</key><integer>201279</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-14T13:45:22Z</date>
+			<key>Date Added</key><date>2015-07-14T13:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3520438306</integer>
+			<key>Play Date UTC</key><date>2015-07-23T02:31:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Damn Sue - EP</string>
+			<key>Sort Artist</key><string>Sam Dew</string>
+			<key>Sort Name</key><string>Rewind</string>
+			<key>Persistent ID</key><string>0316B3691F6401B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>136937</key>
+		<dict>
+			<key>Track ID</key><integer>136937</integer>
+			<key>Name</key><string>New Problems</string>
+			<key>Artist</key><string>Cody Simpson</string>
+			<key>Album Artist</key><string>Cody Simpson</string>
+			<key>Album</key><string>New Problems - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8067177</integer>
+			<key>Total Time</key><integer>226307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-16T15:30:32Z</date>
+			<key>Date Added</key><date>2015-07-16T15:30:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3520255714</integer>
+			<key>Play Date UTC</key><date>2015-07-20T23:48:34Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>New Problems - Single</string>
+			<key>Sort Artist</key><string>Cody Simpson</string>
+			<key>Sort Name</key><string>New Problems</string>
+			<key>Persistent ID</key><string>B06A792A75D73824</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>142042</key>
+		<dict>
+			<key>Track ID</key><integer>142042</integer>
+			<key>Name</key><string>Spin</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Composer</key><string>Afternoon Records</string>
+			<key>Album</key><string>Psychic Reader</string>
+			<key>Genre</key><string>Lake Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7249677</integer>
+			<key>Total Time</key><integer>241946</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-05-17T23:19:40Z</date>
+			<key>Date Added</key><date>2015-07-17T05:54:24Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3520395694</integer>
+			<key>Play Date UTC</key><date>2015-07-22T14:41:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7064</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A1F3CEC863829D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Bad%20Bad%20Hats/Psychic%20Reader/10%20Spin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>147808</key>
+		<dict>
+			<key>Track ID</key><integer>147808</integer>
+			<key>Name</key><string>Just Fine</string>
+			<key>Artist</key><string>Mary J. Blige</string>
+			<key>Album Artist</key><string>Mary J. Blige</string>
+			<key>Composer</key><string>Mary J. Blige, Christopher Stewart, Phalon Alexander &#38; Terius Nash</string>
+			<key>Album</key><string>Growing Pains (Bonus Track Version)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8549372</integer>
+			<key>Total Time</key><integer>242133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2015-07-18T17:53:29Z</date>
+			<key>Date Added</key><date>2015-07-18T17:53:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3520256185</integer>
+			<key>Play Date UTC</key><date>2015-07-20T23:56:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Growing Pains (Bonus Track Version)</string>
+			<key>Sort Artist</key><string>Mary J. Blige</string>
+			<key>Sort Name</key><string>Just Fine</string>
+			<key>Persistent ID</key><string>E1B7B6FAF4A4A3BB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>130524</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147808</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

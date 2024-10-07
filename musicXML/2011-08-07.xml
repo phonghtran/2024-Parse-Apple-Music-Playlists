@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:43:08Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>24505</key>
+		<dict>
+			<key>Track ID</key><integer>24505</integer>
+			<key>Name</key><string>Next Big Thing</string>
+			<key>Artist</key><string>The Shitsez</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3770496</integer>
+			<key>Total Time</key><integer>157074</integer>
+			<key>Date Modified</key><date>2009-08-03T04:05:11Z</date>
+			<key>Date Added</key><date>2010-06-17T13:37:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3398467552</integer>
+			<key>Play Date UTC</key><date>2011-09-10T08:45:52Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2011-08-24T13:41:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3229</integer>
+			<key>Sort Artist</key><string>Shitsez</string>
+			<key>Persistent ID</key><string>23F823D899FE7673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW%202009/4%20stars/The_Shitsez-Next_Big_Thing.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29925</key>
+		<dict>
+			<key>Track ID</key><integer>29925</integer>
+			<key>Name</key><string>Fool for You (feat. Phillip Bailey)</string>
+			<key>Artist</key><string>Cee Lo Green</string>
+			<key>Album Artist</key><string>Cee Lo Green</string>
+			<key>Album</key><string>The Lady Killer (Deluxe Version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7485917</integer>
+			<key>Total Time</key><integer>220708</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-02-20T20:48:29Z</date>
+			<key>Date Added</key><date>2011-02-20T21:14:12Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3402483673</integer>
+			<key>Play Date UTC</key><date>2011-10-26T20:21:13Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-12-04T01:35:30Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lady Killer (Deluxe Version)</string>
+			<key>Persistent ID</key><string>C0B966955F37A5B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Cee%20Lo%20Green%20-%20The%20Lady%20Killer%20%5BExplict%5D%20(Deluxe)%20CDRip%20-2010-%20%5BMJN%5D/10%20-%20Fool%20for%20You%20(feat.%20Phillip%20Bailey).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30981</key>
+		<dict>
+			<key>Track ID</key><integer>30981</integer>
+			<key>Name</key><string>Beautiful Trash</string>
+			<key>Artist</key><string>Lanu</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5957598</integer>
+			<key>Total Time</key><integer>204773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:22Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:03Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3408351474</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:17:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-08-09T23:56:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7DB5A66798137653</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/18%20-%20Lanu%20-%20Beautiful%20Trash.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31019</key>
+		<dict>
+			<key>Track ID</key><integer>31019</integer>
+			<key>Name</key><string>Girls' Night</string>
+			<key>Artist</key><string>First Rate People</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4376992</integer>
+			<key>Total Time</key><integer>148506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>41</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:41Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3408350627</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:03:47Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2011-09-24T20:49:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7E6CB88000962951</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/41%20-%20First%20Rate%20People%20-%20Girls'%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31459</key>
+		<dict>
+			<key>Track ID</key><integer>31459</integer>
+			<key>Name</key><string>Empire</string>
+			<key>Artist</key><string>Jukebox the Ghost</string>
+			<key>Album</key><string>Everything Under the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8714673</integer>
+			<key>Total Time</key><integer>217808</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-06T02:34:09Z</date>
+			<key>Date Added</key><date>2011-07-06T03:09:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3405942393</integer>
+			<key>Play Date UTC</key><date>2011-12-05T21:06:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D054770AD0FB5448</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jukebox%20The%20Ghost/Jukebox%20the%20Ghost%20-%202010%20-%20Everything%20Under%20the%20Sun%20%5B320%5D/03%20-%20Empire.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31461</key>
+		<dict>
+			<key>Track ID</key><integer>31461</integer>
+			<key>Name</key><string>Summer Sun</string>
+			<key>Artist</key><string>Jukebox the Ghost</string>
+			<key>Album</key><string>Everything Under the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5423248</integer>
+			<key>Total Time</key><integer>135523</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-07-06T02:33:33Z</date>
+			<key>Date Added</key><date>2011-07-06T03:09:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3408354342</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:05:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-11-09T00:10:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>86EAE4B288C14283</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Jukebox%20The%20Ghost/Jukebox%20the%20Ghost%20-%202010%20-%20Everything%20Under%20the%20Sun%20%5B320%5D/04%20-%20Summer%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31591</key>
+		<dict>
+			<key>Track ID</key><integer>31591</integer>
+			<key>Name</key><string>The Childish Games</string>
+			<key>Artist</key><string>D.veloped</string>
+			<key>Album Artist</key><string>Childish Gambino</string>
+			<key>Genre</key><string>Hype-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9567525</integer>
+			<key>Total Time</key><integer>234684</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>99</integer>
+			<key>Date Modified</key><date>2011-07-13T15:15:57Z</date>
+			<key>Date Added</key><date>2011-07-13T15:36:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>dveloped.com</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3395758696</integer>
+			<key>Play Date UTC</key><date>2011-08-10T00:18:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-08-12T19:25:01Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Childish Games</string>
+			<key>Persistent ID</key><string>776CF942F43C985A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/hypem%20-%20jul%2013/The_Childish_Games_DVELOPED_OG.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31673</key>
+		<dict>
+			<key>Track ID</key><integer>31673</integer>
+			<key>Name</key><string>Modern Art</string>
+			<key>Artist</key><string>Black Lips</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4994372</integer>
+			<key>Total Time</key><integer>124212</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-04T21:23:46Z</date>
+			<key>Date Added</key><date>2011-07-26T20:32:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3406366300</integer>
+			<key>Play Date UTC</key><date>2011-12-10T18:51:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-08-19T13:52:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11088</integer>
+			<key>Persistent ID</key><string>0761818EF0C386C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Indie69_Tasty_Leftovers_June_2011/Black_Lips-Modern_Art.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31691</key>
+		<dict>
+			<key>Track ID</key><integer>31691</integer>
+			<key>Name</key><string>Egypt (Neki Stranac Moombahton Edit)</string>
+			<key>Artist</key><string>Slap In The Bass</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10908388</integer>
+			<key>Total Time</key><integer>271568</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-04T21:23:36Z</date>
+			<key>Date Added</key><date>2011-07-26T20:32:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3406184045</integer>
+			<key>Play Date UTC</key><date>2011-12-08T16:14:05Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3441</integer>
+			<key>Persistent ID</key><string>1097D017EC39760A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Indie69_Tasty_Leftovers_June_2011/Slap_In_The_Bass-Egypt(Neki_Stranac_Moombahton_Edit).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31759</key>
+		<dict>
+			<key>Track ID</key><integer>31759</integer>
+			<key>Name</key><string>Blues Ball</string>
+			<key>Artist</key><string>Brandon O. Bailey</string>
+			<key>Album</key><string>Memphis Grooves</string>
+			<key>Genre</key><string>blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8675130</integer>
+			<key>Total Time</key><integer>216842</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-04-02T02:08:18Z</date>
+			<key>Date Added</key><date>2011-08-04T21:04:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3396441914</integer>
+			<key>Play Date UTC</key><date>2011-08-17T22:05:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-08-18T04:31:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>ED80E8E6855DDF54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Brandon%20O.%20Bailey%20-%20Memphis%20Grooves%20(2011)/01.%20Brandon%20O.%20Bailey%20-%20Blues%20Ball.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31789</key>
+		<dict>
+			<key>Track ID</key><integer>31789</integer>
+			<key>Name</key><string>Everything Goes My Way</string>
+			<key>Artist</key><string>Metronomy</string>
+			<key>Album Artist</key><string>Metronomy</string>
+			<key>Album</key><string>The English Riviera</string>
+			<key>Genre</key><string>Indie; Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6792646</integer>
+			<key>Total Time</key><integer>210155</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-04T21:17:31Z</date>
+			<key>Date Added</key><date>2011-08-04T21:23:06Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3403235326</integer>
+			<key>Play Date UTC</key><date>2011-11-04T13:08:46Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-09-24T20:10:22Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>English Riviera</string>
+			<key>Persistent ID</key><string>8D98B61CE372C63D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Metronomy%20-%20The%20English%20Riviera%20(2011)/03%20Everything%20Goes%20My%20Way.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-08-07</string>
+			<key>Playlist ID</key><integer>675704</integer>
+			<key>Playlist Persistent ID</key><string>4151E58846E0B367</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31789</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

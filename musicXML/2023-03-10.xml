@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-03-10T16:48:47Z</date>
+	<key>Application Version</key><string>1.3.3.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>22895</key>
+		<dict>
+			<key>Track ID</key><integer>22895</integer>
+			<key>Name</key><string>Stop</string>
+			<key>Artist</key><string>Spice Girls</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6608428</integer>
+			<key>Total Time</key><integer>204868</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-07T16:27:55Z</date>
+			<key>Date Added</key><date>2010-06-17T00:23:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3480400166</integer>
+			<key>Play Date UTC</key><date>2014-04-15T13:49:26Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3574</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>181592BA0660B945</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>45443</key>
+		<dict>
+			<key>Track ID</key><integer>45443</integer>
+			<key>Name</key><string>OMG</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, Jinsu Park, David Dawood, Gigi &#38; Hanni</string>
+			<key>Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7648571</integer>
+			<key>Total Time</key><integer>212253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-01-14T21:29:08Z</date>
+			<key>Date Added</key><date>2023-01-14T21:29:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3761221929</integer>
+			<key>Play Date UTC</key><date>2023-03-09T20:52:09Z</date>
+			<key>Release Date</key><date>2023-01-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>OMG</string>
+			<key>Persistent ID</key><string>595CCF7918F49388</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45677</key>
+		<dict>
+			<key>Track ID</key><integer>45677</integer>
+			<key>Name</key><string>Attention</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Duckbay (Cosmos Studios Stockholm), 250, Gigi &#38; Danielle</string>
+			<key>Album</key><string>NewJeans 1st EP 'New Jeans'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6761850</integer>
+			<key>Total Time</key><integer>180067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-01-31T16:29:49Z</date>
+			<key>Date Added</key><date>2023-01-31T16:29:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3761222118</integer>
+			<key>Play Date UTC</key><date>2023-03-09T20:55:18Z</date>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 1st EP 'New Jeans'</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>Attention</string>
+			<key>Persistent ID</key><string>4EAC78B10B32082B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45853</key>
+		<dict>
+			<key>Track ID</key><integer>45853</integer>
+			<key>Name</key><string>Lavender Haze (Felix Jaehn Remix)</string>
+			<key>Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Album Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Composer</key><string>Taylor Swift, Jack Antonoff, Zoë Kravitz, Mark Anthony Spears, Jahaan Akil Sweet &#38; Sam Dew</string>
+			<key>Album</key><string>Lavender Haze (Felix Jaehn Remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6267914</integer>
+			<key>Total Time</key><integer>171562</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-02-14T23:22:17Z</date>
+			<key>Date Added</key><date>2023-02-14T23:22:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3761213928</integer>
+			<key>Play Date UTC</key><date>2023-03-09T18:38:48Z</date>
+			<key>Release Date</key><date>2023-02-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lavender Haze (Felix Jaehn Remix) - Single</string>
+			<key>Sort Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Sort Name</key><string>Lavender Haze (Felix Jaehn Remix)</string>
+			<key>Persistent ID</key><string>00B6BA6177AFBE11</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46063</key>
+		<dict>
+			<key>Track ID</key><integer>46063</integer>
+			<key>Name</key><string>Xo</string>
+			<key>Artist</key><string>Julia Cooper</string>
+			<key>Album Artist</key><string>Julia Cooper</string>
+			<key>Album</key><string>Xo - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5337553</integer>
+			<key>Total Time</key><integer>143968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-02-24T16:09:37Z</date>
+			<key>Date Added</key><date>2023-02-24T16:09:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3761214224</integer>
+			<key>Play Date UTC</key><date>2023-03-09T18:43:44Z</date>
+			<key>Release Date</key><date>2023-02-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Xo - Single</string>
+			<key>Sort Artist</key><string>Julia Cooper</string>
+			<key>Sort Name</key><string>Xo</string>
+			<key>Persistent ID</key><string>7E0FAC0C0902C321</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46183</key>
+		<dict>
+			<key>Track ID</key><integer>46183</integer>
+			<key>Name</key><string>Understand (feat. GIST)</string>
+			<key>Artist</key><string>MELOH</string>
+			<key>Album Artist</key><string>MELOH</string>
+			<key>Composer</key><string>MELOH, Gist &#38; Hecop</string>
+			<key>Album</key><string>MELOH</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5789655</integer>
+			<key>Total Time</key><integer>160104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-03-01T02:52:52Z</date>
+			<key>Date Added</key><date>2023-03-01T03:52:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3761221717</integer>
+			<key>Play Date UTC</key><date>2023-03-09T20:48:37Z</date>
+			<key>Release Date</key><date>2021-01-02T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MELOH</string>
+			<key>Sort Artist</key><string>MELOH</string>
+			<key>Sort Name</key><string>Understand (feat. GIST)</string>
+			<key>Persistent ID</key><string>576BEC5BEC2FADC2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46573</key>
+		<dict>
+			<key>Track ID</key><integer>46573</integer>
+			<key>Name</key><string>Not Strong Enough</string>
+			<key>Artist</key><string>boygenius</string>
+			<key>Album Artist</key><string>boygenius</string>
+			<key>Composer</key><string>Julien Baker, Lucy Dacus &#38; Phoebe Bridgers</string>
+			<key>Album</key><string>the record</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8779804</integer>
+			<key>Total Time</key><integer>234933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2023-03-06T02:18:14Z</date>
+			<key>Date Added</key><date>2023-03-06T02:18:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3761213566</integer>
+			<key>Play Date UTC</key><date>2023-03-09T18:32:46Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>record</string>
+			<key>Sort Artist</key><string>boygenius</string>
+			<key>Sort Name</key><string>Not Strong Enough</string>
+			<key>Persistent ID</key><string>9E33816D2204F1EA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46579</key>
+		<dict>
+			<key>Track ID</key><integer>46579</integer>
+			<key>Name</key><string>Pinking Shears</string>
+			<key>Artist</key><string>Mandy, Indiana</string>
+			<key>Album Artist</key><string>Mandy, Indiana</string>
+			<key>Composer</key><string>Valentine Caulfield &#38; Scott Fair</string>
+			<key>Album</key><string>I've Seen a Way</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5614070</integer>
+			<key>Total Time</key><integer>152421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-03-06T02:21:26Z</date>
+			<key>Date Added</key><date>2023-03-06T02:21:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3761214080</integer>
+			<key>Play Date UTC</key><date>2023-03-09T18:41:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-03-08T19:13:38Z</date>
+			<key>Release Date</key><date>2023-03-01T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I've Seen a Way</string>
+			<key>Sort Artist</key><string>Mandy, Indiana</string>
+			<key>Sort Name</key><string>Pinking Shears</string>
+			<key>Persistent ID</key><string>ABC0DC9FC48393D0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46597</key>
+		<dict>
+			<key>Track ID</key><integer>46597</integer>
+			<key>Name</key><string>Cà Phê</string>
+			<key>Artist</key><string>MIN</string>
+			<key>Album Artist</key><string>MIN</string>
+			<key>Composer</key><string>Khắc Hưng</string>
+			<key>Album</key><string>50/50</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7391739</integer>
+			<key>Total Time</key><integer>190526</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-03-06T05:57:08Z</date>
+			<key>Date Added</key><date>2023-03-06T05:57:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3761213756</integer>
+			<key>Play Date UTC</key><date>2023-03-09T18:35:56Z</date>
+			<key>Release Date</key><date>2022-03-22T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>50/50</string>
+			<key>Sort Artist</key><string>MIN</string>
+			<key>Sort Name</key><string>Cà Phê</string>
+			<key>Persistent ID</key><string>DBDD6B926D565585</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46611</key>
+		<dict>
+			<key>Track ID</key><integer>46611</integer>
+			<key>Name</key><string>I'm Him</string>
+			<key>Artist</key><string>Joe West</string>
+			<key>Album Artist</key><string>Joe West</string>
+			<key>Composer</key><string>Joe West</string>
+			<key>Album</key><string>Him - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5965714</integer>
+			<key>Total Time</key><integer>163333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-03-08T06:25:23Z</date>
+			<key>Date Added</key><date>2023-03-08T06:25:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3761222282</integer>
+			<key>Play Date UTC</key><date>2023-03-09T20:58:02Z</date>
+			<key>Release Date</key><date>2023-03-03T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Him - Single</string>
+			<key>Sort Artist</key><string>Joe West</string>
+			<key>Sort Name</key><string>I'm Him</string>
+			<key>Persistent ID</key><string>0CC06390F51C6796</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46679</key>
+		<dict>
+			<key>Track ID</key><integer>46679</integer>
+			<key>Name</key><string>girls like me don't cry (remix)</string>
+			<key>Artist</key><string>thuy &#38; MIN</string>
+			<key>Album Artist</key><string>thuy &#38; MIN</string>
+			<key>Composer</key><string>Thuy Tran, David Obata Teel &#38; Alexandro Guerrero</string>
+			<key>Album</key><string>girls like me don't cry (remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7618519</integer>
+			<key>Total Time</key><integer>213283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-03-08T18:48:25Z</date>
+			<key>Date Added</key><date>2023-03-08T18:48:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3761213331</integer>
+			<key>Play Date UTC</key><date>2023-03-09T18:28:51Z</date>
+			<key>Release Date</key><date>2023-03-08T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>girls like me don't cry (remix) - Single</string>
+			<key>Sort Artist</key><string>thuy &#38; MIN</string>
+			<key>Sort Name</key><string>girls like me don't cry (remix)</string>
+			<key>Persistent ID</key><string>7FCD69F6B94AB9E2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46681</key>
+		<dict>
+			<key>Track ID</key><integer>46681</integer>
+			<key>Name</key><string>Drippin</string>
+			<key>Artist</key><string>LG (TEAM GENIUS)</string>
+			<key>Album Artist</key><string>LG (TEAM GENIUS)</string>
+			<key>Composer</key><string>mia waring</string>
+			<key>Album</key><string>Drippin - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6176109</integer>
+			<key>Total Time</key><integer>172174</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2023-03-09T05:36:59Z</date>
+			<key>Date Added</key><date>2023-03-09T05:36:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3761221557</integer>
+			<key>Play Date UTC</key><date>2023-03-09T20:45:57Z</date>
+			<key>Release Date</key><date>2021-08-05T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Drippin - Single</string>
+			<key>Sort Artist</key><string>LG (TEAM GENIUS)</string>
+			<key>Sort Name</key><string>Drippin</string>
+			<key>Persistent ID</key><string>3DCC2152EC349C93</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>116057</key>
+		<dict>
+			<key>Track ID</key><integer>116057</integer>
+			<key>Name</key><string>Die For You (Remix)</string>
+			<key>Artist</key><string>The Weeknd &#38; Ariana Grande</string>
+			<key>Album Artist</key><string>The Weeknd &#38; Ariana Grande</string>
+			<key>Composer</key><string>Abel Tesfaye, Martin McKinney, Mejdi Rhars, Dylan Wiggins, Magnus Høiberg, William Walsh &#38; Henry Walter</string>
+			<key>Album</key><string>Die For You (Remix) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8393645</integer>
+			<key>Total Time</key><integer>232857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-03-10T04:12:27Z</date>
+			<key>Date Added</key><date>2023-03-10T04:12:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3761250380</integer>
+			<key>Play Date UTC</key><date>2023-03-10T04:46:20Z</date>
+			<key>Release Date</key><date>2023-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Die For You (Remix) - Single</string>
+			<key>Sort Album Artist</key><string>Weeknd &#38; Ariana Grande</string>
+			<key>Sort Artist</key><string>Weeknd &#38; Ariana Grande</string>
+			<key>Sort Name</key><string>Die For You (Remix)</string>
+			<key>Persistent ID</key><string>DE62241D0DED7B7C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>111731</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22895</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

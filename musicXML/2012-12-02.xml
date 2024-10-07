@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-12-04T00:45:54Z</date>
+	<key>Application Version</key><string>11.0</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>9473</key>
+		<dict>
+			<key>Track ID</key><integer>9473</integer>
+			<key>Name</key><string>Can You See the Lights?</string>
+			<key>Artist</key><string>Butterfly Boucher</string>
+			<key>Album</key><string>Flutterby</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4243789</integer>
+			<key>Total Time</key><integer>187088</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-19T17:02:27Z</date>
+			<key>Date Added</key><date>2010-06-17T13:10:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3437253982</integer>
+			<key>Play Date UTC</key><date>2012-12-02T06:46:22Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2012-12-02T17:33:43Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9063</integer>
+			<key>Persistent ID</key><string>2CB7790F99F71BB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Butterfly%20Boucher%20-%20Can%20You%20See%20the%20Lights_.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35593</key>
+		<dict>
+			<key>Track ID</key><integer>35593</integer>
+			<key>Name</key><string>The Coma Kid</string>
+			<key>Artist</key><string>Motion City Soundtrack</string>
+			<key>Album Artist</key><string>Motion City Soundtrack</string>
+			<key>Album</key><string>Go</string>
+			<key>Genre</key><string>Pop Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8502573</integer>
+			<key>Total Time</key><integer>210155</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-10T05:23:50Z</date>
+			<key>Date Added</key><date>2012-06-13T05:45:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3437293230</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:40:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Coma Kid</string>
+			<key>Persistent ID</key><string>313CA4DD8EFDE0AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Motion%20City%20Soundtrack%20-%20Go%20(2012)/06%20The%20Coma%20Kid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36895</key>
+		<dict>
+			<key>Track ID</key><integer>36895</integer>
+			<key>Name</key><string>Thin Line (feat. Buffalo Madonna)</string>
+			<key>Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album Artist</key><string>Macklemore &#38; Ryan Lewis</string>
+			<key>Album</key><string>The Heist (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10355727</integer>
+			<key>Total Time</key><integer>256235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-03T15:01:38Z</date>
+			<key>Date Added</key><date>2012-11-03T15:31:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3437294136</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:55:36Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-11-29T20:52:36Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heist (Deluxe Edition)</string>
+			<key>Persistent ID</key><string>E9D52D18774AE4D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Macklemore%20&#38;%20Ryan%20Lewis%20-%20The%20Heist%20%5BDeluxe%20Edition%5D%20%5B2012%5D%20(iTunes+Extra%20videos+Digital%20Booklet)%20%5BF10%5D/04%20Thin%20Line%20(feat.%20Buffalo%20Madonna).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37433</key>
+		<dict>
+			<key>Track ID</key><integer>37433</integer>
+			<key>Name</key><string>Nathan ft. Styles P.</string>
+			<key>Artist</key><string>Azealia Banks</string>
+			<key>Album</key><string>Fantasea</string>
+			<key>Genre</key><string>WITCH-HOP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8251760</integer>
+			<key>Total Time</key><integer>204329</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-12T05:51:28Z</date>
+			<key>Date Added</key><date>2012-11-22T05:03:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Direct Download via DJBooth.net</string>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3437293669</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:47:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-12-01T18:19:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4309</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3DC561E441869C0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Azealia%20Banks%20-%20Fantasea/09%20Nathan%20(ft.%20Styles%20P.).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37437</key>
+		<dict>
+			<key>Track ID</key><integer>37437</integer>
+			<key>Name</key><string>Jumanji</string>
+			<key>Artist</key><string>Azealia Banks</string>
+			<key>Album</key><string>Fantasea</string>
+			<key>Genre</key><string>WITCH-HOP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7070331</integer>
+			<key>Total Time</key><integer>174942</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-12T05:51:36Z</date>
+			<key>Date Added</key><date>2012-11-22T05:03:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Direct Download via DJBooth.net</string>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3437292510</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:28:30Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-11-30T23:40:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2779</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10362E6736526C5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Azealia%20Banks%20-%20Fantasea/11%20Jumanji.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37501</key>
+		<dict>
+			<key>Track ID</key><integer>37501</integer>
+			<key>Name</key><string>Spacetime</string>
+			<key>Artist</key><string>Gardens &#38; Villa</string>
+			<key>Album</key><string>Gardens &#38; Villa</string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5562482</integer>
+			<key>Total Time</key><integer>196832</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-11-22T04:21:36Z</date>
+			<key>Date Added</key><date>2012-11-22T05:03:49Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3437293020</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:37:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1E902A5F83452ECE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Gardens_and_Villa-Gardens_and_Villa-2011-RTB/05-gardens_and_villa-spacetime.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37537</key>
+		<dict>
+			<key>Track ID</key><integer>37537</integer>
+			<key>Name</key><string>Pick Me Up</string>
+			<key>Artist</key><string>Hollerado</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3945369</integer>
+			<key>Total Time</key><integer>245942</integer>
+			<key>Date Modified</key><date>2012-11-22T05:08:54Z</date>
+			<key>Date Added</key><date>2012-11-22T05:03:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3437117230</integer>
+			<key>Play Date UTC</key><date>2012-11-30T16:47:10Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2012-12-01T21:07:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>058F9460EB172B89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Hollerado%20Pick%20Me%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37541</key>
+		<dict>
+			<key>Track ID</key><integer>37541</integer>
+			<key>Name</key><string>Waiting Room</string>
+			<key>Artist</key><string>Fugazi</string>
+			<key>Album Artist</key><string>Fugazi</string>
+			<key>Composer</key><string>Fugazi</string>
+			<key>Album</key><string>13 Songs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6928288</integer>
+			<key>Total Time</key><integer>173244</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2012-11-22T04:09:17Z</date>
+			<key>Date Added</key><date>2012-11-22T05:03:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3437293880</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:51:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>3CA3332279B462ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/13%20Songs/01%20Waiting%20Room.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37569</key>
+		<dict>
+			<key>Track ID</key><integer>37569</integer>
+			<key>Name</key><string>Let It Go</string>
+			<key>Artist</key><string>The Neighbourhood </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2898807</integer>
+			<key>Total Time</key><integer>180532</integer>
+			<key>Date Modified</key><date>2012-11-22T05:08:59Z</date>
+			<key>Date Added</key><date>2012-11-22T05:04:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3437294322</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:58:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-25T02:34:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Neighbourhood </string>
+			<key>Persistent ID</key><string>9412E7D8FC368116</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/The%20Neighbourhood%20-%20Let%20It%20Go.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37587</key>
+		<dict>
+			<key>Track ID</key><integer>37587</integer>
+			<key>Name</key><string>Wut (5kinAndBone5)</string>
+			<key>Artist</key><string>Le1f</string>
+			<key>Album</key><string>Dark York</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7821684</integer>
+			<key>Total Time</key><integer>166556</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-03-22T22:33:34Z</date>
+			<key>Date Added</key><date>2012-11-22T05:05:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3437293465</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:44:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-27T23:55:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5096</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE21BA70F8139563</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/DARK_YORK/08%20Wut%20(5kinAndBone5).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37615</key>
+		<dict>
+			<key>Track ID</key><integer>37615</integer>
+			<key>Name</key><string>Higher Ground (Hudson Mohawke x Lunice)</string>
+			<key>Artist</key><string>TNGHT</string>
+			<key>Album</key><string>TNGHT</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6394886</integer>
+			<key>Total Time</key><integer>199758</integer>
+			<key>Date Modified</key><date>2012-11-22T05:04:38Z</date>
+			<key>Date Added</key><date>2012-11-22T05:05:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3437219232</integer>
+			<key>Play Date UTC</key><date>2012-12-01T21:07:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-27T23:55:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>955B436E61A8EF7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/TNGHT%20-%20Higher%20Ground%20(Hudson%20Mohawke%20x%20Lunice).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37627</key>
+		<dict>
+			<key>Track ID</key><integer>37627</integer>
+			<key>Name</key><string>Watching Over You</string>
+			<key>Artist</key><string>AlunaGeorge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3298783</integer>
+			<key>Total Time</key><integer>205505</integer>
+			<key>Date Modified</key><date>2012-11-22T05:08:23Z</date>
+			<key>Date Added</key><date>2012-11-22T05:11:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3436931537</integer>
+			<key>Play Date UTC</key><date>2012-11-28T13:12:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-12-01T03:40:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7D69D69B6CA696F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/AlunaGeorge/AlunaGeorge%20-%20Watching%20Over%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37631</key>
+		<dict>
+			<key>Track ID</key><integer>37631</integer>
+			<key>Name</key><string>You Know You Like It</string>
+			<key>Artist</key><string>AlunaGeorge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3359808</integer>
+			<key>Total Time</key><integer>209319</integer>
+			<key>Date Modified</key><date>2012-11-22T05:08:29Z</date>
+			<key>Date Added</key><date>2012-11-22T05:11:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3437254595</integer>
+			<key>Play Date UTC</key><date>2012-12-02T06:56:35Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-12-01T03:37:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>21EC9EE249206107</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/AlunaGeorge/AlunaGeorge%20-%20You%20Know%20You%20Like%20It.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37651</key>
+		<dict>
+			<key>Track ID</key><integer>37651</integer>
+			<key>Name</key><string>Fight to Keep</string>
+			<key>Artist</key><string>Monsters Calling Home</string>
+			<key>Album Artist</key><string>Monsters Calling Home</string>
+			<key>Album</key><string>Monsters Calling Home - EP</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8155000</integer>
+			<key>Total Time</key><integer>231453</integer>
+			<key>Stop Time</key><integer>219000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-11-24T04:58:09Z</date>
+			<key>Date Added</key><date>2012-11-24T04:23:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3437292729</integer>
+			<key>Play Date UTC</key><date>2012-12-02T17:32:09Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-12-03T13:58:05Z</date>
+			<key>Release Date</key><date>2012-05-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6300</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21E920DB2A07B065</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/Monsters%20Calling%20Home/Monsters%20Calling%20Home%20-%20EP/06%20Fight%20to%20Keep.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>86255</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9473</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

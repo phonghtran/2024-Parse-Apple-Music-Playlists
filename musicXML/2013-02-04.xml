@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-02-04T20:43:30Z</date>
+	<key>Application Version</key><string>11.0.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35056</key>
+		<dict>
+			<key>Track ID</key><integer>35056</integer>
+			<key>Name</key><string>ADHD</string>
+			<key>Artist</key><string>Blood Red Shoes</string>
+			<key>Composer</key><string>Blood Red Shoes</string>
+			<key>Album</key><string>Box of Secrets</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6182760</integer>
+			<key>Total Time</key><integer>196545</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T14:34:59Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:24Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3442637963</integer>
+			<key>Play Date UTC</key><date>2013-02-02T14:19:23Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-02-01T16:04:58Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13030</integer>
+			<key>Persistent ID</key><string>467D79F055B1A980</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Blood%20Red%20Shoes%20-%20Box%20Of%20Secrets%20%5B2008-MP3-V0%5D%20RiP-OiNK/07%20ADHD.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35122</key>
+		<dict>
+			<key>Track ID</key><integer>35122</integer>
+			<key>Name</key><string>How Can You Swallow So Much Sleep</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind of Fix</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6561015</integer>
+			<key>Total Time</key><integer>210259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T14:34:58Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3442557615</integer>
+			<key>Play Date UTC</key><date>2013-02-01T16:00:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Different Kind of Fix</string>
+			<key>Persistent ID</key><string>3934E2DAB86E2314</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Bombay_Bicycle_Club-A_Different_Kind_Of_Fix-2011-SiRE/01-bombay_bicycle_club-how_can_you_swallow_so_much_sleep.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35580</key>
+		<dict>
+			<key>Track ID</key><integer>35580</integer>
+			<key>Name</key><string>Matchstick</string>
+			<key>Artist</key><string>American Royalty</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>BIRP! March 2012</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10554032</integer>
+			<key>Total Time</key><integer>263784</integer>
+			<key>Stop Time</key><integer>260000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>60</integer>
+			<key>Track Count</key><integer>122</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-21T03:09:09Z</date>
+			<key>Date Added</key><date>2012-03-09T14:03:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3442558336</integer>
+			<key>Play Date UTC</key><date>2013-02-01T16:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10206</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Sort Artist</key><string>Royalty, American</string>
+			<key>Persistent ID</key><string>5D21B96B7EB6C755</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/American_Royalty-Matchstick.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36932</key>
+		<dict>
+			<key>Track ID</key><integer>36932</integer>
+			<key>Name</key><string>Roc Me Out</string>
+			<key>Artist</key><string>Rihanna</string>
+			<key>Composer</key><string>Esther Dean, Mikkel S. Eriksen, Tor Erik Hermansen, Rob Swire &#38; Gareth McGrillen</string>
+			<key>Album</key><string>Talk That Talk</string>
+			<key>Genre</key><string>Hip Hop/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8485586</integer>
+			<key>Total Time</key><integer>209371</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T14:28:32Z</date>
+			<key>Date Added</key><date>2012-06-13T05:45:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3442557824</integer>
+			<key>Play Date UTC</key><date>2013-02-01T16:03:44Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F64A733FC4F63299</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/Rihanna%20Talk%20That%20Talk%20(Deluxe%20Version)/09%20Roc%20Me%20Out.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37184</key>
+		<dict>
+			<key>Track ID</key><integer>37184</integer>
+			<key>Name</key><string>Rebel Hill</string>
+			<key>Artist</key><string>Vinyl Thief</string>
+			<key>Album</key><string>NoiseTrade - 2012 Holiday Road Trip Mixtape</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8803939</integer>
+			<key>Total Time</key><integer>280920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T14:27:14Z</date>
+			<key>Date Added</key><date>2012-06-29T14:06:17Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3442410856</integer>
+			<key>Play Date UTC</key><date>2013-01-30T23:14:16Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-01-26T03:06:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6C805BECF7F8BD32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/96%20-%20Vinyl%20Thief%20-%20Rebel%20Hill.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39598</key>
+		<dict>
+			<key>Track ID</key><integer>39598</integer>
+			<key>Name</key><string>Inner City</string>
+			<key>Artist</key><string>So Many Wizards</string>
+			<key>Album</key><string>Inner City /Best Friends 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5478162</integer>
+			<key>Total Time</key><integer>166034</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-21T03:57:20Z</date>
+			<key>Date Added</key><date>2013-01-20T21:59:55Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://somanywizards.bandcamp.com</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3442558695</integer>
+			<key>Play Date UTC</key><date>2013-02-01T16:18:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-01-26T08:18:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98D6C62729D162FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/So%20Many%20Wizards%20-%20Inner%20City%20-Best%20Friends%207/So%20Many%20Wizards%20-%20Inner%20City%20-Best%20Friends%207-%20-%2001%20Inner%20City.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39602</key>
+		<dict>
+			<key>Track ID</key><integer>39602</integer>
+			<key>Name</key><string>Yeah Right</string>
+			<key>Artist</key><string>So Many Wizards</string>
+			<key>Album</key><string>Inner City /Best Friends 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3225217</integer>
+			<key>Total Time</key><integer>104045</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-21T03:57:20Z</date>
+			<key>Date Added</key><date>2013-01-20T21:59:55Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://somanywizards.bandcamp.com</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3442409282</integer>
+			<key>Play Date UTC</key><date>2013-01-30T22:48:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D6D7245A4879D90</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/So%20Many%20Wizards%20-%20Inner%20City%20-Best%20Friends%207/So%20Many%20Wizards%20-%20Inner%20City%20-Best%20Friends%207-%20-%2003%20Yeah%20Right.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39630</key>
+		<dict>
+			<key>Track ID</key><integer>39630</integer>
+			<key>Name</key><string>Fine Print</string>
+			<key>Artist</key><string>Mixed Blood Majority</string>
+			<key>Album</key><string>Fine Print - Single</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5535140</integer>
+			<key>Total Time</key><integer>185364</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-20T22:12:26Z</date>
+			<key>Date Added</key><date>2013-01-20T22:12:52Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://mixedbloodmajority.bandcamp.com</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3442644472</integer>
+			<key>Play Date UTC</key><date>2013-02-02T16:07:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-01-28T20:30:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F736FFC7388A83E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Mixed%20Blood%20Majority%20-%20Fine%20Print.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39674</key>
+		<dict>
+			<key>Track ID</key><integer>39674</integer>
+			<key>Name</key><string>Candles</string>
+			<key>Artist</key><string>Daughter</string>
+			<key>Album Artist</key><string>Daughter</string>
+			<key>Album</key><string>His Young Heart</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8229467</integer>
+			<key>Total Time</key><integer>293381</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-01-25T17:46:00Z</date>
+			<key>Date Added</key><date>2013-01-25T18:21:50Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 222578970</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3442411150</integer>
+			<key>Play Date UTC</key><date>2013-01-30T23:19:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-02-01T16:22:51Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB18C86810D5975D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Daughter%20-%20Candles.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39684</key>
+		<dict>
+			<key>Track ID</key><integer>39684</integer>
+			<key>Name</key><string>Fantasy</string>
+			<key>Artist</key><string>MS MR</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3340038</integer>
+			<key>Total Time</key><integer>208744</integer>
+			<key>Date Modified</key><date>2013-01-25T18:28:31Z</date>
+			<key>Date Added</key><date>2013-01-25T18:21:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3442461592</integer>
+			<key>Play Date UTC</key><date>2013-01-31T13:19:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-02-01T16:22:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4BE1D07465691A9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/msmrsounds%20-%20Fantasy.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39702</key>
+		<dict>
+			<key>Track ID</key><integer>39702</integer>
+			<key>Name</key><string>Cryin Wolf (feat. Kendrick Lamar)</string>
+			<key>Artist</key><string>ZZ Ward</string>
+			<key>Album Artist</key><string>ZZ Ward</string>
+			<key>Composer</key><string>Z Ward</string>
+			<key>Album</key><string>Til the Casket Drops</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7971413</integer>
+			<key>Total Time</key><integer>241293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-25T18:13:34Z</date>
+			<key>Date Added</key><date>2013-01-26T02:22:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3442644713</integer>
+			<key>Play Date UTC</key><date>2013-02-02T16:11:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>925441E78127CDC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Til%20the%20Casket%20Drops/ZZ%20Ward%20-%20Til%20The%20Casket%20Drops%20-%2005%20%20Cryin%20Wolf%20(feat.%20Kendrick%20Lamar).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39732</key>
+		<dict>
+			<key>Track ID</key><integer>39732</integer>
+			<key>Name</key><string>Goodbye, Goodbye</string>
+			<key>Artist</key><string>Tegan and Sara</string>
+			<key>Album Artist</key><string>Tegan and Sara</string>
+			<key>Album</key><string>Heartthrob</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4416117</integer>
+			<key>Total Time</key><integer>206210</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-01-25T17:09:58Z</date>
+			<key>Date Added</key><date>2013-01-26T02:22:08Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3442461798</integer>
+			<key>Play Date UTC</key><date>2013-01-31T13:23:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5687</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7917023225A4D706</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Tegan%20and%20Sara%20-%20Heartthrob/02%20Goodbye,%20Goodbye.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39738</key>
+		<dict>
+			<key>Track ID</key><integer>39738</integer>
+			<key>Name</key><string>Drove Me Wild</string>
+			<key>Artist</key><string>Tegan and Sara</string>
+			<key>Album Artist</key><string>Tegan and Sara</string>
+			<key>Album</key><string>Heartthrob</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4877918</integer>
+			<key>Total Time</key><integer>229302</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-01-25T17:09:57Z</date>
+			<key>Date Added</key><date>2013-01-26T02:22:08Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3442638192</integer>
+			<key>Play Date UTC</key><date>2013-02-02T14:23:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-02-04T14:48:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9235</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15EB66B54F88645F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Tegan%20and%20Sara%20-%20Heartthrob/05%20Drove%20Me%20Wild.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>896656</key>
+		<dict>
+			<key>Track ID</key><integer>896656</integer>
+			<key>Name</key><string>Change</string>
+			<key>Artist</key><string>Churchill</string>
+			<key>Album Artist</key><string>Churchill</string>
+			<key>Composer</key><string>Churchill</string>
+			<key>Album</key><string>The Change EP</string>
+			<key>Genre</key><string>Folk Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4761936</integer>
+			<key>Total Time</key><integer>198321</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-31T15:50:40Z</date>
+			<key>Date Added</key><date>2013-01-31T15:51:25Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3442644287</integer>
+			<key>Play Date UTC</key><date>2013-02-02T16:04:47Z</date>
+			<key>Normalization</key><integer>7596</integer>
+			<key>Sort Album</key><string>Change EP</string>
+			<key>Persistent ID</key><string>15F776F8E2541DC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Churchill%20-%20Change.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1008624</key>
+		<dict>
+			<key>Track ID</key><integer>1008624</integer>
+			<key>Name</key><string>Overdose</string>
+			<key>Artist</key><string>Little Daylight</string>
+			<key>Album</key><string>Overdose Single</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12031096</integer>
+			<key>Total Time</key><integer>240770</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-02-01T18:03:00Z</date>
+			<key>Date Added</key><date>2013-02-01T18:03:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3442637767</integer>
+			<key>Play Date UTC</key><date>2013-02-02T14:16:07Z</date>
+			<key>Normalization</key><integer>5249</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>166103926A6EA446</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Overdose.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>88592</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35056</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39674</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39684</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36932</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1008624</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>896656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39738</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

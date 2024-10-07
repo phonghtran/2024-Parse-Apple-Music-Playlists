@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-07-16T05:14:46Z</date>
+	<key>Application Version</key><string>12.2.1.16</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>23535</key>
+		<dict>
+			<key>Track ID</key><integer>23535</integer>
+			<key>Name</key><string>Fuckin' Problems</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5594701</integer>
+			<key>Total Time</key><integer>232672</integer>
+			<key>Start Time</key><integer>19000</integer>
+			<key>Date Modified</key><date>2015-07-11T04:45:25Z</date>
+			<key>Date Added</key><date>2013-12-14T06:39:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3519730019</integer>
+			<key>Play Date UTC</key><date>2015-07-14T21:46:59Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-07-13T15:14:05Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1066</integer>
+			<key>Persistent ID</key><string>7CE7296B208CEC6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/A$AP%20Rocky/Unknown%20Album/Fuckin'%20Problems.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24169</key>
+		<dict>
+			<key>Track ID</key><integer>24169</integer>
+			<key>Name</key><string>Coffee</string>
+			<key>Artist</key><string>Sylvan Esso</string>
+			<key>Album</key><string>Sylvan Esso</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4304856</integer>
+			<key>Total Time</key><integer>267520</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2015-02-12T04:25:55Z</date>
+			<key>Date Added</key><date>2014-03-29T22:08:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3519729805</integer>
+			<key>Play Date UTC</key><date>2015-07-14T21:43:25Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2015-07-13T01:29:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2535</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>840EC83CC957571D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Sylvan%20Esso/Sylvan%20Esso/07%20Coffee.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44631</key>
+		<dict>
+			<key>Track ID</key><integer>44631</integer>
+			<key>Name</key><string>Roses</string>
+			<key>Artist</key><string>The Chainsmokers</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7058218</integer>
+			<key>Total Time</key><integer>228153</integer>
+			<key>Date Modified</key><date>2015-06-18T14:48:15Z</date>
+			<key>Date Added</key><date>2015-06-18T14:47:28Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3519484807</integer>
+			<key>Play Date UTC</key><date>2015-07-12T01:40:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-07-09T15:23:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Chainsmokers</string>
+			<key>Persistent ID</key><string>AADF12BD006C0FF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/The%20Chainsmokers/Unknown%20Album/Roses.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44635</key>
+		<dict>
+			<key>Track ID</key><integer>44635</integer>
+			<key>Name</key><string>What You Don't Do</string>
+			<key>Artist</key><string>Lianne La Havas</string>
+			<key>Album Artist</key><string>Lianne La Havas</string>
+			<key>Album</key><string>Blood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7935421</integer>
+			<key>Total Time</key><integer>220586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-26T14:01:33Z</date>
+			<key>Date Added</key><date>2015-06-23T04:24:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3519302026</integer>
+			<key>Play Date UTC</key><date>2015-07-09T22:53:46Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2015-07-14T22:07:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3954</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood</string>
+			<key>Sort Artist</key><string>Lianne La Havas</string>
+			<key>Sort Name</key><string>What You Don't Do</string>
+			<key>Persistent ID</key><string>D491D09263ABDA0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Lianne%20La%20Havas/Blood/03%20What%20You%20Don't%20Do.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44639</key>
+		<dict>
+			<key>Track ID</key><integer>44639</integer>
+			<key>Name</key><string>Emotion</string>
+			<key>Artist</key><string>Carly Rae Jepsen</string>
+			<key>Album Artist</key><string>Carly Rae Jepsen</string>
+			<key>Composer</key><string>Carly Rae Jepsen/Christopher J Baran/Nate Campany</string>
+			<key>Album</key><string>Emotion</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7929036</integer>
+			<key>Total Time</key><integer>197407</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-06-30T04:03:00Z</date>
+			<key>Date Added</key><date>2015-06-30T04:06:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>H4ckus - GloDLS (Glodls.to)</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3519550949</integer>
+			<key>Play Date UTC</key><date>2015-07-12T20:02:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C22F6CD15C9FE538</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Carly%20Rae%20Jepsen/Emotion/02%20Emotion.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44677</key>
+		<dict>
+			<key>Track ID</key><integer>44677</integer>
+			<key>Name</key><string>Diver</string>
+			<key>Artist</key><string>Kid Astray</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4201985</integer>
+			<key>Total Time</key><integer>262582</integer>
+			<key>Date Modified</key><date>2015-06-30T04:19:11Z</date>
+			<key>Date Added</key><date>2015-06-30T04:19:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3519732047</integer>
+			<key>Play Date UTC</key><date>2015-07-14T22:20:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-06-30T15:07:37Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>43D5AD7499ABED72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kid%20Astray/Unknown%20Album/Diver.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44681</key>
+		<dict>
+			<key>Track ID</key><integer>44681</integer>
+			<key>Name</key><string>Here</string>
+			<key>Artist</key><string>Alessia Cara</string>
+			<key>Album Artist</key><string>Alessia Cara</string>
+			<key>Composer</key><string>Alessia Caracciolo, Andrew "Pop" Wansel, Warren "Oak" Felder, Coleridge Tillman &#38; Isaac Hayes</string>
+			<key>Album</key><string>Here - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7141503</integer>
+			<key>Total Time</key><integer>200213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-01T14:43:21Z</date>
+			<key>Date Added</key><date>2015-07-01T14:34:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3519731784</integer>
+			<key>Play Date UTC</key><date>2015-07-14T22:16:24Z</date>
+			<key>Release Date</key><date>2015-05-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6838</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Here - Single</string>
+			<key>Sort Artist</key><string>Alessia Cara</string>
+			<key>Sort Name</key><string>Here</string>
+			<key>Persistent ID</key><string>A3C52B7D6EDFC478</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Apple%20Music/Alessia%20Cara/Here%20-%20Single/01%20Here.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44683</key>
+		<dict>
+			<key>Track ID</key><integer>44683</integer>
+			<key>Name</key><string>Lost Ones</string>
+			<key>Artist</key><string>Lauryn Hill</string>
+			<key>Album Artist</key><string>Lauryn Hill</string>
+			<key>Composer</key><string>Lauryn Hill &#38; Frederick Hibbert</string>
+			<key>Album</key><string>The Miseducation of Lauryn Hill</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11580800</integer>
+			<key>Total Time</key><integer>333906</integer>
+			<key>Stop Time</key><integer>264000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2015-07-02T03:34:17Z</date>
+			<key>Date Added</key><date>2015-07-02T03:34:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3519730283</integer>
+			<key>Play Date UTC</key><date>2015-07-14T21:51:23Z</date>
+			<key>Release Date</key><date>1998-08-25T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2127</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Miseducation of Lauryn Hill</string>
+			<key>Sort Artist</key><string>Lauryn Hill</string>
+			<key>Sort Name</key><string>Lost Ones</string>
+			<key>Persistent ID</key><string>13798E342B0BB8D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Apple%20Music/Lauryn%20Hill/The%20Miseducation%20of%20Lauryn%20Hill/02%20Lost%20Ones.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44687</key>
+		<dict>
+			<key>Track ID</key><integer>44687</integer>
+			<key>Name</key><string>Burial (feat. Pusha T, Moody Good, &#38; TrollPhace)</string>
+			<key>Artist</key><string>Yogi &#38; Skrillex</string>
+			<key>Album Artist</key><string>Yogi &#38; Skrillex</string>
+			<key>Album</key><string>Burial (feat. Pusha T, Moody Good, &#38; TrollPhace) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8151742</integer>
+			<key>Total Time</key><integer>226849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-11T04:34:40Z</date>
+			<key>Date Added</key><date>2015-07-09T04:38:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3519729537</integer>
+			<key>Play Date UTC</key><date>2015-07-14T21:38:57Z</date>
+			<key>Release Date</key><date>2015-07-06T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8077</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Burial (feat. Pusha T, Moody Good, &#38; TrollPhace) - Single</string>
+			<key>Sort Artist</key><string>Yogi &#38; Skrillex</string>
+			<key>Sort Name</key><string>Burial (feat. Pusha T, Moody Good, &#38; TrollPhace)</string>
+			<key>Persistent ID</key><string>8CAADC370BF3172F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Apple%20Music/Yogi%20&#38;%20Skrillex/Burial%20(feat.%20Pusha%20T,%20Moody%20Good,%20&#38;%20TrollPhace)%20-%20Single/01%20Burial%20(feat.%20Pusha%20T,%20Moody%20Good,%20&#38;%20TrollPhace).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44689</key>
+		<dict>
+			<key>Track ID</key><integer>44689</integer>
+			<key>Name</key><string>Long Snake Moan</string>
+			<key>Artist</key><string>PJ Harvey</string>
+			<key>Album Artist</key><string>PJ Harvey</string>
+			<key>Composer</key><string>PJ Harvey</string>
+			<key>Album</key><string>To Bring You My Love</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10884080</integer>
+			<key>Total Time</key><integer>315267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2015-07-10T02:49:40Z</date>
+			<key>Date Added</key><date>2015-07-10T02:49:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3519731584</integer>
+			<key>Play Date UTC</key><date>2015-07-14T22:13:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Bring You My Love</string>
+			<key>Sort Artist</key><string>PJ Harvey</string>
+			<key>Sort Name</key><string>Long Snake Moan</string>
+			<key>Persistent ID</key><string>A85EAB34DF2BCA8C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>44741</key>
+		<dict>
+			<key>Track ID</key><integer>44741</integer>
+			<key>Name</key><string>Work Out</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>Bosco Kante, Elliot Wolff, Jermaine Coleman, John Stephens, Kanye West, Miri Ben Ari &#38; Sukmeke Rainey</string>
+			<key>Album</key><string>Cole World - The Sideline Story</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8251218</integer>
+			<key>Total Time</key><integer>235320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-07-11T04:43:28Z</date>
+			<key>Date Added</key><date>2015-07-11T04:43:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3519652478</integer>
+			<key>Play Date UTC</key><date>2015-07-14T00:14:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-07-14T22:23:05Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cole World - The Sideline Story</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>Work Out</string>
+			<key>Persistent ID</key><string>16E393C0F84FFA0F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>44745</key>
+		<dict>
+			<key>Track ID</key><integer>44745</integer>
+			<key>Name</key><string>Party</string>
+			<key>Artist</key><string>Girls' Generation</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6508055</integer>
+			<key>Total Time</key><integer>217234</integer>
+			<key>Start Time</key><integer>20200</integer>
+			<key>Date Modified</key><date>2015-07-11T05:23:38Z</date>
+			<key>Date Added</key><date>2015-07-11T05:22:53Z</date>
+			<key>Bit Rate</key><integer>239</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3519730479</integer>
+			<key>Play Date UTC</key><date>2015-07-14T21:54:39Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2015-07-12T23:00:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>25F3E6ECFDEDF029</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Girls'%20Generation/Unknown%20Album/Party.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>44747</key>
+		<dict>
+			<key>Track ID</key><integer>44747</integer>
+			<key>Name</key><string>Curtains Closed</string>
+			<key>Artist</key><string>Tenement</string>
+			<key>Album Artist</key><string>Tenement</string>
+			<key>Album</key><string>Predatory Headlights</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4775282</integer>
+			<key>Total Time</key><integer>125987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-11T07:27:27Z</date>
+			<key>Date Added</key><date>2015-07-11T07:27:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3519732173</integer>
+			<key>Play Date UTC</key><date>2015-07-14T22:22:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Predatory Headlights</string>
+			<key>Sort Artist</key><string>Tenement</string>
+			<key>Sort Name</key><string>Curtains Closed</string>
+			<key>Persistent ID</key><string>787D7D8FC2A2ECD6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>44753</key>
+		<dict>
+			<key>Track ID</key><integer>44753</integer>
+			<key>Name</key><string>Worship</string>
+			<key>Artist</key><string>Years &#38; Years</string>
+			<key>Album Artist</key><string>Years &#38; Years</string>
+			<key>Composer</key><string>Olly Alexander, Emre Turkmen, Michael Goldsworthy, Tom Barnes, Ben Kohn, Peter Kelleher &#38; Tom Hull</string>
+			<key>Album</key><string>Communion (Deluxe)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7823022</integer>
+			<key>Total Time</key><integer>221813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-12T08:08:52Z</date>
+			<key>Date Added</key><date>2015-07-12T08:08:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3519741189</integer>
+			<key>Play Date UTC</key><date>2015-07-15T00:53:09Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Communion (Deluxe)</string>
+			<key>Sort Artist</key><string>Years &#38; Years</string>
+			<key>Sort Name</key><string>Worship</string>
+			<key>Persistent ID</key><string>FACC00D1E32A2A97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>136432</key>
+		<dict>
+			<key>Track ID</key><integer>136432</integer>
+			<key>Name</key><string>Rewind</string>
+			<key>Artist</key><string>Sam Dew</string>
+			<key>Album Artist</key><string>Sam Dew</string>
+			<key>Composer</key><string>Sam Dew &#38; David Andrew Sitek</string>
+			<key>Album</key><string>Damn Sue - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7478224</integer>
+			<key>Total Time</key><integer>201279</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-14T13:45:22Z</date>
+			<key>Date Added</key><date>2015-07-14T13:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3519789053</integer>
+			<key>Play Date UTC</key><date>2015-07-15T14:10:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Damn Sue - EP</string>
+			<key>Sort Artist</key><string>Sam Dew</string>
+			<key>Sort Name</key><string>Rewind</string>
+			<key>Persistent ID</key><string>0316B3691F6401B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>130524</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136432</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

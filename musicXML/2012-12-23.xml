@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-12-23T22:29:36Z</date>
+	<key>Application Version</key><string>11.0.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>29934</key>
+		<dict>
+			<key>Track ID</key><integer>29934</integer>
+			<key>Name</key><string>Tenderoni</string>
+			<key>Artist</key><string>Kele</string>
+			<key>Album Artist</key><string>Kele</string>
+			<key>Album</key><string>The Boxer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7330776</integer>
+			<key>Total Time</key><integer>270471</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-12-04T02:59:14Z</date>
+			<key>Date Added</key><date>2010-12-20T15:38:01Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3439107857</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:44:17Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-12-23T15:20:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Boxer</string>
+			<key>Sort Album Artist</key><string>Kele</string>
+			<key>Sort Artist</key><string>Kele</string>
+			<key>Persistent ID</key><string>D35C3CA463F65698</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Kele-The.Boxer-2010-(Retail)-MJN/03-kele-tenderoni.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34836</key>
+		<dict>
+			<key>Track ID</key><integer>34836</integer>
+			<key>Name</key><string>Portraits</string>
+			<key>Artist</key><string>Wheeler Brothers</string>
+			<key>Album Artist</key><string>Wheeler Brothers</string>
+			<key>Album</key><string>Portraits</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8087953</integer>
+			<key>Total Time</key><integer>336901</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-12-04T02:41:11Z</date>
+			<key>Date Added</key><date>2012-03-09T14:06:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3439023330</integer>
+			<key>Play Date UTC</key><date>2012-12-22T18:15:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-04-09T23:59:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2943</integer>
+			<key>Sort Album Artist</key><string>Wheeler Brothers</string>
+			<key>Sort Artist</key><string>Wheeler Brothers</string>
+			<key>Persistent ID</key><string>21BAE70F609AF997</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/Wheeler_Brothers-Portraits.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35836</key>
+		<dict>
+			<key>Track ID</key><integer>35836</integer>
+			<key>Name</key><string>Everything Changes</string>
+			<key>Artist</key><string>Eytan and the Embassy</string>
+			<key>Album Artist</key><string>Eytan and the Embassy</string>
+			<key>Album</key><string>Everything Changes</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10052139</integer>
+			<key>Total Time</key><integer>248842</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-04T03:11:21Z</date>
+			<key>Date Added</key><date>2012-06-21T04:11:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3439108787</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:59:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-12-23T02:03:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Eytan and the Embassy</string>
+			<key>Sort Artist</key><string>Eytan and the Embassy</string>
+			<key>Persistent ID</key><string>3EE5D7D6084A2CBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Everything%20Changes.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37118</key>
+		<dict>
+			<key>Track ID</key><integer>37118</integer>
+			<key>Name</key><string>4. THE TRIBE &#38; BIG CATS! X BLOODNSTUFF</string>
+			<key>Artist</key><string>Dimitry Killstorm &#38; Dj Name</string>
+			<key>Album</key><string>Make a Scene</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4971944</integer>
+			<key>Total Time</key><integer>207072</integer>
+			<key>Date Modified</key><date>2012-11-07T18:37:23Z</date>
+			<key>Date Added</key><date>2012-11-08T02:57:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3439107587</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:39:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2049</integer>
+			<key>Persistent ID</key><string>3CCC324A626B9168</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/MAKE%20A%20SCENE%20MP3s/4.%20THE%20TRIBE%20&#38;%20BIG%20CATS!%20X%20BLOODNSTUFF.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37644</key>
+		<dict>
+			<key>Track ID</key><integer>37644</integer>
+			<key>Name</key><string>Spacetime</string>
+			<key>Artist</key><string>Gardens &#38; Villa</string>
+			<key>Album Artist</key><string>Gardens &#38; Villa</string>
+			<key>Album</key><string>Gardens &#38; Villa</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5562482</integer>
+			<key>Total Time</key><integer>196832</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-12-04T02:39:17Z</date>
+			<key>Date Added</key><date>2012-11-22T05:03:49Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3439105238</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:00:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-12-21T02:25:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album Artist</key><string>Gardens &#38; Villa</string>
+			<key>Sort Artist</key><string>Gardens &#38; Villa</string>
+			<key>Persistent ID</key><string>1E902A5F83452ECE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Gardens_and_Villa-Gardens_and_Villa-2011-RTB/05-gardens_and_villa-spacetime.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37966</key>
+		<dict>
+			<key>Track ID</key><integer>37966</integer>
+			<key>Name</key><string>September</string>
+			<key>Artist</key><string>Earth, Wind &#38; Fire</string>
+			<key>Album Artist</key><string>Earth, Wind &#38; Fire</string>
+			<key>Album</key><string>The Very Best Of</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8661254</integer>
+			<key>Total Time</key><integer>216476</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2012-12-05T04:29:33Z</date>
+			<key>Date Added</key><date>2012-12-05T03:55:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3439022013</integer>
+			<key>Play Date UTC</key><date>2012-12-22T17:53:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Very Best Of</string>
+			<key>Persistent ID</key><string>E0C7B49D8909CEC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/08.%20September.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37994</key>
+		<dict>
+			<key>Track ID</key><integer>37994</integer>
+			<key>Name</key><string>Constant Conversations</string>
+			<key>Artist</key><string>Passion Pit</string>
+			<key>Album Artist</key><string>Passion Pit</string>
+			<key>Album</key><string>Gossamer</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9467600</integer>
+			<key>Total Time</key><integer>235676</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-10T15:08:06Z</date>
+			<key>Date Added</key><date>2012-12-10T15:13:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3439107380</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:36:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16351D021FA72AF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Passion%20Pit%20-%20Gossamer%20%5B2012%5D/Gossamer/04%20Constant%20Conversations.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38012</key>
+		<dict>
+			<key>Track ID</key><integer>38012</integer>
+			<key>Name</key><string>Hold On</string>
+			<key>Artist</key><string>Alabama Shakes</string>
+			<key>Album</key><string>Boys &#38; Girls</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9725865</integer>
+			<key>Total Time</key><integer>226246</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-10T15:01:38Z</date>
+			<key>Date Added</key><date>2012-12-10T15:13:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3439022239</integer>
+			<key>Play Date UTC</key><date>2012-12-22T17:57:19Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-12-23T01:52:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>762F26A6A0B3A49A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Alabama%20Shakes-%20(2012)%20Boys%20and%20girls%20%20Projeto%20Chernobyl/01%20Hold%20on.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38138</key>
+		<dict>
+			<key>Track ID</key><integer>38138</integer>
+			<key>Name</key><string>Backseat</string>
+			<key>Artist</key><string>Carsie Blanton</string>
+			<key>Album</key><string>Idiot Heart</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8835582</integer>
+			<key>Total Time</key><integer>214386</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-21T00:01:36Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://carsieblanton.bandcamp.com</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3439108539</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:55:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89EF211A5BEF302E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Carsie%20Blanton%20-%20Idiot%20Heart/Carsie%20Blanton%20-%20Idiot%20Heart%20-%2003%20Backseat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38158</key>
+		<dict>
+			<key>Track ID</key><integer>38158</integer>
+			<key>Name</key><string>Blue Jeans</string>
+			<key>Artist</key><string>Lana Del Rey</string>
+			<key>Album Artist</key><string>Lana Del Rey</string>
+			<key>Composer</key><string>Emile Haynie</string>
+			<key>Album</key><string>Born To Die</string>
+			<key>Genre</key><string>General Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8740656</integer>
+			<key>Total Time</key><integer>209502</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-20T18:36:29Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>This time we wont forget the proof!</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3439108067</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:47:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EC38155EE492043</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Lana%20Del%20Rey%20-%20Born%20To%20Die%20(The%20Paradise%20Edition)%20%5B2012-%20Album%5D%20%5B2CD%5D%20(Real%20Version)%20320%20kbps%20CBR%20VYTO%20%5BVX%5D%20%5BP2PDL%5D/Disc%201/03%20Lana%20Del%20Rey%20-%20Blue%20Jeans.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38204</key>
+		<dict>
+			<key>Track ID</key><integer>38204</integer>
+			<key>Name</key><string>Marathon Runner</string>
+			<key>Artist</key><string>Yellow Ostrich</string>
+			<key>Album</key><string>Strange Land</string>
+			<key>Genre</key><string>Alternative, Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9934520</integer>
+			<key>Total Time</key><integer>236199</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-20T18:34:59Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3439052267</integer>
+			<key>Play Date UTC</key><date>2012-12-23T02:17:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>487EDDAC453BFA87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Yellow%20Ostrich%20-%202012%20-%20Strange%20Land/03.%20Marathon%20Runner.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38220</key>
+		<dict>
+			<key>Track ID</key><integer>38220</integer>
+			<key>Name</key><string>Da Da Da</string>
+			<key>Artist</key><string>Trio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4760018</integer>
+			<key>Total Time</key><integer>198321</integer>
+			<key>Date Modified</key><date>2012-12-20T18:25:53Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3439099847</integer>
+			<key>Play Date UTC</key><date>2012-12-23T15:30:47Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0DE4D6EC010173ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Da%20Da%20Da.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38226</key>
+		<dict>
+			<key>Track ID</key><integer>38226</integer>
+			<key>Name</key><string>Backstreet Freestyle</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Good Kid M.A.A.D City-(Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8633108</integer>
+			<key>Total Time</key><integer>212715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-20T17:25:10Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4161E01F912B7D4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kendrik%20Lamar%20-%20Good%20Kid%20M.A.A.D%20City%20(Deluxe%20Edition)%20(320kbps)%20(2012-Album)/03%20-%20Backstreet%20Freestyle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38246</key>
+		<dict>
+			<key>Track ID</key><integer>38246</integer>
+			<key>Name</key><string>The Recipe (Feat. Dr Dre) (Bonus Track)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Good Kid M.A.A.D City-(Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14254679</integer>
+			<key>Total Time</key><integer>353253</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-20T17:25:15Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3439052877</integer>
+			<key>Play Date UTC</key><date>2012-12-23T02:27:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-12-23T01:45:24Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Recipe (Feat. Dr Dre) (Bonus Track)</string>
+			<key>Persistent ID</key><string>5423F5BA6A9A9142</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Kendrik%20Lamar%20-%20Good%20Kid%20M.A.A.D%20City%20(Deluxe%20Edition)%20(320kbps)%20(2012-Album)/13%20-%20The%20Recipe%20(Feat.%20Dr%20Dre)%20(Bonus%20Track).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38330</key>
+		<dict>
+			<key>Track ID</key><integer>38330</integer>
+			<key>Name</key><string>Un Dia</string>
+			<key>Artist</key><string>Juana Molina</string>
+			<key>Album</key><string>Un Dia</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>724992</integer>
+			<key>Total Time</key><integer>90305</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2012-12-20T17:00:35Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:35Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3439104593</integer>
+			<key>Play Date UTC</key><date>2012-12-23T16:49:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D02B85AA5A43CCF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/undiajuanamo.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38378</key>
+		<dict>
+			<key>Track ID</key><integer>38378</integer>
+			<key>Name</key><string>1 Train (Feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson &#38; Big K.R.I.T.)</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Album</key><string>LongLiveA$AP</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8946984</integer>
+			<key>Total Time</key><integer>372244</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-20T22:15:33Z</date>
+			<key>Date Added</key><date>2012-12-20T22:15:41Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EARMILK.COM</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3439107144</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:32:24Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7AD893DF4BDB999</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/A$AP%20Rocky%20-%201%20Train%20(Feat.%20Kendrick%20Lamar,%20Joey%20Bada$$,%20Yelawolf,%20Danny%20Brown,%20Action%20Bronson%20&#38;%20Big%20K.R.I.T.).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38382</key>
+		<dict>
+			<key>Track ID</key><integer>38382</integer>
+			<key>Name</key><string>Sweater Weather</string>
+			<key>Artist</key><string>The Neighbourhood</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5160858</integer>
+			<key>Total Time</key><integer>257515</integer>
+			<key>Date Modified</key><date>2012-12-20T23:40:59Z</date>
+			<key>Date Added</key><date>2012-12-20T22:20:01Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3439108324</integer>
+			<key>Play Date UTC</key><date>2012-12-23T17:52:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Neighbourhood</string>
+			<key>Persistent ID</key><string>A3E8DE3326B50D9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The%20Neighbourhood%20Sweater%20Weather.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>87182</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38226</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

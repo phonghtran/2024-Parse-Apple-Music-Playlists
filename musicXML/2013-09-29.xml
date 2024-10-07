@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-09-30T00:44:23Z</date>
+	<key>Application Version</key><string>11.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>36336</key>
+		<dict>
+			<key>Track ID</key><integer>36336</integer>
+			<key>Name</key><string>Finding Something to Do</string>
+			<key>Artist</key><string>hellogoodbye</string>
+			<key>Album Artist</key><string>hellogoodbye</string>
+			<key>Album</key><string>Would It Kill You?</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3515322</integer>
+			<key>Total Time</key><integer>175647</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-09-16T19:17:26Z</date>
+			<key>Date Added</key><date>2012-03-09T13:03:52Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3463142423</integer>
+			<key>Play Date UTC</key><date>2013-09-27T21:00:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-03-11T01:48:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>8336</integer>
+			<key>Sort Album Artist</key><string>hellogoodbye</string>
+			<key>Sort Artist</key><string>hellogoodbye</string>
+			<key>Persistent ID</key><string>A8233D6C037E51DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/Hellogoodbye-Finding_Something_To_Do.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37026</key>
+		<dict>
+			<key>Track ID</key><integer>37026</integer>
+			<key>Name</key><string>Blue Eyed Crazy</string>
+			<key>Artist</key><string>The Glorious Veins</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6151566</integer>
+			<key>Total Time</key><integer>199967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T13:32:25Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:03Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3463223917</integer>
+			<key>Play Date UTC</key><date>2013-09-28T19:38:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-12-28T17:39:58Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Glorious Veins</string>
+			<key>Persistent ID</key><string>2C098B497343515E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/13%20-%20The%20Glorious%20Veins%20-%20Blue%20Eyed%20Crazy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37554</key>
+		<dict>
+			<key>Track ID</key><integer>37554</integer>
+			<key>Name</key><string>Never Heal Myself</string>
+			<key>Artist</key><string>Cults</string>
+			<key>Album</key><string>Cults</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6517199</integer>
+			<key>Total Time</key><integer>182935</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T13:33:48Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:09Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3463142824</integer>
+			<key>Play Date UTC</key><date>2013-09-27T21:07:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>4225E0BFCB8ACA75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Cults-Cults-2011-SiRE/06-cults-never_heal_myself.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37770</key>
+		<dict>
+			<key>Track ID</key><integer>37770</integer>
+			<key>Name</key><string>Song 11</string>
+			<key>Artist</key><string>Late Cambrian</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8001305</integer>
+			<key>Total Time</key><integer>252604</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>111</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-04T13:28:47Z</date>
+			<key>Date Added</key><date>2012-06-29T13:06:12Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3463217859</integer>
+			<key>Play Date UTC</key><date>2013-09-28T17:57:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-09-18T19:37:01Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>120D0BF27D67FA84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20June%202012/111%20-%20Late%20Cambrian%20-%20Song%2011.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40676</key>
+		<dict>
+			<key>Track ID</key><integer>40676</integer>
+			<key>Name</key><string>Mason Jar</string>
+			<key>Artist</key><string>Smallpools</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7066437</integer>
+			<key>Total Time</key><integer>220499</integer>
+			<key>Date Modified</key><date>2013-07-20T18:18:02Z</date>
+			<key>Date Added</key><date>2013-07-20T18:10:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3463220252</integer>
+			<key>Play Date UTC</key><date>2013-09-28T18:37:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-09-17T23:26:59Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>883CE8183B5C80FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Smallpools%20-%20Mason%20Jar%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40804</key>
+		<dict>
+			<key>Track ID</key><integer>40804</integer>
+			<key>Name</key><string>Neverland</string>
+			<key>Artist</key><string>Quadron</string>
+			<key>Album</key><string>Avalanche</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8875915</integer>
+			<key>Total Time</key><integer>219010</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-25T21:55:01Z</date>
+			<key>Date Added</key><date>2013-07-25T21:55:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.p2pdl.com</string>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3463219047</integer>
+			<key>Play Date UTC</key><date>2013-09-28T18:17:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-09-29T21:13:03Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA4C7951D06F511D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Quadron%20-%20Avalanche%202013%20Soul%20320kbps%20CBR%20MP3%20%5BVX%5D/06%20Quadron%20-%20Neverland.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41082</key>
+		<dict>
+			<key>Track ID</key><integer>41082</integer>
+			<key>Name</key><string>Always Something</string>
+			<key>Artist</key><string>Cage The Elephant</string>
+			<key>Album</key><string>Thank You, Happy Birthday</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8882634</integer>
+			<key>Total Time</key><integer>222014</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-08-11T22:02:19Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3463071937</integer>
+			<key>Play Date UTC</key><date>2013-09-27T01:25:37Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2013-09-24T16:28:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>20E81335958A12B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Thank%20You,%20Happy%20Birthday%20(2011)/01%20Always%20Something.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41146</key>
+		<dict>
+			<key>Track ID</key><integer>41146</integer>
+			<key>Name</key><string>All That I Need</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12582966</integer>
+			<key>Total Time</key><integer>313913</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-23T23:15:05Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3463218346</integer>
+			<key>Play Date UTC</key><date>2013-09-28T18:05:46Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66855AEB7B9477CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Tedeschi%20Trucks%20Band%20-%20Made%20Up%20Mind%20(2013)%20mp3@320%20%7B1337x%7D-kawli/08%20All%20That%20I%20Need.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41290</key>
+		<dict>
+			<key>Track ID</key><integer>41290</integer>
+			<key>Name</key><string>Orchids</string>
+			<key>Artist</key><string>Monster Rally</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2836023</integer>
+			<key>Total Time</key><integer>176613</integer>
+			<key>Date Modified</key><date>2013-09-10T22:27:30Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:10Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3463223717</integer>
+			<key>Play Date UTC</key><date>2013-09-28T19:35:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-09-18T19:35:37Z</date>
+			<key>Release Date</key><date>2013-07-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6A11E11AEA107BA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Monster%20Rally%20-%20Orchids.mp3.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41292</key>
+		<dict>
+			<key>Track ID</key><integer>41292</integer>
+			<key>Name</key><string>Cry No More</string>
+			<key>Artist</key><string>VAULTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7023803</integer>
+			<key>Total Time</key><integer>219167</integer>
+			<key>Date Modified</key><date>2013-09-10T22:27:42Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3463235955</integer>
+			<key>Play Date UTC</key><date>2013-09-28T22:59:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>1B4497CA7C6737F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/VAULTS%20-%20Cry%20No%20More%20-%20720p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41294</key>
+		<dict>
+			<key>Track ID</key><integer>41294</integer>
+			<key>Name</key><string>Chicks</string>
+			<key>Artist</key><string>Monster Rally</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4003510</integer>
+			<key>Total Time</key><integer>249573</integer>
+			<key>Date Modified</key><date>2013-09-10T22:27:20Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:13Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3463218828</integer>
+			<key>Play Date UTC</key><date>2013-09-28T18:13:48Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-09-18T19:35:25Z</date>
+			<key>Release Date</key><date>2012-09-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>9AAAA6B836797618</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Monster%20Rally%20-%20CHICKS_DIGITAL.mp3.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41296</key>
+		<dict>
+			<key>Track ID</key><integer>41296</integer>
+			<key>Name</key><string>Undiscovered</string>
+			<key>Artist</key><string>Laura Welsh</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5566803</integer>
+			<key>Total Time</key><integer>173635</integer>
+			<key>Date Modified</key><date>2013-09-10T22:26:47Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3463218032</integer>
+			<key>Play Date UTC</key><date>2013-09-28T18:00:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>220528D75D006AD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Laura%20Welsh%20-%20Undiscovered%20-%20480p.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41298</key>
+		<dict>
+			<key>Track ID</key><integer>41298</integer>
+			<key>Name</key><string>Harm In Change</string>
+			<key>Artist</key><string>Toro Y Moi</string>
+			<key>Album Artist</key><string>Toro Y Moi</string>
+			<key>Album</key><string>Anything In Return</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9759787</integer>
+			<key>Total Time</key><integer>242834</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-09-10T22:13:54Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.newmp3club.com</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3463232079</integer>
+			<key>Play Date UTC</key><date>2013-09-28T21:54:39Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-09-13T22:17:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>48B62B2B20847DC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Toro%20Y%20Moi-%20Anything%20In%20Return-%20%5B2013%5D-%20NewMp3Club/01%20-%20Harm%20In%20Change.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41314</key>
+		<dict>
+			<key>Track ID</key><integer>41314</integer>
+			<key>Name</key><string>Grown Up Calls</string>
+			<key>Artist</key><string>Toro Y Moi</string>
+			<key>Album Artist</key><string>Toro Y Moi</string>
+			<key>Album</key><string>Anything In Return</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8458889</integer>
+			<key>Total Time</key><integer>210311</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-09-10T22:13:51Z</date>
+			<key>Date Added</key><date>2013-09-10T22:26:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.newmp3club.com</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3463142073</integer>
+			<key>Play Date UTC</key><date>2013-09-27T20:54:33Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-09-24T16:39:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>567C9FF52740D842</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Toro%20Y%20Moi-%20Anything%20In%20Return-%20%5B2013%5D-%20NewMp3Club/09%20-%20Grown%20Up%20Calls.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>144980</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41082</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40804</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37026</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

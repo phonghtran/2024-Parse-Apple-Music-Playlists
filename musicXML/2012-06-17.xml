@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-06-17T21:33:43Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35341</key>
+		<dict>
+			<key>Track ID</key><integer>35341</integer>
+			<key>Name</key><string>Little Numbers</string>
+			<key>Artist</key><string>BOY</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6605661</integer>
+			<key>Total Time</key><integer>218540</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>63</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:43Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:05Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3422610753</integer>
+			<key>Play Date UTC</key><date>2012-06-15T18:12:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-05-19T04:48:54Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A63D5FAB639018F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/63%20-%20BOY%20-%20Little%20Numbers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35759</key>
+		<dict>
+			<key>Track ID</key><integer>35759</integer>
+			<key>Name</key><string>Coastal Sentiment</string>
+			<key>Artist</key><string>Beat Culture</string>
+			<key>Album</key><string>Tokyo Dreamer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9022264</integer>
+			<key>Total Time</key><integer>221178</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-01-05T21:17:16Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://beatculture.bandcamp.com</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3422595227</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:53:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>62B2D814084F012E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Beat%20Culture%20-%20Tokyo%20Dreamer/Beat%20Culture%20-%20Tokyo%20Dreamer%20-%2005%20Coastal%20Sentiment.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35771</key>
+		<dict>
+			<key>Track ID</key><integer>35771</integer>
+			<key>Name</key><string>We'll Be Coming Back</string>
+			<key>Artist</key><string>Calvin Harris Feat. Example</string>
+			<key>Album Artist</key><string>www.HottestTracks.com</string>
+			<key>Composer</key><string>www.HottestTracks.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3630323</integer>
+			<key>Total Time</key><integer>223764</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-05T02:57:30Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.HottestTracks.com</string>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3422596041</integer>
+			<key>Play Date UTC</key><date>2012-06-15T14:07:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-16T05:44:09Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA46AC0390763412</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Calvin_Harris_Feat._Example_-_We&#38;%2339%3Bll_Be_Coming_Back_(HQ)_(_2012)_%5B_www.HottestTracks.com_%5D.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35779</key>
+		<dict>
+			<key>Track ID</key><integer>35779</integer>
+			<key>Name</key><string>Don't Be A Bitch</string>
+			<key>Artist</key><string>Cam Meekins</string>
+			<key>Album</key><string>:) :/ :(</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5060895</integer>
+			<key>Total Time</key><integer>210782</integer>
+			<key>Stop Time</key><integer>202000</integer>
+			<key>Date Modified</key><date>2012-06-11T04:27:22Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3422595006</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:50:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-14T22:40:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5607</integer>
+			<key>Persistent ID</key><string>3699E059B74D1507</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/CamMeekins/04%20Don't%20Be%20A%20Bitch.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35845</key>
+		<dict>
+			<key>Track ID</key><integer>35845</integer>
+			<key>Name</key><string>Body of Work</string>
+			<key>Artist</key><string>The Mynabirds</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3920913</integer>
+			<key>Total Time</key><integer>180767</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-06-03T23:21:00Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3422596659</integer>
+			<key>Play Date UTC</key><date>2012-06-15T14:17:39Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-06-13T23:09:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4554</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Mynabirds</string>
+			<key>Persistent ID</key><string>060DC3022DCB41DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/mynabirds%20-%20Body_of_Work.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35855</key>
+		<dict>
+			<key>Track ID</key><integer>35855</integer>
+			<key>Name</key><string>Spectrum (Fea. Mathew Koma)</string>
+			<key>Artist</key><string>Zedd</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2445795</integer>
+			<key>Total Time</key><integer>152084</integer>
+			<key>Date Modified</key><date>2012-06-03T23:20:50Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3422593702</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:28:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-06-14T22:44:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A28FCA9AB1F5137D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Zedd%20%E2%80%93%20Spectrum%20(Fea.%20Mathew%20Koma).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35863</key>
+		<dict>
+			<key>Track ID</key><integer>35863</integer>
+			<key>Name</key><string>Run Devil Run</string>
+			<key>Artist</key><string>Girl's Generation</string>
+			<key>Album Artist</key><string>少女時代</string>
+			<key>Album</key><string>1st Japan Album</string>
+			<key>Genre</key><string>Dance/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8323411</integer>
+			<key>Total Time</key><integer>203363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-04T04:05:14Z</date>
+			<key>Date Added</key><date>2012-06-04T04:03:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://ihoneydew.com/</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3422593159</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:19:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA86FD3114ADC223</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Girls'%20Generation/2011%20-%20Girls'%20Generation%20(Japanese)/04%20Run%20Devil%20Run.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35869</key>
+		<dict>
+			<key>Track ID</key><integer>35869</integer>
+			<key>Name</key><string>I'm in Love with the Hero</string>
+			<key>Artist</key><string>Girl's Generation</string>
+			<key>Album Artist</key><string>少女時代</string>
+			<key>Album</key><string>1st Japan Album</string>
+			<key>Genre</key><string>Dance/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6958798</integer>
+			<key>Total Time</key><integer>169247</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-04T04:05:14Z</date>
+			<key>Date Added</key><date>2012-06-04T04:03:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://ihoneydew.com/</string>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3422651721</integer>
+			<key>Play Date UTC</key><date>2012-06-16T05:35:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD2F60550837F2EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Girls'%20Generation/2011%20-%20Girls'%20Generation%20(Japanese)/07%20I'm%20in%20Love%20with%20the%20Hero.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>635128</key>
+		<dict>
+			<key>Track ID</key><integer>635128</integer>
+			<key>Name</key><string>Keep Your Head Up</string>
+			<key>Artist</key><string>Andy Grammer</string>
+			<key>Album Artist</key><string>Andy Grammer</string>
+			<key>Composer</key><string>Andy Grammer</string>
+			<key>Album</key><string>Andy Grammer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6150863</integer>
+			<key>Total Time</key><integer>190589</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2012-06-13T04:43:11Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3422619258</integer>
+			<key>Play Date UTC</key><date>2012-06-15T20:34:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F1FBEA203167F1C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Andy%20Grammer%20-%20Andy%20Grammer/01%20Keep%20Your%20Head%20Up.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>635146</key>
+		<dict>
+			<key>Track ID</key><integer>635146</integer>
+			<key>Name</key><string>The Pocket</string>
+			<key>Artist</key><string>Andy Grammer</string>
+			<key>Album Artist</key><string>Andy Grammer</string>
+			<key>Composer</key><string>Andy Grammer</string>
+			<key>Album</key><string>Andy Grammer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7533458</integer>
+			<key>Total Time</key><integer>233795</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2012-06-13T04:43:11Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3422651267</integer>
+			<key>Play Date UTC</key><date>2012-06-16T05:27:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Pocket</string>
+			<key>Persistent ID</key><string>EF1061192DC170D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Andy%20Grammer%20-%20Andy%20Grammer/07%20The%20Pocket.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>635229</key>
+		<dict>
+			<key>Track ID</key><integer>635229</integer>
+			<key>Name</key><string>Bumper</string>
+			<key>Artist</key><string>Cults</string>
+			<key>Album Artist</key><string>Cults</string>
+			<key>Album</key><string>Cults</string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4876358</integer>
+			<key>Total Time</key><integer>162168</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-13T02:30:16Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:09Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3422590501</integer>
+			<key>Play Date UTC</key><date>2012-06-15T12:35:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-15T13:25:35Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>DA328CE57ED5757D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Cults-Cults-2011-SiRE/10-cults-bumper.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>635269</key>
+		<dict>
+			<key>Track ID</key><integer>635269</integer>
+			<key>Name</key><string>Argonauts</string>
+			<key>Artist</key><string>Hospitality</string>
+			<key>Album</key><string>Hospitality</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12807119</integer>
+			<key>Total Time</key><integer>319920</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-06-14T12:25:40Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3422594022</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:33:42Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FE1FA631740FEA77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Hospitality-Hospitality%20(2012)%20320Kbit(mp3)%20DMT/08%20Argonauts.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>635284</key>
+		<dict>
+			<key>Track ID</key><integer>635284</integer>
+			<key>Name</key><string>Son of a Gun</string>
+			<key>Artist</key><string>Motion City Soundtrack</string>
+			<key>Album Artist</key><string>Motion City Soundtrack</string>
+			<key>Album</key><string>Go</string>
+			<key>Genre</key><string>Pop Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8106557</integer>
+			<key>Total Time</key><integer>200254</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-10T04:23:54Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3422595588</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:59:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D242624DD6FAB6E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Motion%20City%20Soundtrack%20-%20Go%20(2012)/03%20Son%20of%20a%20Gun.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>635347</key>
+		<dict>
+			<key>Track ID</key><integer>635347</integer>
+			<key>Name</key><string>You da One</string>
+			<key>Artist</key><string>Rihanna</string>
+			<key>Album Artist</key><string>Rihanna</string>
+			<key>Composer</key><string>Esther Dean, Lukasz Gottwald, Robyn Fenty &#38; John Hill</string>
+			<key>Album</key><string>Talk That Talk (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip Hop/R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8113571</integer>
+			<key>Total Time</key><integer>200124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-06-13T04:02:49Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3422593359</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:22:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-06-13T16:22:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>95E67D6B9E9A60E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Rihanna%20Talk%20That%20Talk%20(Deluxe%20Version)/01%20You%20da%20One.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1164776</key>
+		<dict>
+			<key>Track ID</key><integer>1164776</integer>
+			<key>Name</key><string>Generals</string>
+			<key>Artist</key><string>The Mynabirds</string>
+			<key>Album</key><string>GENERALS</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9062153</integer>
+			<key>Total Time</key><integer>223608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-15T11:33:13Z</date>
+			<key>Date Added</key><date>2012-06-15T11:54:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.saddle-creek.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3422592886</integer>
+			<key>Play Date UTC</key><date>2012-06-15T13:14:46Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7737</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Mynabirds</string>
+			<key>Persistent ID</key><string>3735FEB5A3AA26CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/03%20Generals.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>81911</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635269</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1164776</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

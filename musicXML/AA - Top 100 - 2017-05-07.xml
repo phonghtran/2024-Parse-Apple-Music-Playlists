@@ -1,0 +1,3642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-05-07T20:37:27Z</date>
+	<key>Application Version</key><string>12.6.0.100</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>A4463A0B4393DE9D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7197</key>
+		<dict>
+			<key>Track ID</key><integer>7197</integer>
+			<key>Name</key><string>Come Out, Come Out</string>
+			<key>Artist</key><string>I Was Totally Destroying It</string>
+			<key>Album</key><string>Horror Vacui</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5534535</integer>
+			<key>Total Time</key><integer>197198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-07T16:31:16Z</date>
+			<key>Date Added</key><date>2010-06-17T00:56:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>180</integer>
+			<key>Play Date</key><integer>3575792352</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:39:12Z</date>
+			<key>Skip Count</key><integer>26</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C42917CCF91D8BC1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>7561</key>
+		<dict>
+			<key>Track ID</key><integer>7561</integer>
+			<key>Name</key><string>Black River</string>
+			<key>Artist</key><string>Amos Lee</string>
+			<key>Album</key><string>Amos Lee</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6905269</integer>
+			<key>Total Time</key><integer>211147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-01-07T16:30:20Z</date>
+			<key>Date Added</key><date>2010-06-17T00:07:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>219</integer>
+			<key>Play Date</key><integer>3575794986</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:23:06Z</date>
+			<key>Skip Count</key><integer>27</integer>
+			<key>Skip Date</key><date>2016-12-27T08:46:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>431</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AEE491CC2595856A</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>7651</key>
+		<dict>
+			<key>Track ID</key><integer>7651</integer>
+			<key>Name</key><string>Heretics</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Armchair Apocrypha</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6955510</integer>
+			<key>Total Time</key><integer>213800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-31T16:59:36Z</date>
+			<key>Date Added</key><date>2010-06-17T00:07:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>97</integer>
+			<key>Play Date</key><integer>3575789101</integer>
+			<key>Play Date UTC</key><date>2017-04-23T17:45:01Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2016-03-11T01:11:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3528</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Bird, Andrew</string>
+			<key>Sort Artist</key><string>Bird, Andrew</string>
+			<key>Persistent ID</key><string>64F13A947F94E3CB</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8147</key>
+		<dict>
+			<key>Track ID</key><integer>8147</integer>
+			<key>Name</key><string>The Shining</string>
+			<key>Artist</key><string>Badly Drawn Boy</string>
+			<key>Album</key><string>Chilled 01.1</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6168576</integer>
+			<key>Total Time</key><integer>318850</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2008-07-19T17:04:58Z</date>
+			<key>Date Added</key><date>2010-06-17T00:08:05Z</date>
+			<key>Bit Rate</key><integer>154</integer>
+			<key>Play Count</key><integer>245</integer>
+			<key>Play Date</key><integer>3575526660</integer>
+			<key>Play Date UTC</key><date>2017-04-20T16:51:00Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2017-01-05T21:42:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>669</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Shining</string>
+			<key>Persistent ID</key><string>D59D41FECF5F2870</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8319</key>
+		<dict>
+			<key>Track ID</key><integer>8319</integer>
+			<key>Name</key><string>Sunscreen Song</string>
+			<key>Artist</key><string>Baz Luhrman</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5284211</integer>
+			<key>Total Time</key><integer>297639</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2008-07-19T18:04:30Z</date>
+			<key>Date Added</key><date>2010-06-17T00:08:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3575371190</integer>
+			<key>Play Date UTC</key><date>2017-04-18T21:39:50Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2016-03-09T03:25:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>259</integer>
+			<key>Persistent ID</key><string>78FAE4F241AB7385</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8331</key>
+		<dict>
+			<key>Track ID</key><integer>8331</integer>
+			<key>Name</key><string>Your Ex-Lover Is Dead</string>
+			<key>Artist</key><string>Stars</string>
+			<key>Album</key><string>Set Yourself on Fire</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8465516</integer>
+			<key>Total Time</key><integer>256053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-01-07T16:27:53Z</date>
+			<key>Date Added</key><date>2010-06-17T00:25:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>95</integer>
+			<key>Play Date</key><integer>3575796628</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:50:28Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>4115</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F4999B05EF80A50</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>9067</key>
+		<dict>
+			<key>Track ID</key><integer>9067</integer>
+			<key>Name</key><string>I Can't Make Me</string>
+			<key>Artist</key><string>Butterfly Boucher</string>
+			<key>Album</key><string>Flutterby</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5596888</integer>
+			<key>Total Time</key><integer>237714</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-01-07T16:34:56Z</date>
+			<key>Date Added</key><date>2010-06-17T00:10:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3575549307</integer>
+			<key>Play Date UTC</key><date>2017-04-20T23:08:27Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5312</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DEB7B54827A0806</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>9317</key>
+		<dict>
+			<key>Track ID</key><integer>9317</integer>
+			<key>Name</key><string>Anthems for a Seventeen Year Old Girl</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It in People</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8776506</integer>
+			<key>Total Time</key><integer>275693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-01-07T14:34:53Z</date>
+			<key>Date Added</key><date>2010-06-17T00:10:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 7</string>
+			<key>Play Count</key><integer>190</integer>
+			<key>Play Date</key><integer>3575790504</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:08:24Z</date>
+			<key>Skip Count</key><integer>17</integer>
+			<key>Skip Date</key><date>2016-11-25T23:23:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2606</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E6588325E4D8F82</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>9593</key>
+		<dict>
+			<key>Track ID</key><integer>9593</integer>
+			<key>Name</key><string>Still Fighting It</string>
+			<key>Artist</key><string>Mosaic Whispers</string>
+			<key>Composer</key><string>Ben Folds</string>
+			<key>Album</key><string>Ben Folds Presents: University A Cappella!</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8175624</integer>
+			<key>Total Time</key><integer>269897</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-07T16:29:25Z</date>
+			<key>Date Added</key><date>2011-02-09T12:31:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 210849201</string>
+			<key>Play Count</key><integer>164</integer>
+			<key>Play Date</key><integer>3575794380</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:13:00Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2017-04-18T16:01:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>697B5B2AD40FBBED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>9955</key>
+		<dict>
+			<key>Track ID</key><integer>9955</integer>
+			<key>Name</key><string>Sleep on the Left Side</string>
+			<key>Artist</key><string>Cornershop</string>
+			<key>Album</key><string>When I Was Born for the 7th Time</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6359794</integer>
+			<key>Total Time</key><integer>246230</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-01-07T16:33:54Z</date>
+			<key>Date Added</key><date>2010-06-17T00:11:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>125</integer>
+			<key>Play Date</key><integer>3575525654</integer>
+			<key>Play Date UTC</key><date>2017-04-20T16:34:14Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2017-04-18T05:32:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1935</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55835E990FBF9AD4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>9975</key>
+		<dict>
+			<key>Track ID</key><integer>9975</integer>
+			<key>Name</key><string>Mr. Jones</string>
+			<key>Artist</key><string>Counting Crows</string>
+			<key>Album</key><string>1994-04-16: Suddenly Beautiful: The Whisky, LA, USA</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9134277</integer>
+			<key>Total Time</key><integer>274000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-01-07T15:33:53Z</date>
+			<key>Date Added</key><date>2010-06-17T00:11:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>214</integer>
+			<key>Play Date</key><integer>3575451165</integer>
+			<key>Play Date UTC</key><date>2017-04-19T19:52:45Z</date>
+			<key>Skip Count</key><integer>17</integer>
+			<key>Skip Date</key><date>2017-04-18T15:58:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5980</integer>
+			<key>Persistent ID</key><string>6B9C34515C2E5FAC</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10063</key>
+		<dict>
+			<key>Track ID</key><integer>10063</integer>
+			<key>Name</key><string>Wish I Could Forget</string>
+			<key>Artist</key><string>The Weepies</string>
+			<key>Album</key><string>Hideaway</string>
+			<key>Genre</key><string>Pop-Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6001575</integer>
+			<key>Total Time</key><integer>176947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T16:27:00Z</date>
+			<key>Date Added</key><date>2010-06-17T00:25:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>259</integer>
+			<key>Play Date</key><integer>3575796804</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:53:24Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Skip Date</key><date>2017-04-19T02:02:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>4863</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Weepies</string>
+			<key>Persistent ID</key><string>FB86C88772E4499F</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10093</key>
+		<dict>
+			<key>Track ID</key><integer>10093</integer>
+			<key>Name</key><string>The Recluse</string>
+			<key>Artist</key><string>Cursive</string>
+			<key>Album Artist</key><string>Cursive</string>
+			<key>Album</key><string>The Ugly Organ</string>
+			<key>Genre</key><string>Pop, Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6429753</integer>
+			<key>Total Time</key><integer>183267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-01-07T16:33:48Z</date>
+			<key>Date Added</key><date>2010-06-17T00:11:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>101</integer>
+			<key>Play Date</key><integer>3575693403</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:10:03Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2017-01-06T19:21:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2394</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ugly Organ</string>
+			<key>Sort Album Artist</key><string>Cursive</string>
+			<key>Sort Artist</key><string>Cursive</string>
+			<key>Sort Name</key><string>Recluse</string>
+			<key>Persistent ID</key><string>6AA441ECEED9486D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10235</key>
+		<dict>
+			<key>Track ID</key><integer>10235</integer>
+			<key>Name</key><string>Take Five</string>
+			<key>Artist</key><string>Dave Brubeck</string>
+			<key>Album</key><string>Time Signatures: A Career Retrospective</string>
+			<key>Genre</key><string>Jazz, Jazz Music</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10774661</integer>
+			<key>Total Time</key><integer>326093</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2013-01-07T16:34:52Z</date>
+			<key>Date Added</key><date>2010-06-17T00:12:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>223</integer>
+			<key>Play Date</key><integer>3575789427</integer>
+			<key>Play Date UTC</key><date>2017-04-23T17:50:27Z</date>
+			<key>Skip Count</key><integer>21</integer>
+			<key>Skip Date</key><date>2016-03-24T16:07:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>520</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93DC5D15E5DBE115</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10339</key>
+		<dict>
+			<key>Track ID</key><integer>10339</integer>
+			<key>Name</key><string>Satellite</string>
+			<key>Artist</key><string>Dave Matthews Band</string>
+			<key>Album</key><string>Under the Table &#38; Dreaming</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6340608</integer>
+			<key>Total Time</key><integer>291631</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2008-07-19T18:00:48Z</date>
+			<key>Date Added</key><date>2010-06-17T00:12:10Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3575879435</integer>
+			<key>Play Date UTC</key><date>2017-04-24T18:50:35Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2017-04-18T05:25:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>10626</integer>
+			<key>Persistent ID</key><string>C9F6D095983C75FD</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10451</key>
+		<dict>
+			<key>Track ID</key><integer>10451</integer>
+			<key>Name</key><string>Another Day</string>
+			<key>Artist</key><string>Jamie Lidell</string>
+			<key>Album</key><string>Jim</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7468489</integer>
+			<key>Total Time</key><integer>226106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T15:30:14Z</date>
+			<key>Date Added</key><date>2010-06-17T00:28:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>256</integer>
+			<key>Play Date</key><integer>3576362599</integer>
+			<key>Play Date UTC</key><date>2017-04-30T09:03:19Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2017-04-18T05:23:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>4058</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CAC927FC381DE991</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10827</key>
+		<dict>
+			<key>Track ID</key><integer>10827</integer>
+			<key>Name</key><string>Tough Love</string>
+			<key>Artist</key><string>Early Winters</string>
+			<key>Album</key><string>Early Winters EP</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8858800</integer>
+			<key>Total Time</key><integer>265769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T16:32:55Z</date>
+			<key>Date Added</key><date>2011-06-01T06:29:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3576931238</integer>
+			<key>Play Date UTC</key><date>2017-05-06T23:00:38Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2016-02-24T03:20:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FB4EEE40F6C6497</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11007</key>
+		<dict>
+			<key>Track ID</key><integer>11007</integer>
+			<key>Name</key><string>Life and Limb</string>
+			<key>Artist</key><string>Fugazi</string>
+			<key>Album</key><string>The Argument</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7683228</integer>
+			<key>Total Time</key><integer>191817</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-01-07T16:32:31Z</date>
+			<key>Date Added</key><date>2010-06-17T00:29:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>158</integer>
+			<key>Play Date</key><integer>3575789891</integer>
+			<key>Play Date UTC</key><date>2017-04-23T17:58:11Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2017-01-09T18:43:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1950</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Argument</string>
+			<key>Persistent ID</key><string>7E6FC85837DF9B2A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11051</key>
+		<dict>
+			<key>Track ID</key><integer>11051</integer>
+			<key>Name</key><string>Little Brother</string>
+			<key>Artist</key><string>The Eames Era</string>
+			<key>Album</key><string>Heroes + Sheroes</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4292389</integer>
+			<key>Total Time</key><integer>158093</integer>
+			<key>Start Time</key><integer>23000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-07T16:32:55Z</date>
+			<key>Date Added</key><date>2010-06-17T00:13:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>92</integer>
+			<key>Play Date</key><integer>3576948479</integer>
+			<key>Play Date UTC</key><date>2017-05-07T03:47:59Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-04-18T16:04:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7162</integer>
+			<key>Sort Artist</key><string>Eames Era</string>
+			<key>Persistent ID</key><string>6046AD19D7C957F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11309</key>
+		<dict>
+			<key>Track ID</key><integer>11309</integer>
+			<key>Name</key><string>I Will Buy You a New Life</string>
+			<key>Artist</key><string>Everclear</string>
+			<key>Album</key><string>So Much for the Afterglow</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>7982545</integer>
+			<key>Total Time</key><integer>238123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-01-07T15:32:51Z</date>
+			<key>Date Added</key><date>2010-06-17T00:13:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>179</integer>
+			<key>Play Date</key><integer>3575533614</integer>
+			<key>Play Date UTC</key><date>2017-04-20T18:46:54Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2016-08-18T00:46:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Album Loved</key><true/>
+			<key>Normalization</key><integer>5225</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F472D8DABBF85CA4</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>11339</key>
+		<dict>
+			<key>Track ID</key><integer>11339</integer>
+			<key>Name</key><string>Hum Hallelujah</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album</key><string>Infinity on High</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5537427</integer>
+			<key>Total Time</key><integer>230635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-07T16:32:49Z</date>
+			<key>Date Added</key><date>2010-06-17T00:13:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>322</integer>
+			<key>Play Date</key><integer>3576923383</integer>
+			<key>Play Date UTC</key><date>2017-05-06T20:49:43Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-05-06T22:03:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7309</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3654759F578EB25F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11471</key>
+		<dict>
+			<key>Track ID</key><integer>11471</integer>
+			<key>Name</key><string>Right Here, Right Now</string>
+			<key>Artist</key><string>Fatboy Slim</string>
+			<key>Album</key><string>Why Try Harder: The Greatest Hits</string>
+			<key>Genre</key><string>Beat</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7449878</integer>
+			<key>Total Time</key><integer>235587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-07T15:32:48Z</date>
+			<key>Date Added</key><date>2010-06-17T00:13:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>221</integer>
+			<key>Play Date</key><integer>3575877859</integer>
+			<key>Play Date UTC</key><date>2017-04-24T18:24:19Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3829</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>316DA55262117072</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>11491</key>
+		<dict>
+			<key>Track ID</key><integer>11491</integer>
+			<key>Name</key><string>Modern Art</string>
+			<key>Artist</key><string>Black Lips</string>
+			<key>Album</key><string>Spex CD #97</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4994372</integer>
+			<key>Total Time</key><integer>124212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T16:35:01Z</date>
+			<key>Date Added</key><date>2011-07-26T19:32:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>168</integer>
+			<key>Play Date</key><integer>3575792155</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:35:55Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2016-02-26T08:33:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>11088</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>B65434B29C02E680</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11643</key>
+		<dict>
+			<key>Track ID</key><integer>11643</integer>
+			<key>Name</key><string>What's So Different</string>
+			<key>Artist</key><string>Ginuwine</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4620288</integer>
+			<key>Total Time</key><integer>230191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-01-31T17:26:07Z</date>
+			<key>Date Added</key><date>2010-06-17T00:13:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>114</integer>
+			<key>Play Date</key><integer>3576951502</integer>
+			<key>Play Date UTC</key><date>2017-05-07T04:38:22Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2017-04-18T15:58:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1605</integer>
+			<key>Persistent ID</key><string>3B4363D67BC278F3</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>11721</key>
+		<dict>
+			<key>Track ID</key><integer>11721</integer>
+			<key>Name</key><string>Tell Me Why</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Album</key><string>Fearless</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6645797</integer>
+			<key>Total Time</key><integer>201533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-07T14:27:47Z</date>
+			<key>Date Added</key><date>2010-06-17T00:31:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>HULLO</string>
+			<key>Play Count</key><integer>260</integer>
+			<key>Play Date</key><integer>3575527465</integer>
+			<key>Play Date UTC</key><date>2017-04-20T17:04:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>8862</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>817B68B9B3FBAC0C</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>11903</key>
+		<dict>
+			<key>Track ID</key><integer>11903</integer>
+			<key>Name</key><string>The Naturist</string>
+			<key>Artist</key><string>Ham Sandwich</string>
+			<key>Album</key><string>White Fox</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6670925</integer>
+			<key>Total Time</key><integer>203480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-01-07T15:31:38Z</date>
+			<key>Date Added</key><date>2011-08-29T19:53:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>209</integer>
+			<key>Play Date</key><integer>3576362599</integer>
+			<key>Play Date UTC</key><date>2017-04-30T09:03:19Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2017-04-19T15:57:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Naturist</string>
+			<key>Persistent ID</key><string>089C300D8782B4F2</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>12379</key>
+		<dict>
+			<key>Track ID</key><integer>12379</integer>
+			<key>Name</key><string>Let's Take a Walk</string>
+			<key>Artist</key><string>Raphael Saadiq</string>
+			<key>Album</key><string>The Way I See It</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>4842068</integer>
+			<key>Total Time</key><integer>148240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T16:28:22Z</date>
+			<key>Date Added</key><date>2010-06-17T00:32:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>193</integer>
+			<key>Play Date</key><integer>3575788378</integer>
+			<key>Play Date UTC</key><date>2017-04-23T17:32:58Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3693</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Way I See It</string>
+			<key>Persistent ID</key><string>9400EBDDB858D3A3</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>12397</key>
+		<dict>
+			<key>Track ID</key><integer>12397</integer>
+			<key>Name</key><string>Sunday Morning Song</string>
+			<key>Artist</key><string>Howie Day</string>
+			<key>Album Artist</key><string>Howie Day</string>
+			<key>Album</key><string>Stop All the World Now</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6460899</integer>
+			<key>Total Time</key><integer>237871</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-01-31T17:54:42Z</date>
+			<key>Date Added</key><date>2010-06-17T00:14:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>86</integer>
+			<key>Play Date</key><integer>3569156897</integer>
+			<key>Play Date UTC</key><date>2017-02-06T00:28:17Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2016-05-06T05:21:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1922</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Day, Howie</string>
+			<key>Sort Artist</key><string>Day, Howie</string>
+			<key>Persistent ID</key><string>DA0F961481C9B81F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12517</key>
+		<dict>
+			<key>Track ID</key><integer>12517</integer>
+			<key>Name</key><string>My Own Worst Enemy</string>
+			<key>Artist</key><string>Lit</string>
+			<key>Album Artist</key><string>Lit</string>
+			<key>Album</key><string>A Place in the Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3761058</integer>
+			<key>Total Time</key><integer>169613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2013-01-07T16:30:09Z</date>
+			<key>Date Added</key><date>2011-10-03T05:54:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>145</integer>
+			<key>Play Date</key><integer>3575317199</integer>
+			<key>Play Date UTC</key><date>2017-04-18T06:39:59Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Place in the Sun</string>
+			<key>Sort Album Artist</key><string>Lit</string>
+			<key>Sort Artist</key><string>Lit</string>
+			<key>Persistent ID</key><string>B241C1FFF538EE24</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12741</key>
+		<dict>
+			<key>Track ID</key><integer>12741</integer>
+			<key>Name</key><string>By Your Hand</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album</key><string>Hello Sadness</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8410142</integer>
+			<key>Total Time</key><integer>247320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T16:34:22Z</date>
+			<key>Date Added</key><date>2011-10-07T02:15:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>116</integer>
+			<key>Play Date</key><integer>3575316324</integer>
+			<key>Play Date UTC</key><date>2017-04-18T06:25:24Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74C0E80129C38BB9</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>12801</key>
+		<dict>
+			<key>Track ID</key><integer>12801</integer>
+			<key>Name</key><string>Carry You</string>
+			<key>Artist</key><string>Dispatch</string>
+			<key>Album</key><string>Who Are We Living For?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6742174</integer>
+			<key>Total Time</key><integer>191533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-01-07T15:33:31Z</date>
+			<key>Date Added</key><date>2010-06-17T00:32:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>253</integer>
+			<key>Play Date</key><integer>3575536521</integer>
+			<key>Play Date UTC</key><date>2017-04-20T19:35:21Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2016-03-09T03:47:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1256</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0AEC97B624F78A7</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>12953</key>
+		<dict>
+			<key>Track ID</key><integer>12953</integer>
+			<key>Name</key><string>Màiyá táng</string>
+			<key>Artist</key><string>Jay Chou</string>
+			<key>Album Artist</key><string>Jay Chou</string>
+			<key>Album</key><string>11 yuè de Chopin</string>
+			<key>Genre</key><string>R&#38;B </string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6241390</integer>
+			<key>Total Time</key><integer>260336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-01-31T07:08:18Z</date>
+			<key>Date Added</key><date>2010-06-17T00:14:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>#aznmp3@irc.rizon.net</string>
+			<key>Play Count</key><integer>126</integer>
+			<key>Play Date</key><integer>3575788637</integer>
+			<key>Play Date UTC</key><date>2017-04-23T17:37:17Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2017-04-18T05:32:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5824</integer>
+			<key>Sort Album Artist</key><string>Chou, Jay</string>
+			<key>Sort Artist</key><string>Chou, Jay</string>
+			<key>Persistent ID</key><string>DDED21251979CC05</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13153</key>
+		<dict>
+			<key>Track ID</key><integer>13153</integer>
+			<key>Name</key><string>December</string>
+			<key>Artist</key><string>Collective Soul</string>
+			<key>Album</key><string>Rocktopia</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9687252</integer>
+			<key>Total Time</key><integer>284952</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-01-07T16:33:55Z</date>
+			<key>Date Added</key><date>2010-06-17T00:33:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>161</integer>
+			<key>Play Date</key><integer>3576913599</integer>
+			<key>Play Date UTC</key><date>2017-05-06T18:06:39Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2015-01-17T19:09:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3480</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F653ACA578F9C693</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13363</key>
+		<dict>
+			<key>Track ID</key><integer>13363</integer>
+			<key>Name</key><string>Organ Donor</string>
+			<key>Artist</key><string>DJ Shadow</string>
+			<key>Album Artist</key><string>DJ Shadow</string>
+			<key>Album</key><string>Reconstructed: The Definitive DJ Shadow</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3504265</integer>
+			<key>Total Time</key><integer>218853</integer>
+			<key>Disc Number</key><integer>8</integer>
+			<key>Disc Count</key><integer>9</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-08-02T17:48:47Z</date>
+			<key>Date Added</key><date>2011-12-05T03:57:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3575694773</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:32:53Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2017-04-19T02:02:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Shadow, DJ</string>
+			<key>Sort Artist</key><string>Shadow, DJ</string>
+			<key>Persistent ID</key><string>18307C4700CBA948</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13437</key>
+		<dict>
+			<key>Track ID</key><integer>13437</integer>
+			<key>Name</key><string>Fluorescent Adolescent</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5736122</integer>
+			<key>Total Time</key><integer>177520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-07T16:35:42Z</date>
+			<key>Date Added</key><date>2010-06-17T00:34:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>115</integer>
+			<key>Play Date</key><integer>3575726548</integer>
+			<key>Play Date UTC</key><date>2017-04-23T00:22:28Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2017-05-07T20:33:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>6454</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>190617B69F54B8FA</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13607</key>
+		<dict>
+			<key>Track ID</key><integer>13607</integer>
+			<key>Name</key><string>Generator ^ First Floor</string>
+			<key>Artist</key><string>Freelance Whales</string>
+			<key>Album</key><string>Weathervanes</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6462349</integer>
+			<key>Total Time</key><integer>187811</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-01-07T14:32:35Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>150</integer>
+			<key>Play Date</key><integer>3575315206</integer>
+			<key>Play Date UTC</key><date>2017-04-18T06:06:46Z</date>
+			<key>Skip Count</key><integer>21</integer>
+			<key>Skip Date</key><date>2017-04-19T15:57:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BB164871C1512E1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13625</key>
+		<dict>
+			<key>Track ID</key><integer>13625</integer>
+			<key>Name</key><string>Shuffle</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind of Fix</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7706824</integer>
+			<key>Total Time</key><integer>235337</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T16:34:58Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>188</integer>
+			<key>Play Date</key><integer>3575692932</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:02:12Z</date>
+			<key>Skip Count</key><integer>20</integer>
+			<key>Skip Date</key><date>2016-03-18T02:41:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Different Kind of Fix</string>
+			<key>Persistent ID</key><string>040B2CD861DE8ADF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13679</key>
+		<dict>
+			<key>Track ID</key><integer>13679</integer>
+			<key>Name</key><string>Last Goodbye</string>
+			<key>Artist</key><string>Kenny Wayne Shepherd</string>
+			<key>Album</key><string>Live On</string>
+			<key>Genre</key><string>Pop, Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9343815</integer>
+			<key>Total Time</key><integer>273600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-01-07T15:28:08Z</date>
+			<key>Date Added</key><date>2010-06-17T00:16:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>132</integer>
+			<key>Play Date</key><integer>3575789701</integer>
+			<key>Play Date UTC</key><date>2017-04-23T17:55:01Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2016-11-24T18:31:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2784</integer>
+			<key>Persistent ID</key><string>44869AD7A68C565D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13799</key>
+		<dict>
+			<key>Track ID</key><integer>13799</integer>
+			<key>Name</key><string>Doo Wop (That Thing)</string>
+			<key>Artist</key><string>Lauryn Hill</string>
+			<key>Album</key><string>The Miseducation of Lauryn Hill</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10533924</integer>
+			<key>Total Time</key><integer>320266</integer>
+			<key>Stop Time</key><integer>236000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-01-07T16:31:32Z</date>
+			<key>Date Added</key><date>2010-06-17T00:17:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>92</integer>
+			<key>Play Date</key><integer>3565878251</integer>
+			<key>Play Date UTC</key><date>2016-12-30T01:44:11Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2017-04-18T05:48:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Miseducation of Lauryn Hill</string>
+			<key>Persistent ID</key><string>D721D855BFBB87DD</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13891</key>
+		<dict>
+			<key>Track ID</key><integer>13891</integer>
+			<key>Name</key><string>Keep Me in Mind</string>
+			<key>Artist</key><string>The Bamboos</string>
+			<key>Album</key><string>4</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8452076</integer>
+			<key>Total Time</key><integer>256305</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-01-07T15:35:37Z</date>
+			<key>Date Added</key><date>2012-01-25T15:57:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Imaginariums</string>
+			<key>Play Count</key><integer>205</integer>
+			<key>Play Date</key><integer>3575693198</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:06:38Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2017-05-07T20:36:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Bamboos</string>
+			<key>Persistent ID</key><string>DE714A58F18F4D33</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14037</key>
+		<dict>
+			<key>Track ID</key><integer>14037</integer>
+			<key>Name</key><string>Pieces</string>
+			<key>Artist</key><string>The Bridges</string>
+			<key>Composer</key><string>Isaaca Byrd</string>
+			<key>Album</key><string>Limits of the Sky</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5596981</integer>
+			<key>Total Time</key><integer>170107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T16:34:54Z</date>
+			<key>Date Added</key><date>2012-02-07T15:22:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205971582</string>
+			<key>Play Count</key><integer>220</integer>
+			<key>Play Date</key><integer>3575551307</integer>
+			<key>Play Date UTC</key><date>2017-04-20T23:41:47Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2017-03-09T04:09:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Bridges</string>
+			<key>Persistent ID</key><string>68FE77131F0AC943</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14103</key>
+		<dict>
+			<key>Track ID</key><integer>14103</integer>
+			<key>Name</key><string>Little You and I</string>
+			<key>Artist</key><string>Jason Mraz</string>
+			<key>Album Artist</key><string>Jason Mraz</string>
+			<key>Album</key><string>Live &#38; Acoustic</string>
+			<key>Genre</key><string>Acoustic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5435354</integer>
+			<key>Total Time</key><integer>339565</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-31T07:30:15Z</date>
+			<key>Date Added</key><date>2010-06-17T00:35:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>96</integer>
+			<key>Play Date</key><integer>3576362599</integer>
+			<key>Play Date UTC</key><date>2017-04-30T09:03:19Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2017-04-18T05:40:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1384</integer>
+			<key>Sort Album Artist</key><string>Mraz, Jason</string>
+			<key>Sort Artist</key><string>Mraz, Jason</string>
+			<key>Persistent ID</key><string>7C120E2081FC42D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14129</key>
+		<dict>
+			<key>Track ID</key><integer>14129</integer>
+			<key>Name</key><string>BAD BOY</string>
+			<key>Artist</key><string>Big Bang</string>
+			<key>Album</key><string>Alive [5th Mini Album]</string>
+			<key>Genre</key><string>Dance Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9666250</integer>
+			<key>Total Time</key><integer>236878</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-04T15:44:01Z</date>
+			<key>Date Added</key><date>2012-03-05T18:57:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>337</integer>
+			<key>Play Date</key><integer>3575875101</integer>
+			<key>Play Date UTC</key><date>2017-04-24T17:38:21Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2016-10-14T18:27:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7EB2389257D9A21</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14237</key>
+		<dict>
+			<key>Track ID</key><integer>14237</integer>
+			<key>Name</key><string>Finding Something to Do</string>
+			<key>Artist</key><string>hellogoodbye</string>
+			<key>Album Artist</key><string>hellogoodbye</string>
+			<key>Album</key><string>Would It Kill You?</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6163596</integer>
+			<key>Total Time</key><integer>175320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-09-16T20:17:26Z</date>
+			<key>Date Added</key><date>2012-03-09T14:03:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>114</integer>
+			<key>Play Date</key><integer>3575830324</integer>
+			<key>Play Date UTC</key><date>2017-04-24T05:12:04Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-11-17T14:33:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8336</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>hellogoodbye</string>
+			<key>Sort Artist</key><string>hellogoodbye</string>
+			<key>Persistent ID</key><string>A64AAFCE33F296B6</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14347</key>
+		<dict>
+			<key>Track ID</key><integer>14347</integer>
+			<key>Name</key><string>She Moves in Her Own Way</string>
+			<key>Artist</key><string>The Kooks</string>
+			<key>Album</key><string>Inside In/Inside Out</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6034991</integer>
+			<key>Total Time</key><integer>169227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-07T16:30:28Z</date>
+			<key>Date Added</key><date>2010-06-17T00:17:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>No comments.</string>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3575793779</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:02:59Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2017-04-18T05:26:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7125</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Kooks</string>
+			<key>Persistent ID</key><string>5620DE533B1070CB</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14495</key>
+		<dict>
+			<key>Track ID</key><integer>14495</integer>
+			<key>Name</key><string>Origins</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album</key><string>Young and Old</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7419709</integer>
+			<key>Total Time</key><integer>208139</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T15:27:27Z</date>
+			<key>Date Added</key><date>2012-03-09T14:05:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>265</integer>
+			<key>Play Date</key><integer>3575875310</integer>
+			<key>Play Date UTC</key><date>2017-04-24T17:41:50Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-03-12T05:17:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>75BE02E94648BDD8</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14523</key>
+		<dict>
+			<key>Track ID</key><integer>14523</integer>
+			<key>Name</key><string>Wonderwall</string>
+			<key>Artist</key><string>Oasis</string>
+			<key>Album Artist</key><string>Oasis</string>
+			<key>Album</key><string>(What's the Story) Morning Glory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8926365</integer>
+			<key>Total Time</key><integer>258315</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-02-02T21:00:03Z</date>
+			<key>Date Added</key><date>2010-06-17T00:36:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped by-  Zod</string>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3575315682</integer>
+			<key>Play Date UTC</key><date>2017-04-18T06:14:42Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2017-04-18T05:51:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2533</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Oasis</string>
+			<key>Sort Artist</key><string>Oasis</string>
+			<key>Persistent ID</key><string>34E2991779762615</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14551</key>
+		<dict>
+			<key>Track ID</key><integer>14551</integer>
+			<key>Name</key><string>Underneath It All</string>
+			<key>Artist</key><string>No Doubt feat. Lady Saw</string>
+			<key>Album Artist</key><string>No Doubt</string>
+			<key>Album</key><string>Rock Steady</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10525124</integer>
+			<key>Total Time</key><integer>302040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-01-31T02:42:31Z</date>
+			<key>Date Added</key><date>2010-06-17T00:17:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>100</integer>
+			<key>Play Date</key><integer>3576485617</integer>
+			<key>Play Date UTC</key><date>2017-05-01T19:13:37Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2016-12-29T02:59:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3746</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>No Doubt</string>
+			<key>Sort Artist</key><string>No Doubt feat. Lady Saw</string>
+			<key>Persistent ID</key><string>54EE4990A2EA6134</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14681</key>
+		<dict>
+			<key>Track ID</key><integer>14681</integer>
+			<key>Name</key><string>Dance All Night</string>
+			<key>Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+			<key>Album Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+			<key>Album</key><string>Cold Roses</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6824847</integer>
+			<key>Total Time</key><integer>193666</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-02-12T03:09:10Z</date>
+			<key>Date Added</key><date>2010-06-17T00:36:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3575796998</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:56:38Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-05-07T20:35:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5281</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Adams, Ryan &#38; Cardinals, The</string>
+			<key>Sort Artist</key><string>Adams, Ryan &#38; Cardinals, The</string>
+			<key>Persistent ID</key><string>FE4F6422D97A201C</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14719</key>
+		<dict>
+			<key>Track ID</key><integer>14719</integer>
+			<key>Name</key><string>Always Be My Baby</string>
+			<key>Artist</key><string>Mariah Carey</string>
+			<key>Album</key><string>Daydream</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8581135</integer>
+			<key>Total Time</key><integer>258288</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-01-07T15:34:14Z</date>
+			<key>Date Added</key><date>2010-06-17T00:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>254</integer>
+			<key>Play Date</key><integer>3575451991</integer>
+			<key>Play Date UTC</key><date>2017-04-19T20:06:31Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2016-12-30T06:21:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1634</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72998910B059B505</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14917</key>
+		<dict>
+			<key>Track ID</key><integer>14917</integer>
+			<key>Name</key><string>October, First Account</string>
+			<key>Artist</key><string>Be Your Own Pet</string>
+			<key>Album</key><string>be your own PET</string>
+			<key>Genre</key><string>Indie Rock, Noise Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5975624</integer>
+			<key>Total Time</key><integer>179093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-07T16:35:31Z</date>
+			<key>Date Added</key><date>2010-06-17T00:36:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3575790683</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:11:23Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2015-05-22T23:13:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>18968</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B710BCC9D6FB3D54</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14921</key>
+		<dict>
+			<key>Track ID</key><integer>14921</integer>
+			<key>Name</key><string>BTK Blues</string>
+			<key>Artist</key><string>Pink Nasty</string>
+			<key>Album Artist</key><string>Pink Nasty</string>
+			<key>Album</key><string>Mold the Gold</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8076465</integer>
+			<key>Total Time</key><integer>237893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-02-03T02:30:58Z</date>
+			<key>Date Added</key><date>2010-06-17T00:36:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3575795224</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:27:04Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2016-04-28T16:11:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5721</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Nasty, Pink</string>
+			<key>Sort Artist</key><string>Nasty, Pink</string>
+			<key>Persistent ID</key><string>E4427A80FAD29E2C</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15065</key>
+		<dict>
+			<key>Track ID</key><integer>15065</integer>
+			<key>Name</key><string>Remember the Time</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>HIStory: Past, Present and Future, Book I</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7930925</integer>
+			<key>Total Time</key><integer>239627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-07T15:31:12Z</date>
+			<key>Date Added</key><date>2010-06-17T00:18:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>211</integer>
+			<key>Play Date</key><integer>3575878639</integer>
+			<key>Play Date UTC</key><date>2017-04-24T18:37:19Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2017-04-18T05:52:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5105</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72AC3F5D15580B04</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15171</key>
+		<dict>
+			<key>Track ID</key><integer>15171</integer>
+			<key>Name</key><string>Before the Gold Rush</string>
+			<key>Artist</key><string>The Envy Corps</string>
+			<key>Album</key><string>Dwell</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6927896</integer>
+			<key>Total Time</key><integer>203613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T16:32:52Z</date>
+			<key>Date Added</key><date>2010-06-17T00:36:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3575793983</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:06:23Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2016-02-11T06:52:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1999</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Envy Corps</string>
+			<key>Persistent ID</key><string>6D4E90B457D6380D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15281</key>
+		<dict>
+			<key>Track ID</key><integer>15281</integer>
+			<key>Name</key><string>Alice</string>
+			<key>Artist</key><string>Pogo</string>
+			<key>Album</key><string>Wonderland</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2635668</integer>
+			<key>Total Time</key><integer>164048</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-01-07T15:28:49Z</date>
+			<key>Date Added</key><date>2010-06-17T00:36:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Free download from http://www.last.fm/music/Pogo</string>
+			<key>Play Count</key><integer>163</integer>
+			<key>Play Date</key><integer>3575317363</integer>
+			<key>Play Date UTC</key><date>2017-04-18T06:42:43Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1412</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5373B42F2ACC5C03</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15585</key>
+		<dict>
+			<key>Track ID</key><integer>15585</integer>
+			<key>Name</key><string>That Teenage Feeling</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Fox Confessor Brings the Flood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3976649</integer>
+			<key>Total Time</key><integer>162977</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-02-15T16:22:10Z</date>
+			<key>Date Added</key><date>2010-06-17T00:19:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3575723493</integer>
+			<key>Play Date UTC</key><date>2017-04-22T23:31:33Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2017-01-07T21:21:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5436</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Case, Neko</string>
+			<key>Sort Artist</key><string>Case, Neko</string>
+			<key>Persistent ID</key><string>C7B7A141085FD1E3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15711</key>
+		<dict>
+			<key>Track ID</key><integer>15711</integer>
+			<key>Name</key><string>The River</string>
+			<key>Artist</key><string>Anathallo</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Fly53 &#38; Clash Magazine Present The Very Best Of 2009</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9513260</integer>
+			<key>Total Time</key><integer>283133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-31T17:03:15Z</date>
+			<key>Date Added</key><date>2010-06-17T00:37:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>124</integer>
+			<key>Play Date</key><integer>3575875955</integer>
+			<key>Play Date UTC</key><date>2017-04-24T17:52:35Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2017-05-07T20:36:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3624</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Sort Artist</key><string>Anathallo</string>
+			<key>Sort Name</key><string>River</string>
+			<key>Persistent ID</key><string>3E62EFD9F08F0CC2</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15755</key>
+		<dict>
+			<key>Track ID</key><integer>15755</integer>
+			<key>Name</key><string>Someday We'll Know</string>
+			<key>Artist</key><string>New Radicals</string>
+			<key>Album Artist</key><string>New Radicals</string>
+			<key>Album</key><string>Maybe You've Been Brainwashed Too</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4893384</integer>
+			<key>Total Time</key><integer>217652</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-02-18T21:12:10Z</date>
+			<key>Date Added</key><date>2010-06-17T00:19:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3575537073</integer>
+			<key>Play Date UTC</key><date>2017-04-20T19:44:33Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2017-04-18T05:32:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2783</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Radicals</string>
+			<key>Sort Artist</key><string>New Radicals</string>
+			<key>Persistent ID</key><string>61ACF3DB57B04252</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15893</key>
+		<dict>
+			<key>Track ID</key><integer>15893</integer>
+			<key>Name</key><string>Flex</string>
+			<key>Artist</key><string>Doomtree</string>
+			<key>Album</key><string>False Hopes</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4358272</integer>
+			<key>Total Time</key><integer>181525</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-07T15:33:26Z</date>
+			<key>Date Added</key><date>2010-06-17T00:37:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>141</integer>
+			<key>Play Date</key><integer>3576928560</integer>
+			<key>Play Date UTC</key><date>2017-05-06T22:16:00Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>6769</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C69C5ED9A4307E19</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15909</key>
+		<dict>
+			<key>Track ID</key><integer>15909</integer>
+			<key>Name</key><string>Hindi Sad Diamonds</string>
+			<key>Artist</key><string>Nicole Kidman &#38; John Leguizamo, Alka Yagnik</string>
+			<key>Album</key><string>Somethin' Stupid</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>7147437</integer>
+			<key>Total Time</key><integer>208160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-01-07T16:30:33Z</date>
+			<key>Date Added</key><date>2010-06-17T00:19:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>144</integer>
+			<key>Play Date</key><integer>3575695188</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:39:48Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2015-06-04T19:48:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>11534</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>750C95D69E72EB08</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15943</key>
+		<dict>
+			<key>Track ID</key><integer>15943</integer>
+			<key>Name</key><string>El Lado Oscuro de Mi Compadre</string>
+			<key>Artist</key><string>Terrestre</string>
+			<key>Album Artist</key><string>Nortec Collective</string>
+			<key>Album</key><string>The Tijuana Sessions, Volume 1</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5545714</integer>
+			<key>Total Time</key><integer>276558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-02-12T03:17:47Z</date>
+			<key>Date Added</key><date>2010-06-17T00:19:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>71</integer>
+			<key>Play Date</key><integer>3575748705</integer>
+			<key>Play Date UTC</key><date>2017-04-23T06:31:45Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2013-11-02T19:56:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2362</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Tijuana Sessions, Volume 1</string>
+			<key>Sort Album Artist</key><string>Nortec Collective</string>
+			<key>Sort Artist</key><string>Terrestre</string>
+			<key>Persistent ID</key><string>B7D45FAB4FDA7A3E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16595</key>
+		<dict>
+			<key>Track ID</key><integer>16595</integer>
+			<key>Name</key><string>Au Cinema</string>
+			<key>Artist</key><string>Lianne La Havas</string>
+			<key>Album</key><string>Is Your Love Big Enough?</string>
+			<key>Genre</key><string>Neo-Soul</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10355439</integer>
+			<key>Total Time</key><integer>258011</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T13:30:14Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Play Count</key><integer>124</integer>
+			<key>Play Date</key><integer>3570448494</integer>
+			<key>Play Date UTC</key><date>2017-02-20T23:14:54Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2016-09-03T18:32:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C5A008C241C1E9D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16631</key>
+		<dict>
+			<key>Track ID</key><integer>16631</integer>
+			<key>Name</key><string>Wide Awake for the Finale (Madeon x Katy Perry)</string>
+			<key>Artist</key><string>TeeTs</string>
+			<key>Genre</key><string>Mashup</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8233602</integer>
+			<key>Total Time</key><integer>205505</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T16:32:53Z</date>
+			<key>Date Added</key><date>2012-08-20T03:16:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EARMILK.COM</string>
+			<key>Play Count</key><integer>259</integer>
+			<key>Play Date</key><integer>3575393947</integer>
+			<key>Play Date UTC</key><date>2017-04-19T03:59:07Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-07-15T03:50:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5766167B79936405</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>16791</key>
+		<dict>
+			<key>Track ID</key><integer>16791</integer>
+			<key>Name</key><string>@deathgripz</string>
+			<key>Artist</key><string>Death Grips</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Adult Swim Singles Program 2012</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8664560</integer>
+			<key>Total Time</key><integer>265038</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T14:33:38Z</date>
+			<key>Date Added</key><date>2012-09-17T03:59:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3575695453</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:44:13Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D2F2CFE294FA335</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>16793</key>
+		<dict>
+			<key>Track ID</key><integer>16793</integer>
+			<key>Name</key><string>Thinkin Bout You (Frank Ocean Cover)</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9489034</integer>
+			<key>Total Time</key><integer>289388</integer>
+			<key>Start Time</key><integer>7000</integer>
+			<key>Stop Time</key><integer>285000</integer>
+			<key>Date Modified</key><date>2012-09-29T16:46:40Z</date>
+			<key>Date Added</key><date>2012-09-29T15:45:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3570632042</integer>
+			<key>Play Date UTC</key><date>2017-02-23T02:14:02Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2017-04-20T18:29:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>A8ACED09F965E0DC</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>17105</key>
+		<dict>
+			<key>Track ID</key><integer>17105</integer>
+			<key>Name</key><string>Poetic Justice</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Good Kid M.A.A.D City-(Deluxe Edition)</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12128873</integer>
+			<key>Total Time</key><integer>300225</integer>
+			<key>Stop Time</key><integer>258000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T18:30:22Z</date>
+			<key>Date Added</key><date>2012-11-03T14:31:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>99</integer>
+			<key>Play Date</key><integer>3575437319</integer>
+			<key>Play Date UTC</key><date>2017-04-19T16:01:59Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2016-02-26T08:11:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B1DD8161796533A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17309</key>
+		<dict>
+			<key>Track ID</key><integer>17309</integer>
+			<key>Name</key><string>Eple</string>
+			<key>Artist</key><string>Röyksopp</string>
+			<key>Album Artist</key><string>Röyksopp</string>
+			<key>Album</key><string>Melody A.M.</string>
+			<key>Genre</key><string>Pop, Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7117137</integer>
+			<key>Total Time</key><integer>216640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-02-03T17:47:29Z</date>
+			<key>Date Added</key><date>2010-06-17T00:22:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3539627999</integer>
+			<key>Play Date UTC</key><date>2016-03-01T05:59:59Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2897</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Röyksopp</string>
+			<key>Sort Artist</key><string>Röyksopp</string>
+			<key>Persistent ID</key><string>F52833AEEE8761CF</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>17881</key>
+		<dict>
+			<key>Track ID</key><integer>17881</integer>
+			<key>Name</key><string>The Recipe (Feat. Dr Dre) (Bonus Track)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Good Kid M.A.A.D City-(Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11564739</integer>
+			<key>Total Time</key><integer>353267</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-04T13:41:20Z</date>
+			<key>Date Added</key><date>2012-12-20T18:39:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3575693756</integer>
+			<key>Play Date UTC</key><date>2017-04-22T15:15:56Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Recipe (Feat. Dr Dre) (Bonus Track)</string>
+			<key>Persistent ID</key><string>0DC12EC34E0F70D1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>18353</key>
+		<dict>
+			<key>Track ID</key><integer>18353</integer>
+			<key>Name</key><string>Someday</string>
+			<key>Artist</key><string>Sugar Ray</string>
+			<key>Album Artist</key><string>Sugar Ray</string>
+			<key>Album</key><string>14:59</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5355732</integer>
+			<key>Total Time</key><integer>242860</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-01-31T16:15:49Z</date>
+			<key>Date Added</key><date>2010-06-17T00:23:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000A9C 00000B7E 0000408F 000046F5 0001CC0D 00032EB1 00008000 00008000 00010C4E 00010C4E</string>
+			<key>Play Count</key><integer>119</integer>
+			<key>Play Date</key><integer>3575792878</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:47:58Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2016-02-26T08:30:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2917</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Sugar Ray</string>
+			<key>Sort Artist</key><string>Sugar Ray</string>
+			<key>Persistent ID</key><string>412FB80F0C553866</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18545</key>
+		<dict>
+			<key>Track ID</key><integer>18545</integer>
+			<key>Name</key><string>It's Love You're On</string>
+			<key>Artist</key><string>The Redwalls</string>
+			<key>Album</key><string>Universal Blues</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4663261</integer>
+			<key>Total Time</key><integer>165929</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-01-07T16:28:35Z</date>
+			<key>Date Added</key><date>2010-06-17T00:23:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>128</integer>
+			<key>Play Date</key><integer>3575779626</integer>
+			<key>Play Date UTC</key><date>2017-04-23T15:07:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>9035</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Redwalls</string>
+			<key>Persistent ID</key><string>03E807B22ED01B0B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18553</key>
+		<dict>
+			<key>Track ID</key><integer>18553</integer>
+			<key>Name</key><string>Super America</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>It Hurts - EP</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7414353</integer>
+			<key>Total Time</key><integer>230112</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-30T10:20:18Z</date>
+			<key>Date Added</key><date>2013-03-02T19:44:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://badbadhats.bandcamp.com</string>
+			<key>Play Count</key><integer>103</integer>
+			<key>Play Date</key><integer>3570109807</integer>
+			<key>Play Date UTC</key><date>2017-02-17T01:10:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B2E6D3B0CA61966E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18619</key>
+		<dict>
+			<key>Track ID</key><integer>18619</integer>
+			<key>Name</key><string>What You Do</string>
+			<key>Artist</key><string>Chrisette Michele</string>
+			<key>Album</key><string>Epiphany</string>
+			<key>Genre</key><string>R&#38;B - Soul</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4959329</integer>
+			<key>Total Time</key><integer>203859</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-07T15:29:42Z</date>
+			<key>Date Added</key><date>2010-06-17T00:44:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>218</integer>
+			<key>Play Date</key><integer>3576485819</integer>
+			<key>Play Date UTC</key><date>2017-05-01T19:16:59Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-08-04T22:05:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB8E072347468CC0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18977</key>
+		<dict>
+			<key>Track ID</key><integer>18977</integer>
+			<key>Name</key><string>World Spins Madly On</string>
+			<key>Artist</key><string>The Weepies</string>
+			<key>Album</key><string>Say I Am You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5351081</integer>
+			<key>Total Time</key><integer>165133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-07T16:27:00Z</date>
+			<key>Date Added</key><date>2010-06-17T00:24:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>208</integer>
+			<key>Play Date</key><integer>3575793043</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:50:43Z</date>
+			<key>Skip Count</key><integer>19</integer>
+			<key>Skip Date</key><date>2016-03-24T23:52:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1164</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Weepies</string>
+			<key>Persistent ID</key><string>4AF334E1886AE3B1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19311</key>
+		<dict>
+			<key>Track ID</key><integer>19311</integer>
+			<key>Name</key><string>Everyday</string>
+			<key>Artist</key><string>Lucy Pearl</string>
+			<key>Album</key><string>Lucy Pearl</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8185369</integer>
+			<key>Total Time</key><integer>240440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-01-07T15:30:04Z</date>
+			<key>Date Added</key><date>2010-06-17T00:51:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>by Dr.E</string>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3574500934</integer>
+			<key>Play Date UTC</key><date>2017-04-08T19:55:34Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2017-03-02T17:18:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D185E2C0A65B7A9D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19407</key>
+		<dict>
+			<key>Track ID</key><integer>19407</integer>
+			<key>Name</key><string>Norgaard</string>
+			<key>Artist</key><string>The Vaccines</string>
+			<key>Composer</key><string>The Vaccines</string>
+			<key>Album</key><string>Home Is Where The Start Is (Home Demos 2009 - 2012)</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2386518</integer>
+			<key>Total Time</key><integer>99343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-05-14T16:11:48Z</date>
+			<key>Date Added</key><date>2013-05-25T19:37:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>153</integer>
+			<key>Play Date</key><integer>3576929074</integer>
+			<key>Play Date UTC</key><date>2017-05-06T22:24:34Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2016-02-26T07:41:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>15321</integer>
+			<key>Sort Artist</key><string>Vaccines</string>
+			<key>Sort Composer</key><string>Vaccines</string>
+			<key>Persistent ID</key><string>BEF0212E6AE2502E</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19505</key>
+		<dict>
+			<key>Track ID</key><integer>19505</integer>
+			<key>Name</key><string>Tears Dry on Their Own</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back to Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4437777</integer>
+			<key>Total Time</key><integer>184816</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-07T15:26:41Z</date>
+			<key>Date Added</key><date>2010-06-17T00:52:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com</string>
+			<key>Play Count</key><integer>145</integer>
+			<key>Play Date</key><integer>3575449217</integer>
+			<key>Play Date UTC</key><date>2017-04-19T19:20:17Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2016-12-07T20:26:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5C1DC8BFE1D1348</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19705</key>
+		<dict>
+			<key>Track ID</key><integer>19705</integer>
+			<key>Name</key><string>Sorry (Acoustic)</string>
+			<key>Artist</key><string>Unknown Artist</string>
+			<key>Genre</key><string>genre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2699264</integer>
+			<key>Total Time</key><integer>168594</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2008-07-19T17:48:35Z</date>
+			<key>Date Added</key><date>2010-06-17T00:24:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3575795685</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:34:45Z</date>
+			<key>Skip Count</key><integer>19</integer>
+			<key>Skip Date</key><date>2017-04-22T23:23:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>2138</integer>
+			<key>Persistent ID</key><string>E2A65537ED87DC73</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19875</key>
+		<dict>
+			<key>Track ID</key><integer>19875</integer>
+			<key>Name</key><string>On to the Next One</string>
+			<key>Artist</key><string>Jay-Z</string>
+			<key>Album Artist</key><string>Jay-Z</string>
+			<key>Album</key><string>The Blueprint 3</string>
+			<key>Genre</key><string>Rap/Hip-Hop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8582825</integer>
+			<key>Total Time</key><integer>256104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-07-15T22:59:41Z</date>
+			<key>Date Added</key><date>2010-06-17T00:55:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>281</integer>
+			<key>Play Date</key><integer>3575699759</integer>
+			<key>Play Date UTC</key><date>2017-04-22T16:55:59Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2013-10-01T12:52:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueprint 3</string>
+			<key>Persistent ID</key><string>D991273BF77A287B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19935</key>
+		<dict>
+			<key>Track ID</key><integer>19935</integer>
+			<key>Name</key><string>Lungs</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Album Artist</key><string>CHVRCHES</string>
+			<key>Album</key><string>The Bones Of What You Believe</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5962760</integer>
+			<key>Total Time</key><integer>182866</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-09T03:08:45Z</date>
+			<key>Date Added</key><date>2013-10-09T03:27:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Play Count</key><integer>85</integer>
+			<key>Play Date</key><integer>3575793610</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:00:10Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-05-07T20:35:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bones Of What You Believe</string>
+			<key>Persistent ID</key><string>6E23085BFD249BC5</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19999</key>
+		<dict>
+			<key>Track ID</key><integer>19999</integer>
+			<key>Name</key><string>I Get Lonely</string>
+			<key>Artist</key><string>Janet Jackson</string>
+			<key>Album</key><string>Number Ones</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7930956</integer>
+			<key>Total Time</key><integer>241406</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-01-07T15:31:12Z</date>
+			<key>Date Added</key><date>2010-06-17T00:55:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>306</integer>
+			<key>Play Date</key><integer>3575726368</integer>
+			<key>Play Date UTC</key><date>2017-04-23T00:19:28Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA1B4116639031AB</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>20051</key>
+		<dict>
+			<key>Track ID</key><integer>20051</integer>
+			<key>Name</key><string>smalltalk (Four Tet remix)</string>
+			<key>Artist</key><string>ultraísta</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12046895</integer>
+			<key>Total Time</key><integer>367333</integer>
+			<key>Stop Time</key><integer>357000</integer>
+			<key>Date Modified</key><date>2013-08-12T17:13:00Z</date>
+			<key>Date Added</key><date>2013-08-12T00:01:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>173</integer>
+			<key>Play Date</key><integer>3576928955</integer>
+			<key>Play Date UTC</key><date>2017-05-06T22:22:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>FABB0BCD70C81912</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>20289</key>
+		<dict>
+			<key>Track ID</key><integer>20289</integer>
+			<key>Name</key><string>All That I Need</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Made Up Mind</string>
+			<key>Genre</key><string>Blues Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12582966</integer>
+			<key>Total Time</key><integer>313842</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-08-24T01:15:05Z</date>
+			<key>Date Added</key><date>2013-08-23T23:41:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>113</integer>
+			<key>Play Date</key><integer>3575442371</integer>
+			<key>Play Date UTC</key><date>2017-04-19T17:26:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-04-18T05:18:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1A382240A820FBE0</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>20769</key>
+		<dict>
+			<key>Track ID</key><integer>20769</integer>
+			<key>Name</key><string>썸 (Feat. 릴보이 of 긱스)</string>
+			<key>Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album Artist</key><string>소유 &#38; 정기고 (SoYou &#38; JunggiGo)</string>
+			<key>Album</key><string>썸</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>8665369</integer>
+			<key>Total Time</key><integer>211374</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-02-08T03:17:26Z</date>
+			<key>Date Added</key><date>2014-03-29T17:00:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://k2nblog.com</string>
+			<key>Play Count</key><integer>138</integer>
+			<key>Play Date</key><integer>3575792031</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:33:51Z</date>
+			<key>Skip Date</key><date>2016-02-26T08:22:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05D304F1E54437D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>20809</key>
+		<dict>
+			<key>Track ID</key><integer>20809</integer>
+			<key>Name</key><string>All The Places</string>
+			<key>Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album Artist</key><string>MADE IN HEIGHTS</string>
+			<key>Album</key><string>MADE IN HEIGHTS</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3633390</integer>
+			<key>Total Time</key><integer>217678</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-04-13T16:49:57Z</date>
+			<key>Date Added</key><date>2014-04-13T15:00:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://madeinheights.bandcamp.com</string>
+			<key>Play Count</key><integer>99</integer>
+			<key>Play Date</key><integer>3576072423</integer>
+			<key>Play Date UTC</key><date>2017-04-27T00:27:03Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2016-02-26T08:21:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE1654C15FC1774F</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>21085</key>
+		<dict>
+			<key>Track ID</key><integer>21085</integer>
+			<key>Name</key><string>OctaHate</string>
+			<key>Artist</key><string>Ryn Weaver</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3275380</integer>
+			<key>Total Time</key><integer>204068</integer>
+			<key>Date Modified</key><date>2014-07-03T06:39:34Z</date>
+			<key>Date Added</key><date>2014-07-03T04:39:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>191</integer>
+			<key>Play Date</key><integer>3575359904</integer>
+			<key>Play Date UTC</key><date>2017-04-18T18:31:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-04-18T05:49:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>51F7ACB3DFD0CD7B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>21193</key>
+		<dict>
+			<key>Track ID</key><integer>21193</integer>
+			<key>Name</key><string>Be My Baby (feat. Cashmere Cat)</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Benjamin Levin, Magnus August Hoiberg, Theron Thomas, Timothy Thomas &#38; Peder Losnegård</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8727747</integer>
+			<key>Total Time</key><integer>217077</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-27T03:25:27Z</date>
+			<key>Date Added</key><date>2014-08-27T01:51:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>185</integer>
+			<key>Play Date</key><integer>3575869498</integer>
+			<key>Play Date UTC</key><date>2017-04-24T16:04:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-18T05:33:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C51CDC12EB362100</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>21497</key>
+		<dict>
+			<key>Track ID</key><integer>21497</integer>
+			<key>Name</key><string>I Wish You Would</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>1989 (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8426830</integer>
+			<key>Total Time</key><integer>207464</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-30T05:21:50Z</date>
+			<key>Date Added</key><date>2014-10-30T03:22:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Magical Sound!</string>
+			<key>Play Count</key><integer>133</integer>
+			<key>Play Date</key><integer>3576929596</integer>
+			<key>Play Date UTC</key><date>2017-05-06T22:33:16Z</date>
+			<key>Skip Date</key><date>2015-01-02T19:33:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94B4507F0F6C0F7E</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>21825</key>
+		<dict>
+			<key>Track ID</key><integer>21825</integer>
+			<key>Name</key><string>Religious</string>
+			<key>Artist</key><string>Ne-Yo</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>7311030</integer>
+			<key>Total Time</key><integer>229459</integer>
+			<key>Date Modified</key><date>2015-02-01T17:30:21Z</date>
+			<key>Date Added</key><date>2015-02-01T15:30:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3575722589</integer>
+			<key>Play Date UTC</key><date>2017-04-22T23:16:29Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-01-08T04:33:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>0365A7EC715FEE38</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>21939</key>
+		<dict>
+			<key>Track ID</key><integer>21939</integer>
+			<key>Name</key><string>First... And Then</string>
+			<key>Artist</key><string>Handsome Boy Modeling School</string>
+			<key>Album Artist</key><string>Handsome Boy Modeling School</string>
+			<key>Album</key><string>White People</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7235248</integer>
+			<key>Total Time</key><integer>251846</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-02-14T22:35:17Z</date>
+			<key>Date Added</key><date>2015-02-15T04:35:58Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://75ark.bandcamp.com</string>
+			<key>Play Count</key><integer>131</integer>
+			<key>Play Date</key><integer>3576486072</integer>
+			<key>Play Date UTC</key><date>2017-05-01T19:21:12Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-04-18T05:17:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60044455F0BF2779</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>22053</key>
+		<dict>
+			<key>Track ID</key><integer>22053</integer>
+			<key>Name</key><string>Little Ballerina (feat. Rufus Wainwright)</string>
+			<key>Artist</key><string>Emile Haynie</string>
+			<key>Album Artist</key><string>Emile Haynie</string>
+			<key>Composer</key><string>Emile Haynie, Andrew Wyatt &#38; Nate Ruess</string>
+			<key>Album</key><string>We Fall</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>287370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T03:00:42Z</date>
+			<key>Date Added</key><date>2015-03-25T01:00:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>114</integer>
+			<key>Play Date</key><integer>3575725703</integer>
+			<key>Play Date UTC</key><date>2017-04-23T00:08:23Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2017-04-18T05:29:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Fall</string>
+			<key>Sort Artist</key><string>Emile Haynie</string>
+			<key>Sort Composer</key><string>Emile Haynie, Andrew Wyatt &#38; Nate Ruess</string>
+			<key>Sort Name</key><string>Little Ballerina (feat. Rufus Wainwright)</string>
+			<key>Persistent ID</key><string>62F9048C1B670267</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>22067</key>
+		<dict>
+			<key>Track ID</key><integer>22067</integer>
+			<key>Name</key><string>What a Broken Heart Feels Like</string>
+			<key>Artist</key><string>Striking Matches</string>
+			<key>Album Artist</key><string>Striking Matches</string>
+			<key>Composer</key><string>Justin Davis, Sarah Zimmermann &#38; Ben Glover</string>
+			<key>Album</key><string>Nothing but the Silence</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>193441</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:09:54Z</date>
+			<key>Date Added</key><date>2015-03-25T02:09:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>83</integer>
+			<key>Play Date</key><integer>3575794775</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:19:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-22T23:28:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nothing but the Silence</string>
+			<key>Sort Artist</key><string>Striking Matches</string>
+			<key>Sort Composer</key><string>Justin Davis, Sarah Zimmermann &#38; Ben Glover</string>
+			<key>Sort Name</key><string>What a Broken Heart Feels Like</string>
+			<key>Persistent ID</key><string>0BDD2977DC115105</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>22295</key>
+		<dict>
+			<key>Track ID</key><integer>22295</integer>
+			<key>Name</key><string>Don't Dream It's Over ft. Ariana Grande</string>
+			<key>Artist</key><string>Miley Cyrus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3341694</integer>
+			<key>Total Time</key><integer>208666</integer>
+			<key>Date Modified</key><date>2015-05-23T23:20:01Z</date>
+			<key>Date Added</key><date>2015-05-23T23:21:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3575791819</integer>
+			<key>Play Date UTC</key><date>2017-04-23T18:30:19Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-05-05T04:37:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>6940DAFBEB9E44C1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>22537</key>
+		<dict>
+			<key>Track ID</key><integer>22537</integer>
+			<key>Name</key><string>Ties</string>
+			<key>Artist</key><string>Years &#38; Years</string>
+			<key>Album Artist</key><string>Years &#38; Years</string>
+			<key>Composer</key><string>Olly Alexander, Emre Turkmen, Michael Goldsworthy &#38; Mark Ralph</string>
+			<key>Album</key><string>Communion (Deluxe)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7967182</integer>
+			<key>Total Time</key><integer>226800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-12T08:08:52Z</date>
+			<key>Date Added</key><date>2015-07-12T08:08:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>86</integer>
+			<key>Play Date</key><integer>3575795911</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:38:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-02-26T08:22:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Communion (Deluxe)</string>
+			<key>Sort Artist</key><string>Years &#38; Years</string>
+			<key>Sort Name</key><string>Ties</string>
+			<key>Persistent ID</key><string>B996602457B4BDEF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>23927</key>
+		<dict>
+			<key>Track ID</key><integer>23927</integer>
+			<key>Name</key><string>Formation</string>
+			<key>Artist</key><string>Beyoncé</string>
+			<key>Album Artist</key><string>Beyoncé</string>
+			<key>Album</key><string>Formation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4951196</integer>
+			<key>Total Time</key><integer>206288</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-02-08T07:59:44Z</date>
+			<key>Date Added</key><date>2016-02-08T08:03:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>163</integer>
+			<key>Play Date</key><integer>3576042436</integer>
+			<key>Play Date UTC</key><date>2017-04-26T16:07:16Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-04-18T05:52:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Persistent ID</key><string>09C582BB6FDE5B03</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>23953</key>
+		<dict>
+			<key>Track ID</key><integer>23953</integer>
+			<key>Name</key><string>Waves</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Album</key><string>The Life of Pablo (Tidal)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7187534</integer>
+			<key>Total Time</key><integer>176431</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-02-16T02:53:03Z</date>
+			<key>Date Added</key><date>2016-02-16T02:53:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3575782882</integer>
+			<key>Play Date UTC</key><date>2017-04-23T16:01:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-03-18T01:25:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life of Pablo (Tidal)</string>
+			<key>Persistent ID</key><string>214FE2298495D2B4</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>24143</key>
+		<dict>
+			<key>Track ID</key><integer>24143</integer>
+			<key>Name</key><string>Temple (feat. M.I.A. &#38; G-DRAGON)</string>
+			<key>Artist</key><string>Baauer</string>
+			<key>Album Artist</key><string>Baauer</string>
+			<key>Album</key><string>Aa</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6860885</integer>
+			<key>Total Time</key><integer>185387</integer>
+			<key>Start Time</key><integer>26000</integer>
+			<key>Stop Time</key><integer>153000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-03-21T16:22:10Z</date>
+			<key>Date Added</key><date>2016-03-21T16:22:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>87</integer>
+			<key>Play Date</key><integer>3575794110</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:08:30Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-04-18T05:45:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Aa</string>
+			<key>Sort Artist</key><string>Baauer</string>
+			<key>Sort Name</key><string>Temple (feat. M.I.A. &#38; G-DRAGON)</string>
+			<key>Persistent ID</key><string>2D9FB2A5F4AE522E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>24649</key>
+		<dict>
+			<key>Track ID</key><integer>24649</integer>
+			<key>Name</key><string>All Nite (feat. Vince Staples)</string>
+			<key>Artist</key><string>Clams Casino</string>
+			<key>Album Artist</key><string>Clams Casino</string>
+			<key>Composer</key><string>Vince Staples &#38; Michael Volpe</string>
+			<key>Album</key><string>32 Levels (Deluxe)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6015029</integer>
+			<key>Total Time</key><integer>167751</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-10T07:11:33Z</date>
+			<key>Date Added</key><date>2016-06-10T07:11:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3569329877</integer>
+			<key>Play Date UTC</key><date>2017-02-08T00:31:17Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2017-04-18T05:33:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>32 Levels (Deluxe)</string>
+			<key>Sort Artist</key><string>Clams Casino</string>
+			<key>Sort Name</key><string>All Nite (feat. Vince Staples)</string>
+			<key>Persistent ID</key><string>F4F7EA2D45FE8B2E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>24771</key>
+		<dict>
+			<key>Track ID</key><integer>24771</integer>
+			<key>Name</key><string>Old Friends</string>
+			<key>Artist</key><string>Pinegrove</string>
+			<key>Album Artist</key><string>Pinegrove</string>
+			<key>Album</key><string>Cardinal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7435739</integer>
+			<key>Total Time</key><integer>207720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-07-08T07:01:25Z</date>
+			<key>Date Added</key><date>2016-07-08T07:01:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>100</integer>
+			<key>Play Date</key><integer>3575796119</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:41:59Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-04-18T05:45:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cardinal</string>
+			<key>Sort Artist</key><string>Pinegrove</string>
+			<key>Sort Name</key><string>Old Friends</string>
+			<key>Persistent ID</key><string>EC4031B25328B059</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>25069</key>
+		<dict>
+			<key>Track ID</key><integer>25069</integer>
+			<key>Name</key><string>Broken Halo (feat. Nicholas Braun)</string>
+			<key>Artist</key><string>Phantoms</string>
+			<key>Album Artist</key><string>Phantoms</string>
+			<key>Composer</key><string>Edwin Bryant Sollis II, Kyle Joseph Kaplan, Vincent Giovanni Pergola &#38; Nicholas Joseph Braun</string>
+			<key>Album</key><string>Broken Halo - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8885989</integer>
+			<key>Total Time</key><integer>252453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-09-03T20:00:24Z</date>
+			<key>Date Added</key><date>2016-09-03T20:00:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3575796372</integer>
+			<key>Play Date UTC</key><date>2017-04-23T19:46:12Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-05-07T20:35:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Broken Halo - EP</string>
+			<key>Sort Artist</key><string>Phantoms</string>
+			<key>Sort Name</key><string>Broken Halo (feat. Nicholas Braun)</string>
+			<key>Persistent ID</key><string>E3274416871B39ED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>25791</key>
+		<dict>
+			<key>Track ID</key><integer>25791</integer>
+			<key>Name</key><string>Lost (Season One)</string>
+			<key>Artist</key><string>Camp Cope</string>
+			<key>Album Artist</key><string>Camp Cope</string>
+			<key>Album</key><string>Camp Cope</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8749078</integer>
+			<key>Total Time</key><integer>232143</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-12-08T08:55:28Z</date>
+			<key>Date Added</key><date>2016-12-08T08:55:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>78</integer>
+			<key>Play Date</key><integer>3576929829</integer>
+			<key>Play Date UTC</key><date>2017-05-06T22:37:09Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-05-07T20:33:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Camp Cope</string>
+			<key>Sort Artist</key><string>Camp Cope</string>
+			<key>Sort Name</key><string>Lost (Season One)</string>
+			<key>Persistent ID</key><string>6F95FBDE062D2A98</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Top 100 - 2017-05-07</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>64279</integer>
+			<key>Playlist Persistent ID</key><string>76D5D77A95C403EF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>21939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11903</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19935</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17309</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

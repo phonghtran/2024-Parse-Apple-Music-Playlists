@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-06-09T11:32:07Z</date>
+	<key>Application Version</key><string>1.3.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>40445</key>
+		<dict>
+			<key>Track ID</key><integer>40445</integer>
+			<key>Name</key><string>family ties</string>
+			<key>Artist</key><string>Baby Keem &#38; Kendrick Lamar</string>
+			<key>Album Artist</key><string>Baby Keem &#38; Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, Hykeem Carter, Ronald LaTour, Jasper Harris, Tobias Dekker, Roshwita Larisha Bacha, Dominik Patrzek &#38; Colin Franken</string>
+			<key>Album</key><string>family ties - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8997233</integer>
+			<key>Total Time</key><integer>252070</integer>
+			<key>Start Time</key><integer>136500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-05T01:25:14Z</date>
+			<key>Date Added</key><date>2021-09-05T01:25:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3768723537</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:38:57Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-09-25T17:53:03Z</date>
+			<key>Release Date</key><date>2021-08-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>family ties - Single</string>
+			<key>Sort Artist</key><string>Baby Keem &#38; Kendrick Lamar</string>
+			<key>Sort Name</key><string>family ties</string>
+			<key>Persistent ID</key><string>DC835A2607616507</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42360</key>
+		<dict>
+			<key>Track ID</key><integer>42360</integer>
+			<key>Name</key><string>You're Not from Brighton</string>
+			<key>Artist</key><string>Fatboy Slim</string>
+			<key>Album Artist</key><string>Fatboy Slim</string>
+			<key>Composer</key><string>Norman Cook, Trevor Fisher, Jean-Marie Lincoln, P.J Campbell &#38; Delmar Edwards</string>
+			<key>Album</key><string>You've Come a Long Way Baby</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11166969</integer>
+			<key>Total Time</key><integer>320693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2022-07-08T05:37:54Z</date>
+			<key>Date Added</key><date>2022-07-08T05:37:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3768724385</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:53:05Z</date>
+			<key>Release Date</key><date>1998-10-19T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You've Come a Long Way Baby</string>
+			<key>Sort Artist</key><string>Fatboy Slim</string>
+			<key>Sort Name</key><string>You're Not from Brighton</string>
+			<key>Persistent ID</key><string>BAB449F593F278AF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>44562</key>
+		<dict>
+			<key>Track ID</key><integer>44562</integer>
+			<key>Name</key><string>OMG</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, Jinsu Park, David Dawood, Gigi &#38; Hanni</string>
+			<key>Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7648571</integer>
+			<key>Total Time</key><integer>212253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-01-15T01:29:08Z</date>
+			<key>Date Added</key><date>2023-01-14T22:29:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>142</integer>
+			<key>Play Date</key><integer>3768735512</integer>
+			<key>Play Date UTC</key><date>2023-06-04T18:58:32Z</date>
+			<key>Release Date</key><date>2023-01-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 'OMG' - Single</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>OMG</string>
+			<key>Persistent ID</key><string>595CCF7918F49388</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45474</key>
+		<dict>
+			<key>Track ID</key><integer>45474</integer>
+			<key>Name</key><string>SET ME FREE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Melanie Fontana, Lindgren, Marty Maro, 별들의전쟁 * (GALACTIKA *) &#38; Jvde (GALACTIKA *)</string>
+			<key>Album</key><string>READY TO BE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6876351</integer>
+			<key>Total Time</key><integer>181680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-03-18T15:42:00Z</date>
+			<key>Date Added</key><date>2023-03-18T15:42:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3768723888</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:44:48Z</date>
+			<key>Release Date</key><date>2023-03-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>READY TO BE</string>
+			<key>Sort Artist</key><string>TWICE</string>
+			<key>Sort Name</key><string>SET ME FREE</string>
+			<key>Persistent ID</key><string>2EFF71ACFE6A624E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45924</key>
+		<dict>
+			<key>Track ID</key><integer>45924</integer>
+			<key>Name</key><string>Should I Be Ok?</string>
+			<key>Artist</key><string>Tiffany Day</string>
+			<key>Album Artist</key><string>Tiffany Day</string>
+			<key>Composer</key><string>Tiffany Day</string>
+			<key>Album</key><string>The Gratitude Project - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7929780</integer>
+			<key>Total Time</key><integer>217258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-04-23T12:49:41Z</date>
+			<key>Date Added</key><date>2023-04-23T12:49:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3768722931</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:28:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-05-24T06:42:04Z</date>
+			<key>Release Date</key><date>2023-02-17T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4654</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gratitude Project - EP</string>
+			<key>Sort Artist</key><string>Tiffany Day</string>
+			<key>Sort Name</key><string>Should I Be Ok?</string>
+			<key>Persistent ID</key><string>0C96ED1606DA95E5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46016</key>
+		<dict>
+			<key>Track ID</key><integer>46016</integer>
+			<key>Name</key><string>Beanie Baby Blues</string>
+			<key>Artist</key><string>Hanna Mars</string>
+			<key>Album Artist</key><string>Hanna Mars</string>
+			<key>Composer</key><string>Hanna Demelash Mersha</string>
+			<key>Album</key><string>Junie</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6442489</integer>
+			<key>Total Time</key><integer>178318</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-05-03T14:19:55Z</date>
+			<key>Date Added</key><date>2023-05-03T14:19:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3768722397</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:19:57Z</date>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3380</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Junie</string>
+			<key>Sort Artist</key><string>Hanna Mars</string>
+			<key>Sort Name</key><string>Beanie Baby Blues</string>
+			<key>Persistent ID</key><string>03A5F580C5795E7F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46188</key>
+		<dict>
+			<key>Track ID</key><integer>46188</integer>
+			<key>Name</key><string>IYKYK (feat. Muni Long)</string>
+			<key>Artist</key><string>Alex Vaughn</string>
+			<key>Album Artist</key><string>Alex Vaughn</string>
+			<key>Composer</key><string>Nicholaus Williams, Alexandria V Wallace, Priscilla Renea, Miles Franklin, Justin Mitchell &#38; Marcus Fitzgerald Rucker</string>
+			<key>Album</key><string>The Hurtbook (Voice Notes)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6615255</integer>
+			<key>Total Time</key><integer>182901</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-06T21:55:23Z</date>
+			<key>Date Added</key><date>2023-05-06T21:55:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3768723285</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:34:45Z</date>
+			<key>Release Date</key><date>2023-03-14T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hurtbook (Voice Notes)</string>
+			<key>Sort Artist</key><string>Alex Vaughn</string>
+			<key>Sort Name</key><string>IYKYK (feat. Muni Long)</string>
+			<key>Persistent ID</key><string>7632EC17F5CE5383</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46318</key>
+		<dict>
+			<key>Track ID</key><integer>46318</integer>
+			<key>Name</key><string>Beside You (feat. Georgia Ku)</string>
+			<key>Artist</key><string>Matoma &#38; Captain Cuts</string>
+			<key>Album Artist</key><string>Matoma</string>
+			<key>Composer</key><string>Ben Berger, Georgia Ku, Jussi Karvinen, Phoebe Ryan, Ryan McMahon, Ryan Rabin &#38; Tom Stræte Lagergren</string>
+			<key>Album</key><string>RYTME - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6585754</integer>
+			<key>Total Time</key><integer>176640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2023-05-17T20:21:09Z</date>
+			<key>Date Added</key><date>2023-05-17T20:21:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3768724065</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:47:45Z</date>
+			<key>Release Date</key><date>2020-05-08T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4413</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>RYTME - EP</string>
+			<key>Sort Artist</key><string>Matoma &#38; Captain Cuts</string>
+			<key>Sort Name</key><string>Beside You (feat. Georgia Ku)</string>
+			<key>Persistent ID</key><string>85F9B86B5ED8E381</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46388</key>
+		<dict>
+			<key>Track ID</key><integer>46388</integer>
+			<key>Name</key><string>NUGU</string>
+			<key>Artist</key><string>VILLAIN</string>
+			<key>Album Artist</key><string>VILLAIN</string>
+			<key>Composer</key><string>Da Eun Lee</string>
+			<key>Album</key><string>NUGU - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4897351</integer>
+			<key>Total Time</key><integer>132194</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-22T00:38:10Z</date>
+			<key>Date Added</key><date>2023-05-22T00:38:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3768722529</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:22:09Z</date>
+			<key>Release Date</key><date>2023-05-04T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1680</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NUGU - Single</string>
+			<key>Sort Artist</key><string>VILLAIN</string>
+			<key>Sort Name</key><string>NUGU</string>
+			<key>Persistent ID</key><string>D82C910C67D7C4E4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46394</key>
+		<dict>
+			<key>Track ID</key><integer>46394</integer>
+			<key>Name</key><string>Sweet</string>
+			<key>Artist</key><string>THE BOYZ</string>
+			<key>Album Artist</key><string>THE BOYZ</string>
+			<key>Album</key><string>Sweet - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6863668</integer>
+			<key>Total Time</key><integer>184000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-05-26T01:53:37Z</date>
+			<key>Date Added</key><date>2023-05-26T01:53:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3768722713</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:25:13Z</date>
+			<key>Release Date</key><date>2022-06-17T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11810</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet - Single</string>
+			<key>Sort Album Artist</key><string>BOYZ</string>
+			<key>Sort Artist</key><string>BOYZ</string>
+			<key>Sort Name</key><string>Sweet</string>
+			<key>Persistent ID</key><string>9721FA927168CA67</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46396</key>
+		<dict>
+			<key>Track ID</key><integer>46396</integer>
+			<key>Name</key><string>Numb Little Bug</string>
+			<key>Artist</key><string>Em Beihold</string>
+			<key>Album Artist</key><string>Em Beihold</string>
+			<key>Composer</key><string>Emily Beihold, Nick Lopez &#38; Andrew DeCaro</string>
+			<key>Album</key><string>Egg in the Backseat</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6255458</integer>
+			<key>Total Time</key><integer>169238</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-05-27T06:09:08Z</date>
+			<key>Date Added</key><date>2023-05-27T06:09:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3768723706</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:41:46Z</date>
+			<key>Release Date</key><date>2022-01-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Egg in the Backseat</string>
+			<key>Sort Artist</key><string>Em Beihold</string>
+			<key>Sort Name</key><string>Numb Little Bug</string>
+			<key>Persistent ID</key><string>B34B6F7A1E168487</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46660</key>
+		<dict>
+			<key>Track ID</key><integer>46660</integer>
+			<key>Name</key><string>nice 2 me</string>
+			<key>Artist</key><string>piri &#38; Tommy Villiers</string>
+			<key>Album Artist</key><string>piri &#38; Tommy Villiers</string>
+			<key>Composer</key><string>Sophie McBurnie &#38; Thomas Villiers</string>
+			<key>Album</key><string>nice 2 me - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6238673</integer>
+			<key>Total Time</key><integer>171622</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-28T23:42:36Z</date>
+			<key>Date Added</key><date>2023-05-28T23:42:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3768723102</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:31:42Z</date>
+			<key>Release Date</key><date>2023-05-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>nice 2 me - Single</string>
+			<key>Sort Artist</key><string>piri &#38; Tommy Villiers</string>
+			<key>Sort Name</key><string>nice 2 me</string>
+			<key>Persistent ID</key><string>CDACA5D68E22E976</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46690</key>
+		<dict>
+			<key>Track ID</key><integer>46690</integer>
+			<key>Name</key><string>PROBLEMZ</string>
+			<key>Artist</key><string>Jungle</string>
+			<key>Album Artist</key><string>Jungle</string>
+			<key>Composer</key><string>Joshua Lloyd-Watson, Thomas McFarland &#38; Lydia Kitto</string>
+			<key>Album</key><string>Volcano</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6688321</integer>
+			<key>Total Time</key><integer>184086</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-31T05:35:48Z</date>
+			<key>Date Added</key><date>2023-05-31T05:35:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3768724569</integer>
+			<key>Play Date UTC</key><date>2023-06-04T15:56:09Z</date>
+			<key>Release Date</key><date>2023-03-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Volcano</string>
+			<key>Sort Artist</key><string>Jungle</string>
+			<key>Sort Name</key><string>PROBLEMZ</string>
+			<key>Persistent ID</key><string>29BF9EFFAE811641</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46738</key>
+		<dict>
+			<key>Track ID</key><integer>46738</integer>
+			<key>Name</key><string>Dear Sahana</string>
+			<key>Artist</key><string>Sid Sriram</string>
+			<key>Album Artist</key><string>Sid Sriram</string>
+			<key>Composer</key><string>Sid Sriram, Aaron Baum, Justin Vernon, Chris Bierden &#38; Ryan Olson</string>
+			<key>Album</key><string>Dear Sahana - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10992133</integer>
+			<key>Total Time</key><integer>307347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-06-03T00:22:53Z</date>
+			<key>Date Added</key><date>2023-06-03T00:22:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3768582434</integer>
+			<key>Play Date UTC</key><date>2023-06-03T00:27:14Z</date>
+			<key>Release Date</key><date>2023-06-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dear Sahana - Single</string>
+			<key>Sort Artist</key><string>Sid Sriram</string>
+			<key>Sort Name</key><string>Dear Sahana</string>
+			<key>Persistent ID</key><string>9087C74AFA89A708</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>112536</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45924</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46690</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46738</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

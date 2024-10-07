@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-03-12T13:23:59Z</date>
+	<key>Application Version</key><string>11.1.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>40117</key>
+		<dict>
+			<key>Track ID</key><integer>40117</integer>
+			<key>Name</key><string>You’ll Never Know</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Khristopher Riddick-Tynes, Leon Thomas, Kenneth Edmonds &#38; Antonio Dixon</string>
+			<key>Album</key><string>Yours Truly</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8619035</integer>
+			<key>Total Time</key><integer>214308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-12-22T15:22:46Z</date>
+			<key>Date Added</key><date>2013-12-22T17:41:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3477453325</integer>
+			<key>Play Date UTC</key><date>2014-03-12T12:15:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>030D92FFDFF3123C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/Yours%20Truly/09%20You_ll%20Never%20Know.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40527</key>
+		<dict>
+			<key>Track ID</key><integer>40527</integer>
+			<key>Name</key><string>Hol' Up</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Section 80</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4161582</integer>
+			<key>Total Time</key><integer>173191</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-02-18T12:48:45Z</date>
+			<key>Date Added</key><date>2014-02-18T12:49:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3477405772</integer>
+			<key>Play Date UTC</key><date>2014-03-11T23:02:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-01T17:41:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>24C85AB2EEB529BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kendrick%20Lamar/Section%2080/02%20Hol'%20Up.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40595</key>
+		<dict>
+			<key>Track ID</key><integer>40595</integer>
+			<key>Name</key><string>Chasing the Light</string>
+			<key>Artist</key><string>The Same</string>
+			<key>Album Artist</key><string>The Same</string>
+			<key>Composer</key><string>Felix Holscher</string>
+			<key>Album</key><string>Chasing the Light - Single</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8367843</integer>
+			<key>Total Time</key><integer>240468</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-02-23T15:29:17Z</date>
+			<key>Date Added</key><date>2014-02-23T15:29:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3477388175</integer>
+			<key>Play Date UTC</key><date>2014-03-11T18:09:35Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2014-03-12T05:00:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1806</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Same</string>
+			<key>Sort Artist</key><string>Same</string>
+			<key>Persistent ID</key><string>606A470C375A4888</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/The%20Same/Chasing%20the%20Light%20-%20Single/01%20Chasing%20the%20Light.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40631</key>
+		<dict>
+			<key>Track ID</key><integer>40631</integer>
+			<key>Name</key><string>Move That Dope Feat. Pharrell, Pusha T &#38; Casino (Lyrics) - 360p</string>
+			<key>Artist</key><string>Future</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8241549</integer>
+			<key>Total Time</key><integer>342961</integer>
+			<key>Date Modified</key><date>2014-02-27T03:59:42Z</date>
+			<key>Date Added</key><date>2014-02-27T03:59:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3477252072</integer>
+			<key>Play Date UTC</key><date>2014-03-10T04:21:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-10T12:18:36Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>235BC26756696131</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Future/Unknown%20Album/Move%20That%20Dope%20Feat.%20Pharrell,%20Pusha%20T%20&#38;%20Casino%20(Lyrics)%20-%20360p.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40703</key>
+		<dict>
+			<key>Track ID</key><integer>40703</integer>
+			<key>Name</key><string>Imagination Infatuation</string>
+			<key>Artist</key><string>MisterWives</string>
+			<key>Album Artist</key><string>MisterWives</string>
+			<key>Composer</key><string>Mandy Lee</string>
+			<key>Album</key><string>Reflections - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7525963</integer>
+			<key>Total Time</key><integer>212973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-08T15:10:03Z</date>
+			<key>Date Added</key><date>2014-03-08T15:09:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3477413644</integer>
+			<key>Play Date UTC</key><date>2014-03-12T01:14:04Z</date>
+			<key>Release Date</key><date>2014-01-07T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E49A067C43B66046</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/MisterWives/Reflections%20-%20EP/05%20Imagination%20Infatuation.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40705</key>
+		<dict>
+			<key>Track ID</key><integer>40705</integer>
+			<key>Name</key><string>Happy With Me</string>
+			<key>Artist</key><string>HOLYCHILD</string>
+			<key>Album Artist</key><string>HOLYCHILD</string>
+			<key>Composer</key><string>Elizabeth Lynn Nistico &#38; Louis Charles Diller</string>
+			<key>Album</key><string>Mindspeak EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6540819</integer>
+			<key>Total Time</key><integer>169253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-08T15:54:08Z</date>
+			<key>Date Added</key><date>2014-03-08T15:10:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3477457134</integer>
+			<key>Play Date UTC</key><date>2014-03-12T13:18:54Z</date>
+			<key>Release Date</key><date>2014-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5864</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C86CE55F727D0B06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/HOLYCHILD/Mindspeak%20EP/01%20Happy%20With%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40709</key>
+		<dict>
+			<key>Track ID</key><integer>40709</integer>
+			<key>Name</key><string>Every Time I Fall</string>
+			<key>Artist</key><string>HOLYCHILD</string>
+			<key>Album Artist</key><string>HOLYCHILD</string>
+			<key>Composer</key><string>Elizabeth Lynn Nistico &#38; Louis Charles Diller</string>
+			<key>Album</key><string>Mindspeak EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8015148</integer>
+			<key>Total Time</key><integer>202466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-08T15:54:08Z</date>
+			<key>Date Added</key><date>2014-03-08T15:10:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3477372390</integer>
+			<key>Play Date UTC</key><date>2014-03-11T13:46:30Z</date>
+			<key>Release Date</key><date>2014-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6085</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28242625FC3C5CD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/HOLYCHILD/Mindspeak%20EP/03%20Every%20Time%20I%20Fall.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40715</key>
+		<dict>
+			<key>Track ID</key><integer>40715</integer>
+			<key>Name</key><string>Not Going Home</string>
+			<key>Artist</key><string>Great Good Fine Ok</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8556729</integer>
+			<key>Total Time</key><integer>213864</integer>
+			<key>Date Modified</key><date>2014-03-08T14:53:07Z</date>
+			<key>Date Added</key><date>2014-03-08T15:31:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3477457348</integer>
+			<key>Play Date UTC</key><date>2014-03-12T13:22:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-08T15:31:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4115</integer>
+			<key>Persistent ID</key><string>5C9A4AF073E896AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Great%20Good%20Fine%20Ok/Unknown%20Album/Not%20Going%20Home.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40717</key>
+		<dict>
+			<key>Track ID</key><integer>40717</integer>
+			<key>Name</key><string>Losing to the Dark</string>
+			<key>Artist</key><string>La Sera</string>
+			<key>Album</key><string>Hour of the Dawn  </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7710974</integer>
+			<key>Total Time</key><integer>192720</integer>
+			<key>Date Modified</key><date>2014-03-08T15:34:21Z</date>
+			<key>Date Added</key><date>2014-03-08T15:31:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3477406636</integer>
+			<key>Play Date UTC</key><date>2014-03-11T23:17:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10059</integer>
+			<key>Persistent ID</key><string>49C77843E4DDA06D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/La%20Sera/Hour%20of%20the%20Dawn/Losing%20to%20the%20Dark.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40719</key>
+		<dict>
+			<key>Track ID</key><integer>40719</integer>
+			<key>Name</key><string>Money On My Mind</string>
+			<key>Artist</key><string>MisterWives</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3643759</integer>
+			<key>Total Time</key><integer>175307</integer>
+			<key>Date Modified</key><date>2014-03-08T15:08:11Z</date>
+			<key>Date Added</key><date>2014-03-08T15:31:22Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3477380041</integer>
+			<key>Play Date UTC</key><date>2014-03-11T15:54:01Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-03-11T13:46:39Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3489</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>266CAF510A474827</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/MisterWives/Unknown%20Album/Money%20On%20My%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41781</key>
+		<dict>
+			<key>Track ID</key><integer>41781</integer>
+			<key>Name</key><string>Fancy (feat. Charli XCX)</string>
+			<key>Artist</key><string>Iggy Azalea</string>
+			<key>Album Artist</key><string>Iggy Azalea</string>
+			<key>Composer</key><string>Iggy Azalea, Charli XCX, George Astasio, Jason Pebworth, Jon Shave, Kurtis Mckenzie, Joey Dyer &#38; Jon Mills</string>
+			<key>Album</key><string>Fancy (feat. Charli XCX) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8038406</integer>
+			<key>Total Time</key><integer>199967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-03-08T14:55:23Z</date>
+			<key>Date Added</key><date>2014-03-09T17:03:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3477456712</integer>
+			<key>Play Date UTC</key><date>2014-03-12T13:11:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B22523889E47D6F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Iggy%20Azalea/Fancy%20(feat.%20Charli%20XCX)%20-%20Single/01%20Fancy%20(feat.%20Charli%20XCX).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>120186</integer>
+			<key>Playlist Persistent ID</key><string>1A9BFBF9D3F0DA65</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>40117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41781</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

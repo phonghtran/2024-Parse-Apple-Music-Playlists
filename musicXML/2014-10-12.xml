@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-10-15T03:55:22Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19887</key>
+		<dict>
+			<key>Track ID</key><integer>19887</integer>
+			<key>Name</key><string>Still Not A Player</string>
+			<key>Artist</key><string>Big Punisher Featuring Joe</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8572687</integer>
+			<key>Total Time</key><integer>236247</integer>
+			<key>Track Number</key><integer>85</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-09-27T14:37:37Z</date>
+			<key>Date Added</key><date>2011-02-25T23:12:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3495268715</integer>
+			<key>Play Date UTC</key><date>2014-10-04T16:58:35Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-10-11T14:14:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>6662</integer>
+			<key>Persistent ID</key><string>5089834A6A61ADBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Big%20Punisher%20Featuring%20Joe/Unknown%20Album/85%20Still%20Not%20A%20Player.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47601</key>
+		<dict>
+			<key>Track ID</key><integer>47601</integer>
+			<key>Name</key><string>One Last Time</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>David Guetta, Savan Kotecha, Giorgio Tuinfort, Rami Yacoub &#38; Carl Falk</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7937741</integer>
+			<key>Total Time</key><integer>197328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-27T01:25:25Z</date>
+			<key>Date Added</key><date>2014-08-27T01:51:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3495439942</integer>
+			<key>Play Date UTC</key><date>2014-10-06T16:32:22Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-09-23T23:41:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>444670193C0E619F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/My%20Everything%20(Deluxe)/03%20One%20Last%20Time.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47621</key>
+		<dict>
+			<key>Track ID</key><integer>47621</integer>
+			<key>Name</key><string>Only 1</string>
+			<key>Artist</key><string>Ariana Grande</string>
+			<key>Album Artist</key><string>Ariana Grande</string>
+			<key>Composer</key><string>Ariana Grande, Tommy Brown, Travis Sayles, Victoria McCants &#38; Dennis Jenkins</string>
+			<key>Album</key><string>My Everything (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7805032</integer>
+			<key>Total Time</key><integer>194011</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-27T01:25:30Z</date>
+			<key>Date Added</key><date>2014-08-27T01:51:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3495439744</integer>
+			<key>Play Date UTC</key><date>2014-10-06T16:29:04Z</date>
+			<key>Skip Date</key><date>2014-09-05T23:05:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA3FAC8CE34C7EE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ariana%20Grande/My%20Everything%20(Deluxe)/14%20Only%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47777</key>
+		<dict>
+			<key>Track ID</key><integer>47777</integer>
+			<key>Name</key><string>Kathleen</string>
+			<key>Artist</key><string>Catfish and the Bottlemen</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2642762</integer>
+			<key>Total Time</key><integer>164493</integer>
+			<key>Date Modified</key><date>2014-09-06T23:02:11Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3495269574</integer>
+			<key>Play Date UTC</key><date>2014-10-04T17:12:54Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-09-30T00:15:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>909A416779CD3240</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Catfish%20and%20the%20Bottlemen/Unknown%20Album/Kathleen.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47807</key>
+		<dict>
+			<key>Track ID</key><integer>47807</integer>
+			<key>Name</key><string>Cool Kids</string>
+			<key>Artist</key><string>Echosmith</string>
+			<key>Album</key><string>Talking Dreams</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7698072</integer>
+			<key>Total Time</key><integer>237662</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-09-06T22:41:37Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3495440584</integer>
+			<key>Play Date UTC</key><date>2014-10-06T16:43:04Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2014-09-17T13:49:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2E76C133838CCE20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Echosmith/Talking%20Dreams/03%20Cool%20Kids.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47831</key>
+		<dict>
+			<key>Track ID</key><integer>47831</integer>
+			<key>Name</key><string>I Loved You</string>
+			<key>Artist</key><string>Blonde</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2983800</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Date Modified</key><date>2014-09-06T23:01:56Z</date>
+			<key>Date Added</key><date>2014-09-06T23:01:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3495725103</integer>
+			<key>Play Date UTC</key><date>2014-10-09T23:45:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-07T20:25:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B6E2C49D957D55D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Blonde/Unknown%20Album/I%20Loved%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>47963</key>
+		<dict>
+			<key>Track ID</key><integer>47963</integer>
+			<key>Name</key><string>OOO AAA</string>
+			<key>Artist</key><string>Cathedrals</string>
+			<key>Album Artist</key><string>Cathedrals</string>
+			<key>Album</key><string>Cathedrals EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10854435</integer>
+			<key>Total Time</key><integer>325333</integer>
+			<key>Stop Time</key><integer>303000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-13T21:18:57Z</date>
+			<key>Date Added</key><date>2014-09-13T19:34:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3495438842</integer>
+			<key>Play Date UTC</key><date>2014-10-06T16:14:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5733</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35C57B35BBF60F6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Cathedrals/Cathedrals%20EP/03%20OOO%20AAA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49481</key>
+		<dict>
+			<key>Track ID</key><integer>49481</integer>
+			<key>Name</key><string>Shake It Off</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>1989 (Deluxe)</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8847982</integer>
+			<key>Total Time</key><integer>219245</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-21T14:13:14Z</date>
+			<key>Date Added</key><date>2014-09-21T14:16:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3495440161</integer>
+			<key>Play Date UTC</key><date>2014-10-06T16:36:01Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>059066A2C1377F0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Taylor%20Swift/1989%20(Deluxe)/06%20Shake%20It%20Off.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49771</key>
+		<dict>
+			<key>Track ID</key><integer>49771</integer>
+			<key>Name</key><string>Say My Name (RAC Mix)</string>
+			<key>Artist</key><string>ODESZA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3890893</integer>
+			<key>Total Time</key><integer>243173</integer>
+			<key>Date Modified</key><date>2014-09-30T00:26:38Z</date>
+			<key>Date Added</key><date>2014-09-30T00:15:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3495439306</integer>
+			<key>Play Date UTC</key><date>2014-10-06T16:21:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-30T00:15:24Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5866856E8E4E6347</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/ODESZA/Unknown%20Album/Say%20My%20Name%20(RAC%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49773</key>
+		<dict>
+			<key>Track ID</key><integer>49773</integer>
+			<key>Name</key><string>i</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4167159</integer>
+			<key>Total Time</key><integer>260440</integer>
+			<key>Start Time</key><integer>29000</integer>
+			<key>Date Modified</key><date>2014-09-30T00:39:37Z</date>
+			<key>Date Added</key><date>2014-09-30T00:15:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3495269166</integer>
+			<key>Play Date UTC</key><date>2014-10-04T17:06:06Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>84FE1EEE8D4EBD34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kendrick%20Lamar/Unknown%20Album/i.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49775</key>
+		<dict>
+			<key>Track ID</key><integer>49775</integer>
+			<key>Name</key><string>What Should I Do</string>
+			<key>Artist</key><string>Jaymes Young</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3538966</integer>
+			<key>Total Time</key><integer>221178</integer>
+			<key>Date Modified</key><date>2014-09-27T16:11:56Z</date>
+			<key>Date Added</key><date>2014-09-30T00:15:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3496148887</integer>
+			<key>Play Date UTC</key><date>2014-10-14T21:28:07Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D29716F903D020DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Jaymes%20Young/Unknown%20Album/What%20Should%20I%20Do.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49777</key>
+		<dict>
+			<key>Track ID</key><integer>49777</integer>
+			<key>Name</key><string>Sweetest Hangover (Ft. Marc E Bassy)</string>
+			<key>Artist</key><string>Skizzy Mars</string>
+			<key>Album Artist</key><string>Skizzy Mars</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3590710</integer>
+			<key>Total Time</key><integer>219846</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-27T15:42:08Z</date>
+			<key>Date Added</key><date>2014-09-30T00:15:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3495601586</integer>
+			<key>Play Date UTC</key><date>2014-10-08T13:26:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89BA88700DBD4B13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Skizzy%20Mars/Unknown%20Album/01%20Sweetest%20Hangover%20(Ft.%20Marc%20E%20Bassy).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49779</key>
+		<dict>
+			<key>Track ID</key><integer>49779</integer>
+			<key>Name</key><string>Bad Thing Feat. Joey Bada$$</string>
+			<key>Artist</key><string>Kiesza</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3385589</integer>
+			<key>Total Time</key><integer>211591</integer>
+			<key>Date Modified</key><date>2014-09-30T00:25:23Z</date>
+			<key>Date Added</key><date>2014-09-30T00:15:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3495270437</integer>
+			<key>Play Date UTC</key><date>2014-10-04T17:27:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-10-11T14:14:58Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>DF745A5E286BC46F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Kiesza/Unknown%20Album/Bad%20Thing%20Feat.%20Joey%20Bada$$.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49783</key>
+		<dict>
+			<key>Track ID</key><integer>49783</integer>
+			<key>Name</key><string>Snow In Newark (with Dawn Golden)</string>
+			<key>Artist</key><string>Ryan Hemsworth</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3904281</integer>
+			<key>Total Time</key><integer>244009</integer>
+			<key>Date Modified</key><date>2014-09-27T16:51:49Z</date>
+			<key>Date Added</key><date>2014-09-30T00:15:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3496154615</integer>
+			<key>Play Date UTC</key><date>2014-10-14T23:03:35Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5CD249D083F5890E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/phonghtran/Music/iTunes/iTunes%20Media/Music/Ryan%20Hemsworth/Unknown%20Album/Snow%20In%20Newark%20(with%20Dawn%20Golden).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>128822</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47807</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49777</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-09-22T05:26:07Z</date>
+	<key>Application Version</key><string>12.3.0.44</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>44361</key>
+		<dict>
+			<key>Track ID</key><integer>44361</integer>
+			<key>Name</key><string>Alright</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>K. Duckworth, P. Williams &#38; M. Spears</string>
+			<key>Album</key><string>To Pimp a Butterfly</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7808746</integer>
+			<key>Total Time</key><integer>219337</integer>
+			<key>Stop Time</key><integer>194000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-25T02:07:20Z</date>
+			<key>Date Added</key><date>2015-03-25T04:20:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3525503279</integer>
+			<key>Play Date UTC</key><date>2015-09-19T17:27:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-05T16:17:40Z</date>
+			<key>Release Date</key><date>2015-03-23T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3116</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Pimp a Butterfly</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Composer</key><string>K. Duckworth, P. Williams &#38; M. Spears</string>
+			<key>Sort Name</key><string>Alright</string>
+			<key>Persistent ID</key><string>4D8A1B9DFB260E2F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kendrick%20Lamar/To%20Pimp%20a%20Butterfly/07%20Alright.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>45509</key>
+		<dict>
+			<key>Track ID</key><integer>45509</integer>
+			<key>Name</key><string>Started From the Bottom</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Drake Graham, W. Coleman &#38; Noah Shebib</string>
+			<key>Album</key><string>Nothing Was the Same</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6234773</integer>
+			<key>Total Time</key><integer>173922</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-30T19:00:46Z</date>
+			<key>Date Added</key><date>2015-08-30T19:00:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3525519306</integer>
+			<key>Play Date UTC</key><date>2015-09-19T21:55:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nothing Was the Same</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Started From the Bottom</string>
+			<key>Persistent ID</key><string>9295E3145D1F7C5E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45515</key>
+		<dict>
+			<key>Track ID</key><integer>45515</integer>
+			<key>Name</key><string>R.I.P. 2 My Youth</string>
+			<key>Artist</key><string>The Neighbourhood</string>
+			<key>Album Artist</key><string>The Neighbourhood</string>
+			<key>Composer</key><string>Jesse James Rutherford, Justyn Pilbrow, Zachary Abels, Michael Margott, Jeremiah Freedman &#38; Benjamin Levin</string>
+			<key>Album</key><string>Wiped Out!</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7231965</integer>
+			<key>Total Time</key><integer>205276</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T15:39:01Z</date>
+			<key>Date Added</key><date>2015-09-05T15:39:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3525509877</integer>
+			<key>Play Date UTC</key><date>2015-09-19T19:17:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wiped Out!</string>
+			<key>Sort Album Artist</key><string>Neighbourhood</string>
+			<key>Sort Artist</key><string>Neighbourhood</string>
+			<key>Sort Name</key><string>R.I.P. 2 My Youth</string>
+			<key>Persistent ID</key><string>5321B8EDF1CDC61F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45521</key>
+		<dict>
+			<key>Track ID</key><integer>45521</integer>
+			<key>Name</key><string>I'm Yours</string>
+			<key>Artist</key><string>Alessia Cara</string>
+			<key>Album Artist</key><string>Alessia Cara</string>
+			<key>Composer</key><string>Alessia Caracciolo, Coleridge Tillman, Andrew "Pop" Wansel &#38; Warren "Oak" Felder</string>
+			<key>Album</key><string>Four Pink Walls - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8109968</integer>
+			<key>Total Time</key><integer>228692</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T15:39:51Z</date>
+			<key>Date Added</key><date>2015-09-05T15:39:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3525504981</integer>
+			<key>Play Date UTC</key><date>2015-09-19T17:56:21Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Four Pink Walls - EP</string>
+			<key>Sort Artist</key><string>Alessia Cara</string>
+			<key>Sort Name</key><string>I'm Yours</string>
+			<key>Persistent ID</key><string>6A8DEE39EC4F8B2F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45527</key>
+		<dict>
+			<key>Track ID</key><integer>45527</integer>
+			<key>Name</key><string>Can't Sleep Love</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Pentatonix, Elof Loelv, Kevin Figueiredo &#38; Teddy Pena</string>
+			<key>Album</key><string>Pentatonix (Deluxe Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6366439</integer>
+			<key>Total Time</key><integer>173055</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T15:49:37Z</date>
+			<key>Date Added</key><date>2015-09-05T15:49:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3525503681</integer>
+			<key>Play Date UTC</key><date>2015-09-19T17:34:41Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-14T05:01:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Can't Sleep Love</string>
+			<key>Persistent ID</key><string>DFD45E0F5A3B4FF5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45529</key>
+		<dict>
+			<key>Track ID</key><integer>45529</integer>
+			<key>Name</key><string>Real Life</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Album Artist</key><string>The Weeknd</string>
+			<key>Composer</key><string>Abel Tesfaye, Jason Quenneville &#38; Stephan Moccio</string>
+			<key>Album</key><string>Beauty Behind the Madness</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8148195</integer>
+			<key>Total Time</key><integer>223348</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T15:53:14Z</date>
+			<key>Date Added</key><date>2015-09-05T15:53:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3525503085</integer>
+			<key>Play Date UTC</key><date>2015-09-19T17:24:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-07T19:56:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Beauty Behind the Madness</string>
+			<key>Sort Album Artist</key><string>Weeknd</string>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Sort Name</key><string>Real Life</string>
+			<key>Persistent ID</key><string>398549474085CFAE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45531</key>
+		<dict>
+			<key>Track ID</key><integer>45531</integer>
+			<key>Name</key><string>U12</string>
+			<key>Artist</key><string>Daya</string>
+			<key>Album Artist</key><string>Daya</string>
+			<key>Album</key><string>Daya - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7335218</integer>
+			<key>Total Time</key><integer>203714</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T15:53:53Z</date>
+			<key>Date Added</key><date>2015-09-05T15:53:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3525519120</integer>
+			<key>Play Date UTC</key><date>2015-09-19T21:52:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-07T00:42:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Daya - EP</string>
+			<key>Sort Artist</key><string>Daya</string>
+			<key>Sort Name</key><string>U12</string>
+			<key>Persistent ID</key><string>4207E2C9661096E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45533</key>
+		<dict>
+			<key>Track ID</key><integer>45533</integer>
+			<key>Name</key><string>Change the Channel</string>
+			<key>Artist</key><string>Francesco Yates</string>
+			<key>Album Artist</key><string>Francesco Yates</string>
+			<key>Album</key><string>Francesco Yates - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8347050</integer>
+			<key>Total Time</key><integer>232405</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T15:55:31Z</date>
+			<key>Date Added</key><date>2015-09-05T15:55:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3525519538</integer>
+			<key>Play Date UTC</key><date>2015-09-19T21:58:58Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Francesco Yates - EP</string>
+			<key>Sort Artist</key><string>Francesco Yates</string>
+			<key>Sort Name</key><string>Change the Channel</string>
+			<key>Persistent ID</key><string>6E6B578CF0D022B7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45539</key>
+		<dict>
+			<key>Track ID</key><integer>45539</integer>
+			<key>Name</key><string>Without You</string>
+			<key>Artist</key><string>Oh Wonder</string>
+			<key>Album Artist</key><string>Oh Wonder</string>
+			<key>Composer</key><string>Josephine Vander Gucht &#38; Anthony West</string>
+			<key>Album</key><string>Oh Wonder</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7996558</integer>
+			<key>Total Time</key><integer>224740</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T16:00:25Z</date>
+			<key>Date Added</key><date>2015-09-05T16:00:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3525407254</integer>
+			<key>Play Date UTC</key><date>2015-09-18T14:47:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Oh Wonder</string>
+			<key>Sort Artist</key><string>Oh Wonder</string>
+			<key>Sort Name</key><string>Without You</string>
+			<key>Persistent ID</key><string>9369AB20C9719678</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45575</key>
+		<dict>
+			<key>Track ID</key><integer>45575</integer>
+			<key>Name</key><string>What Do You Mean?</string>
+			<key>Artist</key><string>Justin Bieber</string>
+			<key>Album Artist</key><string>Justin Bieber</string>
+			<key>Composer</key><string>Justin Bieber, Jason Boyd &#38; Mason Levy</string>
+			<key>Album</key><string>What Do You Mean? - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7266930</integer>
+			<key>Total Time</key><integer>207552</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-05T16:12:06Z</date>
+			<key>Date Added</key><date>2015-09-05T16:12:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3525510318</integer>
+			<key>Play Date UTC</key><date>2015-09-19T19:25:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-08T06:42:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What Do You Mean? - Single</string>
+			<key>Sort Artist</key><string>Justin Bieber</string>
+			<key>Sort Name</key><string>What Do You Mean?</string>
+			<key>Persistent ID</key><string>4A00F473F885797B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45577</key>
+		<dict>
+			<key>Track ID</key><integer>45577</integer>
+			<key>Name</key><string>Hold My Hand</string>
+			<key>Artist</key><string>Jess Glynne</string>
+			<key>Album Artist</key><string>Jess Glynne</string>
+			<key>Album</key><string>I Cry When I Laugh</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8129114</integer>
+			<key>Total Time</key><integer>227344</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-14T17:27:08Z</date>
+			<key>Date Added</key><date>2015-09-14T17:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3525518916</integer>
+			<key>Play Date UTC</key><date>2015-09-19T21:48:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-18T06:19:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Cry When I Laugh</string>
+			<key>Sort Artist</key><string>Jess Glynne</string>
+			<key>Sort Name</key><string>Hold My Hand</string>
+			<key>Persistent ID</key><string>EE30CB30DA5C53AE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45579</key>
+		<dict>
+			<key>Track ID</key><integer>45579</integer>
+			<key>Name</key><string>Clearest Blue</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Album Artist</key><string>CHVRCHES</string>
+			<key>Composer</key><string>Iain Cook, Martin Doherty &#38; Lauren Mayberry</string>
+			<key>Album</key><string>Clearest Blue - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8239667</integer>
+			<key>Total Time</key><integer>233769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-14T18:06:18Z</date>
+			<key>Date Added</key><date>2015-09-14T18:06:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3525510111</integer>
+			<key>Play Date UTC</key><date>2015-09-19T19:21:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clearest Blue - Single</string>
+			<key>Sort Artist</key><string>CHVRCHES</string>
+			<key>Sort Name</key><string>Clearest Blue</string>
+			<key>Persistent ID</key><string>AB6B7C10BA5495D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45581</key>
+		<dict>
+			<key>Track ID</key><integer>45581</integer>
+			<key>Name</key><string>Fell in the Sun</string>
+			<key>Artist</key><string>Big Grams</string>
+			<key>Album Artist</key><string>Big Grams</string>
+			<key>Composer</key><string>Antwan Patton</string>
+			<key>Album</key><string>Big Grams - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8456334</integer>
+			<key>Total Time</key><integer>227338</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-14T21:47:49Z</date>
+			<key>Date Added</key><date>2015-09-14T21:47:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3525508975</integer>
+			<key>Play Date UTC</key><date>2015-09-19T19:02:55Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Grams - EP</string>
+			<key>Sort Artist</key><string>Big Grams</string>
+			<key>Sort Name</key><string>Fell in the Sun</string>
+			<key>Persistent ID</key><string>9DF899A6FC9329AC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45583</key>
+		<dict>
+			<key>Track ID</key><integer>45583</integer>
+			<key>Name</key><string>Can't Sleep</string>
+			<key>Artist</key><string>Gary Clark Jr.</string>
+			<key>Album Artist</key><string>Gary Clark Jr.</string>
+			<key>Album</key><string>The Story of Sonny Boy Slim</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8072952</integer>
+			<key>Total Time</key><integer>227693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-14T22:01:17Z</date>
+			<key>Date Added</key><date>2015-09-14T22:01:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3525509672</integer>
+			<key>Play Date UTC</key><date>2015-09-19T19:14:32Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Story of Sonny Boy Slim</string>
+			<key>Sort Artist</key><string>Gary Clark Jr.</string>
+			<key>Sort Name</key><string>Can't Sleep</string>
+			<key>Persistent ID</key><string>FC043F42DC26B932</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45585</key>
+		<dict>
+			<key>Track ID</key><integer>45585</integer>
+			<key>Name</key><string>On My Mind</string>
+			<key>Artist</key><string>Ellie Goulding</string>
+			<key>Album Artist</key><string>Ellie Goulding</string>
+			<key>Composer</key><string>Ellie Goulding, Max Martin, Savan Kotecha &#38; Ilya</string>
+			<key>Album</key><string>On My Mind - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7656028</integer>
+			<key>Total Time</key><integer>213445</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-18T06:08:05Z</date>
+			<key>Date Added</key><date>2015-09-18T06:08:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3525584546</integer>
+			<key>Play Date UTC</key><date>2015-09-20T16:02:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On My Mind - Single</string>
+			<key>Sort Artist</key><string>Ellie Goulding</string>
+			<key>Sort Name</key><string>On My Mind</string>
+			<key>Persistent ID</key><string>4086917626FDF44B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45601</key>
+		<dict>
+			<key>Track ID</key><integer>45601</integer>
+			<key>Name</key><string>Bad Blood</string>
+			<key>Artist</key><string>Ryan Adams</string>
+			<key>Album Artist</key><string>Ryan Adams</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>1989</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8365752</integer>
+			<key>Total Time</key><integer>235115</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-21T03:54:04Z</date>
+			<key>Date Added</key><date>2015-09-21T03:54:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>1989</string>
+			<key>Sort Artist</key><string>Ryan Adams</string>
+			<key>Sort Name</key><string>Bad Blood</string>
+			<key>Persistent ID</key><string>61813DC5E18EDE75</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45613</key>
+		<dict>
+			<key>Track ID</key><integer>45613</integer>
+			<key>Name</key><string>Merry Go 'Round</string>
+			<key>Artist</key><string>Kacey Musgraves</string>
+			<key>Album Artist</key><string>Kacey Musgraves</string>
+			<key>Composer</key><string>Kacey Musgraves, Josh Osborne &#38; Shane McAnally</string>
+			<key>Album</key><string>Same Trailer Different Park</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7371739</integer>
+			<key>Total Time</key><integer>208743</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-09-21T05:51:16Z</date>
+			<key>Date Added</key><date>2015-09-21T05:51:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Same Trailer Different Park</string>
+			<key>Sort Artist</key><string>Kacey Musgraves</string>
+			<key>Sort Name</key><string>Merry Go 'Round</string>
+			<key>Persistent ID</key><string>F88D1A56F90B8130</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45625</key>
+		<dict>
+			<key>Track ID</key><integer>45625</integer>
+			<key>Name</key><string>Step Off</string>
+			<key>Artist</key><string>Kacey Musgraves</string>
+			<key>Album Artist</key><string>Kacey Musgraves</string>
+			<key>Composer</key><string>Kacey Musgraves, Luke Laird &#38; Shane McAnally</string>
+			<key>Album</key><string>Same Trailer Different Park</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6576797</integer>
+			<key>Total Time</key><integer>183049</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-09-21T05:51:30Z</date>
+			<key>Date Added</key><date>2015-09-21T05:51:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Same Trailer Different Park</string>
+			<key>Sort Artist</key><string>Kacey Musgraves</string>
+			<key>Sort Name</key><string>Step Off</string>
+			<key>Persistent ID</key><string>5171B001BB657493</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>45641</key>
+		<dict>
+			<key>Track ID</key><integer>45641</integer>
+			<key>Name</key><string>Live From the Gutter</string>
+			<key>Artist</key><string>Drake &#38; Future</string>
+			<key>Album Artist</key><string>Drake &#38; Future</string>
+			<key>Composer</key><string>Aubrey Graham, Nayvadius Wilburn, Leland Wayne &#38; Matthew Samuels</string>
+			<key>Album</key><string>What a Time To Be Alive</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7453728</integer>
+			<key>Total Time</key><integer>211643</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-09-21T05:51:47Z</date>
+			<key>Date Added</key><date>2015-09-21T05:51:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What a Time To Be Alive</string>
+			<key>Sort Artist</key><string>Drake &#38; Future</string>
+			<key>Sort Name</key><string>Live From the Gutter</string>
+			<key>Persistent ID</key><string>9E34C46FDBE7BB61</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>130616</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45625</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

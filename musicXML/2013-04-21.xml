@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-21T21:57:36Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35338</key>
+		<dict>
+			<key>Track ID</key><integer>35338</integer>
+			<key>Name</key><string>Starring</string>
+			<key>Artist</key><string>Freelance Whales</string>
+			<key>Album</key><string>Weathervanes</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7373368</integer>
+			<key>Total Time</key><integer>215275</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-01-07T13:32:34Z</date>
+			<key>Date Added</key><date>2012-01-09T00:53:27Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3449394100</integer>
+			<key>Play Date UTC</key><date>2013-04-21T18:01:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B256B7EA02488889</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/Freelance%20Whales/Weathervanes/05%20Starring.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39140</key>
+		<dict>
+			<key>Track ID</key><integer>39140</integer>
+			<key>Name</key><string>Blue Eyes Blind</string>
+			<key>Artist</key><string>ZZ Ward</string>
+			<key>Album Artist</key><string>ZZ Ward</string>
+			<key>Album</key><string>Til the Casket Drops</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6807766</integer>
+			<key>Total Time</key><integer>204930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-25T17:13:31Z</date>
+			<key>Date Added</key><date>2013-01-26T01:22:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3449395848</integer>
+			<key>Play Date UTC</key><date>2013-04-21T18:30:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A50714AF5A16A80C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Til%20the%20Casket%20Drops/ZZ%20Ward%20-%20Til%20The%20Casket%20Drops%20-%2003%20%20Blue%20Eyes%20Blind.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39528</key>
+		<dict>
+			<key>Track ID</key><integer>39528</integer>
+			<key>Name</key><string>A Bout</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>It Hurts - EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4347368</integer>
+			<key>Total Time</key><integer>137247</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-30T09:20:18Z</date>
+			<key>Date Added</key><date>2013-03-02T18:45:00Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://badbadhats.bandcamp.com</string>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3449353070</integer>
+			<key>Play Date UTC</key><date>2013-04-21T06:37:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Bout</string>
+			<key>Persistent ID</key><string>5C23759C341BFD00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP%20-%2005%20A%20Bout.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39708</key>
+		<dict>
+			<key>Track ID</key><integer>39708</integer>
+			<key>Name</key><string>Ripe</string>
+			<key>Artist</key><string>Givers</string>
+			<key>Album</key><string>In Light</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12299715</integer>
+			<key>Total Time</key><integer>305423</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-03-22T13:13:45Z</date>
+			<key>Date Added</key><date>2013-03-22T22:42:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3449330806</integer>
+			<key>Play Date UTC</key><date>2013-04-21T00:26:46Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-04-20T16:45:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58B5E1FCCFD48EAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Givers%20-%20In%20Light%20%20(2011)%20%5B320kbps%5D%20%5Bmp3%5D/04%20-%20Ripe.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39810</key>
+		<dict>
+			<key>Track ID</key><integer>39810</integer>
+			<key>Name</key><string>Damn Girl</string>
+			<key>Artist</key><string>Justin Timberlake</string>
+			<key>Album</key><string>Futuresex/Lovesounds</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7503574</integer>
+			<key>Total Time</key><integer>312633</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-04-05T23:26:43Z</date>
+			<key>Date Added</key><date>2013-04-05T23:30:01Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3449385268</integer>
+			<key>Play Date UTC</key><date>2013-04-21T15:34:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>55D288CED24E5A70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Justin%20Timberlake%20-%20FutureSex%20%5B2006%5D%5BCD+SkidVid+Cov%5D/08%20%20Justin%20Timberlake%20-%20Damn%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39868</key>
+		<dict>
+			<key>Track ID</key><integer>39868</integer>
+			<key>Name</key><string>I Will Be Back One Day</string>
+			<key>Artist</key><string>Lord Huron</string>
+			<key>Album Artist</key><string>Lord Huron</string>
+			<key>Album</key><string>Lonesome Dreams</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8240413</integer>
+			<key>Total Time</key><integer>205975</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-04-06T19:26:01Z</date>
+			<key>Date Added</key><date>2013-04-06T19:32:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3449329145</integer>
+			<key>Play Date UTC</key><date>2013-04-20T23:59:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-04-20T02:51:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>3F17FD2FFA568119</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Lord%20Huron%20-%20Lonesome%20Dreams/06%20I%20Will%20Be%20Back%20One%20Day.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40018</key>
+		<dict>
+			<key>Track ID</key><integer>40018</integer>
+			<key>Name</key><string>Not Just Your Little Girl</string>
+			<key>Album</key><string>Adventure Time</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>350643</integer>
+			<key>Total Time</key><integer>21629</integer>
+			<key>Track Number</key><integer>74</integer>
+			<key>Date Modified</key><date>2013-04-14T18:28:29Z</date>
+			<key>Date Added</key><date>2013-04-10T05:00:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>170</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3449385858</integer>
+			<key>Play Date UTC</key><date>2013-04-21T15:44:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-04-20T02:52:07Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>EC0F8E4BC87DA3BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Adventure%20Time%20Songs/Not%20Just%20Your%20Little%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40020</key>
+		<dict>
+			<key>Track ID</key><integer>40020</integer>
+			<key>Name</key><string>Nuts</string>
+			<key>Album</key><string>Adventure Time</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>856464</integer>
+			<key>Total Time</key><integer>53237</integer>
+			<key>Track Number</key><integer>85</integer>
+			<key>Date Modified</key><date>2013-04-14T18:28:42Z</date>
+			<key>Date Added</key><date>2013-04-10T05:00:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Volume Adjustment</key><integer>220</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3449341856</integer>
+			<key>Play Date UTC</key><date>2013-04-21T03:30:56Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2013-04-20T02:52:15Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6C2A90C16E0E049C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Adventure%20Time%20Songs/Nuts.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40044</key>
+		<dict>
+			<key>Track ID</key><integer>40044</integer>
+			<key>Name</key><string>Winter</string>
+			<key>Artist</key><string>Maps &#38; Atlases</string>
+			<key>Album</key><string>Beware and Be Grateful</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10901533</integer>
+			<key>Total Time</key><integer>272280</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-04-14T21:45:24Z</date>
+			<key>Date Added</key><date>2013-04-14T17:01:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3449330119</integer>
+			<key>Play Date UTC</key><date>2013-04-21T00:15:19Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-04-20T17:01:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>416D4D07DF4D758B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Maps%20and%20Atlases-Beware%20and%20Be%20Grateful%20(2012)%20320Kbit(mp3)%20DMT/03%20Winter.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40052</key>
+		<dict>
+			<key>Track ID</key><integer>40052</integer>
+			<key>Name</key><string>Be Three Years Old</string>
+			<key>Artist</key><string>Maps &#38; Atlases</string>
+			<key>Album</key><string>Beware and Be Grateful</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7538653</integer>
+			<key>Total Time</key><integer>188208</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-04-14T21:45:47Z</date>
+			<key>Date Added</key><date>2013-04-14T17:01:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3449385456</integer>
+			<key>Play Date UTC</key><date>2013-04-21T15:37:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-04-16T03:35:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>EB5B7305F0134901</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Maps%20and%20Atlases-Beware%20and%20Be%20Grateful%20(2012)%20320Kbit(mp3)%20DMT/07%20Be%20Three%20Years%20Old.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40204</key>
+		<dict>
+			<key>Track ID</key><integer>40204</integer>
+			<key>Name</key><string>Better Off</string>
+			<key>Artist</key><string>Haim</string>
+			<key>Album</key><string>Forever EP</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8829006</integer>
+			<key>Total Time</key><integer>216920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-04-20T01:56:53Z</date>
+			<key>Date Added</key><date>2013-04-20T02:14:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>254</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3449330336</integer>
+			<key>Play Date UTC</key><date>2013-04-21T00:18:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AFAC47622735B3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Haim/Forever%20EP/01%20Better%20Off.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40208</key>
+		<dict>
+			<key>Track ID</key><integer>40208</integer>
+			<key>Name</key><string>Leaving You (Radio Edit)</string>
+			<key>Artist</key><string>Audien/Michael S.</string>
+			<key>Album Artist</key><string>Audien</string>
+			<key>Composer</key><string>N. Rathbun/M. SanFilippo</string>
+			<key>Album</key><string>Leaving You (Feat Michael S.) [Radio Edit] - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8618259</integer>
+			<key>Total Time</key><integer>214256</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-20T01:54:17Z</date>
+			<key>Date Added</key><date>2013-04-20T02:14:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3449393885</integer>
+			<key>Play Date UTC</key><date>2013-04-21T17:58:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFEB38A6770DB785</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Audien%20Feat%20Michael%20S.%20-%20Leaving%20You%20(Radio%20Edit).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40222</key>
+		<dict>
+			<key>Track ID</key><integer>40222</integer>
+			<key>Name</key><string>Stay Out</string>
+			<key>Artist</key><string>Nina Nesbitt</string>
+			<key>Album Artist</key><string>Nina Nesbitt</string>
+			<key>Composer</key><string>101frq.blog.163.com</string>
+			<key>Album</key><string>Stay Out EP</string>
+			<key>Genre</key><string>Singer-songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6277981</integer>
+			<key>Total Time</key><integer>165015</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-20T01:40:22Z</date>
+			<key>Date Added</key><date>2013-04-20T02:14:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>101frq.blog.163.com</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3449396013</integer>
+			<key>Play Date UTC</key><date>2013-04-21T18:33:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-04-20T02:17:09Z</date>
+			<key>Release Date</key><date>2013-04-05T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5632</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Series</key><string>101frq.blog.163.com</string>
+			<key>Persistent ID</key><string>12D32A0D9A30F02D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Nina%20Nesbitt-Stay%20Out%20EP/01%20Stay%20Out.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40234</key>
+		<dict>
+			<key>Track ID</key><integer>40234</integer>
+			<key>Name</key><string>Jet Blue Jet (feat. Leftside, GTA, Razz &#38; Biggy)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Album Artist</key><string>Major Lazer</string>
+			<key>Album</key><string>Free the Universe</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8169223</integer>
+			<key>Total Time</key><integer>199209</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-04-20T02:26:26Z</date>
+			<key>Date Added</key><date>2013-04-20T02:35:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3449384955</integer>
+			<key>Play Date UTC</key><date>2013-04-21T15:29:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F8BDD7CAAD81BD42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Major%20Lazer%20-%20Free%20The%20Universe%202013%20Electronic%20320kbps%20CBR%20MP3%20%5BVX%5D/02%20Major%20Lazer%20-%20Jet%20Blue%20Jet%20(feat.%20Leftside,%20GTA,%20Razz%20&#38;%20Biggy).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40254</key>
+		<dict>
+			<key>Track ID</key><integer>40254</integer>
+			<key>Name</key><string>Bubble Butt (feat. Bruno Mars, Tyga &#38; Mystic)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Album Artist</key><string>Major Lazer</string>
+			<key>Album</key><string>Free the Universe</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9315476</integer>
+			<key>Total Time</key><integer>227866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-04-20T02:29:07Z</date>
+			<key>Date Added</key><date>2013-04-20T02:35:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3449393676</integer>
+			<key>Play Date UTC</key><date>2013-04-21T17:54:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>31D49C67873C52B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Major%20Lazer%20-%20Free%20The%20Universe%202013%20Electronic%20320kbps%20CBR%20MP3%20%5BVX%5D/12%20Major%20Lazer%20-%20Bubble%20Butt%20(feat.%20Bruno%20Mars,%20Tyga%20&#38;%20Mystic).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>89719</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39708</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39810</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40044</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40234</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

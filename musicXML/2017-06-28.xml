@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-06-28T15:04:15Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>2669A17526BB44EC</string>
+	<key>Tracks</key>
+	<dict>
+		<key>18363</key>
+		<dict>
+			<key>Track ID</key><integer>18363</integer>
+			<key>Name</key><string>Run It Up</string>
+			<key>Artist</key><string>Penguin Prison</string>
+			<key>Album Artist</key><string>Penguin Prison</string>
+			<key>Composer</key><string>Chris Glover &#38; David Gross</string>
+			<key>Album</key><string>Lost in New York</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8870676</integer>
+			<key>Total Time</key><integer>244027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-23T14:58:19Z</date>
+			<key>Date Added</key><date>2015-07-23T14:58:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3581364785</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:33:05Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lost in New York</string>
+			<key>Sort Artist</key><string>Penguin Prison</string>
+			<key>Sort Name</key><string>Run It Up</string>
+			<key>Persistent ID</key><string>3F8536C42FE1F4D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26445</key>
+		<dict>
+			<key>Track ID</key><integer>26445</integer>
+			<key>Name</key><string>Listen Up</string>
+			<key>Artist</key><string>Nicole Atkins</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3236301</integer>
+			<key>Total Time</key><integer>191534</integer>
+			<key>Start Time</key><integer>20000</integer>
+			<key>Date Modified</key><date>2017-05-18T17:02:05Z</date>
+			<key>Date Added</key><date>2017-05-18T17:02:01Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3581397978</integer>
+			<key>Play Date UTC</key><date>2017-06-27T15:46:18Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2017-06-19T14:56:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7437</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB274A7B6988D7EA</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>26491</key>
+		<dict>
+			<key>Track ID</key><integer>26491</integer>
+			<key>Name</key><string>Believe</string>
+			<key>Artist</key><string>Benjamin Booker</string>
+			<key>Album Artist</key><string>Benjamin Booker</string>
+			<key>Composer</key><string>Benjamin Booker</string>
+			<key>Album</key><string>Witness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8309448</integer>
+			<key>Total Time</key><integer>234274</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-30T04:58:43Z</date>
+			<key>Date Added</key><date>2017-05-30T04:58:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3581448795</integer>
+			<key>Play Date UTC</key><date>2017-06-28T05:53:15Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-06-16T18:04:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Witness</string>
+			<key>Sort Artist</key><string>Benjamin Booker</string>
+			<key>Sort Name</key><string>Believe</string>
+			<key>Persistent ID</key><string>5C16A95E572CEB2E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26499</key>
+		<dict>
+			<key>Track ID</key><integer>26499</integer>
+			<key>Name</key><string>“F.B.G.M.” (feat. Young M.A.)</string>
+			<key>Artist</key><string>T-Pain</string>
+			<key>Album Artist</key><string>T-Pain</string>
+			<key>Composer</key><string>T-Pain, Andre Proctor, Josh Jaramillo, Ngandu Andy Kabamba &#38; Katorah Marrero</string>
+			<key>Album</key><string>“F.B.G.M.” (feat. Young M.A.) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6784135</integer>
+			<key>Total Time</key><integer>188832</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-30T06:19:35Z</date>
+			<key>Date Added</key><date>2017-05-30T06:19:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3581448175</integer>
+			<key>Play Date UTC</key><date>2017-06-28T05:42:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>“F.B.G.M.” (feat. Young M.A.) - Single</string>
+			<key>Sort Artist</key><string>T-Pain</string>
+			<key>Sort Name</key><string>“F.B.G.M.” (feat. Young M.A.)</string>
+			<key>Persistent ID</key><string>FB1AA23656A260D5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26645</key>
+		<dict>
+			<key>Track ID</key><integer>26645</integer>
+			<key>Name</key><string>Inferiority complex (feat. Eunha)</string>
+			<key>Artist</key><string>박경</string>
+			<key>Album Artist</key><string>박경</string>
+			<key>Album</key><string>Notebook - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7315140</integer>
+			<key>Total Time</key><integer>204376</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-06-08T06:33:25Z</date>
+			<key>Date Added</key><date>2017-06-08T06:33:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3581341345</integer>
+			<key>Play Date UTC</key><date>2017-06-27T00:02:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Notebook - EP</string>
+			<key>Sort Artist</key><string>박경</string>
+			<key>Sort Name</key><string>Inferiority complex (feat. Eunha)</string>
+			<key>Persistent ID</key><string>0E240B02F5B57309</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26669</key>
+		<dict>
+			<key>Track ID</key><integer>26669</integer>
+			<key>Name</key><string>Homemade Dynamite</string>
+			<key>Artist</key><string>Lorde</string>
+			<key>Album Artist</key><string>Lorde</string>
+			<key>Composer</key><string>Ella Yelich-O'connor, Tove Lo, Jakob Jerlström &#38; Ludvig Söderberg</string>
+			<key>Album</key><string>Melodrama</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7087280</integer>
+			<key>Total Time</key><integer>189796</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-16T17:51:03Z</date>
+			<key>Date Added</key><date>2017-06-16T17:51:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3581365909</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:51:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Melodrama</string>
+			<key>Sort Artist</key><string>Lorde</string>
+			<key>Sort Name</key><string>Homemade Dynamite</string>
+			<key>Persistent ID</key><string>B29E0295AE06D1E6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26685</key>
+		<dict>
+			<key>Track ID</key><integer>26685</integer>
+			<key>Name</key><string>Rich Friends</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Composer</key><string>Portugal. The Man, Ammar Malik, John Hill, Carla Azar, Eugene Goreshter &#38; Greg Edwards</string>
+			<key>Album</key><string>Woodstock</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7878546</integer>
+			<key>Total Time</key><integer>221612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-16T17:51:48Z</date>
+			<key>Date Added</key><date>2017-06-16T17:51:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3581052706</integer>
+			<key>Play Date UTC</key><date>2017-06-23T15:51:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-06-26T23:08:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Woodstock</string>
+			<key>Sort Artist</key><string>Portugal. The Man</string>
+			<key>Sort Name</key><string>Rich Friends</string>
+			<key>Persistent ID</key><string>AE7237068D6B0443</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26687</key>
+		<dict>
+			<key>Track ID</key><integer>26687</integer>
+			<key>Name</key><string>What’s Wrong</string>
+			<key>Artist</key><string>PVRIS</string>
+			<key>Album Artist</key><string>PVRIS</string>
+			<key>Album</key><string>All We Know of Heaven, All We Need of Hell</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10419462</integer>
+			<key>Total Time</key><integer>298917</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-16T17:53:15Z</date>
+			<key>Date Added</key><date>2017-06-16T17:53:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3581315699</integer>
+			<key>Play Date UTC</key><date>2017-06-26T16:54:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-25T19:21:26Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All We Know of Heaven, All We Need of Hell</string>
+			<key>Sort Artist</key><string>PVRIS</string>
+			<key>Sort Name</key><string>What’s Wrong</string>
+			<key>Persistent ID</key><string>4FF2D0AD1CEAA3B8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26689</key>
+		<dict>
+			<key>Track ID</key><integer>26689</integer>
+			<key>Name</key><string>Chantaje (feat. Maluma)</string>
+			<key>Artist</key><string>Shakira</string>
+			<key>Album Artist</key><string>Shakira</string>
+			<key>Composer</key><string>Shakira, Juan Luis Londoño Arias, Kevin Mauricio Jiménez Londoño, Bryan Snaider Lezcano Chaverra &#38; Joel Antonio López Castro</string>
+			<key>Album</key><string>Chantaje (feat. Maluma) - Single</string>
+			<key>Genre</key><string>Pop in Spanish</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6967998</integer>
+			<key>Total Time</key><integer>195613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-06-16T17:55:50Z</date>
+			<key>Date Added</key><date>2017-06-16T17:55:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3581364120</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:22:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-17T16:44:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chantaje (feat. Maluma) - Single</string>
+			<key>Sort Artist</key><string>Shakira</string>
+			<key>Sort Name</key><string>Chantaje (feat. Maluma)</string>
+			<key>Persistent ID</key><string>1E3CC27392DB55A2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26691</key>
+		<dict>
+			<key>Track ID</key><integer>26691</integer>
+			<key>Name</key><string>Ahora Dice (feat. J Balvin, Ozuna &#38; Arcángel)</string>
+			<key>Artist</key><string>Chris Jeday</string>
+			<key>Album Artist</key><string>Chris Jeday</string>
+			<key>Composer</key><string>Jose Alvaro Osorio Balvin, Austin Santos, Juan Carlos Ozuna, Carlos E. Ortiz Rivera, Luis E. Ortiz Rivera, Rafael Pina, Juan G. Rivera “Gaby Music” &#38; Jeanpierre Soto Pascual</string>
+			<key>Album</key><string>Ahora Dice (feat. J Balvin, Ozuna &#38; Arcángel) - Single</string>
+			<key>Genre</key><string>Latin Urban</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9483237</integer>
+			<key>Total Time</key><integer>270677</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-06-16T17:57:40Z</date>
+			<key>Date Added</key><date>2017-06-16T17:57:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3581365276</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:41:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-26T21:36:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ahora Dice (feat. J Balvin, Ozuna &#38; Arcángel) - Single</string>
+			<key>Sort Artist</key><string>Chris Jeday</string>
+			<key>Sort Name</key><string>Ahora Dice (feat. J Balvin, Ozuna &#38; Arcángel)</string>
+			<key>Persistent ID</key><string>B40C014CCFE0BFB8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26693</key>
+		<dict>
+			<key>Track ID</key><integer>26693</integer>
+			<key>Name</key><string>Se Que Soy</string>
+			<key>Artist</key><string>Amara La Negra</string>
+			<key>Album Artist</key><string>Amara La Negra</string>
+			<key>Album</key><string>Se Que Soy - Single</string>
+			<key>Genre</key><string>Pop in Spanish</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7474491</integer>
+			<key>Total Time</key><integer>211040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-06-16T18:02:56Z</date>
+			<key>Date Added</key><date>2017-06-16T18:02:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3581365720</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:48:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-25T23:49:38Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Se Que Soy - Single</string>
+			<key>Sort Artist</key><string>Amara La Negra</string>
+			<key>Sort Name</key><string>Se Que Soy</string>
+			<key>Persistent ID</key><string>E643F62C2E7FED72</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26833</key>
+		<dict>
+			<key>Track ID</key><integer>26833</integer>
+			<key>Name</key><string>Loose</string>
+			<key>Artist</key><string>Ailbhe Reddy</string>
+			<key>Album Artist</key><string>Ailbhe Reddy</string>
+			<key>Album</key><string>Attach to Memory - EP</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7090609</integer>
+			<key>Total Time</key><integer>197575</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-17T14:23:41Z</date>
+			<key>Date Added</key><date>2017-06-17T14:23:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3581341542</integer>
+			<key>Play Date UTC</key><date>2017-06-27T00:05:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-26T21:36:28Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Attach to Memory - EP</string>
+			<key>Sort Artist</key><string>Ailbhe Reddy</string>
+			<key>Sort Name</key><string>Loose</string>
+			<key>Persistent ID</key><string>531C466265993FCE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26841</key>
+		<dict>
+			<key>Track ID</key><integer>26841</integer>
+			<key>Name</key><string>Piece of Me</string>
+			<key>Artist</key><string>MK &#38; Becky Hill</string>
+			<key>Album Artist</key><string>MK &#38; Becky Hill</string>
+			<key>Album</key><string>Piece of Me - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6722092</integer>
+			<key>Total Time</key><integer>187510</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-06-18T19:45:00Z</date>
+			<key>Date Added</key><date>2017-06-18T19:45:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3581364307</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:25:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Piece of Me - Single</string>
+			<key>Sort Artist</key><string>MK &#38; Becky Hill</string>
+			<key>Sort Name</key><string>Piece of Me</string>
+			<key>Persistent ID</key><string>EF26C2E503FB4220</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26857</key>
+		<dict>
+			<key>Track ID</key><integer>26857</integer>
+			<key>Name</key><string>Yeah Right</string>
+			<key>Artist</key><string>Vince Staples</string>
+			<key>Album Artist</key><string>Vince Staples</string>
+			<key>Composer</key><string>Vince Staples, Samuel Long, Harley Streten, Kendrick Duckworth &#38; Laura Jane Lowther</string>
+			<key>Album</key><string>Big Fish Theory</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6824023</integer>
+			<key>Total Time</key><integer>188952</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-24T05:32:38Z</date>
+			<key>Date Added</key><date>2017-06-24T05:32:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3581399986</integer>
+			<key>Play Date UTC</key><date>2017-06-27T16:19:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-26T05:00:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Fish Theory</string>
+			<key>Sort Artist</key><string>Vince Staples</string>
+			<key>Sort Name</key><string>Yeah Right</string>
+			<key>Persistent ID</key><string>F853FFFC43323400</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26867</key>
+		<dict>
+			<key>Track ID</key><integer>26867</integer>
+			<key>Name</key><string>Little of Your Love</string>
+			<key>Artist</key><string>HAIM</string>
+			<key>Album Artist</key><string>HAIM</string>
+			<key>Composer</key><string>Alana Haim, Este Haim, Danielle Haim &#38; Ariel Rechtshaid</string>
+			<key>Album</key><string>Something To Tell You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7968959</integer>
+			<key>Total Time</key><integer>213880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-26T02:40:56Z</date>
+			<key>Date Added</key><date>2017-06-26T02:40:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3581399797</integer>
+			<key>Play Date UTC</key><date>2017-06-27T16:16:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Something To Tell You</string>
+			<key>Sort Artist</key><string>HAIM</string>
+			<key>Sort Name</key><string>Little of Your Love</string>
+			<key>Persistent ID</key><string>132C485DBD7B296F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26869</key>
+		<dict>
+			<key>Track ID</key><integer>26869</integer>
+			<key>Name</key><string>Change</string>
+			<key>Artist</key><string>Sir Sly</string>
+			<key>Album Artist</key><string>Sir Sly</string>
+			<key>Composer</key><string>Landon Jacobs, Jason Suwito, Hayden Coplen, Nico Segal, Chancelor Bennett, Peter Wilkins, Greg Landfair Jr. &#38; Jeffrey Gitelman</string>
+			<key>Album</key><string>Change - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7815038</integer>
+			<key>Total Time</key><integer>220138</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-26T03:04:47Z</date>
+			<key>Date Added</key><date>2017-06-26T03:04:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3581480446</integer>
+			<key>Play Date UTC</key><date>2017-06-28T14:40:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Change - Single</string>
+			<key>Sort Artist</key><string>Sir Sly</string>
+			<key>Sort Name</key><string>Change</string>
+			<key>Persistent ID</key><string>F234727B69270FEC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26871</key>
+		<dict>
+			<key>Track ID</key><integer>26871</integer>
+			<key>Name</key><string>Hbls Mucho</string>
+			<key>Artist</key><string>Vanessa Zamora</string>
+			<key>Album Artist</key><string>Vanessa Zamora</string>
+			<key>Composer</key><string>Vanessa Zamora Ramirez</string>
+			<key>Album</key><string>Hbls Mucho - Single</string>
+			<key>Genre</key><string>Alternative &#38; Rock in Spanish</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7960365</integer>
+			<key>Total Time</key><integer>225040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-26T03:10:32Z</date>
+			<key>Date Added</key><date>2017-06-26T03:10:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3581419844</integer>
+			<key>Play Date UTC</key><date>2017-06-27T21:50:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hbls Mucho - Single</string>
+			<key>Sort Artist</key><string>Vanessa Zamora</string>
+			<key>Sort Name</key><string>Hbls Mucho</string>
+			<key>Persistent ID</key><string>4510C6CEE0A69804</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26873</key>
+		<dict>
+			<key>Track ID</key><integer>26873</integer>
+			<key>Name</key><string>Bleachers</string>
+			<key>Artist</key><string>Jillian Jacqueline</string>
+			<key>Album Artist</key><string>Jillian Jacqueline</string>
+			<key>Composer</key><string>Jillian Jacqueline, Tofer Brown &#38; Trent Dabbs</string>
+			<key>Album</key><string>Bleachers - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6728478</integer>
+			<key>Total Time</key><integer>170493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-26T03:10:49Z</date>
+			<key>Date Added</key><date>2017-06-26T03:10:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3581342264</integer>
+			<key>Play Date UTC</key><date>2017-06-27T00:17:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-26T21:36:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bleachers - Single</string>
+			<key>Sort Artist</key><string>Jillian Jacqueline</string>
+			<key>Sort Name</key><string>Bleachers</string>
+			<key>Persistent ID</key><string>4D1D74E0D886C8F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26875</key>
+		<dict>
+			<key>Track ID</key><integer>26875</integer>
+			<key>Name</key><string>Arty Boy (feat. Emma Louise)</string>
+			<key>Artist</key><string>Flight Facilities</string>
+			<key>Album Artist</key><string>Flight Facilities</string>
+			<key>Composer</key><string>Emma Louise, Hugo Gruzman &#38; James Lyell</string>
+			<key>Album</key><string>Arty Boy (feat. Emma Louise) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8151281</integer>
+			<key>Total Time</key><integer>232188</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-26T03:15:21Z</date>
+			<key>Date Added</key><date>2017-06-26T03:15:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3581365509</integer>
+			<key>Play Date UTC</key><date>2017-06-27T06:45:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Arty Boy (feat. Emma Louise) - Single</string>
+			<key>Sort Artist</key><string>Flight Facilities</string>
+			<key>Sort Name</key><string>Arty Boy (feat. Emma Louise)</string>
+			<key>Persistent ID</key><string>3F9F107F550F7C8D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>26877</key>
+		<dict>
+			<key>Track ID</key><integer>26877</integer>
+			<key>Name</key><string>As If It's Your Last</string>
+			<key>Artist</key><string>BLACKPINK</string>
+			<key>Album Artist</key><string>BLACKPINK</string>
+			<key>Album</key><string>As If It's Your Last - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7565639</integer>
+			<key>Total Time</key><integer>213264</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-26T04:38:49Z</date>
+			<key>Date Added</key><date>2017-06-26T04:38:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3581395974</integer>
+			<key>Play Date UTC</key><date>2017-06-27T15:12:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>As If It's Your Last - Single</string>
+			<key>Sort Artist</key><string>BLACKPINK</string>
+			<key>Sort Name</key><string>As If It's Your Last</string>
+			<key>Persistent ID</key><string>FF9C7FB601D6DF6A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>27065</key>
+		<dict>
+			<key>Track ID</key><integer>27065</integer>
+			<key>Name</key><string>Don't Kill My Vibe (Gryffin Remix)</string>
+			<key>Artist</key><string>Sigrid</string>
+			<key>Album Artist</key><string>Sigrid</string>
+			<key>Composer</key><string>Sigrid Solbakk &#38; Martin Sjolie</string>
+			<key>Album</key><string>Don't Kill My Vibe (Remixes) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8311376</integer>
+			<key>Total Time</key><integer>230528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-27T05:29:40Z</date>
+			<key>Date Added</key><date>2017-06-27T05:29:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Kill My Vibe (Remixes) - Single</string>
+			<key>Sort Artist</key><string>Sigrid</string>
+			<key>Sort Name</key><string>Don't Kill My Vibe (Gryffin Remix)</string>
+			<key>Persistent ID</key><string>906216AE41487675</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>64597</integer>
+			<key>Playlist Persistent ID</key><string>831431E559E4D232</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>26445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27065</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

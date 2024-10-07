@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-07-29T18:01:28Z</date>
+	<key>Application Version</key><string>10.6.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>20175</key>
+		<dict>
+			<key>Track ID</key><integer>20175</integer>
+			<key>Name</key><string>Drop It Doe Eyes</string>
+			<key>Artist</key><string>Los Campesinos!</string>
+			<key>Album</key><string>Hold On Now, Youngster...</string>
+			<key>Genre</key><string>Indie-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2590596</integer>
+			<key>Total Time</key><integer>161776</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-07-19T15:41:31Z</date>
+			<key>Date Added</key><date>2010-06-17T12:25:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3426306506</integer>
+			<key>Play Date UTC</key><date>2012-07-28T12:48:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-12-06T02:33:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7254</integer>
+			<key>Persistent ID</key><string>93DCB4B75CF8D45C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Los%20Campesinos!%20-%20Hold%20On%20Now,%20Youngster...%20(2008)/04%20Drop%20It%20Doe%20Eyes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35485</key>
+		<dict>
+			<key>Track ID</key><integer>35485</integer>
+			<key>Name</key><string>Stay Together</string>
+			<key>Artist</key><string>2NE1</string>
+			<key>Album Artist</key><string>2NE1</string>
+			<key>Album</key><string>2010 The First Mini Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5491651</integer>
+			<key>Total Time</key><integer>228728</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-06-03T21:24:06Z</date>
+			<key>Date Added</key><date>2012-06-03T23:13:13Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped by @rch13</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3426321522</integer>
+			<key>Play Date UTC</key><date>2012-07-28T16:58:42Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7EC50C6736ECB47B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/2NE1/%5BHD%5D%20Stay%20Together%20MV%20-%202NE1%20(HQ%20192kb).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35651</key>
+		<dict>
+			<key>Track ID</key><integer>35651</integer>
+			<key>Name</key><string>The Pocket</string>
+			<key>Artist</key><string>Andy Grammer</string>
+			<key>Album Artist</key><string>Andy Grammer</string>
+			<key>Composer</key><string>Andy Grammer</string>
+			<key>Album</key><string>Andy Grammer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7533458</integer>
+			<key>Total Time</key><integer>233795</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2012-06-13T04:43:11Z</date>
+			<key>Date Added</key><date>2012-06-13T04:45:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3426319724</integer>
+			<key>Play Date UTC</key><date>2012-07-28T16:28:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-06-30T00:13:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Pocket</string>
+			<key>Persistent ID</key><string>EF1061192DC170D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Andy%20Grammer%20-%20Andy%20Grammer/07%20The%20Pocket.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36051</key>
+		<dict>
+			<key>Track ID</key><integer>36051</integer>
+			<key>Name</key><string>City of Sounds</string>
+			<key>Artist</key><string>Kathryn Calder</string>
+			<key>Album</key><string>Bright and Vivid</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8433785</integer>
+			<key>Total Time</key><integer>210834</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2012-07-01T19:24:10Z</date>
+			<key>Date Added</key><date>2012-07-01T22:19:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3426319935</integer>
+			<key>Play Date UTC</key><date>2012-07-28T16:32:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-22T22:45:02Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2CC7D04CC9C59180</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/bright%20and%20vivid/08%20City%20of%20Sounds.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36053</key>
+		<dict>
+			<key>Track ID</key><integer>36053</integer>
+			<key>Name</key><string>Five More Years</string>
+			<key>Artist</key><string>Kathryn Calder</string>
+			<key>Album</key><string>Bright and Vivid</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9745133</integer>
+			<key>Total Time</key><integer>243617</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2012-07-01T19:24:24Z</date>
+			<key>Date Added</key><date>2012-07-01T22:19:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3426321765</integer>
+			<key>Play Date UTC</key><date>2012-07-28T17:02:45Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1920108DA32840A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/bright%20and%20vivid/09%20Five%20More%20Years.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36321</key>
+		<dict>
+			<key>Track ID</key><integer>36321</integer>
+			<key>Name</key><string>Oh Yeah (feat. 박봄)</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7821312</integer>
+			<key>Total Time</key><integer>195134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:09Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3426308986</integer>
+			<key>Play Date UTC</key><date>2012-07-28T13:29:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>585752F6802F0EB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/03%20Oh%20Yeah%20(feat.%20%EB%B0%95%EB%B4%84).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36323</key>
+		<dict>
+			<key>Track ID</key><integer>36323</integer>
+			<key>Name</key><string>집에 가지마</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7862272</integer>
+			<key>Total Time</key><integer>196257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:26Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3426330757</integer>
+			<key>Play Date UTC</key><date>2012-07-28T19:32:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-28T19:57:36Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F1240B7A258633D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/04%20%EC%A7%91%EC%97%90%20%EA%B0%80%EC%A7%80%EB%A7%88.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36325</key>
+		<dict>
+			<key>Track ID</key><integer>36325</integer>
+			<key>Name</key><string>BABY GOOD NIGHT</string>
+			<key>Artist</key><string>GD&#38;TOP</string>
+			<key>Album Artist</key><string>GD&#38;TOP</string>
+			<key>Album</key><string>GD&#38;TOP Vol.1</string>
+			<key>Genre</key><string>Rap/Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8437760</integer>
+			<key>Total Time</key><integer>210573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-07-15T13:34:33Z</date>
+			<key>Date Added</key><date>2012-07-15T13:39:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>mnet.com</string>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3426305409</integer>
+			<key>Play Date UTC</key><date>2012-07-28T12:30:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-07-26T22:37:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2F752FC5620AB02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/G-Dragon%20(Big%20Bang)%20&#38;%20T.O.P%20(Big%20Bang)%20-%20GD&#38;TOP%20Vol.1%20(Full)/05%20BABY%20GOOD%20NIGHT.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36415</key>
+		<dict>
+			<key>Track ID</key><integer>36415</integer>
+			<key>Name</key><string>Petition</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album</key><string>Young And Old</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7672937</integer>
+			<key>Total Time</key><integer>191817</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2012-07-22T16:21:56Z</date>
+			<key>Date Added</key><date>2012-07-23T12:50:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3426340870</integer>
+			<key>Play Date UTC</key><date>2012-07-28T22:21:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>770BC9C0B370D649</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Tennis%20-%20Young%20and%20Old%20(2012)/05%20-%20Petition.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36429</key>
+		<dict>
+			<key>Track ID</key><integer>36429</integer>
+			<key>Name</key><string>Wandering Star</string>
+			<key>Artist</key><string>POLIÇA</string>
+			<key>Album Artist</key><string>Polica</string>
+			<key>Album</key><string>Give You The Ghost</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9965979</integer>
+			<key>Total Time</key><integer>304509</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-07-23T12:50:39Z</date>
+			<key>Date Added</key><date>2012-07-23T12:55:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3426331082</integer>
+			<key>Play Date UTC</key><date>2012-07-28T19:38:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3937</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE9F5955C2DC0723</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/20111206_polica_wandering_star_128.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36463</key>
+		<dict>
+			<key>Track ID</key><integer>36463</integer>
+			<key>Name</key><string>Purple</string>
+			<key>Artist</key><string>California Wives</string>
+			<key>Album Artist</key><string>California Wives</string>
+			<key>Album</key><string>Art History</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8981940</integer>
+			<key>Total Time</key><integer>160287</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-26T01:12:00Z</date>
+			<key>Date Added</key><date>2012-07-26T01:55:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3426321293</integer>
+			<key>Play Date UTC</key><date>2012-07-28T16:54:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12469</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B3A8C61C1A02356</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/07%20Purple.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>83145</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36051</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

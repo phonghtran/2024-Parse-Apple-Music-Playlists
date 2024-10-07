@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-04-15T21:59:09Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>34622</key>
+		<dict>
+			<key>Track ID</key><integer>34622</integer>
+			<key>Name</key><string>Two Cousins</string>
+			<key>Artist</key><string>Slow Club</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9209923</integer>
+			<key>Total Time</key><integer>230191</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:28Z</date>
+			<key>Date Added</key><date>2012-03-09T13:04:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3417342760</integer>
+			<key>Play Date UTC</key><date>2012-04-15T18:52:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7558</integer>
+			<key>Persistent ID</key><string>831B601E707C8718</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part2/Slow_Club-Two_Cousins.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34770</key>
+		<dict>
+			<key>Track ID</key><integer>34770</integer>
+			<key>Name</key><string>Learn To Say No</string>
+			<key>Artist</key><string>Lydia Loveless</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10196432</integer>
+			<key>Total Time</key><integer>254902</integer>
+			<key>Date Modified</key><date>2012-03-12T17:26:35Z</date>
+			<key>Date Added</key><date>2012-03-09T13:05:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3417339066</integer>
+			<key>Play Date UTC</key><date>2012-04-15T17:51:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-04-13T13:34:12Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>66A3CCEF9FF2ED20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/SXSW_2012_Showcasing_Artists_Part1/Lydia_Loveless-Leran_To_Say_No.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481744</key>
+		<dict>
+			<key>Track ID</key><integer>1481744</integer>
+			<key>Name</key><string>Zero Dark Thirty</string>
+			<key>Artist</key><string>Aesop Rock</string>
+			<key>Album Artist</key><string>Aesop Rock</string>
+			<key>Album</key><string>Skelethon</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8119001</integer>
+			<key>Total Time</key><integer>201456</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-14T19:21:14Z</date>
+			<key>Date Added</key><date>2012-04-14T20:14:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3417342290</integer>
+			<key>Play Date UTC</key><date>2012-04-15T18:44:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3439</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6844920385735982</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/AesopRock-ZeroDarkThirty.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481749</key>
+		<dict>
+			<key>Track ID</key><integer>1481749</integer>
+			<key>Name</key><string>Bella</string>
+			<key>Artist</key><string>Angus and Julia Stone</string>
+			<key>Album Artist</key><string>Angus and Julia Stone</string>
+			<key>Album</key><string>A Book Like This</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7118371</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Stop Time</key><integer>216000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-04-15T16:36:50Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com
+
+Cleaned by TuneUp!</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3417349977</integer>
+			<key>Play Date UTC</key><date>2012-04-15T20:52:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Book Like This</string>
+			<key>Persistent ID</key><string>7C93BB2048F2D00C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Angus%20and%20Julia%20Stone%20%E2%80%93%20Bella.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481758</key>
+		<dict>
+			<key>Track ID</key><integer>1481758</integer>
+			<key>Name</key><string>Mack The Knife (Tribute To Louis Armstrong)</string>
+			<key>Artist</key><string>C2C</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3126289</integer>
+			<key>Total Time</key><integer>125074</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-04-15T16:31:31Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3417348728</integer>
+			<key>Play Date UTC</key><date>2012-04-15T20:32:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1416</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5C4E5A140E56AC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/c2c%20-%20Mack-The-Knife-Tribute-To-Louis-Armstrong.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481773</key>
+		<dict>
+			<key>Track ID</key><integer>1481773</integer>
+			<key>Name</key><string>No Interruption</string>
+			<key>Artist</key><string>Hoodie Allen</string>
+			<key>Album Artist</key><string>Hoodie Allen</string>
+			<key>Album</key><string>All American</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8696099</integer>
+			<key>Total Time</key><integer>214674</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-14T19:39:45Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3417352566</integer>
+			<key>Play Date UTC</key><date>2012-04-15T21:36:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42319519280DFC0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Hoodie%20Allen%20-%20All%20American%20%7B2012-Album%7D/02%20No%20Interruption.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481782</key>
+		<dict>
+			<key>Track ID</key><integer>1481782</integer>
+			<key>Name</key><string>No Faith in Brooklyn (feat. Jhameel)</string>
+			<key>Artist</key><string>Hoodie Allen</string>
+			<key>Album Artist</key><string>Hoodie Allen</string>
+			<key>Album</key><string>All American</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7506910</integer>
+			<key>Total Time</key><integer>184944</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-14T19:39:25Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3417348344</integer>
+			<key>Play Date UTC</key><date>2012-04-15T20:25:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D15F22E1E25188E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Hoodie%20Allen%20-%20All%20American%20%7B2012-Album%7D/05%20No%20Faith%20in%20Brooklyn%20(feat.%20Jhameel).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481794</key>
+		<dict>
+			<key>Track ID</key><integer>1481794</integer>
+			<key>Name</key><string>Time Of Your Life (Prod by Ned Cameron) [No DJ]</string>
+			<key>Artist</key><string>Kid Ink</string>
+			<key>Album Artist</key><string>Kid Ink</string>
+			<key>Composer</key><string>www.KidInkMusic.com</string>
+			<key>Album</key><string>Tha Alumni Music Group</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4876422</integer>
+			<key>Total Time</key><integer>240195</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-14T19:40:53Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3417351918</integer>
+			<key>Play Date UTC</key><date>2012-04-15T21:25:18Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A14DB032407E232</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/kid%20ink%20%20-%20timeofyourlife.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481809</key>
+		<dict>
+			<key>Track ID</key><integer>1481809</integer>
+			<key>Name</key><string>The Night Out (Madeon Remix)</string>
+			<key>Artist</key><string>Martin Solveig</string>
+			<key>Album Artist</key><string>Martin Solveig</string>
+			<key>Album</key><string>The Night Out EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8815106</integer>
+			<key>Total Time</key><integer>220316</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-14T19:25:49Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3417348158</integer>
+			<key>Play Date UTC</key><date>2012-04-15T20:22:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Night Out EP</string>
+			<key>Sort Name</key><string>Night Out (Madeon Remix)</string>
+			<key>Persistent ID</key><string>FBEC0A04A856705E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Martin%20Solveig%20-%20The%20Night%20Out%20%5BEP%5D%20%5B2012%5D/02%20-%20The%20Night%20Out%20(Madeon%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481839</key>
+		<dict>
+			<key>Track ID</key><integer>1481839</integer>
+			<key>Name</key><string>Maestro </string>
+			<key>Artist</key><string>The Dirty Tees </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10354095</integer>
+			<key>Total Time</key><integer>258795</integer>
+			<key>Date Modified</key><date>2012-04-14T19:45:27Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3417348603</integer>
+			<key>Play Date UTC</key><date>2012-04-15T20:30:03Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Dirty Tees </string>
+			<key>Persistent ID</key><string>0F13A2A819CC502C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The%20Dirty%20Tees%20%20-%20Maestro%20.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1481842</key>
+		<dict>
+			<key>Track ID</key><integer>1481842</integer>
+			<key>Name</key><string>All You</string>
+			<key>Artist</key><string>The Cataracs ft. Waka Flocka</string>
+			<key>Composer</key><string>Fans.Ge</string>
+			<key>Album</key><string>Fans.Ge</string>
+			<key>Grouping</key><string>Fans.Ge</string>
+			<key>Genre</key><string>148</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5095449</integer>
+			<key>Total Time</key><integer>200463</integer>
+			<key>Date Modified</key><date>2012-04-14T19:13:18Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Fans.Ge</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3417351678</integer>
+			<key>Play Date UTC</key><date>2012-04-15T21:21:18Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Cataracs ft. Waka Flocka</string>
+			<key>Persistent ID</key><string>B339C63F9A329FE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/The_Cataracs_ft_Waka_Flocka_-_All_You_-_DOPEHOOD_COM(fans_ge).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>80595</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>34770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481782</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1481744</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

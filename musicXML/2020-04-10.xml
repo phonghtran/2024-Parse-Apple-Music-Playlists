@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-04-10T18:16:43Z</date>
+	<key>Application Version</key><string>1.0.3.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>F8DCF45698080FD9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12841</key>
+		<dict>
+			<key>Track ID</key><integer>12841</integer>
+			<key>Name</key><string>Gangsta</string>
+			<key>Artist</key><string>Stefflon Don</string>
+			<key>Album Artist</key><string>Stefflon Don</string>
+			<key>Album</key><string>Real Ting Mixtape</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9166633</integer>
+			<key>Total Time</key><integer>260000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-12-22T16:48:45Z</date>
+			<key>Date Added</key><date>2017-12-22T15:48:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3669372823</integer>
+			<key>Play Date UTC</key><date>2020-04-10T18:13:43Z</date>
+			<key>Release Date</key><date>2016-12-16T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Real Ting Mixtape</string>
+			<key>Sort Artist</key><string>Stefflon Don</string>
+			<key>Sort Name</key><string>Gangsta</string>
+			<key>Persistent ID</key><string>6879F7562EFF79D4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19619</key>
+		<dict>
+			<key>Track ID</key><integer>19619</integer>
+			<key>Name</key><string>Overnight</string>
+			<key>Artist</key><string>Maggie Rogers</string>
+			<key>Album Artist</key><string>Maggie Rogers</string>
+			<key>Composer</key><string>Maggie Rogers &#38; Greg Kurstin</string>
+			<key>Album</key><string>Heard It In A Past Life</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7127922</integer>
+			<key>Total Time</key><integer>200347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-01-19T18:10:15Z</date>
+			<key>Date Added</key><date>2019-01-19T17:10:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3669199522</integer>
+			<key>Play Date UTC</key><date>2020-04-08T18:05:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-04-04T18:05:04Z</date>
+			<key>Release Date</key><date>2019-01-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heard It In A Past Life</string>
+			<key>Sort Artist</key><string>Maggie Rogers</string>
+			<key>Sort Name</key><string>Overnight</string>
+			<key>Persistent ID</key><string>8502C1600863647F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>29895</key>
+		<dict>
+			<key>Track ID</key><integer>29895</integer>
+			<key>Name</key><string>Daft Pretty Boys</string>
+			<key>Artist</key><string>Bad Suns</string>
+			<key>Album Artist</key><string>Bad Suns</string>
+			<key>Album</key><string>Disappear Here</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6738147</integer>
+			<key>Total Time</key><integer>187013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-17T20:49:26Z</date>
+			<key>Date Added</key><date>2016-09-17T19:49:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3669058007</integer>
+			<key>Play Date UTC</key><date>2020-04-07T02:46:47Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-02-08T07:17:27Z</date>
+			<key>Release Date</key><date>2016-09-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Disappear Here</string>
+			<key>Sort Artist</key><string>Bad Suns</string>
+			<key>Sort Name</key><string>Daft Pretty Boys</string>
+			<key>Persistent ID</key><string>C14283AA50D6A5AF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>31125</key>
+		<dict>
+			<key>Track ID</key><integer>31125</integer>
+			<key>Name</key><string>Tiny Cities (feat. Beck)</string>
+			<key>Artist</key><string>Flume</string>
+			<key>Album Artist</key><string>Flume</string>
+			<key>Album</key><string>Skin</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8593923</integer>
+			<key>Total Time</key><integer>236625</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-23T07:07:45Z</date>
+			<key>Date Added</key><date>2016-11-23T06:07:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3669098986</integer>
+			<key>Play Date UTC</key><date>2020-04-07T14:09:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-12-07T20:12:29Z</date>
+			<key>Release Date</key><date>2016-05-27T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Skin</string>
+			<key>Sort Artist</key><string>Flume</string>
+			<key>Sort Name</key><string>Tiny Cities (feat. Beck)</string>
+			<key>Persistent ID</key><string>481968E92E9D65BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>32061</key>
+		<dict>
+			<key>Track ID</key><integer>32061</integer>
+			<key>Name</key><string>Personal</string>
+			<key>Artist</key><string>Kehlani</string>
+			<key>Album Artist</key><string>Kehlani</string>
+			<key>Album</key><string>SweetSexySavage (Deluxe)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8229368</integer>
+			<key>Total Time</key><integer>227178</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-01-27T08:47:52Z</date>
+			<key>Date Added</key><date>2017-01-27T07:47:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3669106447</integer>
+			<key>Play Date UTC</key><date>2020-04-07T16:14:07Z</date>
+			<key>Release Date</key><date>2017-01-27T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SweetSexySavage (Deluxe)</string>
+			<key>Sort Artist</key><string>Kehlani</string>
+			<key>Sort Name</key><string>Personal</string>
+			<key>Persistent ID</key><string>F3E74D20BFA3FF66</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>35965</key>
+		<dict>
+			<key>Track ID</key><integer>35965</integer>
+			<key>Name</key><string>Fly Away</string>
+			<key>Artist</key><string>Caitlyn Smith</string>
+			<key>Album Artist</key><string>Caitlyn Smith</string>
+			<key>Composer</key><string>Caitlyn Smith, Leggy Langdon &#38; Jennifer Decilveo</string>
+			<key>Album</key><string>Supernova</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7706824</integer>
+			<key>Total Time</key><integer>211933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-16T14:32:54Z</date>
+			<key>Date Added</key><date>2020-03-16T14:32:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3669033114</integer>
+			<key>Play Date UTC</key><date>2020-04-06T19:51:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-03-20T14:08:16Z</date>
+			<key>Release Date</key><date>2020-03-13T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Supernova</string>
+			<key>Sort Artist</key><string>Caitlyn Smith</string>
+			<key>Sort Name</key><string>Fly Away</string>
+			<key>Persistent ID</key><string>3B6A61C68049120C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>92146</key>
+		<dict>
+			<key>Track ID</key><integer>92146</integer>
+			<key>Name</key><string>the other girl (with Halsey)</string>
+			<key>Artist</key><string>Kelsea Ballerini</string>
+			<key>Album Artist</key><string>Kelsea Ballerini</string>
+			<key>Composer</key><string>Kelsea Ballerini, Ross Copperman, Shane McAnally &#38; Ashley Frangipane</string>
+			<key>Album</key><string>kelsea</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7185972</integer>
+			<key>Total Time</key><integer>201343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-20T07:55:50Z</date>
+			<key>Date Added</key><date>2020-03-20T07:55:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3669200475</integer>
+			<key>Play Date UTC</key><date>2020-04-08T18:21:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-04-01T19:19:10Z</date>
+			<key>Release Date</key><date>2020-03-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>kelsea</string>
+			<key>Sort Artist</key><string>Kelsea Ballerini</string>
+			<key>Sort Name</key><string>other girl (with Halsey)</string>
+			<key>Persistent ID</key><string>846A3134F3FBCBCA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>93460</key>
+		<dict>
+			<key>Track ID</key><integer>93460</integer>
+			<key>Name</key><string>2 Seater (feat. G-Eazy &#38; Offset)</string>
+			<key>Artist</key><string>YBN Nahmir</string>
+			<key>Album Artist</key><string>YBN Nahmir</string>
+			<key>Album</key><string>2 Seater (feat. G-Eazy &#38; Offset) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8128784</integer>
+			<key>Total Time</key><integer>229806</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-20T20:09:56Z</date>
+			<key>Date Added</key><date>2020-03-20T20:09:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3669201620</integer>
+			<key>Play Date UTC</key><date>2020-04-08T18:40:20Z</date>
+			<key>Release Date</key><date>2020-03-19T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2 Seater (feat. G-Eazy &#38; Offset) - Single</string>
+			<key>Sort Artist</key><string>YBN Nahmir</string>
+			<key>Sort Name</key><string>2 Seater (feat. G-Eazy &#38; Offset)</string>
+			<key>Persistent ID</key><string>3FC54320800AFFAF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>93584</key>
+		<dict>
+			<key>Track ID</key><integer>93584</integer>
+			<key>Name</key><string>OK</string>
+			<key>Artist</key><string>Wallows</string>
+			<key>Album Artist</key><string>Wallows</string>
+			<key>Composer</key><string>Braeden Lemasters, Cole Preston &#38; Dylan Minnette</string>
+			<key>Album</key><string>OK - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7327987</integer>
+			<key>Total Time</key><integer>193293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-21T00:47:18Z</date>
+			<key>Date Added</key><date>2020-03-21T00:47:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3669283727</integer>
+			<key>Play Date UTC</key><date>2020-04-09T17:28:47Z</date>
+			<key>Release Date</key><date>2020-03-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OK - Single</string>
+			<key>Sort Artist</key><string>Wallows</string>
+			<key>Sort Name</key><string>OK</string>
+			<key>Persistent ID</key><string>58F59B87BC45FE43</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>94051</key>
+		<dict>
+			<key>Track ID</key><integer>94051</integer>
+			<key>Name</key><string>Actions</string>
+			<key>Artist</key><string>John Legend</string>
+			<key>Album Artist</key><string>John Legend</string>
+			<key>Composer</key><string>Warren Felder, Alex Niceforo, Keith Sorrells, John Stephens, Cautious Clay, Coleridge Tillman &#38; David Axelrod</string>
+			<key>Album</key><string>Actions - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6445882</integer>
+			<key>Total Time</key><integer>176467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-21T19:10:14Z</date>
+			<key>Date Added</key><date>2020-03-21T19:10:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3669283388</integer>
+			<key>Play Date UTC</key><date>2020-04-09T17:23:08Z</date>
+			<key>Release Date</key><date>2020-03-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Actions - Single</string>
+			<key>Sort Artist</key><string>John Legend</string>
+			<key>Sort Name</key><string>Actions</string>
+			<key>Persistent ID</key><string>A83FE2FF1F119332</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>95027</key>
+		<dict>
+			<key>Track ID</key><integer>95027</integer>
+			<key>Name</key><string>ANIMAL CROSSING</string>
+			<key>Artist</key><string>Shawn Wasabi &#38; Sophia Black</string>
+			<key>Album Artist</key><string>Shawn Wasabi &#38; Sophia Black</string>
+			<key>Composer</key><string>Sophia Black, Jon Santana &#38; Shawn Serrano</string>
+			<key>Album</key><string>ANIMAL CROSSING - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5856526</integer>
+			<key>Total Time</key><integer>159612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-21T21:23:10Z</date>
+			<key>Date Added</key><date>2020-03-21T21:23:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3669058167</integer>
+			<key>Play Date UTC</key><date>2020-04-07T02:49:27Z</date>
+			<key>Release Date</key><date>2020-03-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ANIMAL CROSSING - Single</string>
+			<key>Sort Artist</key><string>Shawn Wasabi &#38; Sophia Black</string>
+			<key>Sort Name</key><string>ANIMAL CROSSING</string>
+			<key>Persistent ID</key><string>AE8743D74E4DBC7B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>95104</key>
+		<dict>
+			<key>Track ID</key><integer>95104</integer>
+			<key>Name</key><string>Green Eyes</string>
+			<key>Artist</key><string>j ember</string>
+			<key>Album Artist</key><string>j ember</string>
+			<key>Composer</key><string>Joseph Chusid, David Charles Marshall Biral &#38; Denzel Michael-Akil Baptiste</string>
+			<key>Album</key><string>Sleepwalking - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7431441</integer>
+			<key>Total Time</key><integer>207909</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-21T21:29:10Z</date>
+			<key>Date Added</key><date>2020-03-21T21:29:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3669058928</integer>
+			<key>Play Date UTC</key><date>2020-04-07T03:02:08Z</date>
+			<key>Release Date</key><date>2020-03-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sleepwalking - EP</string>
+			<key>Sort Artist</key><string>j ember</string>
+			<key>Sort Name</key><string>Green Eyes</string>
+			<key>Persistent ID</key><string>A7CDD0ECB70E18D3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>95202</key>
+		<dict>
+			<key>Track ID</key><integer>95202</integer>
+			<key>Name</key><string>Get Me Some (feat. Drew Love &#38; Dumbfoundead)</string>
+			<key>Artist</key><string>TOKiMONSTA</string>
+			<key>Album Artist</key><string>TOKiMONSTA</string>
+			<key>Composer</key><string>Jennifer Lee, Jonathan Edgar Park &#38; Andrew Neely</string>
+			<key>Album</key><string>Oasis Nocturno</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7364213</integer>
+			<key>Total Time</key><integer>212811</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-22T04:13:37Z</date>
+			<key>Date Added</key><date>2020-03-22T04:13:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3669058720</integer>
+			<key>Play Date UTC</key><date>2020-04-07T02:58:40Z</date>
+			<key>Release Date</key><date>2020-03-20T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Oasis Nocturno</string>
+			<key>Sort Artist</key><string>TOKiMONSTA</string>
+			<key>Sort Name</key><string>Get Me Some (feat. Drew Love &#38; Dumbfoundead)</string>
+			<key>Persistent ID</key><string>784C7840F88185DA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>102232</key>
+		<dict>
+			<key>Track ID</key><integer>102232</integer>
+			<key>Name</key><string>Aftertaste (feat. Morgan St. Jean)</string>
+			<key>Artist</key><string>Loud Luxury</string>
+			<key>Album Artist</key><string>Loud Luxury</string>
+			<key>Composer</key><string>Morgan St. Jean, Nicholas Henriques, Ben Shapiro, Joe De Pace &#38; Andrew Fedyk</string>
+			<key>Album</key><string>Nights Like This - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7069771</integer>
+			<key>Total Time</key><integer>197082</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-27T19:26:21Z</date>
+			<key>Date Added</key><date>2020-03-27T19:26:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3669199719</integer>
+			<key>Play Date UTC</key><date>2020-04-08T18:08:39Z</date>
+			<key>Release Date</key><date>2020-03-27T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nights Like This - EP</string>
+			<key>Sort Artist</key><string>Loud Luxury</string>
+			<key>Sort Name</key><string>Aftertaste (feat. Morgan St. Jean)</string>
+			<key>Persistent ID</key><string>832C1A7F7325EB21</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>107825</key>
+		<dict>
+			<key>Track ID</key><integer>107825</integer>
+			<key>Name</key><string>Nowhere to Go (Quarantine Love)</string>
+			<key>Artist</key><string>Snow Tha Product</string>
+			<key>Album Artist</key><string>Snow Tha Product</string>
+			<key>Composer</key><string>Claudia Feliciano</string>
+			<key>Album</key><string>Nowhere to Go (Quarantine Love) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5383398</integer>
+			<key>Total Time</key><integer>145876</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-04-01T12:44:40Z</date>
+			<key>Date Added</key><date>2020-04-01T12:44:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3669283534</integer>
+			<key>Play Date UTC</key><date>2020-04-09T17:25:34Z</date>
+			<key>Release Date</key><date>2020-03-25T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nowhere to Go (Quarantine Love) - Single</string>
+			<key>Sort Artist</key><string>Snow Tha Product</string>
+			<key>Sort Name</key><string>Nowhere to Go (Quarantine Love)</string>
+			<key>Persistent ID</key><string>703FC1626A272A57</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113192</key>
+		<dict>
+			<key>Track ID</key><integer>113192</integer>
+			<key>Name</key><string>Phone Numbers</string>
+			<key>Artist</key><string>Dominic Fike &#38; Kenny Beats</string>
+			<key>Album Artist</key><string>Dominic Fike &#38; Kenny Beats</string>
+			<key>Composer</key><string>Dominic Fike, Jared Scharff &#38; Kenny Beats</string>
+			<key>Album</key><string>Phone Numbers - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5567649</integer>
+			<key>Total Time</key><integer>146827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-04-05T02:10:12Z</date>
+			<key>Date Added</key><date>2020-04-05T02:10:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3669058507</integer>
+			<key>Play Date UTC</key><date>2020-04-07T02:55:07Z</date>
+			<key>Release Date</key><date>2019-07-07T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Phone Numbers - Single</string>
+			<key>Sort Artist</key><string>Dominic Fike &#38; Kenny Beats</string>
+			<key>Sort Name</key><string>Phone Numbers</string>
+			<key>Persistent ID</key><string>9B907B21719B5F8D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>113989</key>
+		<dict>
+			<key>Track ID</key><integer>113989</integer>
+			<key>Name</key><string>Waste of Time</string>
+			<key>Artist</key><string>Snow Tha Product</string>
+			<key>Album Artist</key><string>Snow Tha Product</string>
+			<key>Album</key><string>Waste of Time - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7139350</integer>
+			<key>Total Time</key><integer>200865</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-04-05T02:18:27Z</date>
+			<key>Date Added</key><date>2020-04-05T02:18:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3669199920</integer>
+			<key>Play Date UTC</key><date>2020-04-08T18:12:00Z</date>
+			<key>Release Date</key><date>2017-06-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Waste of Time - Single</string>
+			<key>Sort Artist</key><string>Snow Tha Product</string>
+			<key>Sort Name</key><string>Waste of Time</string>
+			<key>Persistent ID</key><string>AF8CA515B6E647DD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>114246</key>
+		<dict>
+			<key>Track ID</key><integer>114246</integer>
+			<key>Name</key><string>Girl</string>
+			<key>Artist</key><string>Myke Towers</string>
+			<key>Album Artist</key><string>Myke Towers</string>
+			<key>Composer</key><string>Myke Towers</string>
+			<key>Album</key><string>Easy Money Baby</string>
+			<key>Genre</key><string>Urbano latino</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6648149</integer>
+			<key>Total Time</key><integer>186427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-04-05T11:58:09Z</date>
+			<key>Date Added</key><date>2020-04-05T11:58:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3669200273</integer>
+			<key>Play Date UTC</key><date>2020-04-08T18:17:53Z</date>
+			<key>Release Date</key><date>2020-01-24T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Easy Money Baby</string>
+			<key>Sort Artist</key><string>Myke Towers</string>
+			<key>Sort Name</key><string>Girl</string>
+			<key>Persistent ID</key><string>55DA58BDC37E7697</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>82215</integer>
+			<key>Playlist Persistent ID</key><string>B653AA145AEACFC4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>92146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>94051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>102232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114246</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

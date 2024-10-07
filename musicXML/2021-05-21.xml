@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-05-21T15:40:41Z</date>
+	<key>Application Version</key><string>1.1.3.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C8EE405724347A82</string>
+	<key>Tracks</key>
+	<dict>
+		<key>29488</key>
+		<dict>
+			<key>Track ID</key><integer>29488</integer>
+			<key>Name</key><string>ONE (Lucid Dream)</string>
+			<key>Artist</key><string>Golden Child</string>
+			<key>Album Artist</key><string>Golden Child</string>
+			<key>Album</key><string>Golden Child 4th Mini Album : Take a Leap</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8691742</integer>
+			<key>Total Time</key><integer>235653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-21T23:57:23Z</date>
+			<key>Date Added</key><date>2020-09-21T23:57:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3704294468</integer>
+			<key>Play Date UTC</key><date>2021-05-19T22:41:08Z</date>
+			<key>Release Date</key><date>2020-06-23T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Golden Child 4th Mini Album : Take a Leap</string>
+			<key>Sort Artist</key><string>Golden Child</string>
+			<key>Sort Name</key><string>ONE (Lucid Dream)</string>
+			<key>Persistent ID</key><string>40C35187618DB392</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41398</key>
+		<dict>
+			<key>Track ID</key><integer>41398</integer>
+			<key>Name</key><string>South</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Composer</key><string>Hippo Campus</string>
+			<key>Album</key><string>South - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8128175</integer>
+			<key>Total Time</key><integer>231469</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-04-22T03:10:53Z</date>
+			<key>Date Added</key><date>2021-04-22T03:10:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3704279599</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:33:19Z</date>
+			<key>Release Date</key><date>2015-10-02T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>South - EP</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>South</string>
+			<key>Persistent ID</key><string>7D22CD381B8461E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41492</key>
+		<dict>
+			<key>Track ID</key><integer>41492</integer>
+			<key>Name</key><string>Chicken</string>
+			<key>Artist</key><string>Your Neighbors</string>
+			<key>Album Artist</key><string>Your Neighbors</string>
+			<key>Composer</key><string>Edward Philip Walker Robinson</string>
+			<key>Album</key><string>Chicken - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7526352</integer>
+			<key>Total Time</key><integer>207849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-04-26T21:28:03Z</date>
+			<key>Date Added</key><date>2021-04-26T21:28:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3704279807</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:36:47Z</date>
+			<key>Release Date</key><date>2018-04-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chicken - Single</string>
+			<key>Sort Artist</key><string>Your Neighbors</string>
+			<key>Sort Name</key><string>Chicken</string>
+			<key>Persistent ID</key><string>32CEFEE563B14D38</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41508</key>
+		<dict>
+			<key>Track ID</key><integer>41508</integer>
+			<key>Name</key><string>Lay It Down</string>
+			<key>Artist</key><string>Steelix</string>
+			<key>Album</key><string>Steelix</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4723773</integer>
+			<key>Total Time</key><integer>188568</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-27T12:57:29Z</date>
+			<key>Date Added</key><date>2021-04-27T12:54:25Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3704350465</integer>
+			<key>Play Date UTC</key><date>2021-05-20T14:14:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-27T13:59:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8FD0D01C7A66F8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/Music/Media.localized/Music/Steelix/Steelix/Lay%20It%20Down.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>41511</key>
+		<dict>
+			<key>Track ID</key><integer>41511</integer>
+			<key>Name</key><string>Inside Out</string>
+			<key>Artist</key><string>NU'EST</string>
+			<key>Album Artist</key><string>NU'EST</string>
+			<key>Composer</key><string>BUMZU, BAEKHO, G-high (MonoTree), Innerchild (MonoTree), Jay&#38;Rudy, Anchor (PRISMFILTER) &#38; JR</string>
+			<key>Album</key><string>The 2nd Album 'Romanticize'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7063063</integer>
+			<key>Total Time</key><integer>197307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-27T13:59:27Z</date>
+			<key>Date Added</key><date>2021-04-27T13:59:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3704280193</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:43:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-20T14:27:22Z</date>
+			<key>Release Date</key><date>2021-04-19T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2nd Album 'Romanticize'</string>
+			<key>Sort Artist</key><string>NU'EST</string>
+			<key>Sort Name</key><string>Inside Out</string>
+			<key>Persistent ID</key><string>C4F773BFD68B210F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41681</key>
+		<dict>
+			<key>Track ID</key><integer>41681</integer>
+			<key>Name</key><string>Be Yourself</string>
+			<key>Artist</key><string>CHUNG HA</string>
+			<key>Album Artist</key><string>CHUNG HA</string>
+			<key>Album</key><string>Be Yourself - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7399180</integer>
+			<key>Total Time</key><integer>205187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-05T01:55:31Z</date>
+			<key>Date Added</key><date>2021-05-05T01:55:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3704280398</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:46:38Z</date>
+			<key>Release Date</key><date>2020-06-09T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Be Yourself - Single</string>
+			<key>Sort Artist</key><string>CHUNG HA</string>
+			<key>Sort Name</key><string>Be Yourself</string>
+			<key>Persistent ID</key><string>ACF296F94D91FA03</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41831</key>
+		<dict>
+			<key>Track ID</key><integer>41831</integer>
+			<key>Name</key><string>Mr. Right Now (feat. Drake)</string>
+			<key>Artist</key><string>21 Savage &#38; Metro Boomin</string>
+			<key>Album Artist</key><string>21 Savage &#38; Metro Boomin</string>
+			<key>Composer</key><string>She'yaa Bin Abraham-Joseph, David Ruoff, Leland Wayne, Elias Klughammer, Aubrey Graham, Jocelyn Donald &#38; Tate Kobang</string>
+			<key>Album</key><string>SAVAGE MODE II [CHOPPED NOT SLOPPED]</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7327642</integer>
+			<key>Total Time</key><integer>193839</integer>
+			<key>Stop Time</key><integer>167000</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-08T16:44:27Z</date>
+			<key>Date Added</key><date>2021-05-08T16:44:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3704294635</integer>
+			<key>Play Date UTC</key><date>2021-05-19T22:43:55Z</date>
+			<key>Release Date</key><date>2020-10-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SAVAGE MODE II [CHOPPED NOT SLOPPED]</string>
+			<key>Sort Artist</key><string>21 Savage &#38; Metro Boomin</string>
+			<key>Sort Name</key><string>Mr. Right Now (feat. Drake)</string>
+			<key>Persistent ID</key><string>E015E969AE43AF07</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41869</key>
+		<dict>
+			<key>Track ID</key><integer>41869</integer>
+			<key>Name</key><string>Wasurerarenaino</string>
+			<key>Artist</key><string>sakanaction</string>
+			<key>Album Artist</key><string>sakanaction</string>
+			<key>Composer</key><string>Yamaguchi Ichiro</string>
+			<key>Album</key><string>834.194</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8746723</integer>
+			<key>Total Time</key><integer>238000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-05-14T11:48:27Z</date>
+			<key>Date Added</key><date>2021-05-14T11:48:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3704294873</integer>
+			<key>Play Date UTC</key><date>2021-05-19T22:47:53Z</date>
+			<key>Release Date</key><date>2019-06-19T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>834.194</string>
+			<key>Sort Artist</key><string>sakanaction</string>
+			<key>Sort Name</key><string>Wasurerarenaino</string>
+			<key>Persistent ID</key><string>192ECE8BD6E00AF5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42113</key>
+		<dict>
+			<key>Track ID</key><integer>42113</integer>
+			<key>Name</key><string>Simple and Clean (Planitb Remix)</string>
+			<key>Artist</key><string>Hikaru Utada</string>
+			<key>Album Artist</key><string>Hikaru Utada</string>
+			<key>Composer</key><string>Hikaru Utada</string>
+			<key>Album</key><string>Colors - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11952861</integer>
+			<key>Total Time</key><integer>343493</integer>
+			<key>Start Time</key><integer>38000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-05-15T19:50:55Z</date>
+			<key>Date Added</key><date>2021-05-15T19:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3704295096</integer>
+			<key>Play Date UTC</key><date>2021-05-19T22:51:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-17T14:56:51Z</date>
+			<key>Release Date</key><date>2003-01-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colors - EP</string>
+			<key>Sort Artist</key><string>Hikaru Utada</string>
+			<key>Sort Name</key><string>Simple and Clean (Planitb Remix)</string>
+			<key>Persistent ID</key><string>434749BEF3AC701B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42121</key>
+		<dict>
+			<key>Track ID</key><integer>42121</integer>
+			<key>Name</key><string>How Deep Is Your Love (Chris Lake Remix)</string>
+			<key>Artist</key><string>Calvin Harris &#38; Disciples</string>
+			<key>Album Artist</key><string>Calvin Harris &#38; Disciples</string>
+			<key>Composer</key><string>Calvin Harris, Ina Wrolsden, Nathan Duvall, Gavin Koolman &#38; Luke Mc Dermott</string>
+			<key>Album</key><string>How Deep Is Your Love (Remixes) - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10607228</integer>
+			<key>Total Time</key><integer>308573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-05-15T20:00:35Z</date>
+			<key>Date Added</key><date>2021-05-15T20:00:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3704295404</integer>
+			<key>Play Date UTC</key><date>2021-05-19T22:56:44Z</date>
+			<key>Release Date</key><date>2015-08-07T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How Deep Is Your Love (Remixes) - EP</string>
+			<key>Sort Artist</key><string>Calvin Harris &#38; Disciples</string>
+			<key>Sort Name</key><string>How Deep Is Your Love (Chris Lake Remix)</string>
+			<key>Persistent ID</key><string>1F87EEC1D5E09CC8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42123</key>
+		<dict>
+			<key>Track ID</key><integer>42123</integer>
+			<key>Name</key><string>Perfection</string>
+			<key>Artist</key><string>Body Language</string>
+			<key>Album Artist</key><string>Body Language</string>
+			<key>Composer</key><string>Grant Wheeler, Matthew Young &#38; Angelica Bess</string>
+			<key>Album</key><string>Perfection - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7527028</integer>
+			<key>Total Time</key><integer>206616</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-15T22:46:00Z</date>
+			<key>Date Added</key><date>2021-05-15T22:46:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3704292746</integer>
+			<key>Play Date UTC</key><date>2021-05-19T22:12:26Z</date>
+			<key>Release Date</key><date>2020-08-14T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Perfection - Single</string>
+			<key>Sort Artist</key><string>Body Language</string>
+			<key>Sort Name</key><string>Perfection</string>
+			<key>Persistent ID</key><string>A28351276423A503</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42125</key>
+		<dict>
+			<key>Track ID</key><integer>42125</integer>
+			<key>Name</key><string>Tempo</string>
+			<key>Artist</key><string>Smino</string>
+			<key>Album Artist</key><string>Smino</string>
+			<key>Composer</key><string>Christopher Smith Jr. &#38; Israel Leon</string>
+			<key>Album</key><string>Tempo - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4890283</integer>
+			<key>Total Time</key><integer>130939</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-15T22:54:21Z</date>
+			<key>Date Added</key><date>2021-05-15T22:54:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3704286094</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:21:34Z</date>
+			<key>Release Date</key><date>2020-03-30T00:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tempo - Single</string>
+			<key>Sort Artist</key><string>Smino</string>
+			<key>Sort Name</key><string>Tempo</string>
+			<key>Persistent ID</key><string>A59000ED4BE9A33F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42129</key>
+		<dict>
+			<key>Track ID</key><integer>42129</integer>
+			<key>Name</key><string>Don't Hide</string>
+			<key>Artist</key><string>Kilder</string>
+			<key>Album Artist</key><string>Kilder</string>
+			<key>Composer</key><string>Pepijn Willemse &#38; Leyla</string>
+			<key>Album</key><string>Don't Hide - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7040416</integer>
+			<key>Total Time</key><integer>198000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-15T23:08:27Z</date>
+			<key>Date Added</key><date>2021-05-15T23:08:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3704286292</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:24:52Z</date>
+			<key>Release Date</key><date>2020-07-03T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Hide - Single</string>
+			<key>Sort Artist</key><string>Kilder</string>
+			<key>Sort Name</key><string>Don't Hide</string>
+			<key>Persistent ID</key><string>FC99340CF86BA5D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42569</key>
+		<dict>
+			<key>Track ID</key><integer>42569</integer>
+			<key>Name</key><string>Lean On (feat. Elise Trouw)</string>
+			<key>Artist</key><string>Scary Pockets</string>
+			<key>Album Artist</key><string>Scary Pockets</string>
+			<key>Composer</key><string>Karen Ørsted, Philip Meckseper, Thomas Pentz, William Grigahcine &#38; Steve Guess</string>
+			<key>Album</key><string>Lean On (feat. Elise Trouw) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6312808</integer>
+			<key>Total Time</key><integer>174103</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-16T23:25:07Z</date>
+			<key>Date Added</key><date>2021-05-16T23:25:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3704286466</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:27:46Z</date>
+			<key>Release Date</key><date>2021-02-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lean On (feat. Elise Trouw) - Single</string>
+			<key>Sort Artist</key><string>Scary Pockets</string>
+			<key>Sort Name</key><string>Lean On (feat. Elise Trouw)</string>
+			<key>Persistent ID</key><string>0037665FDC10FB17</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42571</key>
+		<dict>
+			<key>Track ID</key><integer>42571</integer>
+			<key>Name</key><string>Look Over Your Shoulder (feat. Kendrick Lamar)</string>
+			<key>Artist</key><string>Busta Rhymes</string>
+			<key>Album Artist</key><string>Busta Rhymes</string>
+			<key>Album</key><string>Extinction Level Event 2: The Wrath of God</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8800121</integer>
+			<key>Total Time</key><integer>248811</integer>
+			<key>Stop Time</key><integer>208000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-17T03:51:19Z</date>
+			<key>Date Added</key><date>2021-05-17T03:51:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3704286674</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:31:14Z</date>
+			<key>Release Date</key><date>2020-10-29T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Extinction Level Event 2: The Wrath of God</string>
+			<key>Sort Artist</key><string>Busta Rhymes</string>
+			<key>Sort Name</key><string>Look Over Your Shoulder (feat. Kendrick Lamar)</string>
+			<key>Persistent ID</key><string>BC8C19384C9155FD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42583</key>
+		<dict>
+			<key>Track ID</key><integer>42583</integer>
+			<key>Name</key><string>Butterflies</string>
+			<key>Artist</key><string>Skrillex, Starrah &#38; Four Tet</string>
+			<key>Album Artist</key><string>Skrillex, Starrah &#38; Four Tet</string>
+			<key>Composer</key><string>Badriia Bourelly, Brittany Hazzard, Kieran Hebden &#38; Sonny Moore</string>
+			<key>Album</key><string>Butterflies - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7172046</integer>
+			<key>Total Time</key><integer>195938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-17T19:16:52Z</date>
+			<key>Date Added</key><date>2021-05-17T19:16:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3704286870</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:34:30Z</date>
+			<key>Release Date</key><date>2021-05-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Butterflies - Single</string>
+			<key>Sort Artist</key><string>Skrillex, Starrah &#38; Four Tet</string>
+			<key>Sort Name</key><string>Butterflies</string>
+			<key>Persistent ID</key><string>3A13640BA6BA616F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42585</key>
+		<dict>
+			<key>Track ID</key><integer>42585</integer>
+			<key>Name</key><string>Summer Vibe</string>
+			<key>Artist</key><string>Forrest Nolan</string>
+			<key>Album Artist</key><string>Forrest Nolan</string>
+			<key>Composer</key><string>Forrest Nolan</string>
+			<key>Album</key><string>Summer Vibe - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7127146</integer>
+			<key>Total Time</key><integer>200293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-17T19:27:53Z</date>
+			<key>Date Added</key><date>2021-05-17T19:27:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3704287070</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:37:50Z</date>
+			<key>Release Date</key><date>2021-05-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Summer Vibe - Single</string>
+			<key>Sort Artist</key><string>Forrest Nolan</string>
+			<key>Sort Name</key><string>Summer Vibe</string>
+			<key>Persistent ID</key><string>B21916B800D43934</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42587</key>
+		<dict>
+			<key>Track ID</key><integer>42587</integer>
+			<key>Name</key><string>have a great day</string>
+			<key>Artist</key><string>easy life</string>
+			<key>Album Artist</key><string>easy life</string>
+			<key>Composer</key><string>Murray Matravers, Alessandro Buccellati, Gianluca Buccellati &#38; Rob Milton</string>
+			<key>Album</key><string>life's a beach</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7698339</integer>
+			<key>Total Time</key><integer>202090</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-17T19:36:59Z</date>
+			<key>Date Added</key><date>2021-05-17T19:36:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3704287272</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:41:12Z</date>
+			<key>Release Date</key><date>2021-05-09T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>life's a beach</string>
+			<key>Sort Artist</key><string>easy life</string>
+			<key>Sort Name</key><string>have a great day</string>
+			<key>Persistent ID</key><string>E8BB5533DEA19376</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42589</key>
+		<dict>
+			<key>Track ID</key><integer>42589</integer>
+			<key>Name</key><string>Grandes Ligas (feat. Snoop Dogg &#38; B-Real)</string>
+			<key>Artist</key><string>Lupillo Rivera, Alemán &#38; Santa Fe Klan</string>
+			<key>Album Artist</key><string>Lupillo Rivera, Alemán &#38; Santa Fe Klan</string>
+			<key>Composer</key><string>Ed Faris, Guadalupe Rivera &#38; Juan Rivera</string>
+			<key>Album</key><string>Grandes Ligas (feat. Snoop Dogg &#38; B-Real) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8466265</integer>
+			<key>Total Time</key><integer>240000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-17T20:19:22Z</date>
+			<key>Date Added</key><date>2021-05-17T20:19:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3704287512</integer>
+			<key>Play Date UTC</key><date>2021-05-19T20:45:12Z</date>
+			<key>Release Date</key><date>2021-05-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Grandes Ligas (feat. Snoop Dogg &#38; B-Real) - Single</string>
+			<key>Sort Artist</key><string>Lupillo Rivera, Alemán &#38; Santa Fe Klan</string>
+			<key>Sort Name</key><string>Grandes Ligas (feat. Snoop Dogg &#38; B-Real)</string>
+			<key>Persistent ID</key><string>1DD6F678E6299CAB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42591</key>
+		<dict>
+			<key>Track ID</key><integer>42591</integer>
+			<key>Name</key><string>What's Up</string>
+			<key>Artist</key><string>fanclubwallet</string>
+			<key>Album Artist</key><string>fanclubwallet</string>
+			<key>Composer</key><string>Hannah Judge &#38; Michael Watson</string>
+			<key>Album</key><string>Hurt Is Boring - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5233658</integer>
+			<key>Total Time</key><integer>141750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-18T13:40:02Z</date>
+			<key>Date Added</key><date>2021-05-18T13:40:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3704279002</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:23:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-20T14:11:03Z</date>
+			<key>Release Date</key><date>2021-05-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hurt Is Boring - EP</string>
+			<key>Sort Artist</key><string>fanclubwallet</string>
+			<key>Sort Name</key><string>What's Up</string>
+			<key>Persistent ID</key><string>5EC866515D49824C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42593</key>
+		<dict>
+			<key>Track ID</key><integer>42593</integer>
+			<key>Name</key><string>good 4 u</string>
+			<key>Artist</key><string>Olivia Rodrigo</string>
+			<key>Album Artist</key><string>Olivia Rodrigo</string>
+			<key>Composer</key><string>Olivia Rodrigo &#38; Daniel Nigro</string>
+			<key>Album</key><string>SOUR</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6379749</integer>
+			<key>Total Time</key><integer>178148</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-18T14:09:14Z</date>
+			<key>Date Added</key><date>2021-05-18T14:09:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3704279180</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:26:20Z</date>
+			<key>Release Date</key><date>2021-05-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SOUR</string>
+			<key>Sort Artist</key><string>Olivia Rodrigo</string>
+			<key>Sort Name</key><string>good 4 u</string>
+			<key>Persistent ID</key><string>345E0030ADC75C3F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42689</key>
+		<dict>
+			<key>Track ID</key><integer>42689</integer>
+			<key>Name</key><string>Red Gatorade</string>
+			<key>Artist</key><string>Audrey Mika</string>
+			<key>Album Artist</key><string>Audrey Mika</string>
+			<key>Composer</key><string>Audrey Mika Armacost, Midi Jones, Alexandra Veltri &#38; Amisha Sarkar</string>
+			<key>Album</key><string>Red Gatorade - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6717488</integer>
+			<key>Total Time</key><integer>187876</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-19T14:09:56Z</date>
+			<key>Date Added</key><date>2021-05-19T14:09:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3704279368</integer>
+			<key>Play Date UTC</key><date>2021-05-19T18:29:28Z</date>
+			<key>Release Date</key><date>2020-09-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Red Gatorade - Single</string>
+			<key>Sort Artist</key><string>Audrey Mika</string>
+			<key>Sort Name</key><string>Red Gatorade</string>
+			<key>Persistent ID</key><string>3B27046971F17EC0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101501</integer>
+			<key>Playlist Persistent ID</key><string>D2F59608E714CD4E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42689</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

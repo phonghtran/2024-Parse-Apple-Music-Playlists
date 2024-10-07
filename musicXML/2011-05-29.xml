@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:44:00Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>29015</key>
+		<dict>
+			<key>Track ID</key><integer>29015</integer>
+			<key>Name</key><string>E.T.</string>
+			<key>Artist</key><string>Katy Perry</string>
+			<key>Album Artist</key><string>Katy Perry</string>
+			<key>Album</key><string>Teenage Dream</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8362204</integer>
+			<key>Total Time</key><integer>206994</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-31T22:12:24Z</date>
+			<key>Date Added</key><date>2010-10-14T17:31:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3398155826</integer>
+			<key>Play Date UTC</key><date>2011-09-06T18:10:26Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29F54A0D189440CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Katy%20Perry%20-%20Teenage%20Dream/08.%20E.T..mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30855</key>
+		<dict>
+			<key>Track ID</key><integer>30855</integer>
+			<key>Name</key><string>Voice Yr Choice</string>
+			<key>Artist</key><string>The Go! Team</string>
+			<key>Album</key><string>Rolling Blackouts - mu-sique.com</string>
+			<key>Genre</key><string>µ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7710648</integer>
+			<key>Total Time</key><integer>214800</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-07T05:38:09Z</date>
+			<key>Date Added</key><date>2011-05-07T06:36:39Z</date>
+			<key>Bit Rate</key><integer>286</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>mu-sique.com</string>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3405793275</integer>
+			<key>Play Date UTC</key><date>2011-12-04T03:41:15Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-11-20T21:46:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Go! Team</string>
+			<key>Persistent ID</key><string>42E6001F9F22AB3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/go%20team%20-%20%20Voice%20Yr%20Choice.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30867</key>
+		<dict>
+			<key>Track ID</key><integer>30867</integer>
+			<key>Name</key><string>Bounce</string>
+			<key>Artist</key><string>Calvin Harris Feat. Kelis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4417512</integer>
+			<key>Total Time</key><integer>183614</integer>
+			<key>Date Modified</key><date>2011-05-07T06:31:47Z</date>
+			<key>Date Added</key><date>2011-05-07T06:36:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3407602168</integer>
+			<key>Play Date UTC</key><date>2011-12-25T02:09:28Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-05-17T02:34:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2012</integer>
+			<key>Persistent ID</key><string>13D8A64C2D56FA98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Calvin%20Harris%20Feat.%20Kelis%20-%20Bounce.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30869</key>
+		<dict>
+			<key>Track ID</key><integer>30869</integer>
+			<key>Name</key><string>Night by Night (NEUS 'Dubstep' Remix)</string>
+			<key>Artist</key><string>Chromeo</string>
+			<key>Album</key><string>NEUS Remixes</string>
+			<key>Genre</key><string>Electronic, World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8919992</integer>
+			<key>Total Time</key><integer>222902</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-07T06:28:00Z</date>
+			<key>Date Added</key><date>2011-05-07T06:36:40Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3407783190</integer>
+			<key>Play Date UTC</key><date>2011-12-27T04:26:30Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-12-18T07:21:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4C4EF48345F7015</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Chromeo--Night_by_Night_NEUS_Dubstep_Remix.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30871</key>
+		<dict>
+			<key>Track ID</key><integer>30871</integer>
+			<key>Name</key><string>Happy Banjo</string>
+			<key>Artist</key><string>Dark Mean</string>
+			<key>Album</key><string>Dark Mean</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10404125</integer>
+			<key>Total Time</key><integer>260048</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2011-05-07T06:37:47Z</date>
+			<key>Date Added</key><date>2011-05-07T06:38:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3406107668</integer>
+			<key>Play Date UTC</key><date>2011-12-07T19:01:08Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2011-11-20T21:46:48Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6307</integer>
+			<key>Persistent ID</key><string>6DEB4C47AE7F7D6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/dark%20mean%20-%2002-Happy-Banjo.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30877</key>
+		<dict>
+			<key>Track ID</key><integer>30877</integer>
+			<key>Name</key><string>Tattooed (Jordin Sparks vs The Ceasars)</string>
+			<key>Artist</key><string>Divide &#38; Kreate</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7149150</integer>
+			<key>Total Time</key><integer>223346</integer>
+			<key>Date Modified</key><date>2011-05-10T06:13:19Z</date>
+			<key>Date Added</key><date>2011-05-10T06:24:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>The Ceasars 'Sort it out'
+vs
+Jordin Sparks 'Tattoo'</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3404621459</integer>
+			<key>Play Date UTC</key><date>2011-11-20T14:10:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-22T18:50:06Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2553535D2300C4C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/divide%20&#38;%20kreate/Divide_&#38;_Kreate_-_Tattooed.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30889</key>
+		<dict>
+			<key>Track ID</key><integer>30889</integer>
+			<key>Name</key><string>Swagger's Karma</string>
+			<key>Artist</key><string>soFly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8759424</integer>
+			<key>Total Time</key><integer>217965</integer>
+			<key>Start Time</key><integer>2000</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-15T00:09:24Z</date>
+			<key>Date Added</key><date>2011-05-12T20:33:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.dvdvideosoft.com</string>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3406804781</integer>
+			<key>Play Date UTC</key><date>2011-12-15T20:39:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF24D393FB584A3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/P%20-%20S/soFLy%20-%20Swaggers%20Karma.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30895</key>
+		<dict>
+			<key>Track ID</key><integer>30895</integer>
+			<key>Name</key><string>Välkommen in</string>
+			<key>Artist</key><string>Veronica Maggio</string>
+			<key>Composer</key><string>DONAR</string>
+			<key>Album</key><string>Satan i gatan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8439989</integer>
+			<key>Total Time</key><integer>209946</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-11T14:35:00Z</date>
+			<key>Date Added</key><date>2011-05-13T17:01:29Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3406820763</integer>
+			<key>Play Date UTC</key><date>2011-12-16T01:06:03Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-11-20T21:49:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A22B5F687FFAB37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Veronica%20Maggio%20-%202011%20-%20Satan%20i%20gatan/02%20Veronica%20Maggio-Valkommen%20in.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30949</key>
+		<dict>
+			<key>Track ID</key><integer>30949</integer>
+			<key>Name</key><string>Stutter (Feat. Mystikal)</string>
+			<key>Artist</key><string>Joe</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5485580</integer>
+			<key>Total Time</key><integer>214883</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-05-25T15:11:45Z</date>
+			<key>Date Added</key><date>2011-05-25T15:12:05Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com</string>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3402890633</integer>
+			<key>Play Date UTC</key><date>2011-10-31T13:23:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-06T18:33:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>384E27EF9DF4EF5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/08-joe-stutter_(feat._mystikal).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30951</key>
+		<dict>
+			<key>Track ID</key><integer>30951</integer>
+			<key>Name</key><string>We No Speak Americano (Original mix)</string>
+			<key>Artist</key><string>Yolanda Be Cool &#38; Dcup </string>
+			<key>Album</key><string>We no speak Americano [Single]</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10844608</integer>
+			<key>Total Time</key><integer>269832</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-25T15:21:02Z</date>
+			<key>Date Added</key><date>2011-05-25T15:25:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[320Kbps]</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3405114544</integer>
+			<key>Play Date UTC</key><date>2011-11-26T07:09:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>196E5922A2800A49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/We%20No%20Speak%20Americano%20(Original%20Mix)%20%5B320Kbps%5D/Yolanda%20Be%20Cool%20&#38;%20DCUP%20-%20We%20No%20Speak%20Americano%20(Original%20mix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-05-29</string>
+			<key>Playlist ID</key><integer>675925</integer>
+			<key>Playlist Persistent ID</key><string>BEEAE94D9E235934</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30949</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

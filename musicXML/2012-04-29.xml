@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-04-29T14:22:11Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>35231</key>
+		<dict>
+			<key>Track ID</key><integer>35231</integer>
+			<key>Name</key><string>Bella</string>
+			<key>Artist</key><string>Angus and Julia Stone</string>
+			<key>Album Artist</key><string>Angus and Julia Stone</string>
+			<key>Album</key><string>A Book Like This</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7118371</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Stop Time</key><integer>216000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-04-15T16:36:50Z</date>
+			<key>Date Added</key><date>2012-04-14T20:15:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com
+
+Cleaned by TuneUp!</string>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3418455662</integer>
+			<key>Play Date UTC</key><date>2012-04-28T16:01:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-04-26T22:30:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Book Like This</string>
+			<key>Persistent ID</key><string>7C93BB2048F2D00C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Angus%20and%20Julia%20Stone%20%E2%80%93%20Bella.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499240</key>
+		<dict>
+			<key>Track ID</key><integer>499240</integer>
+			<key>Name</key><string>Host</string>
+			<key>Artist</key><string>Alex Winston</string>
+			<key>Album</key><string>King Con </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7442638</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Date Modified</key><date>2012-04-24T00:43:39Z</date>
+			<key>Date Added</key><date>2012-04-22T15:09:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3418535470</integer>
+			<key>Play Date UTC</key><date>2012-04-29T14:11:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-04-26T22:30:03Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D8EBE6280C9F1385</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Alex%20Winston-King%20Con%20(2012)%20320Kbit(mp3)%20DMT/05%20-%20Host.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499481</key>
+		<dict>
+			<key>Track ID</key><integer>499481</integer>
+			<key>Name</key><string>Helsinki Art Scene</string>
+			<key>Artist</key><string>Satellite Stories</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6639874</integer>
+			<key>Total Time</key><integer>208848</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>44</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:41Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:05Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3418535853</integer>
+			<key>Play Date UTC</key><date>2012-04-29T14:17:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4931B410FAFEBB74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/44%20-%20Satellite%20Stories%20-%20Helsinki%20Art%20Scene.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499532</key>
+		<dict>
+			<key>Track ID</key><integer>499532</integer>
+			<key>Name</key><string>Lady Percy</string>
+			<key>Artist</key><string>King Charles</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5310709</integer>
+			<key>Total Time</key><integer>170631</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>61</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:43Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:05Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3418535284</integer>
+			<key>Play Date UTC</key><date>2012-04-29T14:08:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-04-26T22:26:57Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>3B8F8B8EDB33162B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/61%20-%20King%20Charles%20-%20Lady%20Percy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499538</key>
+		<dict>
+			<key>Track ID</key><integer>499538</integer>
+			<key>Name</key><string>Little Numbers</string>
+			<key>Artist</key><string>BOY</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6605661</integer>
+			<key>Total Time</key><integer>218540</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>63</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:43Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:05Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3418482492</integer>
+			<key>Play Date UTC</key><date>2012-04-28T23:28:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-04-26T22:30:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A63D5FAB639018F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/63%20-%20BOY%20-%20Little%20Numbers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499598</key>
+		<dict>
+			<key>Track ID</key><integer>499598</integer>
+			<key>Name</key><string>Positive Vibes</string>
+			<key>Artist</key><string>Freshkills</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6183749</integer>
+			<key>Total Time</key><integer>210390</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>83</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:46Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:06Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3418482703</integer>
+			<key>Play Date UTC</key><date>2012-04-28T23:31:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-04-29T02:38:22Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1E0ED2FDAB277B12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/83%20-%20Freshkills%20-%20Positive%20Vibes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499646</key>
+		<dict>
+			<key>Track ID</key><integer>499646</integer>
+			<key>Name</key><string>Stuck In The Middle</string>
+			<key>Artist</key><string>The Elwins</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5878235</integer>
+			<key>Total Time</key><integer>175124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>99</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:47Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:07Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3418535645</integer>
+			<key>Play Date UTC</key><date>2012-04-29T14:14:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-04-26T22:26:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Elwins</string>
+			<key>Persistent ID</key><string>71548C56BCBC291F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/99%20-%20The%20Elwins%20-%20Stuck%20In%20The%20Middle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499676</key>
+		<dict>
+			<key>Track ID</key><integer>499676</integer>
+			<key>Name</key><string>The Fold</string>
+			<key>Artist</key><string>Alex Winston</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>King Con </string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7182041</integer>
+			<key>Total Time</key><integer>217678</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>109</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-24T00:44:08Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:07Z</date>
+			<key>Bit Rate</key><integer>260</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3418536091</integer>
+			<key>Play Date UTC</key><date>2012-04-29T14:21:31Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2012-04-26T22:30:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Fold</string>
+			<key>Persistent ID</key><string>D27BE36EB019ECDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/109%20-%20Alex%20Winston%20-%20The%20Fold.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499688</key>
+		<dict>
+			<key>Track ID</key><integer>499688</integer>
+			<key>Name</key><string>The Shape Of Things To Come</string>
+			<key>Artist</key><string>The OK Social Club</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5494325</integer>
+			<key>Total Time</key><integer>200463</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>113</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:48Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:07Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3418490442</integer>
+			<key>Play Date UTC</key><date>2012-04-29T01:40:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-04-27T00:42:38Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>OK Social Club</string>
+			<key>Sort Name</key><string>Shape Of Things To Come</string>
+			<key>Persistent ID</key><string>C26723F2AD175A4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/113%20-%20The%20OK%20Social%20Club%20-%20The%20Shape%20Of%20Things%20To%20Come.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499712</key>
+		<dict>
+			<key>Track ID</key><integer>499712</integer>
+			<key>Name</key><string>Traveling</string>
+			<key>Artist</key><string>Tennis</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6101213</integer>
+			<key>Total Time</key><integer>181786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>121</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-25T03:29:49Z</date>
+			<key>Date Added</key><date>2012-04-22T15:33:08Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3418482056</integer>
+			<key>Play Date UTC</key><date>2012-04-28T23:20:56Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A45CF9621B211850</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20April%202012/121%20-%20Tennis%20-%20Traveling.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>80929</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499646</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499481</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

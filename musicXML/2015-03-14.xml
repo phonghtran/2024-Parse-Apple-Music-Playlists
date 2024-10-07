@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-03-14T14:04:11Z</date>
+	<key>Application Version</key><string>12.1.0.50</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/iTunes/</string>
+	<key>Library Persistent ID</key><string>C71A2BB3D59AEB4D</string>
+	<key>Tracks</key>
+	<dict>
+		<key>49237</key>
+		<dict>
+			<key>Track ID</key><integer>49237</integer>
+			<key>Name</key><string>15. Break The Rules (Femme Remix)</string>
+			<key>Artist</key><string>Charli XCX</string>
+			<key>Album</key><string>Sucker (Deluxe)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9482376</integer>
+			<key>Total Time</key><integer>234984</integer>
+			<key>Date Modified</key><date>2015-01-26T14:38:25Z</date>
+			<key>Date Added</key><date>2015-02-14T19:18:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3509093828</integer>
+			<key>Play Date UTC</key><date>2015-03-13T17:17:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-03-05T23:09:12Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB351D09E4C712EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Charli%20XCX/Sucker%20(Deluxe)/15.%20Break%20The%20Rules%20(Femme%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49759</key>
+		<dict>
+			<key>Track ID</key><integer>49759</integer>
+			<key>Name</key><string>I Really Like You</string>
+			<key>Artist</key><string>Carly Rae Jepsen</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6327275</integer>
+			<key>Total Time</key><integer>204512</integer>
+			<key>Date Modified</key><date>2015-03-02T12:58:01Z</date>
+			<key>Date Added</key><date>2015-03-02T12:57:41Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3509082842</integer>
+			<key>Play Date UTC</key><date>2015-03-13T14:14:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-03-04T02:55:28Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B58619B04095022A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Carly%20Rae%20Jepsen/Unknown%20Album/I%20Really%20Like%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49769</key>
+		<dict>
+			<key>Track ID</key><integer>49769</integer>
+			<key>Name</key><string>All Day</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7465235</integer>
+			<key>Total Time</key><integer>310961</integer>
+			<key>Stop Time</key><integer>209500</integer>
+			<key>Date Modified</key><date>2015-03-04T01:13:59Z</date>
+			<key>Date Added</key><date>2015-03-03T23:05:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3509083237</integer>
+			<key>Play Date UTC</key><date>2015-03-13T14:20:37Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-03-09T13:45:22Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4988</integer>
+			<key>Persistent ID</key><string>FB947DB3A578976E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Kanye%20West/Unknown%20Album/All%20Day.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49771</key>
+		<dict>
+			<key>Track ID</key><integer>49771</integer>
+			<key>Name</key><string>first snow</string>
+			<key>Artist</key><string>Emancipator</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5004101</integer>
+			<key>Total Time</key><integer>312737</integer>
+			<key>Date Modified</key><date>2015-03-04T01:49:55Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3509083549</integer>
+			<key>Play Date UTC</key><date>2015-03-13T14:25:49Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-03-13T13:51:56Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2577F89CE6CAC83C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Emancipator/Unknown%20Album/first%20snow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49773</key>
+		<dict>
+			<key>Track ID</key><integer>49773</integer>
+			<key>Name</key><string>Let You Go Ft. Great Good Fine Ok</string>
+			<key>Artist</key><string>The Chainsmokers</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3503528</integer>
+			<key>Total Time</key><integer>218644</integer>
+			<key>Date Modified</key><date>2015-03-04T01:47:50Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3509098055</integer>
+			<key>Play Date UTC</key><date>2015-03-13T18:27:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-03-05T02:12:21Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>Chainsmokers</string>
+			<key>Persistent ID</key><string>2A0C12AF69B07B4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/The%20Chainsmokers/Unknown%20Album/Let%20You%20Go%20Ft.%20Great%20Good%20Fine%20Ok.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49775</key>
+		<dict>
+			<key>Track ID</key><integer>49775</integer>
+			<key>Name</key><string>Roll Up Your Sleeves</string>
+			<key>Artist</key><string>Meg Mac</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2962514</integer>
+			<key>Total Time</key><integer>185129</integer>
+			<key>Date Modified</key><date>2015-03-04T01:56:55Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3509083027</integer>
+			<key>Play Date UTC</key><date>2015-03-13T14:17:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-03-13T02:52:42Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F660E5C63BF438EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Meg%20Mac/Unknown%20Album/Roll%20Up%20Your%20Sleeves.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49797</key>
+		<dict>
+			<key>Track ID</key><integer>49797</integer>
+			<key>Name</key><string>4/17/1975</string>
+			<key>Artist</key><string>Rob Viktum</string>
+			<key>Album Artist</key><string>Ten Million Sounds</string>
+			<key>Album</key><string>Finding Time</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5588667</integer>
+			<key>Total Time</key><integer>172956</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-03-04T07:42:40Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://tenmillionsounds.bandcamp.com</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3509098465</integer>
+			<key>Play Date UTC</key><date>2015-03-13T18:34:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B802E68D3A98BF96</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Ten%20Million%20Sounds/Finding%20Time/11%204_17_1975.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49803</key>
+		<dict>
+			<key>Track ID</key><integer>49803</integer>
+			<key>Name</key><string>Too Bad (Prod. J Gramm)</string>
+			<key>Artist</key><string>IshDARR</string>
+			<key>Album</key><string>Old Soul, Young Spirit</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10080539</integer>
+			<key>Total Time</key><integer>193071</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2015-03-04T01:38:01Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3509082441</integer>
+			<key>Play Date UTC</key><date>2015-03-13T14:07:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D06DD98BF474396</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/IshDARR/Old%20Soul,%20Young%20Spirit/Too%20Bad%20(Prod.%20J%20Gramm).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49805</key>
+		<dict>
+			<key>Track ID</key><integer>49805</integer>
+			<key>Name</key><string>To Ü (Feat. AlunaGeorge &#38; Skillrex)</string>
+			<key>Artist</key><string>Diplo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3804021</integer>
+			<key>Total Time</key><integer>237061</integer>
+			<key>Date Modified</key><date>2015-03-04T01:57:40Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3509098292</integer>
+			<key>Play Date UTC</key><date>2015-03-13T18:31:32Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7D5A4D2770908685</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Diplo/Unknown%20Album/To%20U%CC%88%20(Feat.%20AlunaGeorge%20&#38;%20Skillrex).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49809</key>
+		<dict>
+			<key>Track ID</key><integer>49809</integer>
+			<key>Name</key><string>Baby Blue ft. Chance The Rapper (Prod. Mark Ronson)</string>
+			<key>Artist</key><string>ACTION BRONSON</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4484322</integer>
+			<key>Total Time</key><integer>280241</integer>
+			<key>Date Modified</key><date>2015-03-04T01:24:47Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3509106101</integer>
+			<key>Play Date UTC</key><date>2015-03-13T20:41:41Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-03-13T13:51:53Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>3760482F7E9BA5E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/ACTION%20BRONSON/Unknown%20Album/Baby%20Blue%20ft.%20Chance%20The%20Rapper%20(Prod.%20Mark%20Ronson).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49811</key>
+		<dict>
+			<key>Track ID</key><integer>49811</integer>
+			<key>Name</key><string>Lean On (feat. MØ)</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2826540</integer>
+			<key>Total Time</key><integer>176613</integer>
+			<key>Date Modified</key><date>2015-03-04T01:56:30Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3509094005</integer>
+			<key>Play Date UTC</key><date>2015-03-13T17:20:05Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>016BA11A62876913</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Major%20Lazer/Unknown%20Album/Lean%20On%20(feat.%20M%C3%98).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49813</key>
+		<dict>
+			<key>Track ID</key><integer>49813</integer>
+			<key>Name</key><string>Go For It</string>
+			<key>Artist</key><string>CRUISR</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3141272</integer>
+			<key>Total Time</key><integer>196179</integer>
+			<key>Date Modified</key><date>2015-03-04T01:55:53Z</date>
+			<key>Date Added</key><date>2015-03-04T01:55:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3509082637</integer>
+			<key>Play Date UTC</key><date>2015-03-13T14:10:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-03-09T03:54:42Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7101B88E89D192A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/CRUISR/Unknown%20Album/Go%20For%20It.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>49823</key>
+		<dict>
+			<key>Track ID</key><integer>49823</integer>
+			<key>Name</key><string>Can See Can Do</string>
+			<key>Artist</key><string>M.I.A.</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3013277</integer>
+			<key>Total Time</key><integer>187663</integer>
+			<key>Date Modified</key><date>2015-03-08T01:26:03Z</date>
+			<key>Date Added</key><date>2015-03-08T01:25:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3509094193</integer>
+			<key>Play Date UTC</key><date>2015-03-13T17:23:13Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>54872C9EB4D5C191</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/M.I.A_/Unknown%20Album/Can%20See%20Can%20Do.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>148993</key>
+		<dict>
+			<key>Track ID</key><integer>148993</integer>
+			<key>Name</key><string>D&#38;E</string>
+			<key>Artist</key><string>Super Junior</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6773474</integer>
+			<key>Total Time</key><integer>221753</integer>
+			<key>Start Time</key><integer>5000</integer>
+			<key>Stop Time</key><integer>206000</integer>
+			<key>Date Modified</key><date>2015-03-13T23:45:15Z</date>
+			<key>Date Added</key><date>2015-03-12T03:54:27Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3509139156</integer>
+			<key>Play Date UTC</key><date>2015-03-14T05:52:36Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-03-12T14:58:09Z</date>
+			<key>Normalization</key><integer>7671</integer>
+			<key>Persistent ID</key><string>4EFC691470F596D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Super%20Junior/Unknown%20Album/D&#38;E.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>149053</key>
+		<dict>
+			<key>Track ID</key><integer>149053</integer>
+			<key>Name</key><string>Promises</string>
+			<key>Artist</key><string>Ryn Weaver</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3717064</integer>
+			<key>Total Time</key><integer>232306</integer>
+			<key>Date Modified</key><date>2015-03-13T23:44:19Z</date>
+			<key>Date Added</key><date>2015-03-13T23:44:22Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-03-14T04:36:04Z</date>
+			<key>Release Date</key><date>1969-12-23T14:12:16Z</date>
+			<key>Persistent ID</key><string>326FFB7A14CEC2E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phonghtran/Music/iTunes/Ryn%20Weaver/Unknown%20Album/Promises.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Playlist ID</key><integer>143505</integer>
+			<key>Playlist Persistent ID</key><string>C8487FAB771BB82D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>49237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49803</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49797</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149053</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

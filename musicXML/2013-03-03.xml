@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-03-03T22:31:28Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>32796</key>
+		<dict>
+			<key>Track ID</key><integer>32796</integer>
+			<key>Name</key><string>Tough Love</string>
+			<key>Artist</key><string>Early Winters</string>
+			<key>Album</key><string>Early Winters EP</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8858800</integer>
+			<key>Total Time</key><integer>265769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T14:32:55Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:07Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3445161100</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:11:40Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2013-03-03T05:06:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>44457630754DAAB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/118%20-%20Early%20Winters%20-%20Tough%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35118</key>
+		<dict>
+			<key>Track ID</key><integer>35118</integer>
+			<key>Name</key><string>ADHD</string>
+			<key>Artist</key><string>Blood Red Shoes</string>
+			<key>Composer</key><string>Blood Red Shoes</string>
+			<key>Album</key><string>Box of Secrets</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6182760</integer>
+			<key>Total Time</key><integer>196545</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T14:34:59Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:24Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3445160609</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:03:29Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-02-26T21:01:27Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13030</integer>
+			<key>Persistent ID</key><string>467D79F055B1A980</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Blood%20Red%20Shoes%20-%20Box%20Of%20Secrets%20%5B2008-MP3-V0%5D%20RiP-OiNK/07%20ADHD.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35184</key>
+		<dict>
+			<key>Track ID</key><integer>35184</integer>
+			<key>Name</key><string>How Can You Swallow So Much Sleep</string>
+			<key>Artist</key><string>Bombay Bicycle Club</string>
+			<key>Album</key><string>A Different Kind of Fix</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6561015</integer>
+			<key>Total Time</key><integer>210259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-07T14:34:58Z</date>
+			<key>Date Added</key><date>2012-01-09T01:53:28Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3445160166</integer>
+			<key>Play Date UTC</key><date>2013-03-03T18:56:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2013-03-01T21:47:46Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Different Kind of Fix</string>
+			<key>Persistent ID</key><string>3934E2DAB86E2314</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Bombay_Bicycle_Club-A_Different_Kind_Of_Fix-2011-SiRE/01-bombay_bicycle_club-how_can_you_swallow_so_much_sleep.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37898</key>
+		<dict>
+			<key>Track ID</key><integer>37898</integer>
+			<key>Name</key><string>Sure Thing (Miguel Cover)</string>
+			<key>Artist</key><string>TRAILS AND WAYS</string>
+			<key>Album</key><string>Sure Thing</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9309423</integer>
+			<key>Total Time</key><integer>225567</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-09-11T09:26:16Z</date>
+			<key>Date Added</key><date>2012-09-11T05:39:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://trailsandways.bandcamp.com</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3445163434</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:50:34Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-03-01T04:04:26Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4624E9C878407161</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/TRAILS%20AND%20WAYS%20-%20Sure%20Thing/TRAILS%20AND%20WAYS%20-%20Sure%20Thing%20-%2001%20Sure%20Thing%20(Miguel%20Cover).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39316</key>
+		<dict>
+			<key>Track ID</key><integer>39316</integer>
+			<key>Name</key><string>Candles</string>
+			<key>Artist</key><string>Daughter</string>
+			<key>Album Artist</key><string>Daughter</string>
+			<key>Album</key><string>His Young Heart</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8229467</integer>
+			<key>Total Time</key><integer>293381</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-01-25T17:46:00Z</date>
+			<key>Date Added</key><date>2013-01-25T18:21:50Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 222578970</string>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3445162508</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:35:08Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2013-03-01T07:47:02Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB18C86810D5975D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Daughter%20-%20Candles.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39476</key>
+		<dict>
+			<key>Track ID</key><integer>39476</integer>
+			<key>Name</key><string>The Love Club</string>
+			<key>Artist</key><string>LordeMusic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3234843</integer>
+			<key>Total Time</key><integer>201534</integer>
+			<key>Date Modified</key><date>2013-02-07T23:57:06Z</date>
+			<key>Date Added</key><date>2013-02-07T23:11:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3445161301</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:15:01Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-02-27T16:02:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Love Club</string>
+			<key>Persistent ID</key><string>696BB463518FD94F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/LordeMusic%20-%20The%20Love%20Club.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39886</key>
+		<dict>
+			<key>Track ID</key><integer>39886</integer>
+			<key>Name</key><string>Pogo Mixtape</string>
+			<key>Artist</key><string>Pogo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7390578</integer>
+			<key>Total Time</key><integer>461280</integer>
+			<key>Date Modified</key><date>2013-02-24T02:14:28Z</date>
+			<key>Date Added</key><date>2013-02-22T21:58:28Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3445159955</integer>
+			<key>Play Date UTC</key><date>2013-03-03T18:52:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-03-01T23:24:23Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>639DE1AC761445D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Pogo%20mixtape.mp3.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39922</key>
+		<dict>
+			<key>Track ID</key><integer>39922</integer>
+			<key>Name</key><string>Wanna B With Somebody</string>
+			<key>Artist</key><string>Icona Pop</string>
+			<key>Album Artist</key><string>Icona Pop</string>
+			<key>Composer</key><string>Tommy Tysper &#38; Mack</string>
+			<key>Album</key><string>Icona Pop</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7417356</integer>
+			<key>Total Time</key><integer>180976</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-02-26T20:15:21Z</date>
+			<key>Date Added</key><date>2013-02-26T20:20:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3445161982</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:26:22Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7F82059566B2FB69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Icona%20Pop%20-%20Icona%20Pop%20320%20kbps%20CBR%20MP3%20VYTO%20%5BVX%5D%20%5BP2PDL%5D/06%20-%20Icona%20Pop%20-%20Wanna%20B%20With%20Somebody.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39930</key>
+		<dict>
+			<key>Track ID</key><integer>39930</integer>
+			<key>Name</key><string>Lovers to Friends</string>
+			<key>Artist</key><string>Icona Pop</string>
+			<key>Album Artist</key><string>Icona Pop</string>
+			<key>Composer</key><string>Patrik Berger, Aino Jawo &#38; Caroline Hjelt</string>
+			<key>Album</key><string>Icona Pop</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7398548</integer>
+			<key>Total Time</key><integer>180506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-02-26T20:15:21Z</date>
+			<key>Date Added</key><date>2013-02-26T20:20:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3445162757</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:39:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6CDA550436B92A73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Icona%20Pop%20-%20Icona%20Pop%20320%20kbps%20CBR%20MP3%20VYTO%20%5BVX%5D%20%5BP2PDL%5D/10%20-%20Icona%20Pop%20-%20Lovers%20to%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39946</key>
+		<dict>
+			<key>Track ID</key><integer>39946</integer>
+			<key>Name</key><string>Boyfriend (Cover)</string>
+			<key>Artist</key><string>JENI</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4638342</integer>
+			<key>Total Time</key><integer>231810</integer>
+			<key>Date Modified</key><date>2013-02-27T02:43:40Z</date>
+			<key>Date Added</key><date>2013-02-27T02:43:19Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3445160413</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:00:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-03-02T08:33:47Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1194</integer>
+			<key>Persistent ID</key><string>BE24762879C6AA59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Boyfriend_-_JENI_(JB_cover).mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39948</key>
+		<dict>
+			<key>Track ID</key><integer>39948</integer>
+			<key>Name</key><string>Suit &#38; Tie (REMAKE)</string>
+			<key>Artist</key><string>JENI</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5784013</integer>
+			<key>Total Time</key><integer>280973</integer>
+			<key>Date Modified</key><date>2013-02-27T02:20:49Z</date>
+			<key>Date Added</key><date>2013-02-27T02:43:19Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3445154468</integer>
+			<key>Play Date UTC</key><date>2013-03-03T17:21:08Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-03-02T08:33:39Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1625</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB28AF6836AD7447</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Suit_&#38;_Tie_(REMAKE).mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>39950</key>
+		<dict>
+			<key>Track ID</key><integer>39950</integer>
+			<key>Name</key><string>Twinkle</string>
+			<key>Artist</key><string>Girls' Generation</string>
+			<key>Album Artist</key><string>Girls' Generation</string>
+			<key>Album</key><string>Girls' Generation</string>
+			<key>Grouping</key><string>ONTENTGROUP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8631260</integer>
+			<key>Total Time</key><integer>206785</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-02-27T16:00:14Z</date>
+			<key>Date Added</key><date>2013-02-27T16:00:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3445163640</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:54:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-02-28T21:33:31Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C09BBB50B61BC63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/Girls&#38;%2339%3B_Generation_-_Twinkle.mp3</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40074</key>
+		<dict>
+			<key>Track ID</key><integer>40074</integer>
+			<key>Name</key><string>It Hurts</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>It Hurts - EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4885502</integer>
+			<key>Total Time</key><integer>137978</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-30T10:20:18Z</date>
+			<key>Date Added</key><date>2013-03-02T19:44:59Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://badbadhats.bandcamp.com</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3445162131</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:28:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-03-02T19:45:04Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADA226F03C060A88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP%20-%2001%20It%20Hurts.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40080</key>
+		<dict>
+			<key>Track ID</key><integer>40080</integer>
+			<key>Name</key><string>9AM</string>
+			<key>Artist</key><string>Bad Bad Hats</string>
+			<key>Album</key><string>It Hurts - EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7252175</integer>
+			<key>Total Time</key><integer>211931</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-30T10:20:18Z</date>
+			<key>Date Added</key><date>2013-03-02T19:45:00Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://badbadhats.bandcamp.com</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3445154680</integer>
+			<key>Play Date UTC</key><date>2013-03-03T17:24:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E20E21B56BD200F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP/Bad%20Bad%20Hats%20-%20It%20Hurts%20-%20EP%20-%2004%209AM.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>40084</key>
+		<dict>
+			<key>Track ID</key><integer>40084</integer>
+			<key>Name</key><string>Good Time (feat. Carly Rae Jepsen)</string>
+			<key>Artist</key><string>Owl City</string>
+			<key>Album Artist</key><string>Owl City</string>
+			<key>Album</key><string>Good Time (feat. Carly Rae Jepsen) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8421069</integer>
+			<key>Total Time</key><integer>206628</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-03-03T03:17:04Z</date>
+			<key>Date Added</key><date>2013-03-03T03:19:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3445163208</integer>
+			<key>Play Date UTC</key><date>2013-03-03T19:46:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8DBE3F0E447F9A1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/New%20Music/Owl%20City%20-%20Good%20Time%20(feat.%20Carly%20Rae%20Jepsen)%20%7B2012-Single%7D%5BNL%5D/Good%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>00 - Still Good</string>
+			<key>Playlist ID</key><integer>89267</integer>
+			<key>Playlist Persistent ID</key><string>38A5DE434DD34D24</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>35184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39316</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39946</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39922</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40084</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:44:23Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14189</key>
+		<dict>
+			<key>Track ID</key><integer>14189</integer>
+			<key>Name</key><string>Outro</string>
+			<key>Artist</key><string>Obie Trice</string>
+			<key>Album</key><string>Cheers</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3889152</integer>
+			<key>Total Time</key><integer>242886</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-19T16:54:23Z</date>
+			<key>Date Added</key><date>2010-06-17T13:19:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3396696150</integer>
+			<key>Play Date UTC</key><date>2011-08-20T20:42:30Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2011-07-17T23:52:27Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8037</integer>
+			<key>Persistent ID</key><string>F83737E4C364DA34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Obie%20Trice%20-%20Outro.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19087</key>
+		<dict>
+			<key>Track ID</key><integer>19087</integer>
+			<key>Name</key><string>Roc-A-Fella Billionaires featuring JAY-Z</string>
+			<key>Artist</key><string>Freeway</string>
+			<key>Album Artist</key><string>Freeway</string>
+			<key>Album</key><string>Free at Last</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5723442</integer>
+			<key>Total Time</key><integer>221387</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-19T16:44:20Z</date>
+			<key>Date Added</key><date>2010-06-17T13:25:18Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>With the relaunch of the Roc-A-Fella Movement, Freeway has returned with his second coming, "Free At Last". Freeway has always been set-apart from other rappers, with his unique approach to tackling the subjects of street life. Freeway now comes even hard</string>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3396207082</integer>
+			<key>Play Date UTC</key><date>2011-08-15T04:51:22Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-09-06T18:15:46Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4306</integer>
+			<key>Persistent ID</key><string>46AB2E12B98A6A77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/E%20-%20H/CD%20-%20Freeway%20-%20Free%20At%20Last/04-freeway-roc-a-fella_billionaires_(featuring_jay-z)-whoa-(HHKingz.net).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25339</key>
+		<dict>
+			<key>Track ID</key><integer>25339</integer>
+			<key>Name</key><string>Fruit Machine</string>
+			<key>Artist</key><string>The Ting Tings</string>
+			<key>Album</key><string>We Started Nothing</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6991455</integer>
+			<key>Total Time</key><integer>174680</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-05-29T13:26:41Z</date>
+			<key>Date Added</key><date>2010-06-17T13:38:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3393332750</integer>
+			<key>Play Date UTC</key><date>2011-07-12T22:25:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3360</integer>
+			<key>Sort Artist</key><string>Ting Tings</string>
+			<key>Persistent ID</key><string>A7805C0EE7097952</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Ting%20Tings%20-%20We%20Started%20Nothing%20%5B2008%5D%5BCD+SkidVid_XviD+Cov%5D/03%20%20The%20Ting%20Tings%20-%20Fruit%20Machine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29059</key>
+		<dict>
+			<key>Track ID</key><integer>29059</integer>
+			<key>Name</key><string>The Bike Song Featuring Kyle Falconer, Spank Rock</string>
+			<key>Artist</key><string>Mark Ronson And The Business Intl</string>
+			<key>Album</key><string>Record Collection</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5892546</integer>
+			<key>Total Time</key><integer>265430</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-10-14T16:00:57Z</date>
+			<key>Date Added</key><date>2010-10-14T17:31:20Z</date>
+			<key>Bit Rate</key><integer>177</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>TeaM CaHeSo</string>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3397221220</integer>
+			<key>Play Date UTC</key><date>2011-08-26T22:33:40Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-07-14T17:32:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Bike Song Featuring Kyle Falconer, Spank Rock</string>
+			<key>Persistent ID</key><string>3185C741A6EAE2E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Mark%20Ronson%20And%20The%20Business%20Intl%20-%20Record%20Collection%20-2010-/03%20-%20The%20Bike%20Song%20feat.%20Kyle%20Falconer,%20Spank%20Rock.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29333</key>
+		<dict>
+			<key>Track ID</key><integer>29333</integer>
+			<key>Name</key><string>Walk Tall</string>
+			<key>Artist</key><string>Kele</string>
+			<key>Album</key><string>The Boxer</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6788431</integer>
+			<key>Total Time</key><integer>225253</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-30T23:19:35Z</date>
+			<key>Date Added</key><date>2010-12-20T15:38:01Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3407387699</integer>
+			<key>Play Date UTC</key><date>2011-12-22T14:34:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-06T16:49:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Boxer</string>
+			<key>Persistent ID</key><string>59A9938819BF1FD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Kele-The.Boxer-2010-(Retail)-MJN/01-kele-walk_tall.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29879</key>
+		<dict>
+			<key>Track ID</key><integer>29879</integer>
+			<key>Name</key><string>Still Fighting It (University A Cappella Version)</string>
+			<key>Artist</key><string>Ben Folds Presents: The Washington University In St. Louis's Mosaic Whispers</string>
+			<key>Album Artist</key><string>Ben Folds</string>
+			<key>Composer</key><string>Ben Folds</string>
+			<key>Album</key><string>Ben Folds Presents: University A Cappella! [Explicit]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8173982</integer>
+			<key>Total Time</key><integer>269897</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-02-09T06:53:35Z</date>
+			<key>Date Added</key><date>2011-02-09T12:31:32Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 210849201</string>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3408345517</integer>
+			<key>Play Date UTC</key><date>2012-01-02T16:38:37Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2011-11-20T21:49:19Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F3D9CEF798A64D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Ben%20Folds%20Presents_%20University%20A%20Cappella!%20%5BExplicit%5D/05%20-%20Still%20Fighting%20It%20(University%20A%20Cappella%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30981</key>
+		<dict>
+			<key>Track ID</key><integer>30981</integer>
+			<key>Name</key><string>Beautiful Trash</string>
+			<key>Artist</key><string>Lanu</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5957598</integer>
+			<key>Total Time</key><integer>204773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:22Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:03Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3408351474</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:17:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-08-09T23:56:17Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7DB5A66798137653</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/18%20-%20Lanu%20-%20Beautiful%20Trash.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31019</key>
+		<dict>
+			<key>Track ID</key><integer>31019</integer>
+			<key>Name</key><string>Girls' Night</string>
+			<key>Artist</key><string>First Rate People</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4376992</integer>
+			<key>Total Time</key><integer>148506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>41</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:41Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3408350627</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:03:47Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2011-09-24T20:49:47Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>7E6CB88000962951</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/41%20-%20First%20Rate%20People%20-%20Girls'%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31027</key>
+		<dict>
+			<key>Track ID</key><integer>31027</integer>
+			<key>Name</key><string>Helena Beat</string>
+			<key>Artist</key><string>Foster The People</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8763939</integer>
+			<key>Total Time</key><integer>275200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>47</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:14:46Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:04Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3403496395</integer>
+			<key>Play Date UTC</key><date>2011-11-07T13:39:55Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>082C5404BD128932</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/47%20-%20Foster%20The%20People%20-%20Helena%20Beat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31105</key>
+		<dict>
+			<key>Track ID</key><integer>31105</integer>
+			<key>Name</key><string>Sydney (I'll Come Running)</string>
+			<key>Artist</key><string>Brett Dennen</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7339841</integer>
+			<key>Total Time</key><integer>229485</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>101</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:29Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:06Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3408356566</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:42:46Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-06T06:33:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8AA30BF087539D25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/101%20-%20Brett%20Dennen%20-%20Sydney%20(I'll%20Come%20Running).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31123</key>
+		<dict>
+			<key>Track ID</key><integer>31123</integer>
+			<key>Name</key><string>The Sweetest Thing (Richard Hawley Remix)</string>
+			<key>Artist</key><string>Camera Obscura</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8527628</integer>
+			<key>Total Time</key><integer>248555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>112</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-08T06:15:39Z</date>
+			<key>Date Added</key><date>2011-06-01T07:29:07Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3407201708</integer>
+			<key>Play Date UTC</key><date>2011-12-20T10:55:08Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-07-11T14:33:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Sweetest Thing (Richard Hawley Remix)</string>
+			<key>Persistent ID</key><string>31A8CAE2F6046D06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Various%20Artists%20-%20Indie%20Rock%20Playlist%20May%202011/112%20-%20Camera%20Obscura%20-%20The%20Sweetest%20Thing%20(Richard%20Hawley%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31193</key>
+		<dict>
+			<key>Track ID</key><integer>31193</integer>
+			<key>Name</key><string>Love Contract</string>
+			<key>Artist</key><string>Musiq Soulchild</string>
+			<key>Album</key><string>MusiqInTheMagiq</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5930569</integer>
+			<key>Total Time</key><integer>193149</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-18T00:16:34Z</date>
+			<key>Date Added</key><date>2011-06-19T22:27:32Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Enjoy &#38; Go Support The Artist.......pz1</string>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3404735841</integer>
+			<key>Play Date UTC</key><date>2011-11-21T21:57:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-08-20T20:49:41Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F2C3DD3B008C4409</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Musiq_Soulchild-MusiqInTheMagiq-2011-H3X/04-musiq_soulchild-love_contract.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31195</key>
+		<dict>
+			<key>Track ID</key><integer>31195</integer>
+			<key>Name</key><string>Silver And Gold</string>
+			<key>Artist</key><string>Musiq Soulchild</string>
+			<key>Album</key><string>MusiqInTheMagiq</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6608034</integer>
+			<key>Total Time</key><integer>204512</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-18T00:16:33Z</date>
+			<key>Date Added</key><date>2011-06-19T22:27:32Z</date>
+			<key>Bit Rate</key><integer>258</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Enjoy &#38; Go Support The Artist.......pz1</string>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3407308437</integer>
+			<key>Play Date UTC</key><date>2011-12-21T16:33:57Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>82BAD510EBC4A4EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Musiq_Soulchild-MusiqInTheMagiq-2011-H3X/05-musiq_soulchild-silver_and_gold.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31255</key>
+		<dict>
+			<key>Track ID</key><integer>31255</integer>
+			<key>Name</key><string>You Make Me Feel...(feat. Sabi)</string>
+			<key>Artist</key><string>Cobra Starship</string>
+			<key>Album Artist</key><string>Cobra Starship</string>
+			<key>Album</key><string>You Make Me Feel... (feat. Sabi) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8906667</integer>
+			<key>Total Time</key><integer>216215</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-29T07:07:01Z</date>
+			<key>Date Added</key><date>2011-06-29T08:41:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3398632117</integer>
+			<key>Play Date UTC</key><date>2011-09-12T06:28:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B59354AE61B2F73C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Cobra%20Starship%20-%20You%20Make%20Me%20Feel...(feat.%20Sabi).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31283</key>
+		<dict>
+			<key>Track ID</key><integer>31283</integer>
+			<key>Name</key><string>Mama Loves Nortec</string>
+			<key>Artist</key><string>Nortec Collective Presents: Bostich + Fussible</string>
+			<key>Album Artist</key><string>Nortec Collective Presents: Bostich + Fussible</string>
+			<key>Album</key><string>Tijuana Sound Machine</string>
+			<key>Genre</key><string>Alternativo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8130697</integer>
+			<key>Total Time</key><integer>203206</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2011-06-29T08:21:41Z</date>
+			<key>Date Added</key><date>2011-06-29T08:41:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000000 00000210 00000A8C 000000000088B0E4 00000000 007BE65E 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3408356176</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:36:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-26T23:28:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FB679387A418FB10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Nortec%20Collective%20-%20Tijuana%20Sound%20Machine/10%20Mama%20Loves%20Nortec.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31335</key>
+		<dict>
+			<key>Track ID</key><integer>31335</integer>
+			<key>Name</key><string>Out Of My Head Ft. Trey Songz (Produced By Miykal Snoddy)</string>
+			<key>Artist</key><string>Lupe Fiasco</string>
+			<key>Album</key><string>Lasers</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5310149</integer>
+			<key>Total Time</key><integer>204042</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-06-29T21:41:10Z</date>
+			<key>Date Added</key><date>2011-06-29T21:40:46Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://mp3ville.blogspot.com/</string>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3397368104</integer>
+			<key>Play Date UTC</key><date>2011-08-28T15:21:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-04T12:49:32Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>00104DE573A56945</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Lupe%20Fiasco-%20Lasers%20(Deluxe%20Edition)%20%5BNew%202011%5D-%20Mp3ViLLe/05-lupe_fiasco-out_of_my_head_ft._trey_songz_(produced_by_miykal_snoddy).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-07-03</string>
+			<key>Playlist ID</key><integer>675836</integer>
+			<key>Playlist Persistent ID</key><string>48921DEE014D41AF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31283</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

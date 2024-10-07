@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-10-13T04:00:13Z</date>
+	<key>Application Version</key><string>12.5.1.21</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>BA48A96D4D7BB3D9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>21257</key>
+		<dict>
+			<key>Track ID</key><integer>21257</integer>
+			<key>Name</key><string>Hanging On</string>
+			<key>Artist</key><string>Yuna</string>
+			<key>Album</key><string>Nocturnal (Deluxe Edition)</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9448304</integer>
+			<key>Total Time</key><integer>232855</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-04-17T14:52:48Z</date>
+			<key>Date Added</key><date>2015-04-17T11:53:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3558520349</integer>
+			<key>Play Date UTC</key><date>2016-10-05T18:52:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E33DCCF85C941D60</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>46273</key>
+		<dict>
+			<key>Track ID</key><integer>46273</integer>
+			<key>Name</key><string>Broken Halo (feat. Nicholas Braun)</string>
+			<key>Artist</key><string>Phantoms</string>
+			<key>Album Artist</key><string>Phantoms</string>
+			<key>Composer</key><string>Edwin Bryant Sollis II, Kyle Joseph Kaplan, Vincent Giovanni Pergola &#38; Nicholas Joseph Braun</string>
+			<key>Album</key><string>Broken Halo - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8885989</integer>
+			<key>Total Time</key><integer>252453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-09-03T20:00:24Z</date>
+			<key>Date Added</key><date>2016-09-03T18:00:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3559151817</integer>
+			<key>Play Date UTC</key><date>2016-10-13T02:16:57Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-09-27T21:12:20Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Broken Halo - EP</string>
+			<key>Sort Artist</key><string>Phantoms</string>
+			<key>Sort Name</key><string>Broken Halo (feat. Nicholas Braun)</string>
+			<key>Persistent ID</key><string>74A72040EF9A8823</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46279</key>
+		<dict>
+			<key>Track ID</key><integer>46279</integer>
+			<key>Name</key><string>Numb (Dim Sum Remix)</string>
+			<key>Artist</key><string>Danelle</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3178808</integer>
+			<key>Total Time</key><integer>193462</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-03T20:36:55Z</date>
+			<key>Date Added</key><date>2016-09-03T18:36:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3558511932</integer>
+			<key>Play Date UTC</key><date>2016-10-05T16:32:12Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-09-28T16:21:53Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Danelle</string>
+			<key>Sort Name</key><string>Numb (Dim Sum Remix)</string>
+			<key>Persistent ID</key><string>BBBFF3693A120BF9</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>46293</key>
+		<dict>
+			<key>Track ID</key><integer>46293</integer>
+			<key>Name</key><string>Deja Vu (feat. Justin Bieber)</string>
+			<key>Artist</key><string>Post Malone</string>
+			<key>Album Artist</key><string>Post Malone</string>
+			<key>Composer</key><string>Justin Bieber, Austin Post, Adam Feeney, Matthew Tavares, ANDERSON HERNANDEZ, Kaan Gunesberk &#38; Louis Bell</string>
+			<key>Album</key><string>Deja Vu (feat. Justin Bieber) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8444338</integer>
+			<key>Total Time</key><integer>235160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-12T04:59:30Z</date>
+			<key>Date Added</key><date>2016-09-12T02:59:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3558590517</integer>
+			<key>Play Date UTC</key><date>2016-10-06T14:21:57Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2016-09-29T14:45:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deja Vu (feat. Justin Bieber) - Single</string>
+			<key>Sort Artist</key><string>Post Malone</string>
+			<key>Sort Name</key><string>Deja Vu (feat. Justin Bieber)</string>
+			<key>Persistent ID</key><string>614FED095A4728B5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46317</key>
+		<dict>
+			<key>Track ID</key><integer>46317</integer>
+			<key>Name</key><string>Off She Goes</string>
+			<key>Artist</key><string>Bad Suns</string>
+			<key>Album Artist</key><string>Bad Suns</string>
+			<key>Album</key><string>Disappear Here</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8329206</integer>
+			<key>Total Time</key><integer>236440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-17T20:46:48Z</date>
+			<key>Date Added</key><date>2016-09-17T18:46:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3559024736</integer>
+			<key>Play Date UTC</key><date>2016-10-11T14:58:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Disappear Here</string>
+			<key>Sort Artist</key><string>Bad Suns</string>
+			<key>Sort Name</key><string>Off She Goes</string>
+			<key>Persistent ID</key><string>E02D148C4946941F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46327</key>
+		<dict>
+			<key>Track ID</key><integer>46327</integer>
+			<key>Name</key><string>Patience</string>
+			<key>Artist</key><string>Bad Suns</string>
+			<key>Album Artist</key><string>Bad Suns</string>
+			<key>Album</key><string>Disappear Here</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7636381</integer>
+			<key>Total Time</key><integer>211507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-17T20:49:26Z</date>
+			<key>Date Added</key><date>2016-09-17T18:49:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3559024023</integer>
+			<key>Play Date UTC</key><date>2016-10-11T14:47:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-10-01T14:13:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Disappear Here</string>
+			<key>Sort Artist</key><string>Bad Suns</string>
+			<key>Sort Name</key><string>Patience</string>
+			<key>Persistent ID</key><string>5597D62D1262F905</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46349</key>
+		<dict>
+			<key>Track ID</key><integer>46349</integer>
+			<key>Name</key><string>Not Above Love</string>
+			<key>Artist</key><string>AlunaGeorge</string>
+			<key>Album Artist</key><string>AlunaGeorge</string>
+			<key>Composer</key><string>Aluna Francis, Antonina Armato, Yogesh Tulsiani, Tim James, Christopher W Smith, James Ryan Shelton Hall &#38; Alexander Jeffrey Hall</string>
+			<key>Album</key><string>I Remember</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6870744</integer>
+			<key>Total Time</key><integer>190347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-17T21:12:29Z</date>
+			<key>Date Added</key><date>2016-09-17T19:12:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3558590118</integer>
+			<key>Play Date UTC</key><date>2016-10-06T14:15:18Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Remember</string>
+			<key>Sort Artist</key><string>AlunaGeorge</string>
+			<key>Sort Name</key><string>Not Above Love</string>
+			<key>Persistent ID</key><string>663463A345E32B9D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46359</key>
+		<dict>
+			<key>Track ID</key><integer>46359</integer>
+			<key>Name</key><string>No One (Kayge Calypso &#38; DUNN Remix)</string>
+			<key>Artist</key><string>Mothica</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Majestic Casual - Chapter 3</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7527129</integer>
+			<key>Total Time</key><integer>212308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>38</integer>
+			<key>Track Count</key><integer>42</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-20T03:06:01Z</date>
+			<key>Date Added</key><date>2016-09-20T01:06:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3559023812</integer>
+			<key>Play Date UTC</key><date>2016-10-11T14:43:32Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-10-11T23:24:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Majestic Casual - Chapter 3</string>
+			<key>Sort Artist</key><string>Mothica</string>
+			<key>Sort Name</key><string>No One (Kayge Calypso &#38; DUNN Remix)</string>
+			<key>Persistent ID</key><string>904AF490AE2B6C76</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46375</key>
+		<dict>
+			<key>Track ID</key><integer>46375</integer>
+			<key>Name</key><string>Miyazaki</string>
+			<key>Artist</key><string>Gallant</string>
+			<key>Album Artist</key><string>Gallant</string>
+			<key>Album</key><string>Ology</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4891583</integer>
+			<key>Total Time</key><integer>132067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-23T15:49:05Z</date>
+			<key>Date Added</key><date>2016-09-23T13:49:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3558520116</integer>
+			<key>Play Date UTC</key><date>2016-10-05T18:48:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-27T21:12:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ology</string>
+			<key>Sort Artist</key><string>Gallant</string>
+			<key>Sort Name</key><string>Miyazaki</string>
+			<key>Persistent ID</key><string>80EEE2467FBDFE6F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46391</key>
+		<dict>
+			<key>Track ID</key><integer>46391</integer>
+			<key>Name</key><string>Is It True?</string>
+			<key>Artist</key><string>toyGuitar</string>
+			<key>Album Artist</key><string>toyGuitar</string>
+			<key>Album</key><string>In This Mess</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6268356</integer>
+			<key>Total Time</key><integer>158311</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-09-25T15:30:32Z</date>
+			<key>Date Added</key><date>2016-09-25T13:30:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3558524223</integer>
+			<key>Play Date UTC</key><date>2016-10-05T19:57:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-25T15:33:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In This Mess</string>
+			<key>Sort Artist</key><string>toyGuitar</string>
+			<key>Sort Name</key><string>Is It True?</string>
+			<key>Persistent ID</key><string>79B2ABB2BD03914B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46411</key>
+		<dict>
+			<key>Track ID</key><integer>46411</integer>
+			<key>Name</key><string>Stunt Queen</string>
+			<key>Artist</key><string>Bloc Party</string>
+			<key>Album Artist</key><string>Bloc Party</string>
+			<key>Album</key><string>Stunt Queen - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6902395</integer>
+			<key>Total Time</key><integer>183522</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-25T15:43:36Z</date>
+			<key>Date Added</key><date>2016-09-25T13:43:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3558523264</integer>
+			<key>Play Date UTC</key><date>2016-10-05T19:41:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-29T14:50:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stunt Queen - Single</string>
+			<key>Sort Artist</key><string>Bloc Party</string>
+			<key>Sort Name</key><string>Stunt Queen</string>
+			<key>Persistent ID</key><string>A51D311123073AD9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46413</key>
+		<dict>
+			<key>Track ID</key><integer>46413</integer>
+			<key>Name</key><string>Try Again (BIRTHDAY REMIX)</string>
+			<key>Artist</key><string>Aaliyah</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2646313</integer>
+			<key>Total Time</key><integer>160940</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-09-25T16:25:23Z</date>
+			<key>Date Added</key><date>2016-09-25T14:24:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3558590678</integer>
+			<key>Play Date UTC</key><date>2016-10-06T14:24:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-30T16:50:37Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Aaliyah</string>
+			<key>Sort Name</key><string>Try Again (BIRTHDAY REMIX)</string>
+			<key>Persistent ID</key><string>3EE508692662DE00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/phongtran/Music/iTunes/iTunes%20Media/Music/Aaliyah/Unknown%20Album/Try%20Again%20(BIRTHDAY%20REMIX).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>46415</key>
+		<dict>
+			<key>Track ID</key><integer>46415</integer>
+			<key>Name</key><string>Sit Still, Look Pretty (R!OT Remix)</string>
+			<key>Artist</key><string>Daya</string>
+			<key>Album Artist</key><string>Daya</string>
+			<key>Album</key><string>Sit Still, Look Pretty (R!OT Remix) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7604318</integer>
+			<key>Total Time</key><integer>204739</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-25T16:34:53Z</date>
+			<key>Date Added</key><date>2016-09-25T14:34:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3558522107</integer>
+			<key>Play Date UTC</key><date>2016-10-05T19:21:47Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sit Still, Look Pretty (R!OT Remix) - Single</string>
+			<key>Sort Artist</key><string>Daya</string>
+			<key>Sort Name</key><string>Sit Still, Look Pretty (R!OT Remix)</string>
+			<key>Persistent ID</key><string>CF513F1E281CC3A4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46417</key>
+		<dict>
+			<key>Track ID</key><integer>46417</integer>
+			<key>Name</key><string>Really Doe (feat. Kendrick Lamar, Ab-Soul &#38; Earl Sweatshirt)</string>
+			<key>Artist</key><string>Danny Brown</string>
+			<key>Album Artist</key><string>Danny Brown</string>
+			<key>Album</key><string>Atrocity Exhibition</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11110836</integer>
+			<key>Total Time</key><integer>319434</integer>
+			<key>Stop Time</key><integer>246900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-25T16:38:22Z</date>
+			<key>Date Added</key><date>2016-09-25T14:38:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3559024500</integer>
+			<key>Play Date UTC</key><date>2016-10-11T14:55:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-29T14:47:13Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Atrocity Exhibition</string>
+			<key>Sort Artist</key><string>Danny Brown</string>
+			<key>Sort Name</key><string>Really Doe (feat. Kendrick Lamar, Ab-Soul &#38; Earl Sweatshirt)</string>
+			<key>Persistent ID</key><string>8E2D2E37B0FBAF51</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46419</key>
+		<dict>
+			<key>Track ID</key><integer>46419</integer>
+			<key>Name</key><string>All Weekend Long</string>
+			<key>Artist</key><string>Jack &#38; Jack</string>
+			<key>Album Artist</key><string>Jack &#38; Jack</string>
+			<key>Album</key><string>All Weekend Long - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7605715</integer>
+			<key>Total Time</key><integer>216540</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-25T16:51:11Z</date>
+			<key>Date Added</key><date>2016-09-25T14:51:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3558591192</integer>
+			<key>Play Date UTC</key><date>2016-10-06T14:33:12Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-09-27T21:15:03Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All Weekend Long - Single</string>
+			<key>Sort Artist</key><string>Jack &#38; Jack</string>
+			<key>Sort Name</key><string>All Weekend Long</string>
+			<key>Persistent ID</key><string>0D31FB884F52A505</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46423</key>
+		<dict>
+			<key>Track ID</key><integer>46423</integer>
+			<key>Name</key><string>F*** Apologies. (feat. Wiz Khalifa) [Jump Smokers Remix]</string>
+			<key>Artist</key><string>JoJo</string>
+			<key>Album Artist</key><string>JoJo</string>
+			<key>Album</key><string>F*** Apologies. (feat. Wiz Khalifa) [The Remixes] - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10576724</integer>
+			<key>Total Time</key><integer>296640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-25T16:54:56Z</date>
+			<key>Date Added</key><date>2016-09-25T14:54:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3558590975</integer>
+			<key>Play Date UTC</key><date>2016-10-06T14:29:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-27T21:14:58Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>F*** Apologies. (feat. Wiz Khalifa) [The Remixes] - EP</string>
+			<key>Sort Artist</key><string>JoJo</string>
+			<key>Sort Name</key><string>F*** Apologies. (feat. Wiz Khalifa) [Jump Smokers Remix]</string>
+			<key>Persistent ID</key><string>3ECBE9DF579A708B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46427</key>
+		<dict>
+			<key>Track ID</key><integer>46427</integer>
+			<key>Name</key><string>Fever Boy</string>
+			<key>Artist</key><string>Femme</string>
+			<key>Album Artist</key><string>Femme</string>
+			<key>Composer</key><string>Laura Bettinson</string>
+			<key>Album</key><string>Fever Boy - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6148382</integer>
+			<key>Total Time</key><integer>164021</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-09-27T22:28:12Z</date>
+			<key>Date Added</key><date>2016-09-27T20:28:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3558590282</integer>
+			<key>Play Date UTC</key><date>2016-10-06T14:18:02Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fever Boy - Single</string>
+			<key>Sort Artist</key><string>Femme</string>
+			<key>Sort Name</key><string>Fever Boy</string>
+			<key>Persistent ID</key><string>F3AA291EBA477D76</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>46429</key>
+		<dict>
+			<key>Track ID</key><integer>46429</integer>
+			<key>Name</key><string>JoHn Muir</string>
+			<key>Artist</key><string>ScHoolboy Q</string>
+			<key>Album Artist</key><string>ScHoolboy Q</string>
+			<key>Composer</key><string>Q. Hanley, M. Spears, W. Hart, D. Henderson, T. Simon &#38; A. Younge</string>
+			<key>Album</key><string>Blank Face LP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7761872</integer>
+			<key>Total Time</key><integer>219020</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-28T16:45:53Z</date>
+			<key>Date Added</key><date>2016-09-28T14:45:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3558518432</integer>
+			<key>Play Date UTC</key><date>2016-10-05T18:20:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-09-30T14:51:44Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blank Face LP</string>
+			<key>Sort Artist</key><string>ScHoolboy Q</string>
+			<key>Sort Name</key><string>JoHn Muir</string>
+			<key>Persistent ID</key><string>28AC9F2D1099202A</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>229960</key>
+		<dict>
+			<key>Track ID</key><integer>229960</integer>
+			<key>Name</key><string>Dibs</string>
+			<key>Artist</key><string>Kelsea Ballerini</string>
+			<key>Album Artist</key><string>Kelsea Ballerini</string>
+			<key>Album</key><string>The First Time</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6603269</integer>
+			<key>Total Time</key><integer>183948</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-10-13T03:24:21Z</date>
+			<key>Date Added</key><date>2016-10-13T03:24:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>First Time</string>
+			<key>Sort Artist</key><string>Kelsea Ballerini</string>
+			<key>Sort Name</key><string>Dibs</string>
+			<key>Persistent ID</key><string>B4CC80029B84B8AF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>274109</key>
+		<dict>
+			<key>Track ID</key><integer>274109</integer>
+			<key>Name</key><string>Reverend</string>
+			<key>Artist</key><string>Kings of Leon</string>
+			<key>Album Artist</key><string>Kings of Leon</string>
+			<key>Composer</key><string>Caleb Followill, Nathan Followill, Jared Followill &#38; Matthew Followill</string>
+			<key>Album</key><string>WALLS</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8251606</integer>
+			<key>Total Time</key><integer>234081</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-10-13T03:59:46Z</date>
+			<key>Date Added</key><date>2016-10-13T03:59:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WALLS</string>
+			<key>Sort Artist</key><string>Kings of Leon</string>
+			<key>Sort Name</key><string>Reverend</string>
+			<key>Persistent ID</key><string>D75A34EE69F0B17E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>126150</integer>
+			<key>Playlist Persistent ID</key><string>693E329151729D7B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>229960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>274109</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-02T19:43:36Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/</string>
+	<key>Library Persistent ID</key><string>5CC07675D6505DB9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7751</key>
+		<dict>
+			<key>Track ID</key><integer>7751</integer>
+			<key>Name</key><string>Only Ones Who Know</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4389599</integer>
+			<key>Total Time</key><integer>182883</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-19T17:05:26Z</date>
+			<key>Date Added</key><date>2010-06-17T13:07:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>93</integer>
+			<key>Play Date</key><integer>3404719810</integer>
+			<key>Play Date UTC</key><date>2011-11-21T17:30:10Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2011-07-10T23:10:08Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1890</integer>
+			<key>Persistent ID</key><string>57B9F63A173A8F0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Arctic%20Monkeys-Fav%20Worst%20Nightmare%5B2007%5D%5BCD+SkidVid+Cov%5D/06%20%20Arctic%20Monkeys%20-%20Only%20Ones%20Who%20Know.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12069</key>
+		<dict>
+			<key>Track ID</key><integer>12069</integer>
+			<key>Name</key><string>It's the Nighttime</string>
+			<key>Artist</key><string>Josh Rouse</string>
+			<key>Album Artist</key><string>Josh Rouse</string>
+			<key>Composer</key><string>Daniel Tashian/Josh Rouse</string>
+			<key>Album</key><string>Nashville</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7817743</integer>
+			<key>Total Time</key><integer>244480</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-19T16:56:59Z</date>
+			<key>Date Added</key><date>2010-06-17T13:16:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3386439526</integer>
+			<key>Play Date UTC</key><date>2011-04-24T03:38:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-03-23T00:21:38Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2564</integer>
+			<key>Persistent ID</key><string>FA53BA5B11460719</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/I%20-%20L/Josh%20Rouse%20-%20Nashville/01%20It's%20the%20Nighttime.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26933</key>
+		<dict>
+			<key>Track ID</key><integer>26933</integer>
+			<key>Name</key><string>Walk On By</string>
+			<key>Artist</key><string>Melanie Fiona</string>
+			<key>Album</key><string>The Bridge</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5193071</integer>
+			<key>Total Time</key><integer>211095</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-22T17:54:23Z</date>
+			<key>Date Added</key><date>2010-06-17T13:50:58Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3386437081</integer>
+			<key>Play Date UTC</key><date>2011-04-24T02:58:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-04-13T04:24:16Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Bridge</string>
+			<key>Persistent ID</key><string>9F80EC645EDE6B38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/M%20-%20O/Melanie%20Fiona%20-%20The%20Bridge%202009/06-melanie_fiona-walk_on_by.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29711</key>
+		<dict>
+			<key>Track ID</key><integer>29711</integer>
+			<key>Name</key><string>Short Stories</string>
+			<key>Artist</key><string>Total Babe</string>
+			<key>Album Artist</key><string>Total Babe</string>
+			<key>Album</key><string>Heatwave EP</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7733265</integer>
+			<key>Total Time</key><integer>213255</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-01-16T19:12:15Z</date>
+			<key>Date Added</key><date>2011-01-16T19:11:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3408352775</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:39:35Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2011-05-30T07:35:22Z</date>
+			<key>Release Date</key><date>2009-10-06T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4833</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DBB00C0679039515</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/iTunes%20Special%20Format/Total%20Babe/Heatwave%20EP/03%20Short%20Stories.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29889</key>
+		<dict>
+			<key>Track ID</key><integer>29889</integer>
+			<key>Name</key><string>Time (University A Cappella Version)</string>
+			<key>Artist</key><string>Ben Folds Presents: The Princeton Nassoons</string>
+			<key>Album Artist</key><string>Ben Folds</string>
+			<key>Composer</key><string>Ben Folds</string>
+			<key>Album</key><string>Ben Folds Presents: University A Cappella! [Explicit]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7536284</integer>
+			<key>Total Time</key><integer>240222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-02-09T06:53:24Z</date>
+			<key>Date Added</key><date>2011-02-09T12:31:32Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 210849196</string>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3406311811</integer>
+			<key>Play Date UTC</key><date>2011-12-10T03:43:31Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2011-10-06T06:26:31Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D870BB316BB0CC52</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Ben%20Folds%20Presents_%20University%20A%20Cappella!%20%5BExplicit%5D/10%20-%20Time%20(University%20A%20Cappella%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30009</key>
+		<dict>
+			<key>Track ID</key><integer>30009</integer>
+			<key>Name</key><string>I'll Remember</string>
+			<key>Artist</key><string>Madonna</string>
+			<key>Album</key><string>Something to Remember</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5277641</integer>
+			<key>Total Time</key><integer>263862</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2011-02-25T19:49:03Z</date>
+			<key>Date Added</key><date>2011-02-26T00:12:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3406184494</integer>
+			<key>Play Date UTC</key><date>2011-12-08T16:21:34Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2011-12-03T00:33:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8397A593183EA40A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/BillBoard%20Top%20USA%20Singles/1994/1994-013%20Madonna%20-%20I'll%20Remember.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30145</key>
+		<dict>
+			<key>Track ID</key><integer>30145</integer>
+			<key>Name</key><string>Palookas (Prod. by Marco Polo)</string>
+			<key>Artist</key><string>Talib Kweli Ft. Sean Price </string>
+			<key>Album Artist</key><string>Talib Kweli</string>
+			<key>Album</key><string>Gutter Rainbows</string>
+			<key>Genre</key><string>Alternative Hip Hop, Conscious Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9564544</integer>
+			<key>Total Time</key><integer>237984</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-05T07:13:22Z</date>
+			<key>Date Added</key><date>2011-03-01T15:47:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3406106027</integer>
+			<key>Play Date UTC</key><date>2011-12-07T18:33:47Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-04-17T03:36:38Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28FE1B6D06C0629E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Talib.Kweli-Gutter.Rainbows-(Retail)-2011-%5BNoFS%5D/04%20-%20Talib%20Kweli%20Ft.%20Sean%20Price%20-%20Palookas%20(Prod.%20by%20Marco%20Polo).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30147</key>
+		<dict>
+			<key>Track ID</key><integer>30147</integer>
+			<key>Name</key><string>Mr. International (Prod. by S1)</string>
+			<key>Artist</key><string>Talib Kweli Ft. Nigel Hall</string>
+			<key>Album Artist</key><string>Talib Kweli</string>
+			<key>Album</key><string>Gutter Rainbows</string>
+			<key>Genre</key><string>Alternative Hip Hop, Conscious Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8716864</integer>
+			<key>Total Time</key><integer>216792</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-05T07:13:22Z</date>
+			<key>Date Added</key><date>2011-03-01T15:47:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3408352562</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:36:02Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-20T03:33:29Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C011E903D8C2D50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Talib.Kweli-Gutter.Rainbows-(Retail)-2011-%5BNoFS%5D/05%20-%20Talib%20Kweli%20Ft.%20Nigel%20Hall%20-%20Mr.%20International%20(Prod.%20by%20S1).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30153</key>
+		<dict>
+			<key>Track ID</key><integer>30153</integer>
+			<key>Name</key><string>Ain't Waiting (Prod. by 6th sense)</string>
+			<key>Artist</key><string>Talib Kweli Ft. Outasight </string>
+			<key>Album Artist</key><string>Talib Kweli</string>
+			<key>Album</key><string>Gutter Rainbows</string>
+			<key>Genre</key><string>Alternative Hip Hop, Conscious Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9562624</integer>
+			<key>Total Time</key><integer>237936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-05T07:13:22Z</date>
+			<key>Date Added</key><date>2011-03-01T15:47:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>[NoFS]</string>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3408346182</integer>
+			<key>Play Date UTC</key><date>2012-01-02T16:49:42Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-11-05T00:42:11Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>617D310ACCBE0D27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/T%20-%20Z/Talib.Kweli-Gutter.Rainbows-(Retail)-2011-%5BNoFS%5D/08%20-%20Talib%20Kweli%20Ft.%20Outasight%20-%20Ain't%20Waiting%20(Prod.%20by%206th%20sense).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30175</key>
+		<dict>
+			<key>Track ID</key><integer>30175</integer>
+			<key>Name</key><string>Windows Are Rolled Down</string>
+			<key>Artist</key><string>Amos Lee</string>
+			<key>Album Artist</key><string>Amos Lee</string>
+			<key>Album</key><string>Mission Bell</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9994516</integer>
+			<key>Total Time</key><integer>237296</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-01T15:32:35Z</date>
+			<key>Date Added</key><date>2011-03-01T15:47:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3407923272</integer>
+			<key>Play Date UTC</key><date>2011-12-28T19:21:12Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2011-09-24T18:15:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7047A99C0598B3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Amos%20Lee%20-%20Mission%20Bell%20(2011)%20vtwin88cube/02.Windows%20Are%20Rolled%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30179</key>
+		<dict>
+			<key>Track ID</key><integer>30179</integer>
+			<key>Name</key><string>Flower</string>
+			<key>Artist</key><string>Amos Lee</string>
+			<key>Album Artist</key><string>Amos Lee</string>
+			<key>Album</key><string>Mission Bell</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9373829</integer>
+			<key>Total Time</key><integer>221779</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-01T15:32:36Z</date>
+			<key>Date Added</key><date>2011-03-01T15:47:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3408352997</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:43:17Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2011-07-11T14:34:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36ECB85E34467A8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Amos%20Lee%20-%20Mission%20Bell%20(2011)%20vtwin88cube/04.Flower.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30229</key>
+		<dict>
+			<key>Track ID</key><integer>30229</integer>
+			<key>Name</key><string>6 Foot 7 Foot (feat. Cory Gunz)</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Genre</key><string>Hip Hop; Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10070852</integer>
+			<key>Total Time</key><integer>249364</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-03-05T06:53:18Z</date>
+			<key>Date Added</key><date>2011-03-04T17:10:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>vortexnet01</string>
+			<key>Play Count</key><integer>71</integer>
+			<key>Play Date</key><integer>3408350338</integer>
+			<key>Play Date UTC</key><date>2012-01-02T17:58:58Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-10-06T17:56:28Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8725FDBA8064E627</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Billboard%20Hot%2040%2003-05-2011%20TPB/20%20Lil%20Wayne%20ft.%20Cory%20Gunz%20-%206%20Foot%207%20Foot.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30237</key>
+		<dict>
+			<key>Track ID</key><integer>30237</integer>
+			<key>Name</key><string>Look At Me Now (feat. Lil Wayne &#38; Busta Rhymes)</string>
+			<key>Artist</key><string>Chris Brown</string>
+			<key>Genre</key><string>R&#38;B; Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9102356</integer>
+			<key>Total Time</key><integer>224026</integer>
+			<key>Start Time</key><integer>71000</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-05T07:00:45Z</date>
+			<key>Date Added</key><date>2011-03-04T17:10:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>vortexnet01</string>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3408350780</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:06:20Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2011-10-24T21:34:54Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D69281A7479B38A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Billboard%20Hot%2040%2003-05-2011%20TPB/31%20Chris%20Brown%20ft.%20Lil%20Wayne%20&#38;%20Busta%20Rhymes%20-%20Look%20At%20Me%20Now.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30239</key>
+		<dict>
+			<key>Track ID</key><integer>30239</integer>
+			<key>Name</key><string>Pretty Girl Rock</string>
+			<key>Artist</key><string>Keri Hilson</string>
+			<key>Genre</key><string>R&#38;B; Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10031731</integer>
+			<key>Total Time</key><integer>243983</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-03-05T06:53:17Z</date>
+			<key>Date Added</key><date>2011-03-04T17:10:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>vortexnet01</string>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3408345944</integer>
+			<key>Play Date UTC</key><date>2012-01-02T16:45:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-12-03T00:21:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14C2B16460492D55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Billboard%20Hot%2040%2003-05-2011%20TPB/34%20Keri%20Hilson%20-%20Pretty%20Girl%20Rock.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30247</key>
+		<dict>
+			<key>Track ID</key><integer>30247</integer>
+			<key>Name</key><string>Hold It Against Me (dJ eSenTriK Dubstep Re-fix) (feat. Lil' Jon)</string>
+			<key>Artist</key><string>Britney Spears</string>
+			<key>Album</key><string>ThatSongIsBomb.com</string>
+			<key>Genre</key><string>Dubstep</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11890995</integer>
+			<key>Total Time</key><integer>295784</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-06T16:44:29Z</date>
+			<key>Date Added</key><date>2011-03-06T16:45:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3408355973</integer>
+			<key>Play Date UTC</key><date>2012-01-02T19:32:53Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2011-12-07T01:29:59Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E9C1AF44251E2CF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/1%20-%20B/Hold%20It%20Against%20Me%20(dJ%20eSenTriK%20Dubstep%20Re-fix)%20(feat.%20Lil'%20Jon).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30253</key>
+		<dict>
+			<key>Track ID</key><integer>30253</integer>
+			<key>Name</key><string>Landslide</string>
+			<key>Artist</key><string>Dixie Chicks</string>
+			<key>Album Artist</key><string>Dixie Chicks</string>
+			<key>Composer</key><string>Stevie Nicks</string>
+			<key>Album</key><string>Home</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9236096</integer>
+			<key>Total Time</key><integer>230592</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-15T22:58:03Z</date>
+			<key>Date Added</key><date>2011-03-15T23:00:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>      </string>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3408351894</integer>
+			<key>Play Date UTC</key><date>2012-01-02T18:24:54Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2011-06-12T23:55:52Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21E54CB737AAFF2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/Dixie%20Chicks%20-%20Home%5B2002%5D%5B320kbps%5DMP3-Music-Torrentz/Dixie%20Chicks%20-%20Home%20-%2002%20-%20Landslide.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30315</key>
+		<dict>
+			<key>Track ID</key><integer>30315</integer>
+			<key>Name</key><string>Going Under</string>
+			<key>Artist</key><string>The Dodos</string>
+			<key>Album Artist</key><string>The Dodos</string>
+			<key>Album</key><string>No Color (Amazon MP3 Exclusive)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12670505</integer>
+			<key>Total Time</key><integer>363676</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-03-16T06:20:18Z</date>
+			<key>Date Added</key><date>2011-03-16T06:20:18Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 220923108</string>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3403183063</integer>
+			<key>Play Date UTC</key><date>2011-11-03T22:37:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-07-11T14:30:43Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Dodos</string>
+			<key>Sort Artist</key><string>Dodos</string>
+			<key>Persistent ID</key><string>AF3EDBAD3C6A7813</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Semaphore/Music/MP3s/C%20-%20D/The%20Dodos/No%20Color%20(Amazon%20MP3%20Exclusive)/02%20-%20Going%20Under.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2011-04-04</string>
+			<key>Playlist ID</key><integer>676040</integer>
+			<key>Playlist Persistent ID</key><string>51B322C72EDBA5E6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30175</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
