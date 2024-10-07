@@ -38,7 +38,7 @@ app.post("/write", (req, res) => {
   let keyedSong = "INSERT OR IGNORE INTO keyedSongs (pairedName) VALUES ";
 
   let trackPosition = 1;
-  for (const i in tracks) {
+  for (let i = 0; i < tracks.length; i++) {
     const track = tracks[i];
 
     const pairedName = `${track.Artist} - ${track.Name}`;
@@ -52,7 +52,10 @@ app.post("/write", (req, res) => {
 
   sql = sql.slice(0, -2);
   keyedSong = keyedSong.slice(0, -2);
-  console.log(keyedSong);
+
+  console.log(playlistName);
+  //   console.log(sql);
+  //   console.log(keyedSong);
 
   db.serialize(() => {
     db.run(

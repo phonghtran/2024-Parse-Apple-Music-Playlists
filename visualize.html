@@ -103,7 +103,7 @@
                     let playlist
                     let list = document.createElement('ul')
                     data.forEach(track => {
-
+                        console.log(track.playlistName)
 
                         // if (track.tid === 1) console.log(track)
 
@@ -120,13 +120,18 @@
                             prevPlaylistName = track.playlistName
                         }
 
+
+
                         if (prevPlaylistName !== track.playlistName) {
                             // if (prevPlaylistName !== '') {
                             playlist = document.createElement('div')
                             playlist.id = track.playlistName
                             playlist.textContent = track.playlistName
                             playlist.appendChild(list)
+
                             playlists.appendChild(playlist)
+
+
 
                             //} // not the first iteration
 
