@@ -42,10 +42,6 @@ function escapeQuotes(str) {
 
 // Route to insert data into the database
 app.post("/write", (req, res) => {
-  db.run(
-    "CREATE TABLE IF NOT EXISTS tracks (id INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT)"
-  );
-
   const tracks = req.body.tracks;
   const playlistName = req.body.playlistName;
 
@@ -64,11 +60,45 @@ app.post("/write", (req, res) => {
 
   //   console.log(sql);
 
-  db.run(sql, function (err) {
-    if (err) {
-      return res.status(500).send("Failed to insert tracks");
-    }
-    res.status(200).send(`Inserted ${this.changes} tracks`);
+  db.serialize(() => {
+    db.run(
+      "CREATE TABLE IF NOT EXISTS tracks (id INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT)"
+    );
+
+    db.run(sql, function (err) {
+      if (err) {
+        return res.status(500).send("Failed to insert tracks");
+      }
+      res.status(200).send(`Inserted ${this.changes} tracks`);
+    });
+  });
+});
+
+// Route to insert data into the database
+app.post("/writesingle", (req, res) => {
+  const track = req.body;
+
+  //   console.log("axios", track);
+
+  let sql = `INSERT INTO tracks (playlistName, trackPosition, artist, name, genre) VALUES ("${
+    track.playlistName
+  }", "${parseInt(track["Track ID"])}", "${track.Artist}", "${track.Name}", "${
+    track.Genre
+  }") `;
+
+  console.log(sql);
+
+  db.serialize(() => {
+    db.run(
+      "CREATE TABLE IF NOT EXISTS tracks (id INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT)"
+    );
+
+    db.run(sql, function (err) {
+      if (err) {
+        return res.status(500).send("Failed to insert tracks");
+      }
+      res.status(200).send(`Inserted ${this.changes} track`);
+    });
   });
 });
 

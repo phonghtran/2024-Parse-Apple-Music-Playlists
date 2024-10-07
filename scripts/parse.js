@@ -62,9 +62,9 @@ fs.readdir(folderPath, (err, files) => {
 
       i++;
 
-      if (i > 0) {
-        throw new Error("Break");
-      }
+      // if (i > 0) {
+      //   throw new Error("Break");
+      // }
     }); // for each
   } catch (error) {
     if (error.message !== "Break") throw error;
