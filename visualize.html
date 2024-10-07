@@ -75,16 +75,15 @@
     <div id="playlists"></div>
 
     <script>
-        console.log('fetching')
 
-        let sortType = 'playlistRecent'
+
         fetchTable()
 
 
 
         function fetchTable() {
 
-            fetch(`/tracks?sort=${sortType}`)
+            fetch(`/tracks?sort=playlistRecent`)
                 .then(response => {
                     if (response.ok) { // Check if response is OK (200-299)
                         return response.json(); // If true, return the JSON data
@@ -97,83 +96,74 @@
                     const playlists = document.getElementById('playlists');
                     const nav = document.getElementById('nav');
 
+                    let grouped = data.reduce((acc, track) => {
+                        const playlistName = track.playlistName;
+                        if (!acc[playlistName]) acc[playlistName] = [];
+                        acc[playlistName].push(track);
+                        return acc;
+                    }, {});
+
 
                     let prevYear = ''
-                    let prevPlaylistName = ''
-                    let playlist
-                    let list = document.createElement('ul')
-                    data.forEach(track => {
-                        console.log(track.playlistName)
+                    for (pl in grouped) {
+                        const plist = grouped[pl]
 
-                        // if (track.tid === 1) console.log(track)
+                        let list = document.createElement('ul')
+                        for (var i = 0; i < plist.length; i++) {
+                            const track = plist[i]
 
+                            const trackRow = document.createElement('li');
+                            trackRow.textContent = track.pairedName
+                            trackRow.setAttribute('data-ksid', track.ksid);
+                            trackRow.addEventListener('click', highlightTrack);
 
+                            list.appendChild(trackRow);
+                        } // track loop
 
-                        const trackRow = document.createElement('li');
-                        trackRow.textContent = track.pairedName
-                        trackRow.setAttribute('data-ksid', track.ksid);
-                        trackRow.addEventListener('click', highlightTrack);
+                        const playlist = document.createElement('div')
+                        playlist.id = pl
+                        playlist.textContent = pl
+                        playlist.appendChild(list)
+                        playlists.appendChild(playlist)
 
-                        list.appendChild(trackRow);
+                        if (pl.slice(0, 4) !== prevYear) {
+                            prevYear = pl.slice(0, 4)
 
-                        if (prevPlaylistName === '') {
-                            prevPlaylistName = track.playlistName
-                        }
+                            // create li item
+                            const navItem = document.createElement('li')
 
+                            // prep the link
+                            const link = document.createElement('a');
+                            link.textContent = prevYear;
+                            link.href = `#${pl}`;
+                            link.addEventListener('click', (e) => {
+                                e.preventDefault();
+                                const id = e.currentTarget.getAttribute('href').replace('#', '');
 
+                                const targetPlaylist = document.getElementById(id)
 
-                        if (prevPlaylistName !== track.playlistName) {
-                            // if (prevPlaylistName !== '') {
-                            playlist = document.createElement('div')
-                            playlist.id = track.playlistName
-                            playlist.textContent = track.playlistName
-                            playlist.appendChild(list)
+                                console.log(id, targetPlaylist)
 
-                            playlists.appendChild(playlist)
+                                const yPosition = targetPlaylist.offsetTop;
+                                const xPosition = targetPlaylist.offsetLeft;
 
-
-
-                            //} // not the first iteration
-
-                            list = document.createElement('ul');
-
-                            if (track.playlistName.slice(0, 4) !== prevYear) {
-                                prevYear = track.playlistName.slice(0, 4)
-                                const navItem = document.createElement('li')
-                                const link = document.createElement('a');
-                                link.textContent = prevYear;
-                                link.href = `#${track.playlistName}`;
-                                link.addEventListener('click', (e) => {
-                                    e.preventDefault();
-                                    const id = e.currentTarget.getAttribute('href').replace('#', '');
-
-
-
-                                    const targetPlaylist = document.getElementById(id)
-
-                                    console.log(id, targetPlaylist)
-
-                                    const yPosition = targetPlaylist.offsetTop;
-                                    const xPosition = targetPlaylist.offsetLeft;
-
-                                    window.scrollTo({
-                                        top: 0,
-                                        left: Math.max(0, xPosition - 32),
-                                    });
-
-
+                                window.scrollTo({
+                                    top: 0,
+                                    left: Math.max(0, xPosition - 32),
                                 });
 
-                                navItem.appendChild(link)
-                                nav.appendChild(navItem)
-                            } // new year detected
-                        } // new playlist detected
 
-                        prevPlaylistName = track.playlistName
+                            });
+
+                            navItem.appendChild(link)
+                            nav.appendChild(navItem)
+                        } // new year detected
+
+                    } // pl grouped loop
 
 
 
-                    });
+
                 })
                 .catch(error => console.error('Error fetching tracks:', error))
                 ;
