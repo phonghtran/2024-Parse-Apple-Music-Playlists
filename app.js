@@ -81,8 +81,6 @@ app.post("/write", (req, res) => {
 app.get("/keyedname", (req, res) => {
   const pairedName = req.query.pairedName;
 
-  //   console.log(pairedName);
-
   let sql = `SELECT * FROM keyedSongs WHERE pairedName = '${pairedName}'`;
   console.log(sql);
   db.all(sql, [], (err, rows) => {
@@ -98,9 +96,25 @@ app.get("/keyedname", (req, res) => {
   });
 });
 
+//get track ifo
+app.get("/getTrackInfo", (req, res) => {
+  let pairedName = req.query.pairedName
+    .replace(/&amp;/g, "&")
+    .replace(/'/g, "''");
+  console.log(pairedName);
+
+  const sql = `SELECT * FROM tracks WHERE pairedName = '${pairedName}' ORDER BY tracks.playlistName DESC`;
+  db.all(sql, [], (err, rows) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+
+    res.json(rows);
+  });
+});
 // Route to fetch data from the database
 app.get("/tracks", (req, res) => {
-  console.log(req.query.sort);
+  // console.log(req.query.sort);
 
   const sortType = req.query.sort;
 
