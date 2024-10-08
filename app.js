@@ -112,6 +112,20 @@ app.get("/getTrackInfo", (req, res) => {
     res.json(rows);
   });
 });
+
+//get genresgraph ifo
+app.get("/genresgraph", (req, res) => {
+  const sql =
+    "SELECT playlistName, genre, COUNT(genre) as count FROM tracks  GROUP BY playlistName,genre ";
+  db.all(sql, [], (err, rows) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+
+    res.json(rows);
+  });
+});
+
 // Route to fetch data from the database
 app.get("/tracks", (req, res) => {
   // console.log(req.query.sort);
@@ -202,6 +216,10 @@ app.get("/parse", (req, res) => {
 
 app.get("/visualize", (req, res) => {
   res.sendFile(path.join(__dirname, "visualize.html"));
+});
+
+app.get("/genres", (req, res) => {
+  res.sendFile(path.join(__dirname, "genres.html"));
 });
 
 app.get("/run-script", (req, res) => {
