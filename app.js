@@ -20,7 +20,12 @@ app.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }));
 // ******************************************
 // ******************************************
 const wuzzy = require("wuzzy");
-const { colord } = require("colord");
+
+const { colord, extend } = require("colord");
+const mixPlugin = require("colord/plugins/mix");
+
+extend([mixPlugin]);
+
 app.get("/colord", (req, res) => {
   const genre = req.query.genre;
   // console.log(genre);
@@ -29,7 +34,7 @@ app.get("/colord", (req, res) => {
     { genre: "Pop", color: "#fd7f6f" },
     {
       genre: "K-Pop",
-      color: colord("fd7f6f").lighten(0.95).toHex(),
+      color: "#fd7f6f",
     },
 
     { genre: "Hip-Hop", color: "#7eb0d5" },
@@ -39,7 +44,7 @@ app.get("/colord", (req, res) => {
     { genre: "Acid Rap", color: "#7eb0d5" },
 
     { genre: "Alternative", color: "#b2e061" },
-    { genre: "Alt Rock", color: "#b2e061" },
+    { genre: "Alt Rock", color: colord("#b2e061").mix("#beb9db").toHex() },
     { genre: "Singer/Songwriter", color: "#b2e061" },
 
     { genre: "R&B/Soul", color: "#bd7ebe" },
@@ -62,7 +67,7 @@ app.get("/colord", (req, res) => {
     { genre: "Jazz", color: "#fdcce5" },
     { genre: "Blues", color: "#fdcce5" },
 
-    { genre: "Country", color: "#663333" },
+    { genre: "Country", color: colord("#beb9db").saturate(0.25).toHex() },
 
     { genre: "Disco", color: "#CC99CC" },
 

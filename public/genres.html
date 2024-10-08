@@ -25,6 +25,10 @@
             font-size: 0.75rem;
             overflow: hidden;
         }
+
+        .barViz.fade {
+            background-color: white !important;
+        }
     </style>
 </head>
 
@@ -46,25 +50,28 @@
             }).then(data => {
                 // console.log(data, 'inside the then')
 
-                const elem = barViz
-                elem.dataset.score = data.bestScore.score
-                elem.dataset.newGenre = data.bestScore.genre
-                elem.dataset.color = data.bestScore.color
 
-                // elem.style.backgroundColor = "#fff" // debug
-                elem.style.backgroundColor = data.bestScore.color
+                barViz.dataset.score = data.bestScore.score
+                barViz.dataset.newGenre = data.bestScore.genre
+                barViz.dataset.color = data.bestScore.color
+
+                // barViz.style.backgroundColor = "#fff" // debug
+                barViz.dataset.backgroundColor = data.bestScore.color
+                barViz.style.backgroundColor = data.bestScore.color
 
                 if (data.bestScore.score < .6) {
-                    elem.innerHTML = data.bestScore.genre
-                    // elem.innerHTML = '!!!' + elem.innerHTML //debug
-                    // elem.style.backgroundColor = "yellow" //debug
-                    // console.log(elem.dataset.genre)
+                    barViz.innerHTML = data.bestScore.genre
+                    // barViz.innerHTML = '!!!' + elem.innerHTML //debug
+                    // barViz.style.backgroundColor = "yellow" //debug
+                    // console.log(barViz.dataset.genre)
+                }
+
+                if (barViz.dataset.genre === 'undefined') {
+                    barViz.innerHTML = ""
                 }
 
 
             }).catch(error => console.error('Error color tracks:', error))
-
-
 
         }
 
@@ -72,13 +79,10 @@
         init()
 
         async function init() {
-            console.log('hi')
+
             await fetchTable()
-            console.log(document.getElementById(`barViz0`))
 
             const barVizes = document.getElementsByClassName('barViz')
-
-            console.log(barVizes)
 
             for (let i = 0; i < barVizes.length; i++) {
                 const barViz = barVizes[i]
@@ -90,9 +94,8 @@
 
 
 
-
         async function fetchTable() {
-            console.log('start of fetch')
+
             const render = await fetch(`/genresgraph`)
                 .then(response => {
                     if (response.ok) { // Check if response is OK (200-299)
@@ -154,6 +157,45 @@
                             barViz.style.width = `${track.count / genreCount}%`
                             // barViz.style.backgroundColor = hexColors[color]
                             barViz.textContent = track.genre
+                            barViz.addEventListener('click', (e) => {
+                                // console.log(e.currentTarget)
+
+                                container.classList.toggle('activeHighlight')
+
+                                const barVizes = document.getElementsByClassName('barViz')
+
+                                if (
+                                    (container.classList.contains('activeHighlight') && barViz.classList.contains('fade')) ||
+                                    (!container.classList.contains('activeHighlight') && !barViz.classList.contains('fade'))
+
+                                ) {
+
+                                    const genre = e.currentTarget.dataset.newGenre
+
+                                    console.log(genre)
+
+
+                                    for (let i = 0; i < barVizes.length; i++) {
+                                        const barViz = barVizes[i]
+
+                                        if (barViz.dataset.newGenre === genre) {
+                                            barViz.classList.remove("fade")
+                                        } else {
+                                            barViz.classList.add("fade")
+                                        }
+
+
+                                    } // loop
+
+                                } else {
+                                    for (let i = 0; i < barVizes.length; i++) {
+                                        const barViz = barVizes[i]
+
+                                        barViz.classList.remove("fade")
+                                    } //loop
+
+                                } //class check
+                            })
 
 
 
@@ -179,15 +221,13 @@
                         rowGenre.appendChild(vizGenre)
                         container.appendChild(rowGenre)
                     }// for
-                    console.log('after loop')
-
 
 
                 })
                 .catch(error => console.error('Error fetching tracks:', error))
                 ;
 
-            console.log('end of fetch')
+
         }// fetch table
     </script>
 </body>
