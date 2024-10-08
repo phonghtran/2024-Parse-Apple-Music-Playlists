@@ -31,53 +31,42 @@
 <body>
     <div id="container"></div>
 
-    the primary genres get a hex color and the further from letter match - change the saturation to a floor
-    everything else is undefined as a hex
-
-    wuzzy.jarowinkler(testArray[i], strArray[j])
-    import wuzzy from 'wuzzy';
-
-    npm i colord
-    console.log(colord("#ff0000").grayscale().alpha(0.25).toRgbString())
-
-    Pop - 1425
-    undefined - 868
-    Hip-Hop/Rap - 828
-    Alternative - 822
-    K-Pop - 505
-    R&B/Soul - 494
-    Electronic - 393
-    Dance - 283
-    Indie - 273
-    Rock - 257
-    Alt Rock - 223
-    Rap - 221
-    R&B - 119
-    Hip-Hop - 115
-    Country - 106
-    Hip Hop/Rap - 94
-    Indie Rock - 68
-    Singer/Songwriter - 68
-    Urbano latino - 57
 
     <script>
 
+        async function getColor(genre, idOffset) {
+            const res = await fetch(`/colord?genre=${genre}`).then(response => {
+                if (response.ok) { // Check if response is OK (200-299)
+                    return response.json(); // If true, return the JSON data
+                } else {
+                    throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                }
+
+            }).then(data => {
+                // console.log(data, 'inside the then')
+
+                const elem = document.getElementById(`barViz${idOffset}`)
+                elem.dataset.score = data.bestScore.score
+                elem.dataset.newGenre = data.bestScore.genre
+                elem.dataset.color = data.bestScore.color
+
+                // elem.style.backgroundColor = "#fff" // debug
+                elem.style.backgroundColor = data.bestScore.color
+
+                if (data.bestScore.score < .6) {
+                    elem.innerHTML = data.bestScore.genre
+                    // elem.innerHTML = '!!!' + elem.innerHTML //debug
+                    // elem.style.backgroundColor = "yellow" //debug
+                    console.log(elem.dataset.genre)
+                }
+
+                return data
+            }).catch(error => console.error('Error color tracks:', error))
 
 
 
-        const getColor = async () => {
-            const res = await fetch('/colord');
-            if (res.ok) {
-                const data = await res.json();
-                console.log(data, "inside ");
-            }
         }
 
-        const resp = getColor().then(() => {
-            console.log(resp, "inside the then waiting")
-        }).catch((error) => console.error(error));
-
-        console.log(resp, "outside")
 
 
 
@@ -85,34 +74,10 @@
         fetchTable()
 
 
-        const hexColors = [
-            "#FF0000", // Red
-            "#00FF00", // Green
-            "#0000FF", // Blue
-            "#FFFF00", // Yellow
-            "#FF00FF", // Magenta
-            "#800000", // Brown
-            "#008000", // Forest Green
-            "#000080", // Navy Blue
-            "#808000", // Olive Drab
-            "#C0C0C0", // Light Gray
-            "#800080", // Purple
-            "#FFFFCC", // Light Yellow
-            "#FF9900", // Orange
-            "#66CCCC", // Sky Blue
-            "#00BFFF", // Baby Blue
-            "#999966", // Tan
-            "#33CC33", // Lime Green
-            "#CC99CC", // Pastel Pink
-            "#663333", // Dark Brown
-            "#FFCC33" // Golden Yellow
-        ];
 
+        async function fetchTable() {
 
-
-        function fetchTable() {
-
-            fetch(`/genresgraph`)
+            const render = await fetch(`/genresgraph`)
                 .then(response => {
                     if (response.ok) { // Check if response is OK (200-299)
                         return response.json(); // If true, return the JSON data
@@ -132,7 +97,7 @@
 
                     const container = document.getElementById('container')
 
-
+                    let tempcount = 0
 
                     for (pl in grouped) {
                         const plist = grouped[pl]
@@ -165,13 +130,26 @@
                             // console.log(track)
 
                             const barViz = document.createElement('div')
+                            barViz.id = `barViz${tempcount}`
                             barViz.classList.add('barViz')
                             barViz.classList.add(`barVizColor${color}`)
                             barViz.dataset.genre = track.genre
                             barViz.dataset.count = track.count
                             barViz.style.width = `${track.count / genreCount}%`
-                            barViz.style.backgroundColor = hexColors[color]
+                            // barViz.style.backgroundColor = hexColors[color]
                             barViz.textContent = track.genre
+
+
+
+                            try {
+                                getColor(track.genre, tempcount); // assumes this is an 
+                            } catch (error) {
+                                console.error(error);
+                            }
+
+
+
+                            tempcount++
 
 
                             vizGenre.appendChild(barViz)

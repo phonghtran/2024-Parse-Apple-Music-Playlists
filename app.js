@@ -22,20 +22,91 @@ app.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }));
 const wuzzy = require("wuzzy");
 const { colord } = require("colord");
 app.get("/colord", (req, res) => {
-  const str1 = "DWAYNE";
-  const str2 = "DUANE";
+  const genre = req.query.genre;
+  // console.log(genre);
 
-  const jaroWinkler = wuzzy.jarowinkler(str1, str2);
-  const levenshtein = wuzzy.levenshtein(str1, str2);
-  const jaccard = wuzzy.jaccard(str1, str2);
+  const testBank = [
+    { genre: "Pop", color: "#fd7f6f" },
+    {
+      genre: "K-Pop",
+      color: colord("fd7f6f").lighten(0.95).toHex(),
+    },
 
-  const color = colord("hsl(0, 50%, 50%)").darken(0.25).toHex();
+    { genre: "Hip-Hop", color: "#7eb0d5" },
+    { genre: "Rap", color: "#7eb0d5" },
+    { genre: "Hip-Hop/Rap", color: "#7eb0d5" },
+    { genre: "Urbano latino", color: "#7eb0d5" },
+    { genre: "Acid Rap", color: "#7eb0d5" },
+
+    { genre: "Alternative", color: "#b2e061" },
+    { genre: "Alt Rock", color: "#b2e061" },
+    { genre: "Singer/Songwriter", color: "#b2e061" },
+
+    { genre: "R&B/Soul", color: "#bd7ebe" },
+    { genre: "R&B", color: "#bd7ebe" },
+    { genre: "Soul", color: "#bd7ebe" },
+
+    { genre: "Electronic", color: "#ffb55a" },
+    { genre: "Dance", color: "#ffb55a" },
+    { genre: "Garage", color: "#ffb55a" },
+    { genre: "Dubstep", color: "#ffb55a" },
+
+    { genre: "Indie", color: "#ffee65" },
+
+    { genre: "Latin", color: "#8bd3c7" },
+
+    { genre: "Rock", color: "#beb9db" },
+    { genre: "Metal", color: "#beb9db" },
+    { genre: "Punk", color: "#beb9db" },
+
+    { genre: "Jazz", color: "#fdcce5" },
+    { genre: "Blues", color: "#fdcce5" },
+
+    { genre: "Country", color: "#663333" },
+
+    { genre: "Disco", color: "#CC99CC" },
+
+    { genre: "Raggae", color: "#33CC33" },
+
+    { genre: "Mashup", color: "#999966" },
+
+    { genre: "Christian", color: "#00BFFF" },
+    { genre: "Gospel", color: "#00BFFF" },
+  ];
+
+  let bestScore = {
+    score: 0,
+    genre: "",
+    color: "#FFFFFF",
+  };
+  let debug = [];
+
+  for (var i = 0; i < testBank.length; i++) {
+    if (genre.length > 20) break;
+
+    const score = wuzzy.jarowinkler(genre, testBank[i]["genre"]);
+
+    if (score > bestScore.score && score > 0.6) {
+      bestScore = {
+        score: score,
+        genre: testBank[i]["genre"],
+        color: colord(testBank[i]["color"])
+          .lighten(1 - score)
+          .toHex(),
+      };
+    }
+
+    if (score === 1) {
+      bestScore.color = testBank[i]["color"];
+      break;
+    }
+
+    debug.push([score, testBank[i]]);
+  }
 
   res.json({
-    color,
-    jaroWinkler,
-    levenshtein,
-    jaccard,
+    bestScore,
+    debug,
   });
 });
 
