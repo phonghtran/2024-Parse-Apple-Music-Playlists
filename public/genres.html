@@ -34,7 +34,8 @@
 
     <script>
 
-        async function getColor(genre, idOffset) {
+        async function getColor(barViz) {
+            const genre = barViz.dataset.genre
             const res = await fetch(`/colord?genre=${genre}`).then(response => {
                 if (response.ok) { // Check if response is OK (200-299)
                     return response.json(); // If true, return the JSON data
@@ -45,7 +46,7 @@
             }).then(data => {
                 // console.log(data, 'inside the then')
 
-                const elem = document.getElementById(`barViz${idOffset}`)
+                const elem = barViz
                 elem.dataset.score = data.bestScore.score
                 elem.dataset.newGenre = data.bestScore.genre
                 elem.dataset.color = data.bestScore.color
@@ -57,10 +58,10 @@
                     elem.innerHTML = data.bestScore.genre
                     // elem.innerHTML = '!!!' + elem.innerHTML //debug
                     // elem.style.backgroundColor = "yellow" //debug
-                    console.log(elem.dataset.genre)
+                    // console.log(elem.dataset.genre)
                 }
 
-                return data
+
             }).catch(error => console.error('Error color tracks:', error))
 
 
@@ -68,15 +69,30 @@
         }
 
 
+        init()
 
+        async function init() {
+            console.log('hi')
+            await fetchTable()
+            console.log(document.getElementById(`barViz0`))
 
+            const barVizes = document.getElementsByClassName('barViz')
 
-        fetchTable()
+            console.log(barVizes)
+
+            for (let i = 0; i < barVizes.length; i++) {
+                const barViz = barVizes[i]
+
+                await getColor(barViz)
+            }
+
+        }
+
 
 
 
         async function fetchTable() {
-
+            console.log('start of fetch')
             const render = await fetch(`/genresgraph`)
                 .then(response => {
                     if (response.ok) { // Check if response is OK (200-299)
@@ -141,11 +157,11 @@
 
 
 
-                            try {
-                                getColor(track.genre, tempcount); // assumes this is an 
-                            } catch (error) {
-                                console.error(error);
-                            }
+                            // try {
+                            //     getColor(track.genre, tempcount); // assumes this is an 
+                            // } catch (error) {
+                            //     console.error(error);
+                            // }
 
 
 
@@ -163,13 +179,15 @@
                         rowGenre.appendChild(vizGenre)
                         container.appendChild(rowGenre)
                     }// for
-
+                    console.log('after loop')
 
 
 
                 })
                 .catch(error => console.error('Error fetching tracks:', error))
                 ;
+
+            console.log('end of fetch')
         }// fetch table
     </script>
 </body>
