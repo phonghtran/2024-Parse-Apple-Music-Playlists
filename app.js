@@ -126,6 +126,19 @@ app.get("/genresgraph", (req, res) => {
   });
 });
 
+//get debug ifo
+app.get("/debugdbcall", (req, res) => {
+  const sql =
+    "SELECT genre, COUNT(genre) as count FROM tracks  GROUP BY genre ";
+  db.all(sql, [], (err, rows) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+
+    res.json(rows);
+  });
+});
+
 // Route to fetch data from the database
 app.get("/tracks", (req, res) => {
   // console.log(req.query.sort);
@@ -220,6 +233,10 @@ app.get("/visualize", (req, res) => {
 
 app.get("/genres", (req, res) => {
   res.sendFile(path.join(__dirname, "genres.html"));
+});
+
+app.get("/debugpage", (req, res) => {
+  res.sendFile(path.join(__dirname, "debugpage.html"));
 });
 
 app.get("/run-script", (req, res) => {
