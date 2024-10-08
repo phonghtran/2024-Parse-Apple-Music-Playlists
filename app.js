@@ -5,12 +5,45 @@ const path = require("path");
 
 const { exec } = require("child_process");
 
+// ******************************************
+// ******************************************
 //body parser
+// ******************************************
+// ******************************************
 const bodyParser = require("body-parser");
 app.use(bodyParser.json({ limit: "50mb" }));
 app.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }));
 
-//db
+// ******************************************
+// ******************************************
+// colord
+// ******************************************
+// ******************************************
+const wuzzy = require("wuzzy");
+const { colord } = require("colord");
+app.get("/colord", (req, res) => {
+  const str1 = "DWAYNE";
+  const str2 = "DUANE";
+
+  const jaroWinkler = wuzzy.jarowinkler(str1, str2);
+  const levenshtein = wuzzy.levenshtein(str1, str2);
+  const jaccard = wuzzy.jaccard(str1, str2);
+
+  const color = colord("hsl(0, 50%, 50%)").darken(0.25).toHex();
+
+  res.json({
+    color,
+    jaroWinkler,
+    levenshtein,
+    jaccard,
+  });
+});
+
+// ******************************************
+// ******************************************
+// db
+// ******************************************
+// ******************************************
 const sqlite3 = require("sqlite3").verbose();
 
 const db = new sqlite3.Database("./database.db");
@@ -21,13 +54,11 @@ process.on("SIGINT", () => {
   process.exit();
 });
 
-function escapeQuotes(str) {
-  return str;
-  // prettier-ignore
-  return str.replace(/(['"])/g, "\\$1");
-}
-
+// ******************************************
+// ******************************************
 // Route to insert data into the database
+// ******************************************
+// ******************************************
 app.post("/write", (req, res) => {
   const tracks = req.body.tracks;
   const playlistName = req.body.playlistName;
@@ -58,6 +89,10 @@ app.post("/write", (req, res) => {
   //   console.log(keyedSong);
 
   db.serialize(() => {
+    // test if these work
+    db.run("DROP TABLE IF EXISTS tracks");
+    db.run("DROP TABLE IF EXISTS keyedSongs");
+
     db.run(
       "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, pairedName TEXT)"
     );
@@ -139,7 +174,11 @@ app.get("/debugdbcall", (req, res) => {
   });
 });
 
+// ******************************************
+// ******************************************
 // Route to fetch data from the database
+// ******************************************
+// ******************************************
 app.get("/tracks", (req, res) => {
   // console.log(req.query.sort);
 
@@ -150,7 +189,7 @@ app.get("/tracks", (req, res) => {
   let sql = "SELECT * FROM tracks ORDER BY artist ASC,name ASC";
   switch (sortType) {
     case "db":
-      sql = "SELECT * FROM tracks ORDER BY id ASC, artist ASC, name ASC";
+      sql = "SELECT * FROM tracks ORDER BY tid ASC, artist ASC, name ASC";
       break;
 
     case "playlist":
@@ -174,7 +213,7 @@ app.get("/tracks", (req, res) => {
       break;
   }
 
-  //   console.log(sql);
+  // console.log(sql);
 
   db.all(sql, [], (err, rows) => {
     if (err) {
@@ -189,20 +228,14 @@ app.get("/tracks", (req, res) => {
   });
 });
 
-// drop table
-app.get("/drop", (req, res) => {
-  db.run("DROP TABLE tracks", function (err) {
-    if (err) {
-      return res.status(500).send("Failed to drop table");
-    }
-    res.status(200).send(`dropped table`);
-  });
-});
-
 // buffer overrun
 const maxBufferSize = 100 * 1024 * 1024; // 100 MB
 
+// ******************************************
+// ******************************************
 // live refresh
+// ******************************************
+// ******************************************
 const livereload = require("livereload");
 const connectLiveReload = require("connect-livereload");
 
@@ -217,28 +250,18 @@ liveReloadServer.server.once("connection", () => {
   }, 100);
 });
 
+// ******************************************
+// ******************************************
 // run script from index.html
+// ******************************************
+// ******************************************
+app.use("/", express.static(__dirname + "/public/")); // Serve files from 'public' folder as root directory
 
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
-});
-
-app.get("/parse", (req, res) => {
-  res.sendFile(path.join(__dirname, "parse.html"));
-});
-
-app.get("/visualize", (req, res) => {
-  res.sendFile(path.join(__dirname, "visualize.html"));
-});
-
-app.get("/genres", (req, res) => {
-  res.sendFile(path.join(__dirname, "genres.html"));
-});
-
-app.get("/debugpage", (req, res) => {
-  res.sendFile(path.join(__dirname, "debugpage.html"));
-});
-
+// ******************************************
+// ******************************************
+// parse the music xml files
+// ******************************************
+// ******************************************
 app.get("/run-script", (req, res) => {
   exec(
     "node scripts/parse.js",
@@ -253,7 +276,11 @@ app.get("/run-script", (req, res) => {
   );
 });
 
+// ******************************************
+// ******************************************
 //config
+// ******************************************
+// ******************************************
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);

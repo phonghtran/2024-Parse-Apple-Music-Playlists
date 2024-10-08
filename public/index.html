@@ -31,16 +31,19 @@
     <p>"npm run dev" // "rs" to restart server live</p>
 
     <p>
-        <a href="/parse">Rebuild DB</a>
+        <a href="/parse.html">Rebuild DB</a>
         - Delete 'database.db'
     </p>
 
     <p>
-        <a href="/visualize">visualize page</a>
+        <a href="/visualize.html">visualize page</a>
     </p>
 
     <p>
-        <a href="/genres">genres page</a>
+        <a href="/genres.html">genres page</a>
+    </p>
+    <p>
+        <a href="/debugpage.html">debug page</a>
     </p>
     <h1>Table</h1>
 
@@ -115,7 +118,7 @@
                     rows = Object.keys(data).length
 
                     const tableCount = document.getElementById('tableCount')
-                    console.log(rows)
+                    // console.log(rows)
                     tableCount.innerHTML = `${rows} rows`
 
                     data.forEach(track => {

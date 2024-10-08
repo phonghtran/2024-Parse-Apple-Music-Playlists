@@ -31,9 +31,60 @@
 <body>
     <div id="container"></div>
 
+    the primary genres get a hex color and the further from letter match - change the saturation to a floor
+    everything else is undefined as a hex
+
+    wuzzy.jarowinkler(testArray[i], strArray[j])
+    import wuzzy from 'wuzzy';
+
+    npm i colord
+    console.log(colord("#ff0000").grayscale().alpha(0.25).toRgbString())
+
+    Pop - 1425
+    undefined - 868
+    Hip-Hop/Rap - 828
+    Alternative - 822
+    K-Pop - 505
+    R&B/Soul - 494
+    Electronic - 393
+    Dance - 283
+    Indie - 273
+    Rock - 257
+    Alt Rock - 223
+    Rap - 221
+    R&B - 119
+    Hip-Hop - 115
+    Country - 106
+    Hip Hop/Rap - 94
+    Indie Rock - 68
+    Singer/Songwriter - 68
+    Urbano latino - 57
+
     <script>
 
+
+
+
+        const getColor = async () => {
+            const res = await fetch('/colord');
+            if (res.ok) {
+                const data = await res.json();
+                console.log(data, "inside ");
+            }
+        }
+
+        const resp = getColor().then(() => {
+            console.log(resp, "inside the then waiting")
+        }).catch((error) => console.error(error));
+
+        console.log(resp, "outside")
+
+
+
+
         fetchTable()
+
+
         const hexColors = [
             "#FF0000", // Red
             "#00FF00", // Green
@@ -81,7 +132,7 @@
 
                     const container = document.getElementById('container')
 
-                    let debug = {}
+
 
                     for (pl in grouped) {
                         const plist = grouped[pl]
@@ -99,9 +150,6 @@
                         const vizGenre = document.createElement('div')
                         vizGenre.classList.add('vizGenre')
 
-                        if (plist.length > 15) {
-                            console.log(plist)
-                        }
 
 
                         let genreCount = 0;
@@ -132,15 +180,14 @@
 
                         } // each track
 
-                        if (!debug[color]) debug[color] = 0
-                        debug[color]++
+
 
                         rowGenre.appendChild(vizGenre)
                         container.appendChild(rowGenre)
                     }// for
 
 
-                    console.log(debug)
+
 
                 })
                 .catch(error => console.error('Error fetching tracks:', error))

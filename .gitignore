@@ -1,0 +1,11 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all node_modules directories
+node_modules/
+
+# Ignore all .idea folders (for IntelliJ IDEA users)
+.idea/
