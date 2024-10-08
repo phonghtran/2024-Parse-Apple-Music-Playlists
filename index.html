@@ -47,11 +47,14 @@
         <button id="bttnSortDB">Sort by DB</button>
     </p>
 
+
+    <p id="tableCount"></p>
     <table id="tracks"></table>
 
     <script>
         console.log('fetching')
 
+        let tablecount = 0;
         let sortType = 'playlist'
         fetchTable()
 
@@ -105,6 +108,11 @@
                     const tracksDiv = document.getElementById('tracks');
 
                     tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th></tr>'
+                    rows = Object.keys(data).length
+
+                    const tableCount = document.getElementById('tableCount')
+                    console.log(rows)
+                    tableCount.innerHTML = `${rows} rows`
 
                     data.forEach(track => {
                         // console.log(track)

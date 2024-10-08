@@ -7,6 +7,7 @@
 
     <style>
         .panel {
+            background-color: #eee;
             height: 100vh;
             overflow-y: scroll;
             overflow-x: hidden;
@@ -14,6 +15,10 @@
             scrollbar-width: thin;
             top: 0;
             z-index: 2;
+        }
+
+        .panel.hidden {
+            display: none;
         }
 
         #playlists {
@@ -25,12 +30,8 @@
         }
 
         #navContainer {
-            background-color: #eee;
+
             left: 0;
-
-
-
-
 
             width: 5.5rem;
 
@@ -81,9 +82,9 @@
         }
 
         #panel {
-            background-color: aqua;
 
-
+            border-left: 1px solid black;
+            padding: 1rem;
             right: 0;
 
             width: 32rem;
@@ -99,7 +100,8 @@
         </ul>
     </div>
 
-    <div id="panel" class="panel">
+    <div id="panel" class="panel hidden">
+        <button id="panelClose">Close Panel</button>
         <h2 id="panelHeader"></h2>
         <ul id="panelDate"></ul>
         <ul id="panelListing"></ul>
@@ -111,6 +113,13 @@
 
 
         fetchTable()
+
+        const panelClose = document.getElementById('panelClose')
+        panelClose.addEventListener('click', (e) => {
+            console.log(e.currentTarget)
+            const panel = document.getElementById('panel')
+            panel.classList.add('hidden')
+        })
 
 
 
@@ -229,9 +238,12 @@
 
                 })
                 .then(data => {
+                    const panel = document.getElementById('panel')
                     const panelListing = document.getElementById('panelListing')
                     const panelHeader = document.getElementById('panelHeader')
                     const panelDate = document.getElementById('panelDate')
+
+                    panel
 
                     panelListing.innerHTML = ''
                     panelHeader.innerHTML = ''
@@ -305,6 +317,8 @@
                             }// more than 0
 
                         } // streaks
+
+                        panel.classList.remove('hidden')
                     } // if data
                 }) // then 
                 .catch(error => console.error('Error fetching info about track:', error))
