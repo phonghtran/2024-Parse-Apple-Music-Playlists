@@ -452,32 +452,12 @@
                             label.playcount = Math.max(label.playcount, track.playcount)
 
 
-                            if (track.artist === 'NewJeans') { // && track.name === 'OMG') {}
-
-                                console.log(track.playlistName, label.startDate, label.endDate)
-                            }
 
                             const sD = new Date(label.startDate)
                             const eD = new Date(label.endDate)
                             label.startDate = (sD.getTime() > date2.getTime()) ? track.playlistName : label.startDate
                             label.endDate = (eD.getTime() < date2.getTime()) ? track.playlistName : label.endDate
 
-                            if (track.artist === 'NewJeans') { // && track.name === 'OMG') {
-
-                                // console.log(date2, sD, eD)
-                                if (sD.getTime() > date2.getTime()) {
-                                    console.log('this pl is older than the current start date - take the pl')
-                                } else {
-                                    console.log('pl is newer - keep this start')
-                                }
-                                if (eD.getTime() < date2.getTime()) {
-                                    console.log('this pl is newer than the current end date - take the pl')
-                                } else {
-                                    console.log('this pl is older - keep the end')
-                                }
-
-                                console.log(track.playlistName, label.startDate, label.endDate)
-                            }
 
                         }//tracks
 
@@ -569,7 +549,7 @@
 
 
 
-                console.log(bigListArtist)
+                // console.log(bigListArtist)
                 mostEntries('most')
 
 
