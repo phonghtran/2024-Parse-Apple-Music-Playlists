@@ -135,6 +135,7 @@ process.on("SIGINT", () => {
 // Route to insert data into the database
 // ******************************************
 // ******************************************
+
 app.post("/write", (req, res) => {
   const tracks = req.body.tracks;
   const playlistName = req.body.playlistName;
@@ -148,7 +149,12 @@ app.post("/write", (req, res) => {
   for (let i = 0; i < tracks.length; i++) {
     const track = tracks[i];
 
-    const pairedName = `${track.Artist} - ${track.Name}`;
+    let pairedName = `${track.Artist} - ${track.Name}`;
+    pairedName = pairedName
+      .toLowerCase()
+      .replace(/[^a-z0-9]/gi, "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
 
     sql += `("${playlistName}", "${trackPosition}", "${track.Artist}", "${track.Name}", "${track.Genre}", "${pairedName}"), `;
 
@@ -166,8 +172,8 @@ app.post("/write", (req, res) => {
 
   db.serialize(() => {
     // test if these work
-    db.run("DROP TABLE IF EXISTS tracks");
-    db.run("DROP TABLE IF EXISTS keyedSongs");
+    // db.run("DROP TABLE IF EXISTS tracks");
+    // db.run("DROP TABLE IF EXISTS keyedSongs");
 
     db.run(
       "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, pairedName TEXT)"
@@ -287,6 +293,10 @@ app.get("/tracks", (req, res) => {
     case "genre":
       sql = "SELECT * FROM tracks ORDER BY genre ASC,artist ASC, name ASC";
       break;
+
+    case "pairedName":
+      sql = "SELECT * FROM tracks ORDER BY pairedName ASC, playlistName DESC";
+      break;
   }
 
   // console.log(sql);
@@ -306,6 +316,20 @@ app.get("/tracks", (req, res) => {
 
 // buffer overrun
 const maxBufferSize = 100 * 1024 * 1024; // 100 MB
+
+// ******************************************
+// ******************************************
+// drop
+// ******************************************
+// ******************************************
+
+app.get("/drop", (req, res) => {
+  db.serialize(() => {
+    // test if these work
+    db.run("DROP TABLE IF EXISTS tracks");
+    db.run("DROP TABLE IF EXISTS keyedSongs");
+  });
+});
 
 // ******************************************
 // ******************************************

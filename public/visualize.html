@@ -155,9 +155,10 @@
                             const track = plist[i]
 
                             const trackRow = document.createElement('li');
-                            trackRow.textContent = track.pairedName
+                            trackRow.textContent = `${track.artist} - ${track.name}`
                             trackRow.setAttribute('data-ksid', track.ksid);
                             trackRow.setAttribute('data-tid', track.tid);
+                            trackRow.setAttribute('data-pairedName', track.pairedName);
                             trackRow.addEventListener('click', highlightTrack);
 
                             list.appendChild(trackRow);
@@ -229,7 +230,8 @@
 
             } // higlight loop
 
-            fetch(`/getTrackInfo?pairedName=${encodeURIComponent(li.innerHTML)}`)
+            console.log(li.dataset.pairedname)
+            fetch(`/getTrackInfo?pairedName=${encodeURIComponent(li.dataset.pairedname)}`)
                 .then(response => {
                     return response.json()
 
@@ -240,7 +242,6 @@
                     const panelHeader = document.getElementById('panelHeader')
                     const panelDate = document.getElementById('panelDate')
 
-                    panel
 
                     panelListing.innerHTML = ''
                     panelHeader.innerHTML = ''
@@ -261,7 +262,7 @@
                             panelListing.appendChild(li)
                             // console.log(track)
 
-                            panelHeader.innerHTML = track.pairedName;
+                            panelHeader.innerHTML = `${track.artist} - ${track.name}`
 
 
 
