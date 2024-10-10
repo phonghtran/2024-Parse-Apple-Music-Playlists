@@ -141,13 +141,15 @@ app.post("/write", (req, res) => {
   const playlistName = req.body.playlistName;
 
   let sql =
-    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre, pairedName) VALUES ";
+    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre,  rating, playcount,pairedName) VALUES ";
 
   let keyedSong = "INSERT OR IGNORE INTO keyedSongs (pairedName) VALUES ";
 
   let trackPosition = 1;
   for (let i = 0; i < tracks.length; i++) {
     const track = tracks[i];
+
+    if (i < 1) console.log(track);
 
     let pairedName = `${track.Artist} - ${track.Name}`;
     pairedName = pairedName
@@ -156,7 +158,9 @@ app.post("/write", (req, res) => {
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "");
 
-    sql += `("${playlistName}", "${trackPosition}", "${track.Artist}", "${track.Name}", "${track.Genre}", "${pairedName}"), `;
+    const rating = track.Rating ? track.Rating : 0;
+
+    sql += `("${playlistName}", "${trackPosition}", "${track.Artist}", "${track.Name}", "${track.Genre}",  ${rating}, ${track["Play Count"]}, "${pairedName}"), `;
 
     keyedSong += `("${pairedName}"), `;
 
@@ -176,7 +180,7 @@ app.post("/write", (req, res) => {
     // db.run("DROP TABLE IF EXISTS keyedSongs");
 
     db.run(
-      "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, pairedName TEXT)"
+      "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, rating INTEGER, playcount INTEGER, pairedName TEXT)"
     );
 
     db.run(
@@ -266,7 +270,7 @@ app.get("/tracks", (req, res) => {
 
   const sortType = req.query.sort;
 
-  //   console.log(sortType);
+  // console.log(sortType);
 
   let sql = "SELECT * FROM tracks ORDER BY artist ASC,name ASC";
   switch (sortType) {
@@ -299,7 +303,7 @@ app.get("/tracks", (req, res) => {
       break;
   }
 
-  // console.log(sql);
+  console.log(sql);
 
   db.all(sql, [], (err, rows) => {
     if (err) {

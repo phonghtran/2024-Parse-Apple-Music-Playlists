@@ -124,41 +124,43 @@
                 })
                 .then(data => {
                     const tracksDiv = document.getElementById('tracks');
+                    tracksDiv.innerHTML = ''
+                    console.log(data)
+                    const trackRow = document.createElement('tr');
+                    for (label in data[0]) {
+                        const t1 = document.createElement('th');
+                        t1.textContent = label
+                        trackRow.appendChild(t1)
+                    }
+                    tracksDiv.appendChild(trackRow);
 
-                    tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
+                    // tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
                     rows = Object.keys(data).length
 
                     const tableCount = document.getElementById('tableCount')
                     // console.log(rows)
                     tableCount.innerHTML = `${rows} rows`
 
+                    // let debug = 0
                     data.forEach(track => {
                         // console.log(track)
                         const trackRow = document.createElement('tr');
 
-                        const t1 = document.createElement('td');
-                        const t2 = document.createElement('td');
-                        const t3 = document.createElement('td');
-                        const t4 = document.createElement('td');
-                        const t5 = document.createElement('td');
-                        const t6 = document.createElement('td');
-                        const t7 = document.createElement('td');
+                        // if (debug === 0) {
+                        //     debug++
+                        //     console.log(track)
+                        // }
 
-                        t1.textContent = track.tid;
-                        t2.textContent = track.playlistName
-                        t3.textContent = track.trackPosition
-                        t4.textContent = track.artist
-                        t5.textContent = track.name
-                        t6.textContent = track.genre
-                        t7.textContent = track.pairedName
+                        for (columns in track) {
+                            const column = track[columns]
 
-                        trackRow.appendChild(t1)
-                        trackRow.appendChild(t2)
-                        trackRow.appendChild(t3)
-                        trackRow.appendChild(t4)
-                        trackRow.appendChild(t5)
-                        trackRow.appendChild(t6)
-                        trackRow.appendChild(t7)
+                            const t1 = document.createElement('td');
+                            t1.textContent = column
+                            trackRow.appendChild(t1)
+                        }
+
+
+
 
                         tracksDiv.appendChild(trackRow);
                     });
