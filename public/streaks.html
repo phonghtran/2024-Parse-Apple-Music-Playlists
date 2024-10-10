@@ -29,6 +29,7 @@
         td {
             border: 1px solid black;
             min-width: 6rem;
+            padding: 0.25rem .5rem;
         }
 
         #bttnToggleMulti {
@@ -42,12 +43,14 @@
         <a href="/index.html">Home</a>
     </p>
     <p>
-        <button id="bttnStreaks" class="isActive">Longest Streak</button>
+        <button id="bttnStreaks">Longest Streak</button>
         <button id="bttnName">Alphabetical</button>
-        <button id="bttnMostDays">Artists with Most Days</button>
-        <button id="bttnMostEntries">Artists with Most Entries</button>
-
+        <button id="bttnMostDays" class="isActive"> Artists with Most Streaks</button>
         <button id="bttnToggleMulti">Show Only Songs with Multiple</button>
+        <button id="bttnMostPlays">Artists with Most Plays</button>
+
+        <button id="bttnMostEntries">Artists with Most Days</button>
+
     </p>
     <div id="container">
         <table id="tableStreaks"></table>
@@ -63,7 +66,8 @@
         let bigListArtist = {
             raw: [],
             most: [],
-            longest: []
+            longest: [],
+            mostPlays: []
         }
         let alphaShowAll = true
 
@@ -71,6 +75,8 @@
         const bttnName = document.getElementById('bttnName')
         const bttnMostEntries = document.getElementById('bttnMostEntries')
         const bttnMostDays = document.getElementById('bttnMostDays')
+        const bttnMostPlays = document.getElementById('bttnMostPlays')
+
 
         const bttnToggleMulti = document.getElementById('bttnToggleMulti')
 
@@ -85,6 +91,7 @@
             bttnName.classList.remove('isActive')
             bttnMostEntries.classList.remove('isActive')
             bttnMostDays.classList.remove('isActive')
+            bttnMostPlays.classList.remove('isActive')
             sortTable(true)
         })
 
@@ -96,6 +103,7 @@
             bttnName.classList.add('isActive')
             bttnMostEntries.classList.remove('isActive')
             bttnMostDays.classList.remove('isActive')
+            bttnMostPlays.classList.remove('isActive')
             sortTable(false)
 
 
@@ -109,8 +117,9 @@
             bttnName.classList.remove('isActive')
             bttnMostEntries.classList.add('isActive')
             bttnMostDays.classList.remove('isActive')
+            bttnMostPlays.classList.remove('isActive')
 
-            mostEntries(false)
+            mostEntries('longest')
 
 
         })
@@ -123,10 +132,29 @@
             bttnName.classList.remove('isActive')
             bttnMostEntries.classList.remove('isActive')
             bttnMostDays.classList.add('isActive')
-            mostEntries(true)
+            bttnMostPlays.classList.remove('isActive')
+            mostEntries('most')
 
 
         })
+
+        bttnMostPlays.addEventListener('click', (e) => {
+            // bigList.sort((a, b) => b[0][0] - a[0][0]);
+            // console.log(bigList)
+
+            bttnStreaks.classList.remove('isActive')
+            bttnName.classList.remove('isActive')
+            bttnMostEntries.classList.remove('isActive')
+            bttnMostDays.classList.remove('isActive')
+            bttnMostPlays.classList.add('isActive')
+
+
+            mostEntries('mostPlays')
+
+
+        })
+
+
 
 
         bttnToggleMulti.addEventListener('click', (e) => {
@@ -166,7 +194,7 @@
             container.innerHTML = ''
 
             let tableStreaks = document.createElement('table')
-            tableStreaks.innerHTML = '<tr><th>Song</th><th>Streak</th><th>Start Date</th><th>End Date</th></tr>'
+            tableStreaks.innerHTML = '<tr><th>Song</th><th>Play Count</th><th>Rating</th><th>Streak</th><th>Start Date</th><th>End Date</th></tr>'
 
 
 
@@ -196,9 +224,16 @@
                     }
                 }
 
-
-
                 tr.appendChild(td)
+
+
+                const td2 = document.createElement('td')
+                td2.textContent = bigList[list][i][0]['playcount']
+                tr.appendChild(td2)
+
+                const td3 = document.createElement('td')
+                td3.textContent = `${bigList[list][i][0]['rating'] / 100 * 5} Stars`
+                tr.appendChild(td3)
 
                 // console.log(bigList[i])
 
@@ -225,29 +260,50 @@
 
             let tableStreaks = document.createElement('table')
 
-            const list = (flag) ? 'longest' : 'most'
-
-            tableStreaks.innerHTML = '<tr><th>Artist</th><th>Entries</th><th>Total Days</th></tr>'
 
 
+            tableStreaks.innerHTML = '<tr><th>Artist</th><th>Dates</th><th>Time Span</th><th>Total Plays</th><th>Total Streaks</th><th>Total Days</th></tr>'
 
-            for (var i = 0; i < bigListArtist[list].length; i++) {
+
+
+            for (var i = 0; i < bigListArtist[flag].length; i++) {
                 const tr = document.createElement('tr')
 
                 // console.log(bigListArtist[list][i])
 
                 let td = document.createElement('td')
-                td.textContent = bigListArtist[list][i][0]
+                td.textContent = bigListArtist[flag][i][0]
 
                 tr.appendChild(td)
 
+                let td5 = document.createElement('td')
+                td5.textContent = `${bigListArtist[flag][i][4]} - ${bigListArtist[flag][i][5]}`
+
+                tr.appendChild(td5)
+
+                const date1 = new Date(bigListArtist[flag][i][4])
+                const date2 = new Date(bigListArtist[flag][i][5])
+
+                let td6 = document.createElement('td')
+                td6.textContent = getRelativeTimeSpan(bigListArtist[flag][i][4], bigListArtist[flag][i][5])
+
+                tr.appendChild(td6)
+
+
+                let td4 = document.createElement('td')
+                td4.textContent = bigListArtist[flag][i][3]
+
+                tr.appendChild(td4)
+
+
+
                 let td2 = document.createElement('td')
-                td2.textContent = bigListArtist[list][i][1]
+                td2.textContent = bigListArtist[flag][i][1]
 
                 tr.appendChild(td2)
 
                 let td3 = document.createElement('td')
-                td3.textContent = bigListArtist[list][i][2]
+                td3.textContent = bigListArtist[flag][i][2]
 
                 tr.appendChild(td3)
 
@@ -258,6 +314,31 @@
             await container.appendChild(tableStreaks)
 
         }
+
+        function getRelativeTimeSpan(unit1, unit2) {
+            const date1 = new Date(unit1);
+            const date2 = new Date(unit2);
+
+
+            const relative_ms = Math.abs(date2.getTime() - date1.getTime());
+
+            const hour = 1000 * 60 * 60
+            const day = 1000 * 60 * 60 * 24
+            const month = 1000 * 60 * 60 * 24 * 30
+            const year = 1000 * 60 * 60 * 24 * 30 * 12
+
+            if (relative_ms < day) {
+                return Math.floor(relative_ms / hour) + ' hours';
+            } else if (relative_ms < month) {
+                return Math.floor(relative_ms / day) + ' days'
+            } else if (relative_ms < year) {
+                return Math.floor(relative_ms / month) + ' months'
+            } else {
+                return Math.floor(relative_ms / year) + ' years'
+            }
+
+        }
+
 
         fetch(`/tracks?sort=pairedName`)
             .then(response => {
@@ -302,7 +383,11 @@
                     let label = {
                         artist: '',
                         name: '',
-                        pairedName: ''
+                        pairedName: '',
+                        rating: 0,
+                        playcount: 0,
+                        startDate: '3000-01-01',
+                        endDate: '1900-01-01'
                     }
 
                     if (plist.length > 1) {
@@ -312,11 +397,10 @@
 
                             // if (i === 15) console.log(track)
 
-                            label = {
-                                artist: track.artist,
-                                name: track.name,
-                                pairedName: `${track.artist} - ${track.name}`
-                            }
+                            // if (track.artist === 'NewJeans') { // && track.name === 'OMG') {
+                            //     console.log(track.playlistName)
+                            // }
+
 
 
 
@@ -361,6 +445,41 @@
                                 prevDate = new Date(track.playlistName)
                             }
 
+
+                            label.artist = track.artist
+                            label.name = track.name
+                            label.pairedName = `${track.artist} - ${track.name}`
+                            label.rating = track.rating
+                            label.playcount = Math.max(label.playcount, track.playcount)
+
+
+                            if (track.artist === 'NewJeans') { // && track.name === 'OMG') {}
+
+                                console.log(track.playlistName, label.startDate, label.endDate)
+                            }
+
+                            const sD = new Date(label.startDate)
+                            const eD = new Date(label.endDate)
+                            label.startDate = (sD.getTime() > date2.getTime()) ? track.playlistName : label.startDate
+                            label.endDate = (eD.getTime() < date2.getTime()) ? track.playlistName : label.endDate
+
+                            if (track.artist === 'NewJeans') { // && track.name === 'OMG') {
+
+                                // console.log(date2, sD, eD)
+                                if (sD.getTime() > date2.getTime()) {
+                                    console.log('this pl is older than the current start date - take the pl')
+                                } else {
+                                    console.log('pl is newer - keep this start')
+                                }
+                                if (eD.getTime() < date2.getTime()) {
+                                    console.log('this pl is newer than the current end date - take the pl')
+                                } else {
+                                    console.log('this pl is older - keep the end')
+                                }
+
+                                console.log(track.playlistName, label.startDate, label.endDate)
+                            }
+
                         }//tracks
 
                         for (var i = 0; i < streaks.length; i++) {
@@ -400,18 +519,33 @@
 
                     if (!artists[artist]) artists[artist] = {
                         entries: 0,
-                        days: 0
+                        days: 0,
+                        playcount: 0,
+                        startDate: '3000-01-01',
+                        endDate: '1900-01-01'
                     }
                     artists[artist]['entries']++
                     artists[artist]['days'] += iEntry[1][0]
+                    artists[artist]['playcount'] += iEntry[0]['playcount']
 
+
+                    const tSD = new Date(iEntry[0]['startDate'])
+                    const tED = new Date(iEntry[0]['startDate'])
+
+                    const cSD = new Date(artists[artist]['startDate'])
+                    const cED = new Date(artists[artist]['endDate'])
+                    artists[artist]['startDate'] = (tSD < cSD) ? iEntry[0]['startDate'] : artists[artist]['startDate']
+                    artists[artist]['endDate'] = (tED > cED) ? iEntry[0]['endDate'] : artists[artist]['endDate']
                 } // loop i 
 
                 for (artist in artists) {
                     bigListArtist['raw'].push([
                         artist,
                         artists[artist]['entries'],
-                        artists[artist]['days']
+                        artists[artist]['days'],
+                        artists[artist]['playcount'],
+                        artists[artist]['startDate'],
+                        artists[artist]['endDate']
                     ])
                 }
 
@@ -427,8 +561,15 @@
                 bigListArtist.most = a
 
 
+                a = JSON.parse(JSON.stringify(bigListArtist.raw));
+                a.sort((a, b) => b[3] - a[3]);
+
+                bigListArtist.mostPlays = a
+
+
+
                 console.log(bigListArtist)
-                sortTable(true)
+                mostEntries('most')
 
 
 

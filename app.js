@@ -141,7 +141,7 @@ app.post("/write", (req, res) => {
   const playlistName = req.body.playlistName;
 
   let sql =
-    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre,  rating, playcount,pairedName) VALUES ";
+    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre,  rating, playcount, pairedName) VALUES ";
 
   let keyedSong = "INSERT OR IGNORE INTO keyedSongs (pairedName) VALUES ";
 
