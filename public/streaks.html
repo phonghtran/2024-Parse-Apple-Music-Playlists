@@ -281,11 +281,10 @@
 
                 tr.appendChild(td5)
 
-                const date1 = new Date(bigListArtist[flag][i][4])
-                const date2 = new Date(bigListArtist[flag][i][5])
+
 
                 let td6 = document.createElement('td')
-                td6.textContent = getRelativeTimeSpan(bigListArtist[flag][i][4], bigListArtist[flag][i][5])
+                td6.textContent = bigListArtist[flag][i][6]
 
                 tr.appendChild(td6)
 
@@ -545,7 +544,9 @@
                         artists[artist]['days'],
                         artists[artist]['playcount'],
                         artists[artist]['startDate'],
-                        artists[artist]['endDate']
+                        artists[artist]['endDate'],
+                        getRelativeTimeSpan(artists[artist]['startDate'],
+                            artists[artist]['endDate'])
                     ])
                 }
 
