@@ -244,10 +244,13 @@
                                         const yPosition = targetPlaylist.offsetTop;
                                         const xPosition = targetPlaylist.offsetLeft;
 
-                                        window.scrollTo({
-                                            top: 0,
-                                            left: Math.max(0, xPosition - 96),
-                                        });
+                                        // window.scrollTo({
+                                        //     top: 0,
+                                        //     left: Math.max(0, xPosition - 96),
+                                        //     behavior: 'smooth'
+                                        // });
+
+                                        smoothScrollTo(Math.max(0, xPosition - 96));
 
 
                                     });
@@ -263,6 +266,34 @@
                         ;
                 }// fetch table
 
+
+                const smoothScrollTo = (targetPosition) => {
+                    const startPosition = window.pageXOffset;
+                    const distance = targetPosition - startPosition;
+                    let startTime = null;
+
+                    const duration = Math.abs(350 * (distance / 30000))
+
+                    const ease = (time, start, distance, duration) => {
+                        time /= duration / 2;
+                        if (time < 1) return (distance / 2) * time * time + start;
+                        time--;
+                        return (-distance / 2) * (time * (time - 2) - 1) + start;
+                    };
+
+                    const animation = (currentTime) => {
+                        if (startTime === null) startTime = currentTime;
+                        const timeElapsed = currentTime - startTime;
+                        const run = ease(timeElapsed, startPosition, distance, duration);
+                        window.scrollTo({
+                            top: 0,
+                            left: run
+                        });
+                        if (timeElapsed < duration) requestAnimationFrame(animation);
+                    };
+
+                    requestAnimationFrame(animation);
+                };
 
                 // hover 
 
