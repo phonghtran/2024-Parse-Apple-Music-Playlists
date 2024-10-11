@@ -10,9 +10,13 @@ const {
   getTrackInfo,
   getTracks,
   dropTables,
-  writeTables,
   debugTables,
+  addToDatabase,
 } = require("./handlers/db.handlers.js");
+const {
+  getXMLFiles,
+  getFileContents,
+} = require("./handlers/parse.handlers.js");
 
 // ******************************************
 // ******************************************
@@ -22,18 +26,6 @@ const {
 const bodyParser = require("body-parser");
 app.use(bodyParser.json({ limit: "50mb" }));
 app.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }));
-
-// ******************************************
-// ******************************************
-// Route to insert data into the database
-// ******************************************
-// ******************************************
-
-app.post("/write", (req, res) => {
-  console.log(req.body);
-  const params = req.body;
-  writeTables(req, res, params);
-});
 
 // ******************************************
 // ******************************************
@@ -89,24 +81,6 @@ app.get("/colord", (req, res) => {
   const params = req.query;
   getGenreColors(req, res, params);
 });
-// ******************************************
-// ******************************************
-// live refresh
-// ******************************************
-// ******************************************
-const livereload = require("livereload");
-const connectLiveReload = require("connect-livereload");
-
-const liveReloadServer = livereload.createServer();
-liveReloadServer.watch(__dirname + "/");
-
-app.use(connectLiveReload());
-
-liveReloadServer.server.once("connection", () => {
-  setTimeout(() => {
-    liveReloadServer.refresh("/");
-  }, 100);
-});
 
 // ******************************************
 // ******************************************
@@ -141,6 +115,10 @@ app.get("/playlists", (req, res) => {
 app.get("/genres", (req, res) => {
   res.render("pages/genres");
 });
+
+app.get("/rebuild", (req, res) => {
+  res.render("pages/rebuild");
+});
 // app.use("/", express.static(__dirname + "/public/")); // Serve files from 'public' folder as root directory
 
 // ******************************************
@@ -162,6 +140,40 @@ app.get("/run-script", (req, res) => {
       res.send(stdout);
     }
   );
+});
+
+app.get("/getXMLFiles", (req, res) => {
+  getXMLFiles(req, res);
+});
+
+app.get("/getFileContents", (req, res) => {
+  const params = req.query;
+  getFileContents(req, res, params);
+});
+
+app.post("/write2", (req, res) => {
+  const params = req.body;
+  // console.log(params);
+  addToDatabase(req, res, params);
+});
+
+// ******************************************
+// ******************************************
+// live refresh
+// ******************************************
+// ******************************************
+const livereload = require("livereload");
+const connectLiveReload = require("connect-livereload");
+
+const liveReloadServer = livereload.createServer();
+liveReloadServer.watch(__dirname + "/");
+
+app.use(connectLiveReload());
+
+liveReloadServer.server.once("connection", () => {
+  setTimeout(() => {
+    liveReloadServer.refresh("/");
+  }, 100);
 });
 
 // ******************************************

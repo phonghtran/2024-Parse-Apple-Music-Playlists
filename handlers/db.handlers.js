@@ -91,6 +91,7 @@ const getTracks = async (req, res, params) => {
   // console.log(sql);
 
   db.all(sql, [], (err, rows) => {
+    // console.log(rows, err);
     if (err) {
       return res.status(500).json({ error: err.message });
     }
@@ -98,76 +99,10 @@ const getTracks = async (req, res, params) => {
     if (rows.length > 0) {
       res.json(rows);
     } else {
-      return res.status(500).json({ error: "no rows" });
+      return res.json({ error: "no rows" });
     }
   });
 }; //gettracks
-
-// ******************************************
-// ******************************************
-// write tables
-// ******************************************
-// ******************************************
-const writeTables = (req, res, params) => {
-  const { tracks, playlistName } = params;
-
-  let sql =
-    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre,  rating, playcount, pairedName) VALUES ";
-
-  let keyedSong = "INSERT OR IGNORE INTO keyedSongs (pairedName) VALUES ";
-
-  let trackPosition = 1;
-  for (let i = 0; i < tracks.length; i++) {
-    const track = tracks[i];
-
-    if (i < 1) console.log(track);
-
-    let pairedName = `${track.Artist} - ${track.Name}`;
-    pairedName = pairedName
-      .toLowerCase()
-      .replace(/[^a-z0-9]/gi, "")
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "");
-
-    const rating = track.Rating ? track.Rating : 0;
-
-    sql += `("${playlistName}", "${trackPosition}", "${track.Artist}", "${track.Name}", "${track.Genre}",  ${rating}, ${track["Play Count"]}, "${pairedName}"), `;
-
-    keyedSong += `("${pairedName}"), `;
-
-    trackPosition++;
-  }
-
-  sql = sql.slice(0, -2);
-  keyedSong = keyedSong.slice(0, -2);
-
-  console.log(playlistName);
-  //   console.log(sql);
-  //   console.log(keyedSong);
-
-  db.serialize(() => {
-    // test if these work
-    // db.run("DROP TABLE IF EXISTS tracks");
-    // db.run("DROP TABLE IF EXISTS keyedSongs");
-
-    db.run(
-      "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, rating INTEGER, playcount INTEGER, pairedName TEXT)"
-    );
-
-    db.run(
-      "CREATE TABLE IF NOT EXISTS keyedSongs (ksid INTEGER PRIMARY KEY, pairedName TEXT UNIQUE)"
-    );
-
-    db.run(keyedSong, function (err) {});
-
-    db.run(sql, function (err) {
-      if (err) {
-        return res.status(500).send("Failed to insert tracks");
-      }
-      res.status(200).send(`Inserted ${this.changes} tracks`);
-    });
-  });
-}; //writeTables
 
 // ******************************************
 // ******************************************
@@ -177,8 +112,17 @@ const writeTables = (req, res, params) => {
 const dropTables = (req, res, params) => {
   db.serialize(() => {
     // test if these work
+
     db.run("DROP TABLE IF EXISTS tracks");
     db.run("DROP TABLE IF EXISTS keyedSongs");
+
+    db.run(
+      "CREATE TABLE IF NOT EXISTS tracks (tid INTEGER PRIMARY KEY, playlistName TEXT, trackPosition INTEGER, artist TEXT, name TEXT, genre TEXT, rating INTEGER, playcount INTEGER, pairedName TEXT)"
+    );
+
+    db.run(
+      "CREATE TABLE IF NOT EXISTS keyedSongs (ksid INTEGER PRIMARY KEY, pairedName TEXT UNIQUE)"
+    );
   });
 }; //dropTables
 
@@ -199,10 +143,76 @@ const debugTables = (req, res, params) => {
   });
 }; //debugTables
 
+// ******************************************
+// ******************************************
+// write tables
+// ******************************************
+// ******************************************
+const addToDatabase = (req, res, params) => {
+  const { tracks, playlistName } = params;
+
+  let sql =
+    "INSERT INTO tracks (playlistName, trackPosition, artist, name, genre,  rating, playcount, pairedName) VALUES ";
+
+  let keyedSong = "INSERT OR IGNORE INTO keyedSongs (pairedName) VALUES ";
+
+  for (let i = 0; i < tracks.length; i++) {
+    const track = tracks[i];
+
+    // if (i < 1)
+    console.log(track);
+
+    let artist = track.Artist ? track.Artist : "";
+    let name = track.Name ? track.Name : "";
+
+    artist = artist.replace(/"/g, '""');
+    name = name.replace(/"/g, '""');
+
+    let pairedName = `${track.Artist} - ${track.Name}`;
+    pairedName = pairedName
+      .toLowerCase()
+      .replace(/[^a-z0-9]/gi, "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+
+    const playcount = track["Play Count"] ? track["Play Count"] : 0;
+    const rating = track.Rating ? track.Rating : 0;
+
+    sql += `("${playlistName}", "${i}", "${artist}", "${name}", "${track.Genre}",  ${rating}, ${playcount}, "${pairedName}"), `;
+
+    keyedSong += `("${pairedName}"), `;
+  }
+
+  sql = sql.slice(0, -2);
+  keyedSong = keyedSong.slice(0, -2);
+
+  sql = sql.replace(/'/g, "''");
+  keyedSong = keyedSong.replace(/'/g, "''");
+
+  // console.log(playlistName);
+  console.log(sql);
+  // console.log(keyedSong);
+
+  db.serialize(() => {
+    db.run(keyedSong, function (err) {
+      if (err) {
+        return res.status(500).send("Failed to insert keyedsongs");
+      }
+    });
+
+    db.run(sql, function (err) {
+      if (err) {
+        return res.status(500).send("Failed to insert tracks");
+      }
+      res.status(200).send(`Inserted ${this.changes} tracks`);
+    });
+  });
+}; //addToDatabase
+
 module.exports = {
   getTrackInfo,
   getTracks,
   dropTables,
-  writeTables,
   debugTables,
+  addToDatabase,
 };

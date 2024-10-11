@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <title>My Express App</title>
+<%- include ('../partials/head.ejs') %>
 
     <style>
         table {
@@ -23,137 +18,137 @@
             padding: 1rem;
         }
     </style>
-</head>
+    </head>
 
-<body>
-    <h1>FAQ</h1>
-
-    <%- include ('../partials/nav.ejs') %>
-
-        <p>"npm run dev" // "rs" to restart server live</p>
+    <body>
 
 
-        <h1>Table</h1>
+        <%- include ('../partials/nav.ejs') %>
 
-        <p><button id="bttnSortPlaylist">Sort by Playlist</button>
-            <button id="bttnSortArtist">Sort by Artist</button>
-            <button id="bttnSortName">Sort by Song Name</button>
-            <button id="bttnGenre">Sort by Genre</button>
-            <button id="bttnSortDB">Sort by DB</button>
-            <button id="bttnPairedName">Sort by Paired Name</button>
-        </p>
+            <p>"npm run dev" // "rs" to restart server live</p>
 
 
-        <p id="tableCount"></p>
-        <table id="tracks"></table>
+            <h1>Table</h1>
 
-        <script>
-            console.log('fetching')
-
-            let tablecount = 0;
-            let sortType = 'playlist'
-            fetchTable()
-
-
-            const bttnSortPlaylist = document.getElementById('bttnSortPlaylist');
-            const bttnSortArtist = document.getElementById('bttnSortArtist');
-            const bttnSortDB = document.getElementById('bttnSortDB');
-            const bttnSortName = document.getElementById('bttnSortName');
-            const bttnGenre = document.getElementById('bttnGenre');
-            const bttnPairedName = document.getElementById('bttnPairedName');
+            <p><button id="bttnSortPlaylist">Sort by Playlist</button>
+                <button id="bttnSortArtist">Sort by Artist</button>
+                <button id="bttnSortName">Sort by Song Name</button>
+                <button id="bttnGenre">Sort by Genre</button>
+                <button id="bttnSortDB">Sort by DB</button>
+                <button id="bttnPairedName">Sort by Paired Name</button>
+            </p>
 
 
-            bttnSortPlaylist.addEventListener('click', function () {
-                sortType = 'playlist'
+            <p id="tableCount"></p>
+            <table id="tracks"></table>
+
+            <script>
+                console.log('fetching')
+
+                let tablecount = 0;
+                let sortType = 'playlist'
                 fetchTable()
-            });
-            bttnSortArtist.addEventListener('click', function () {
-                sortType = 'artist'
-                fetchTable()
-            });
-
-            bttnSortDB.addEventListener('click', function () {
-                sortType = 'db'
-                fetchTable()
-            });
-
-            bttnSortName.addEventListener('click', function () {
-                sortType = 'name'
-                fetchTable()
-            });
-
-            bttnGenre.addEventListener('click', function () {
-                sortType = 'genre'
-
-                fetchTable()
-            });
-
-            bttnPairedName.addEventListener('click', function () {
-                sortType = 'pairedName'
-
-                fetchTable()
-            });
 
 
+                const bttnSortPlaylist = document.getElementById('bttnSortPlaylist');
+                const bttnSortArtist = document.getElementById('bttnSortArtist');
+                const bttnSortDB = document.getElementById('bttnSortDB');
+                const bttnSortName = document.getElementById('bttnSortName');
+                const bttnGenre = document.getElementById('bttnGenre');
+                const bttnPairedName = document.getElementById('bttnPairedName');
 
-            function fetchTable() {
 
-                fetch(`/tracks?sort=${sortType}`)
-                    .then(response => {
-                        if (response.ok) { // Check if response is OK (200-299)
-                            return response.json(); // If true, return the JSON data
-                        } else {
-                            throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
-                        }
+                bttnSortPlaylist.addEventListener('click', function () {
+                    sortType = 'playlist'
+                    fetchTable()
+                });
+                bttnSortArtist.addEventListener('click', function () {
+                    sortType = 'artist'
+                    fetchTable()
+                });
 
-                    })
-                    .then(data => {
-                        const tracksDiv = document.getElementById('tracks');
-                        tracksDiv.innerHTML = ''
-                        console.log(data)
-                        const trackRow = document.createElement('tr');
-                        for (label in data[0]) {
-                            const t1 = document.createElement('th');
-                            t1.textContent = label
-                            trackRow.appendChild(t1)
-                        }
-                        tracksDiv.appendChild(trackRow);
+                bttnSortDB.addEventListener('click', function () {
+                    sortType = 'db'
+                    fetchTable()
+                });
 
-                        // tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
-                        rows = Object.keys(data).length
+                bttnSortName.addEventListener('click', function () {
+                    sortType = 'name'
+                    fetchTable()
+                });
 
-                        const tableCount = document.getElementById('tableCount')
-                        // console.log(rows)
-                        tableCount.innerHTML = `${rows} rows`
+                bttnGenre.addEventListener('click', function () {
+                    sortType = 'genre'
 
-                        // let debug = 0
-                        data.forEach(track => {
-                            // console.log(track)
-                            const trackRow = document.createElement('tr');
+                    fetchTable()
+                });
 
-                            // if (debug === 0) {
-                            //     debug++
-                            //     console.log(track)
-                            // }
+                bttnPairedName.addEventListener('click', function () {
+                    sortType = 'pairedName'
 
-                            for (columns in track) {
-                                const column = track[columns]
+                    fetchTable()
+                });
 
-                                const t1 = document.createElement('td');
-                                t1.textContent = column
-                                trackRow.appendChild(t1)
+
+
+                function fetchTable() {
+
+                    fetch(`/tracks?sort=${sortType}`)
+                        .then(response => {
+                            if (response.ok) { // Check if response is OK (200-299)
+                                return response.json(); // If true, return the JSON data
+                            } else {
+                                throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
                             }
 
-
-
-
+                        })
+                        .then(data => {
+                            const tracksDiv = document.getElementById('tracks');
+                            tracksDiv.innerHTML = ''
+                            console.log(data)
+                            const trackRow = document.createElement('tr');
+                            for (label in data[0]) {
+                                const t1 = document.createElement('th');
+                                t1.textContent = label
+                                trackRow.appendChild(t1)
+                            }
                             tracksDiv.appendChild(trackRow);
-                        });
-                    })
-                    .catch(error => console.error('Error fetching tracks:', error))
-                    ;
-            }// fetch table
-        </script>
-</body>
 
-</html>
+                            // tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
+                            rows = Object.keys(data).length
+
+                            const tableCount = document.getElementById('tableCount')
+                            // console.log(rows)
+                            tableCount.innerHTML = `${rows} rows`
+
+                            // let debug = 0
+                            data.forEach(track => {
+                                // console.log(track)
+                                const trackRow = document.createElement('tr');
+
+                                // if (debug === 0) {
+                                //     debug++
+                                //     console.log(track)
+                                // }
+
+                                for (columns in track) {
+                                    const column = track[columns]
+
+                                    const t1 = document.createElement('td');
+                                    t1.textContent = column
+                                    trackRow.appendChild(t1)
+                                }
+
+
+
+
+                                tracksDiv.appendChild(trackRow);
+                            });
+                        })
+                        .catch(error => console.error('Error fetching tracks:', error))
+                        ;
+                }// fetch table
+            </script>
+    </body>
+
+    </html>

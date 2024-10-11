@@ -1,0 +1,205 @@
+<%- include ('../partials/head.ejs') %>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+    </style>
+    </head>
+
+    <body>
+        <%- include ('../partials/nav.ejs') %>
+            <p>
+                <button id="bttnRunParse">Run All</button>
+                <button id="bttnRunOnce">Run Once</button>
+            </p>
+
+            <p>
+                <button id="bttnDropTable">Drop Table</button>
+            </p>
+
+            <div id="container">
+
+                <ul id="files"></ul>
+            </div>
+
+            <script>
+                const bttnDropTable = document.getElementById('bttnDropTable');
+                const bttnRunParse = document.getElementById('bttnRunParse');
+                const bttnRunOnce = document.getElementById('bttnRunOnce');
+
+
+                let xmlFiles = []
+                let currentPlaylists = []
+                let newXMLFiles = []
+                let fileContents = []
+
+                const getXMLfiles = async () => {
+                    const response = await fetch('/getXMLFiles'); // Replace with your URL
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    return await response.json(); // Parse JSON from response
+                };
+
+                const getCurrentPlaylists = async () => {
+                    const response = await fetch('/tracks?sort=playlistOnly'); // Replace with your URL
+                    if (!response.ok) throw new Error('Network response was not ok', response);
+
+                    console.log(response)
+                    return await response.json(); // Parse JSON from response
+                };
+
+                const getFileContents = async (file) => {
+                    const response = await fetch(`/getFileContents?file=${file}`); // Replace with your URL
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    return await response.json(); // Parse JSON from response
+                };
+
+                const addPlaylist = async (playlist) => {
+                    const response = await fetch(`/write2`, {
+                        method: 'POST', // *GET, POST, PUT, DELETE, etc.
+                        headers: {
+                            'Content-Type': 'application/json' // Adjust headers as needed
+                        },
+                        body: JSON.stringify(playlist) // Convert data to JSON string
+                    }); // Replace with your URL
+
+                    if (!response.ok) {
+                        const errorText = await response.text(); // Get error message text
+                        throw new Error(`write 2: ${errorText}`); // Include the error message in the Error object
+                    }
+
+
+                    return await response; // Parse JSON from response
+                };
+
+
+                const processAllData = async (incomingLimit) => {
+                    try {
+                        [xmlFiles, currentPlaylists] = await Promise.all([getXMLfiles(), getCurrentPlaylists()]);
+
+                    } catch (error) {
+                        console.error('Error fetching data:', error);
+                    }
+
+                    console.log('Data 1:', xmlFiles);
+                    console.log('Data 2:', currentPlaylists);
+
+
+
+                    for (var i = 0; i < xmlFiles.length; i++) {
+                        if (currentPlaylists.length > 0) {
+                            let isNew = true
+
+                            for (var j = 0; j < currentPlaylists.length; j++) {
+
+                                if (xmlFiles[i] === currentPlaylists[j]['playlistName']) {
+                                    // console.log('not new')
+                                    isNew = false;
+                                    break;
+                                } // check
+
+                            } // current currentPlaylists
+
+                            if (isNew === true) {
+                                // console.log('is new ', xmlFiles[i])
+                                newXMLFiles.push(xmlFiles[i])
+                            } // is new verified
+                        } else {
+                            newXMLFiles = xmlFiles
+                        }
+
+
+
+                    } // xmlFiles loop
+
+                    console.log(newXMLFiles)
+                    const limit = (incomingLimit > 0) ? incomingLimit : newXMLFiles.length
+
+                    for (var i = 0; i < newXMLFiles.length; i++) {
+                        const li = document.createElement('li')
+                        li.id = newXMLFiles[i]
+                        li.textContent = newXMLFiles[i]
+
+                        const files = document.getElementById('files')
+                        files.appendChild(li)
+
+
+                        try {
+                            [fileContents] = await Promise.all([getFileContents(newXMLFiles[i])]);
+
+                        } catch (error) {
+                            console.error('Error fetching data:', error);
+                        }
+
+
+                        // console.log(fileContents);
+
+                        // console.log(jsonObj["Tracks"]);
+
+                        let orderedJSON = [];
+                        for (elem in fileContents["Playlists"][0]["Playlist Items"]) {
+                            const id =
+                                fileContents["Playlists"][0]["Playlist Items"][elem]["Track ID"];
+
+                            // console.log(id);
+                            orderedJSON.push(fileContents["Tracks"][id]);
+                        }
+
+
+
+                        const playlist = {
+                            playlistName: newXMLFiles[i],
+                            tracks: orderedJSON,
+                        };
+
+                        console.log(playlist, 'prepped obj')
+
+                        try {
+                            await Promise.all([addPlaylist(playlist)]);
+
+                        } catch (error) {
+                            console.error('Error fetching data:', error);
+                        }
+
+                        if (i > limit) break
+
+                    } // loop new pl 
+
+
+                }; // process all data
+
+
+
+                function dropTable() {
+                    console.log('dropping')
+                    fetch('/drop')
+                        .then(response => console.log(response))
+                        .catch(error => console.error('Error dropping table', error))
+                        ;
+                }
+
+
+                bttnRunParse.addEventListener('click', function () {
+                    // Call the function to process all data
+                    processAllData(-1);
+
+                });
+                bttnRunOnce.addEventListener('click', function () {
+                    // Call the function to process all data
+                    processAllData(1);
+
+                });
+
+
+
+
+                bttnDropTable.addEventListener('click', function () {
+
+                    dropTable();
+
+
+                });
+            </script>
+    </body>
+
+    </html>
