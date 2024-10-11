@@ -99,7 +99,7 @@
 
         async function fetchTable() {
 
-            const render = await fetch(`/genresgraph`)
+            const render = await fetch(`/tracks?sort=genresgraph`)
                 .then(response => {
                     if (response.ok) { // Check if response is OK (200-299)
                         return response.json(); // If true, return the JSON data
