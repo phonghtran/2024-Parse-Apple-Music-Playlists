@@ -39,7 +39,7 @@ const getTrackInfo = (req, res, params) => {
 // get tables
 // ******************************************
 // ******************************************
-const getTracks = (req, res, params) => {
+const getTracks = async (req, res, params) => {
   // console.log(req.query.sort);
 
   //   const sortType = req.query.sort;
@@ -81,6 +81,10 @@ const getTracks = (req, res, params) => {
     case "genresgraph":
       sql =
         "SELECT playlistName, genre, COUNT(genre) as count FROM tracks  GROUP BY playlistName,genre ";
+      break;
+
+    case "playlistOnly":
+      sql = "SELECT playlistName FROM tracks GROUP BY playlistName";
       break;
   }
 

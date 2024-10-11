@@ -30,6 +30,7 @@ app.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }));
 // ******************************************
 
 app.post("/write", (req, res) => {
+  console.log(req.body);
   const params = req.body;
   writeTables(req, res, params);
 });
