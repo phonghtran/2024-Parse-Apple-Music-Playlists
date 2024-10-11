@@ -133,8 +133,8 @@ app.get("/streaks", (req, res) => {
   res.render("pages/streaks");
 });
 
-app.get("/visualize", (req, res) => {
-  res.render("pages/visualize");
+app.get("/playlists", (req, res) => {
+  res.render("pages/playlists");
 });
 
 app.get("/genres", (req, res) => {

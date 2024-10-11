@@ -1,10 +1,6 @@
 <%- include ('../partials/head.ejs') %>
 
     <style>
-        #container {
-            position: relative;
-        }
-
         .panel {
             background-color: #eee;
             height: 100vh;
@@ -20,18 +16,15 @@
             display: none;
         }
 
-        #playlists {
-            display: flex;
-            flex-direction: row;
-            gap: 1rem;
-            margin-left: 6rem;
-            z-index: 1;
+        #container {
+            position: relative;
         }
+
 
         #navContainer {
 
             left: 0;
-            position: absolute;
+            position: fixed;
 
             width: 5.5rem;
 
@@ -48,8 +41,6 @@
 
             width: 4.5rem;
         }
-
-
 
         #nav li a {
             background-color: lightgray;
@@ -69,16 +60,48 @@
             padding: 0;
         }
 
+
+
+        #playlists {
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+            margin: 2rem 0 0 7rem;
+            z-index: 1;
+        }
+
+        .playlist {
+            background-color: var(--colorSecondary1);
+            color: var(--colorBackground);
+            display: flex;
+            flex-direction: column;
+            padding: 1rem 0;
+        }
+
+        .playlist .title {
+            text-align: center;
+        }
+
+
+        .playlist ul {
+            background-color: var(--colorSecondary2);
+            flex-grow: 1;
+        }
+
         #playlists li {
-            border: 1px solid black;
+
             cursor: pointer;
             margin: 0;
             padding: 1rem;
             width: 32rem;
         }
 
+        #playlists li:hover {
+            background-color: var(--colorAccent2);
+        }
+
         #playlists li.highlight {
-            background-color: yellow;
+            background-color: var(--colorAccent1);
         }
 
         #panel {
@@ -127,6 +150,15 @@
                     console.log(e.currentTarget)
                     const panel = document.getElementById('panel')
                     panel.classList.add('hidden')
+
+                    const elements = document.querySelectorAll('li'); // targets all 
+
+                    for (const element of elements) {
+                        element.classList.remove('highlight');
+
+
+
+                    } // higlight loop
                 })
 
 
@@ -167,14 +199,21 @@
                                     trackRow.setAttribute('data-ksid', track.ksid);
                                     trackRow.setAttribute('data-tid', track.tid);
                                     trackRow.setAttribute('data-pairedName', track.pairedName);
-                                    trackRow.addEventListener('click', highlightTrack);
+                                    trackRow.addEventListener('mouseenter', highlightTrack);
+                                    trackRow.addEventListener('click', getTrackInfo);
 
                                     list.appendChild(trackRow);
                                 } // track loop
 
                                 const playlist = document.createElement('div')
                                 playlist.id = pl
-                                playlist.textContent = pl
+                                playlist.classList.add('playlist')
+
+                                const h3 = document.createElement('h1')
+                                h3.classList.add('title')
+                                h3.textContent = pl
+                                playlist.appendChild(h3)
+
                                 playlist.appendChild(list)
                                 playlists.appendChild(playlist)
 
@@ -223,6 +262,31 @@
 
 
                 function highlightTrack(event) {
+                    const panel = document.getElementById('panel')
+
+                    if (panel.classList.contains('hidden')) {
+                        const li = event.currentTarget
+                        const ksid = li.getAttribute('data-ksid');
+                        // console.log(ksid)
+
+                        const elements = document.querySelectorAll('li'); // targets all 
+
+                        for (const element of elements) {
+                            element.classList.remove('highlight');
+
+                            if (element.dataset.ksid === ksid) {
+                                element.classList.add('highlight');
+                            }
+
+                        } // higlight loop
+                    } //panel is closed
+
+
+
+
+                } // highlight
+
+                function getTrackInfo(event) {
                     const li = event.currentTarget
                     const ksid = li.getAttribute('data-ksid');
                     // console.log(ksid)
@@ -330,7 +394,7 @@
                         .catch(error => console.error('Error fetching info about track:', error))
                         ;
 
-                }
+                } // highlight
             </script>
     </body>
 

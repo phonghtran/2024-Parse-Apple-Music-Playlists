@@ -26,6 +26,16 @@ input {
   font-style: normal;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: var(--weightBold);
+  line-height: 1.125rem;
+}
+
 #navPrimary,
 #navSecondary {
   background-color: var(--colorPrimary);
