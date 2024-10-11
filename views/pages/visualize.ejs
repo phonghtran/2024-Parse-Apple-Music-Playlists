@@ -1,0 +1,337 @@
+<%- include ('../partials/head.ejs') %>
+
+    <style>
+        #container {
+            position: relative;
+        }
+
+        .panel {
+            background-color: #eee;
+            height: 100vh;
+            overflow-y: scroll;
+            overflow-x: hidden;
+            position: fixed;
+            scrollbar-width: thin;
+            top: 0;
+            z-index: 2;
+        }
+
+        .panel.hidden {
+            display: none;
+        }
+
+        #playlists {
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+            margin-left: 6rem;
+            z-index: 1;
+        }
+
+        #navContainer {
+
+            left: 0;
+            position: absolute;
+
+            width: 5.5rem;
+
+        }
+
+        #nav {
+
+            display: flex;
+            gap: .5rem;
+            flex-direction: column;
+            left: 0;
+            margin: 1rem .5rem;
+
+
+            width: 4.5rem;
+        }
+
+
+
+        #nav li a {
+            background-color: lightgray;
+            border-radius: .25rem;
+            display: block;
+            padding: 1rem;
+            /* width: 4rem; */
+        }
+
+        #nav li a:hover {
+            background-color: yellow;
+        }
+
+        ul {
+            /* float: left; */
+            list-style: none;
+            padding: 0;
+        }
+
+        #playlists li {
+            border: 1px solid black;
+            cursor: pointer;
+            margin: 0;
+            padding: 1rem;
+            width: 32rem;
+        }
+
+        #playlists li.highlight {
+            background-color: yellow;
+        }
+
+        #panel {
+
+            border-left: 1px solid black;
+            padding: 1rem;
+            right: 0;
+
+            width: 32rem;
+
+        }
+    </style>
+    </head>
+
+    <body>
+        <%- include ('../partials/nav.ejs') %>
+
+
+
+            <div id="navContainer" class="panel">
+                <ul id="nav">
+
+                </ul>
+            </div>
+
+
+
+            <div id="playlists"></div>
+
+
+            <div id="panel" class="panel hidden">
+                <button id="panelClose">Close Panel</button>
+                <h2 id="panelHeader"></h2>
+                <ul id="panelDate"></ul>
+                <ul id="panelListing"></ul>
+            </div>
+
+
+            <script>
+
+
+                fetchTable()
+
+                const panelClose = document.getElementById('panelClose')
+                panelClose.addEventListener('click', (e) => {
+                    console.log(e.currentTarget)
+                    const panel = document.getElementById('panel')
+                    panel.classList.add('hidden')
+                })
+
+
+
+                function fetchTable() {
+
+                    fetch(`/tracks?sort=playlistRecent`)
+                        .then(response => {
+                            if (response.ok) { // Check if response is OK (200-299)
+                                return response.json(); // If true, return the JSON data
+                            } else {
+                                throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                            }
+
+                        })
+                        .then(data => {
+                            const playlists = document.getElementById('playlists');
+                            const nav = document.getElementById('nav');
+
+                            let grouped = data.reduce((acc, track) => {
+                                const playlistName = track.playlistName;
+                                if (!acc[playlistName]) acc[playlistName] = [];
+                                acc[playlistName].push(track);
+                                return acc;
+                            }, {});
+
+
+                            let prevYear = ''
+                            for (pl in grouped) {
+                                const plist = grouped[pl]
+
+                                let list = document.createElement('ul')
+                                for (var i = 0; i < plist.length; i++) {
+                                    const track = plist[i]
+
+                                    const trackRow = document.createElement('li');
+                                    trackRow.textContent = `${track.artist} - ${track.name}`
+                                    trackRow.setAttribute('data-ksid', track.ksid);
+                                    trackRow.setAttribute('data-tid', track.tid);
+                                    trackRow.setAttribute('data-pairedName', track.pairedName);
+                                    trackRow.addEventListener('click', highlightTrack);
+
+                                    list.appendChild(trackRow);
+                                } // track loop
+
+                                const playlist = document.createElement('div')
+                                playlist.id = pl
+                                playlist.textContent = pl
+                                playlist.appendChild(list)
+                                playlists.appendChild(playlist)
+
+                                if (pl.slice(0, 4) !== prevYear) {
+                                    prevYear = pl.slice(0, 4)
+
+                                    // create li item
+                                    const navItem = document.createElement('li')
+
+                                    // prep the link
+                                    const link = document.createElement('a');
+                                    link.textContent = prevYear;
+                                    link.href = `#${pl}`;
+                                    link.addEventListener('click', (e) => {
+                                        e.preventDefault();
+                                        const id = e.currentTarget.getAttribute('href').replace('#', '');
+
+                                        const targetPlaylist = document.getElementById(id)
+
+                                        console.log(id, targetPlaylist)
+
+                                        const yPosition = targetPlaylist.offsetTop;
+                                        const xPosition = targetPlaylist.offsetLeft;
+
+                                        window.scrollTo({
+                                            top: 0,
+                                            left: Math.max(0, xPosition - 96),
+                                        });
+
+
+                                    });
+
+                                    navItem.appendChild(link)
+                                    nav.appendChild(navItem)
+                                } // new year detected
+
+                            } // pl grouped loop
+
+                        })
+                        .catch(error => console.error('Error fetching tracks:', error))
+                        ;
+                }// fetch table
+
+
+                // hover 
+
+
+                function highlightTrack(event) {
+                    const li = event.currentTarget
+                    const ksid = li.getAttribute('data-ksid');
+                    // console.log(ksid)
+
+                    const elements = document.querySelectorAll('li'); // targets all 
+
+                    for (const element of elements) {
+                        element.classList.remove('highlight');
+
+                        if (element.dataset.ksid === ksid) {
+                            element.classList.add('highlight');
+                        }
+
+                    } // higlight loop
+
+                    console.log(li.dataset.pairedname)
+                    fetch(`/getTrackInfo?pairedName=${encodeURIComponent(li.dataset.pairedname)}`)
+                        .then(response => {
+                            return response.json()
+
+                        })
+                        .then(data => {
+                            const panel = document.getElementById('panel')
+                            const panelListing = document.getElementById('panelListing')
+                            const panelHeader = document.getElementById('panelHeader')
+                            const panelDate = document.getElementById('panelDate')
+
+
+                            panelListing.innerHTML = ''
+                            panelHeader.innerHTML = ''
+                            panelDate.innerHTML = ''
+
+                            let date1 = ''
+                            let prevDate = ''
+                            let streaks = []
+                            let streakOffset = 0;
+
+                            streaks[streakOffset] = ['', '', '']
+                            console.log(data)
+                            if (data) {
+                                data.forEach(track => {
+                                    const li = document.createElement('li')
+                                    li.textContent = track.playlistName
+
+                                    panelListing.appendChild(li)
+                                    // console.log(track)
+
+                                    panelHeader.innerHTML = `${track.artist} - ${track.name}`
+
+
+
+                                    if (date1 === '') {
+                                        date1 = new Date(track.playlistName)
+                                        prevDate = new Date(track.playlistName)
+
+                                        streaks[streakOffset][1] = track.playlistName
+                                    }
+                                    const date2 = new Date(track.playlistName);
+
+                                    const relative_ms = Math.abs(date2.getTime() - prevDate.getTime());
+                                    const relative_days = Math.floor(relative_ms / (1000 * 60 * 60 * 24));
+
+                                    const milliseconds = Math.abs(date2.getTime() - date1.getTime());
+                                    const days = Math.floor(milliseconds / (1000 * 60 * 60 * 24));
+
+                                    // console.log(relative_days, days)
+
+
+
+
+                                    if (relative_days > 21) {
+                                        streakOffset++;
+                                        streaks[streakOffset] = ['', track.playlistName, '']
+                                        date1 = date2
+                                        prevDate = date2
+
+                                    } else {
+                                        streaks[streakOffset][0] = days
+                                        streaks[streakOffset][2] = track.playlistName
+
+                                        prevDate = new Date(track.playlistName)
+                                    }
+
+
+
+                                }); // data for each
+
+                                // console.log(streaks)
+
+
+                                for (var i = 0; i < streaks.length; i++) {
+
+                                    if (streaks[i][0] > 0) {
+                                        const streakli = document.createElement('li')
+                                        streakli.textContent = `${streaks[i][0]} days (${streaks[i][2]} - ${streaks[i][1]})`
+
+                                        panelDate.appendChild(streakli)
+                                    }// more than 0
+
+                                } // streaks
+
+                                panel.classList.remove('hidden')
+                            } // if data
+                        }) // then 
+                        .catch(error => console.error('Error fetching info about track:', error))
+                        ;
+
+                }
+            </script>
+    </body>
+
+    </html>

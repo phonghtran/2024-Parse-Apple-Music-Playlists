@@ -1,0 +1,69 @@
+<%- include ('../partials/head.ejs') %>
+    <style>
+
+    </style>
+    </head>
+
+    <body>
+        <%- include ('../partials/nav.ejs') %>
+
+            <div style="background-color: #6c5ce7;width: 100px; height: 100px;"></div>
+            <div style="background-color:#8e24aa ;width: 100px; height: 100px;"></div>
+            <div style="background-color:#b57ae4 ;width: 100px; height: 100px;"></div>
+            <div style="background-color:#f7f5ff ;width: 100px; height: 100px;"></div>
+            <div style="background-color:#c4008d ;width: 100px; height: 100px;"></div>
+            <div style="background-color: #964b00;width: 100px; height: 100px;"></div>
+
+            <div id="container"></div>
+
+            <script>
+                const boxcontainer = document.getElementById('container')
+
+                fetchTable()
+
+
+                function fetchTable() {
+
+                    fetch(`/debugdbcall`)
+                        .then(response => {
+                            if (response.ok) { // Check if response is OK (200-299)
+                                return response.json(); // If true, return the JSON data
+                            } else {
+                                throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                            }
+
+                        })
+                        .then(data => {
+                            let arrTemp = []
+
+
+
+                            data.forEach(track => {
+                                // const elem = document.createElement('div')
+                                // elem.textContent = track.genre + ' - ' + track.count
+                                // boxcontainer.appendChild(elem)
+
+                                arrTemp.push([
+                                    track.genre, track.count
+                                ])
+                            })
+
+                            arrTemp.sort((a, b) => b[1] - a[1]);
+
+                            // console.log(arrTemp)
+
+                            for (var i = 0; i < arrTemp.length; i++) {
+                                const track = arrTemp[i]
+                                const elem = document.createElement('div')
+                                elem.textContent = track[0] + ' - ' + track[1]
+                                boxcontainer.appendChild(elem)
+                            }
+
+                        })
+                        .catch(error => console.error('Error fetching tracks:', error))
+                        ;
+                }// fetch table
+            </script>
+    </body>
+
+    </html>

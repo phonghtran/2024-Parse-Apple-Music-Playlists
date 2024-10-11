@@ -1,0 +1,93 @@
+:root {
+  --colorPrimary: #6c5ce7;
+  --colorSecondary1: #8e24aa;
+  --colorSecondary2: #b57ae4;
+  --colorBackground: #f7f5ff;
+  --colorAccent1: #c4008d;
+  --colorAccent2: #964b00;
+
+  --weightThin: 100;
+  --weightExtraLight: 200;
+  --weightLight: 300;
+  --weightRegular: 400;
+  --weightBold: 600;
+  --weightHeavy: 900;
+}
+body {
+  background-color: var(--colorBackground);
+  margin: 0;
+}
+
+body,
+button,
+input {
+  font-family: "Kanit", sans-serif;
+  font-weight: var(--weightExtraLight);
+  font-style: normal;
+}
+
+#navPrimary,
+#navSecondary {
+  background-color: var(--colorPrimary);
+  display: flex; /* or use flexbox to make it horizontal */
+  flex-direction: row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navSecondary {
+  background-color: var(--colorSecondary1);
+}
+
+/* Make each item display as a block, and add some padding for spacing */
+#navPrimary li {
+  margin-right: 1.5rem;
+  display: inline-block;
+}
+
+/* Add some basic styling for the text inside each list item */
+#navPrimary li a,
+#navSecondary button {
+  background-color: transparent;
+  border: 0;
+  color: var(--colorBackground);
+  cursor: pointer;
+  display: block;
+  font-size: 0.75rem;
+  padding: 0.875rem;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+#navPrimary li a:hover,
+#navSecondary button:hover {
+  background-color: var(--colorAccent1);
+}
+
+button.nav,
+#navPrimary li a {
+  font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid var(--colorSecondary1);
+  width: 100vw;
+}
+tr:nth-child(even) {
+  background-color: var(--colorSecondary2);
+}
+
+th {
+  font-weight: var(--weightBold);
+  text-align: left;
+}
+th,
+td {
+  border: 1px solid var(--colorSecondary1);
+  min-width: 6rem;
+  padding: 0.25rem 0.5rem;
+}

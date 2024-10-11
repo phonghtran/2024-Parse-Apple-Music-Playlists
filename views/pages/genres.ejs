@@ -1,0 +1,231 @@
+<%- include ('../partials/head.ejs') %>
+
+    <style>
+        .rowGenre {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .playlistName {}
+
+        .vizGenre {
+            background-color: #eee;
+            display: flex;
+            flex-direction: row;
+            flex-grow: 1;
+        }
+
+        .barViz {
+            flex-grow: 1;
+            font-size: 0.75rem;
+            overflow: hidden;
+        }
+
+        .barViz.fade {
+            background-color: white !important;
+        }
+    </style>
+    </head>
+
+    <body>
+        <%- include ('../partials/nav.ejs') %>
+            <div id="container"></div>
+
+
+            <script>
+
+                async function getColor(barViz) {
+                    const genre = barViz.dataset.genre
+                    const res = await fetch(`/colord?genre=${genre}`).then(response => {
+                        if (response.ok) { // Check if response is OK (200-299)
+                            return response.json(); // If true, return the JSON data
+                        } else {
+                            throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                        }
+
+                    }).then(data => {
+                        // console.log(data, 'inside the then')
+
+
+                        barViz.dataset.score = data.bestScore.score
+                        barViz.dataset.newGenre = data.bestScore.genre
+                        barViz.dataset.color = data.bestScore.color
+
+                        // barViz.style.backgroundColor = "#fff" // debug
+                        barViz.dataset.backgroundColor = data.bestScore.color
+                        barViz.style.backgroundColor = data.bestScore.color
+
+                        if (data.bestScore.score < .6) {
+                            barViz.innerHTML = data.bestScore.genre
+                            // barViz.innerHTML = '!!!' + elem.innerHTML //debug
+                            // barViz.style.backgroundColor = "yellow" //debug
+                            // console.log(barViz.dataset.genre)
+                        }
+
+                        if (barViz.dataset.genre === 'undefined') {
+                            barViz.innerHTML = ""
+                        }
+
+
+                    }).catch(error => console.error('Error color tracks:', error))
+
+                }
+
+
+                init()
+
+                async function init() {
+
+                    await fetchTable()
+
+                    const barVizes = document.getElementsByClassName('barViz')
+
+                    for (let i = 0; i < barVizes.length; i++) {
+                        const barViz = barVizes[i]
+
+                        await getColor(barViz)
+                    }
+
+                }
+
+
+
+                async function fetchTable() {
+
+                    const render = await fetch(`/tracks?sort=genresgraph`)
+                        .then(response => {
+                            if (response.ok) { // Check if response is OK (200-299)
+                                return response.json(); // If true, return the JSON data
+                            } else {
+                                throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                            }
+
+                        })
+                        .then(data => {
+
+                            let grouped = data.reduce((acc, track) => {
+                                const playlistName = track.playlistName;
+                                if (!acc[playlistName]) acc[playlistName] = [];
+                                acc[playlistName].push(track);
+                                return acc;
+                            }, {});
+
+                            const container = document.getElementById('container')
+
+                            let tempcount = 0
+
+                            for (pl in grouped) {
+                                const plist = grouped[pl]
+
+                                const rowGenre = document.createElement('div')
+                                rowGenre.classList.add('rowGenre')
+
+                                const playlistName = document.createElement('div')
+                                playlistName.textContent = pl
+                                playlistName.classList.add('playlistName')
+                                rowGenre.appendChild(playlistName)
+
+
+
+                                const vizGenre = document.createElement('div')
+                                vizGenre.classList.add('vizGenre')
+
+
+
+                                let genreCount = 0;
+                                for (var i = 0; i < plist.length; i++) {
+                                    const track = plist[i]
+                                    genreCount += track.count
+                                }//count total
+
+                                let color = 0
+                                for (var i = 0; i < plist.length; i++) {
+                                    const track = plist[i]
+
+                                    // console.log(track)
+
+                                    const barViz = document.createElement('div')
+                                    barViz.id = `barViz${tempcount}`
+                                    barViz.classList.add('barViz')
+                                    barViz.classList.add(`barVizColor${color}`)
+                                    barViz.dataset.genre = track.genre
+                                    barViz.dataset.count = track.count
+                                    barViz.style.width = `${track.count / genreCount}%`
+                                    // barViz.style.backgroundColor = hexColors[color]
+                                    barViz.textContent = track.genre
+                                    barViz.addEventListener('click', (e) => {
+                                        // console.log(e.currentTarget)
+
+                                        container.classList.toggle('activeHighlight')
+
+                                        const barVizes = document.getElementsByClassName('barViz')
+
+                                        if (
+                                            (container.classList.contains('activeHighlight') && barViz.classList.contains('fade')) ||
+                                            (!container.classList.contains('activeHighlight') && !barViz.classList.contains('fade'))
+
+                                        ) {
+
+                                            const genre = e.currentTarget.dataset.newGenre
+
+                                            console.log(genre)
+
+
+                                            for (let i = 0; i < barVizes.length; i++) {
+                                                const barViz = barVizes[i]
+
+                                                if (barViz.dataset.newGenre === genre) {
+                                                    barViz.classList.remove("fade")
+                                                } else {
+                                                    barViz.classList.add("fade")
+                                                }
+
+
+                                            } // loop
+
+                                        } else {
+                                            for (let i = 0; i < barVizes.length; i++) {
+                                                const barViz = barVizes[i]
+
+                                                barViz.classList.remove("fade")
+                                            } //loop
+
+                                        } //class check
+                                    })
+
+
+
+                                    // try {
+                                    //     getColor(track.genre, tempcount); // assumes this is an 
+                                    // } catch (error) {
+                                    //     console.error(error);
+                                    // }
+
+
+
+                                    tempcount++
+
+
+                                    vizGenre.appendChild(barViz)
+
+                                    color++
+
+                                } // each track
+
+
+
+                                rowGenre.appendChild(vizGenre)
+                                container.appendChild(rowGenre)
+                            }// for
+
+
+                        })
+                        .catch(error => console.error('Error fetching tracks:', error))
+                        ;
+
+
+                }// fetch table
+            </script>
+    </body>
+
+    </html>

@@ -112,7 +112,35 @@ liveReloadServer.server.once("connection", () => {
 // load html files from public
 // ******************************************
 // ******************************************
-app.use("/", express.static(__dirname + "/public/")); // Serve files from 'public' folder as root directory
+app.use(express.static(path.join(__dirname, "public")));
+
+app.set("view engine", "ejs");
+// app.set("views", __dirname + "/views");
+
+app.get("/", (req, res) => {
+  res.render("pages/index");
+});
+
+app.get("/debug", (req, res) => {
+  res.render("pages/debugpage");
+});
+
+app.get("/parse", (req, res) => {
+  res.render("pages/parse");
+});
+
+app.get("/streaks", (req, res) => {
+  res.render("pages/streaks");
+});
+
+app.get("/visualize", (req, res) => {
+  res.render("pages/visualize");
+});
+
+app.get("/genres", (req, res) => {
+  res.render("pages/genres");
+});
+// app.use("/", express.static(__dirname + "/public/")); // Serve files from 'public' folder as root directory
 
 // ******************************************
 // ******************************************
