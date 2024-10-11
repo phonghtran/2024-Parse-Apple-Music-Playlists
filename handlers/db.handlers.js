@@ -133,7 +133,7 @@ const dropTables = (req, res, params) => {
 // ******************************************
 const debugTables = (req, res, params) => {
   const sql =
-    "SELECT genre, COUNT(genre) as count FROM tracks  GROUP BY genre ";
+    "SELECT playlistName, COUNT(playlistName) as count FROM tracks GROUP BY playlistName";
   db.all(sql, [], (err, rows) => {
     if (err) {
       return res.status(500).json({ error: err.message });

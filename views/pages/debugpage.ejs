@@ -7,12 +7,14 @@
     <body>
         <%- include ('../partials/nav.ejs') %>
 
-            <div style="background-color: #6c5ce7;width: 100px; height: 100px;"></div>
-            <div style="background-color:#8e24aa ;width: 100px; height: 100px;"></div>
-            <div style="background-color:#b57ae4 ;width: 100px; height: 100px;"></div>
-            <div style="background-color:#f7f5ff ;width: 100px; height: 100px;"></div>
-            <div style="background-color:#c4008d ;width: 100px; height: 100px;"></div>
-            <div style="background-color: #964b00;width: 100px; height: 100px;"></div>
+            <div style="display: flex;">
+                <div style="background-color: #6c5ce7;width: 100px; height: 100px;"></div>
+                <div style="background-color:#8e24aa ;width: 100px; height: 100px;"></div>
+                <div style="background-color:#b57ae4 ;width: 100px; height: 100px;"></div>
+                <div style="background-color:#f7f5ff ;width: 100px; height: 100px;"></div>
+                <div style="background-color:#c4008d ;width: 100px; height: 100px;"></div>
+                <div style="background-color: #964b00;width: 100px; height: 100px;"></div>
+            </div>
 
             <div id="container"></div>
 
@@ -37,27 +39,19 @@
                             let arrTemp = []
 
 
-
+                            console.log(data)
                             data.forEach(track => {
-                                // const elem = document.createElement('div')
-                                // elem.textContent = track.genre + ' - ' + track.count
-                                // boxcontainer.appendChild(elem)
+                                if (track.count > 35) {
 
-                                arrTemp.push([
-                                    track.genre, track.count
-                                ])
+                                    const elem = document.createElement('div')
+                                    for (child in track) {
+                                        elem.textContent += ' - ' + track[child]
+                                    }
+                                    boxcontainer.appendChild(elem)
+                                }
                             })
 
-                            arrTemp.sort((a, b) => b[1] - a[1]);
 
-                            // console.log(arrTemp)
-
-                            for (var i = 0; i < arrTemp.length; i++) {
-                                const track = arrTemp[i]
-                                const elem = document.createElement('div')
-                                elem.textContent = track[0] + ' - ' + track[1]
-                                boxcontainer.appendChild(elem)
-                            }
 
                         })
                         .catch(error => console.error('Error fetching tracks:', error))
