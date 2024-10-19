@@ -9,13 +9,35 @@
         td,
         th {
             border: 1px solid black;
-            min-width: 8rem;
-
+            min-width: auto
         }
 
         button {
+            background-color: var(--colorSecondary1);
             border: 1px solid black;
             padding: 1rem;
+        }
+
+        button.isActive {
+            background-color: var(--colorSecondary2);
+        }
+
+        button:hover {
+            background-color: var(--colorAccent1);
+        }
+
+        #tabs {
+
+            padding: 0 0.5rem;
+
+            position: relative;
+        }
+
+        #tabs hr {
+            left: 0;
+            bottom: 0;
+            position: absolute;
+            z-index: -1;
         }
     </style>
     </head>
@@ -25,18 +47,21 @@
 
         <%- include ('../partials/nav.ejs') %>
 
-            <p>"npm run dev" // "rs" to restart server live</p>
+            <!-- <p>"npm run dev" // "rs" to restart server live</p>
+ -->
 
 
-            <h1>Table</h1>
 
-            <p><button id="bttnSortPlaylist">Sort by Playlist</button>
-                <button id="bttnSortArtist">Sort by Artist</button>
-                <button id="bttnSortName">Sort by Song Name</button>
-                <button id="bttnGenre">Sort by Genre</button>
-                <button id="bttnSortDB">Sort by DB</button>
-                <button id="bttnPairedName">Sort by Paired Name</button>
-            </p>
+            <div id="tabs">
+                <hr>
+                <button id="bttnSortPlaylist" class="isActive bttnFetchRows" data-label="playlist">Sort by
+                    Playlist</button>
+                <button id="bttnSortArtist" class="bttnFetchRows" data-label="artist">Sort by Artist</button>
+                <button id="bttnSortName" class="bttnFetchRows" data-label="name">Sort by Song Name</button>
+                <button id="bttnGenre" class="bttnFetchRows" data-label="genre">Sort by Genre</button>
+                <button id="bttnSortDB" class="bttnFetchRows" data-label="db">Sort by DB</button>
+                <button id="bttnPairedName" class="bttnFetchRows" data-label="pairedName">Sort by Paired Name</button>
+            </div>
 
 
             <p id="tableCount"></p>
@@ -50,48 +75,35 @@
                 fetchTable()
 
 
-                const bttnSortPlaylist = document.getElementById('bttnSortPlaylist');
-                const bttnSortArtist = document.getElementById('bttnSortArtist');
-                const bttnSortDB = document.getElementById('bttnSortDB');
-                const bttnSortName = document.getElementById('bttnSortName');
-                const bttnGenre = document.getElementById('bttnGenre');
-                const bttnPairedName = document.getElementById('bttnPairedName');
+
+                const bttnFetchRows = document.getElementsByClassName("bttnFetchRows")
+
+                for (var i = 0; i < bttnFetchRows.length; i++) {
+                    bttnFetchRows[i].addEventListener('click', (e) => {
+                        // console.log(e)
+                        sortType = e.srcElement.dataset.label
+
+                        const bttnIsActive = document.getElementsByClassName("bttnFetchRows")
 
 
-                bttnSortPlaylist.addEventListener('click', function () {
-                    sortType = 'playlist'
-                    fetchTable()
-                });
-                bttnSortArtist.addEventListener('click', function () {
-                    sortType = 'artist'
-                    fetchTable()
-                });
+                        for (var j = 0; j < bttnIsActive.length; j++) {
+                            bttnIsActive[j].classList.remove('isActive')
+                        }
 
-                bttnSortDB.addEventListener('click', function () {
-                    sortType = 'db'
-                    fetchTable()
-                });
 
-                bttnSortName.addEventListener('click', function () {
-                    sortType = 'name'
-                    fetchTable()
-                });
+                        e.srcElement.classList.add('isActive')
+                        fetchTable()
+                    })
+                }
 
-                bttnGenre.addEventListener('click', function () {
-                    sortType = 'genre'
 
-                    fetchTable()
-                });
 
-                bttnPairedName.addEventListener('click', function () {
-                    sortType = 'pairedName'
-
-                    fetchTable()
-                });
 
 
 
                 function fetchTable() {
+                    const tracksDiv = document.getElementById('tracks');
+                    tracksDiv.innerHTML = ''
 
                     fetch(`/tracks?sort=${sortType}`)
                         .then(response => {
@@ -105,7 +117,7 @@
                         .then(data => {
                             const tracksDiv = document.getElementById('tracks');
                             tracksDiv.innerHTML = ''
-                            console.log(data)
+                            // console.log(data)
                             const trackRow = document.createElement('tr');
                             for (label in data[0]) {
                                 const t1 = document.createElement('th');
@@ -134,13 +146,11 @@
                                 for (columns in track) {
                                     const column = track[columns]
 
+
                                     const t1 = document.createElement('td');
-                                    t1.textContent = column
+                                    t1.textContent = (columns === 'pairedName' || columns === 'genre') ? column.slice(0, 18) + '…' : column
                                     trackRow.appendChild(t1)
                                 }
-
-
-
 
                                 tracksDiv.appendChild(trackRow);
                             });

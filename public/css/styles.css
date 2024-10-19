@@ -26,6 +26,12 @@ input {
   font-style: normal;
 }
 
+button {
+  background-color: var(--colorSecondary1);
+  color: var(--colorBackground);
+  cursor: pointer;
+}
+
 h1,
 h2,
 h3,
@@ -46,6 +52,12 @@ h6 {
   padding: 0;
 }
 
+#navPrimary {
+  left: 0;
+  position: sticky;
+  right: 0;
+  top: 0;
+}
 #navSecondary {
   background-color: var(--colorSecondary1);
 }
