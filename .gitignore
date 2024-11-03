@@ -9,3 +9,5 @@ node_modules/
 
 # Ignore all .idea folders (for IntelliJ IDEA users)
 .idea/
+
+.DS_STORE
