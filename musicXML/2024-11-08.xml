@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-11-08T18:31:44Z</date>
+	<key>Application Version</key><string>1.5.1.24</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31179</key>
+		<dict>
+			<key>Track ID</key><integer>31179</integer>
+			<key>Name</key><string>DLZ</string>
+			<key>Artist</key><string>TV on the Radio</string>
+			<key>Album</key><string>Dear Science</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8178266</integer>
+			<key>Total Time</key><integer>228707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-01-07T14:27:18Z</date>
+			<key>Date Added</key><date>2010-06-16T23:32:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>111</integer>
+			<key>Play Date</key><integer>3813661379</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:22:59Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2018-08-15T22:52:53Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>6829</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9C0BDD2284706EF</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>45793</key>
+		<dict>
+			<key>Track ID</key><integer>45793</integer>
+			<key>Name</key><string>tres tristes tragos</string>
+			<key>Artist</key><string>Young Miko</string>
+			<key>Album Artist</key><string>Young Miko</string>
+			<key>Composer</key><string>María Victoria Ramírez De Arellano Cardona, Diego Amaury Lopez Crespo, Hector C. Lopez Jimenez, Robert Rodriguez Cruz &#38; Mariana Beatriz Lopez Crespo</string>
+			<key>Album</key><string>att. (Apple Music Edition)</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5719072</integer>
+			<key>Total Time</key><integer>155214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-03-21T16:17:13Z</date>
+			<key>Date Added</key><date>2024-04-05T04:03:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3813660097</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:01:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-09-21T19:38:14Z</date>
+			<key>Release Date</key><date>2024-04-05T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2505</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>att. (Apple Music Edition)</string>
+			<key>Sort Artist</key><string>Young Miko</string>
+			<key>Sort Name</key><string>tres tristes tragos</string>
+			<key>Persistent ID</key><string>8AFCC31390EFAB7B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47645</key>
+		<dict>
+			<key>Track ID</key><integer>47645</integer>
+			<key>Name</key><string>Soft Side</string>
+			<key>Artist</key><string>BENEE</string>
+			<key>Album Artist</key><string>BENEE</string>
+			<key>Composer</key><string>Stella Bennett &#38; Kenneth Blume III</string>
+			<key>Album</key><string>Lychee</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5659629</integer>
+			<key>Total Time</key><integer>154732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-08-23T20:08:43Z</date>
+			<key>Date Added</key><date>2024-08-23T21:08:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3813658538</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:35:38Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2024-11-03T18:12:05Z</date>
+			<key>Release Date</key><date>2022-03-04T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1974</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lychee</string>
+			<key>Sort Artist</key><string>BENEE</string>
+			<key>Sort Name</key><string>Soft Side</string>
+			<key>Persistent ID</key><string>1621E8419C1D788C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47791</key>
+		<dict>
+			<key>Track ID</key><integer>47791</integer>
+			<key>Name</key><string>breaking news</string>
+			<key>Artist</key><string>flowerovlove</string>
+			<key>Album Artist</key><string>flowerovlove</string>
+			<key>Composer</key><string>Joyce Cisse, Ines Dunn &#38; Duck Blackwell</string>
+			<key>Album</key><string>breaking news - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5859285</integer>
+			<key>Total Time</key><integer>161076</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-09-10T14:14:08Z</date>
+			<key>Date Added</key><date>2024-09-10T15:14:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3813659226</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:47:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-09-12T21:38:42Z</date>
+			<key>Release Date</key><date>2024-07-19T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7761</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>breaking news - Single</string>
+			<key>Sort Artist</key><string>flowerovlove</string>
+			<key>Sort Name</key><string>breaking news</string>
+			<key>Persistent ID</key><string>B67FD5E268CD5719</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47961</key>
+		<dict>
+			<key>Track ID</key><integer>47961</integer>
+			<key>Name</key><string>Kiss Me Right</string>
+			<key>Artist</key><string>keshi</string>
+			<key>Album Artist</key><string>keshi</string>
+			<key>Composer</key><string>Casey Luong &#38; Hugo Leclercq</string>
+			<key>Album</key><string>Requiem (Bonus Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5957659</integer>
+			<key>Total Time</key><integer>161968</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-09-21T18:05:35Z</date>
+			<key>Date Added</key><date>2024-09-21T19:05:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3813659069</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:44:29Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2024-10-10T13:43:00Z</date>
+			<key>Release Date</key><date>2024-09-13T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Requiem (Bonus Edition)</string>
+			<key>Sort Artist</key><string>keshi</string>
+			<key>Sort Name</key><string>Kiss Me Right</string>
+			<key>Persistent ID</key><string>D5D2D294B0904E33</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48047</key>
+		<dict>
+			<key>Track ID</key><integer>48047</integer>
+			<key>Name</key><string>Cracc Era (feat. Tyler, The Creator)</string>
+			<key>Artist</key><string>Maxo Kream</string>
+			<key>Album Artist</key><string>Maxo Kream</string>
+			<key>Composer</key><string>Emekwanem Biosah Jr.</string>
+			<key>Album</key><string>Personification</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4341717</integer>
+			<key>Total Time</key><integer>115914</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-09-28T04:31:41Z</date>
+			<key>Date Added</key><date>2024-09-28T05:31:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3813660212</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:03:32Z</date>
+			<key>Release Date</key><date>2024-09-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2094</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Personification</string>
+			<key>Sort Artist</key><string>Maxo Kream</string>
+			<key>Sort Name</key><string>Cracc Era (feat. Tyler, The Creator)</string>
+			<key>Persistent ID</key><string>FE5F0293A2A846EC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48051</key>
+		<dict>
+			<key>Track ID</key><integer>48051</integer>
+			<key>Name</key><string>Sunny Day</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus, Jacob Bugden &#38; Starsmith</string>
+			<key>Album</key><string>Beatopia (The Antidote Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6053459</integer>
+			<key>Total Time</key><integer>160493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-09-28T15:46:20Z</date>
+			<key>Date Added</key><date>2024-09-28T16:46:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3813660368</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:06:08Z</date>
+			<key>Release Date</key><date>2022-07-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Beatopia (The Antidote Edition)</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Sunny Day</string>
+			<key>Persistent ID</key><string>FEE595F05D516994</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48073</key>
+		<dict>
+			<key>Track ID</key><integer>48073</integer>
+			<key>Name</key><string>sorry es que soy bipolarrr</string>
+			<key>Artist</key><string>ROBI &#38; Young Miko</string>
+			<key>Album Artist</key><string>ROBI &#38; Young Miko</string>
+			<key>Composer</key><string>Roberto Baez Moraza, Joel Iglesias, Stephanie Concepcion, María Victoria Ramírez De Arellano Cardona, Freddy Vilchez, Diego Amaury Lopez &#38; Miguel Angel Montoya</string>
+			<key>Album</key><string>sorry es que soy bipolarrr - Single</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7893404</integer>
+			<key>Total Time</key><integer>220554</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-03T23:46:23Z</date>
+			<key>Date Added</key><date>2024-10-04T00:46:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3813651184</integer>
+			<key>Play Date UTC</key><date>2024-11-05T16:33:04Z</date>
+			<key>Release Date</key><date>2024-06-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>sorry es que soy bipolarrr - Single</string>
+			<key>Sort Artist</key><string>ROBI &#38; Young Miko</string>
+			<key>Sort Name</key><string>sorry es que soy bipolarrr</string>
+			<key>Persistent ID</key><string>CF054D7F78244E85</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48425</key>
+		<dict>
+			<key>Track ID</key><integer>48425</integer>
+			<key>Name</key><string>Passenger Princess</string>
+			<key>Artist</key><string>Aminé &#38; Smino</string>
+			<key>Album Artist</key><string>Aminé</string>
+			<key>Composer</key><string>Adam Daniel, Christopher Smith Jr., Nile Goveia &#38; Scott Zhang</string>
+			<key>Album</key><string>Passenger Princess / Adam - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5520939</integer>
+			<key>Total Time</key><integer>147962</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-23T21:30:44Z</date>
+			<key>Date Added</key><date>2024-10-23T22:30:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3813584484</integer>
+			<key>Play Date UTC</key><date>2024-11-04T22:01:24Z</date>
+			<key>Release Date</key><date>2024-10-22T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Passenger Princess / Adam - Single</string>
+			<key>Sort Artist</key><string>Aminé &#38; Smino</string>
+			<key>Sort Name</key><string>Passenger Princess</string>
+			<key>Persistent ID</key><string>376D34ACE36A35FF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48473</key>
+		<dict>
+			<key>Track ID</key><integer>48473</integer>
+			<key>Name</key><string>Immaculate (feat. Saweetie)</string>
+			<key>Artist</key><string>Shygirl &#38; Club Shy</string>
+			<key>Album Artist</key><string>Shygirl &#38; Club Shy</string>
+			<key>Composer</key><string>Shygirl &#38; Oscar Scheller</string>
+			<key>Album</key><string>Immaculate (feat. Saweetie) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5639413</integer>
+			<key>Total Time</key><integer>154400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-25T13:19:14Z</date>
+			<key>Date Added</key><date>2024-10-25T14:19:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3813658688</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:38:08Z</date>
+			<key>Release Date</key><date>2024-10-23T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Immaculate (feat. Saweetie) - Single</string>
+			<key>Sort Artist</key><string>Shygirl &#38; Club Shy</string>
+			<key>Sort Name</key><string>Immaculate (feat. Saweetie)</string>
+			<key>Persistent ID</key><string>B3BAD40940C443C6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48475</key>
+		<dict>
+			<key>Track ID</key><integer>48475</integer>
+			<key>Name</key><string>eko</string>
+			<key>Artist</key><string>yeule</string>
+			<key>Album Artist</key><string>yeule</string>
+			<key>Composer</key><string>Chris Greatti</string>
+			<key>Album</key><string>eko - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7794089</integer>
+			<key>Total Time</key><integer>223188</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-25T13:23:32Z</date>
+			<key>Date Added</key><date>2024-10-25T14:23:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3813660839</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:13:59Z</date>
+			<key>Release Date</key><date>2024-10-23T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5563</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>eko - Single</string>
+			<key>Sort Artist</key><string>yeule</string>
+			<key>Sort Name</key><string>eko</string>
+			<key>Persistent ID</key><string>544F2D108618A345</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48677</key>
+		<dict>
+			<key>Track ID</key><integer>48677</integer>
+			<key>Name</key><string>Rolling Stone</string>
+			<key>Artist</key><string>Samara Cyn</string>
+			<key>Album Artist</key><string>Samara Cyn</string>
+			<key>Composer</key><string>Samara Cyn, Whit Kane &#38; Joshua "Budo" Karp</string>
+			<key>Album</key><string>The Drive Home</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5352243</integer>
+			<key>Total Time</key><integer>143103</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-25T14:05:10Z</date>
+			<key>Date Added</key><date>2024-10-25T15:05:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3813659517</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:51:57Z</date>
+			<key>Release Date</key><date>2024-10-25T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Drive Home</string>
+			<key>Sort Artist</key><string>Samara Cyn</string>
+			<key>Sort Name</key><string>Rolling Stone</string>
+			<key>Persistent ID</key><string>AE7691158F3D3787</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48699</key>
+		<dict>
+			<key>Track ID</key><integer>48699</integer>
+			<key>Name</key><string>Tell It to My Heart</string>
+			<key>Artist</key><string>Taylor Dayne</string>
+			<key>Album Artist</key><string>Taylor Dayne</string>
+			<key>Composer</key><string>Seth Swirsky &#38; Ernie Gold</string>
+			<key>Album</key><string>Platinum &#38; Gold Collection: Taylor Dayne</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7802718</integer>
+			<key>Total Time</key><integer>220227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2024-10-27T00:19:03Z</date>
+			<key>Date Added</key><date>2024-10-27T01:19:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3813661055</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:17:35Z</date>
+			<key>Release Date</key><date>1987-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Platinum &#38; Gold Collection: Taylor Dayne</string>
+			<key>Sort Artist</key><string>Taylor Dayne</string>
+			<key>Sort Name</key><string>Tell It to My Heart</string>
+			<key>Persistent ID</key><string>3AD32FF6EA830438</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48711</key>
+		<dict>
+			<key>Track ID</key><integer>48711</integer>
+			<key>Name</key><string>Saturn</string>
+			<key>Artist</key><string>SZA</string>
+			<key>Album Artist</key><string>SZA</string>
+			<key>Composer</key><string>SZA, Carter Lang, Rob Bisel, Jared Solomon &#38; Scott Zhang</string>
+			<key>Album</key><string>Saturn - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7242110</integer>
+			<key>Total Time</key><integer>186192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-28T13:48:00Z</date>
+			<key>Date Added</key><date>2024-10-28T14:48:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3813661237</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:20:37Z</date>
+			<key>Release Date</key><date>2024-02-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Saturn - Single</string>
+			<key>Sort Artist</key><string>SZA</string>
+			<key>Sort Name</key><string>Saturn</string>
+			<key>Persistent ID</key><string>A2036229D0A0A189</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>127071</key>
+		<dict>
+			<key>Track ID</key><integer>127071</integer>
+			<key>Name</key><string>Thought I Was Dead (feat. ScHoolboy Q &#38; Santigold)</string>
+			<key>Artist</key><string>Tyler, The Creator</string>
+			<key>Album Artist</key><string>Tyler, The Creator</string>
+			<key>Composer</key><string>Tyler Okonma &#38; Quincy Hanley</string>
+			<key>Album</key><string>CHROMAKOPIA</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7487539</integer>
+			<key>Total Time</key><integer>207273</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-29T02:41:54Z</date>
+			<key>Date Added</key><date>2024-10-29T03:41:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3813659946</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:59:06Z</date>
+			<key>Release Date</key><date>2024-10-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>CHROMAKOPIA</string>
+			<key>Sort Artist</key><string>Tyler, The Creator</string>
+			<key>Sort Name</key><string>Thought I Was Dead (feat. ScHoolboy Q &#38; Santigold)</string>
+			<key>Persistent ID</key><string>3F80C5265496C4BD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>130271</key>
+		<dict>
+			<key>Track ID</key><integer>130271</integer>
+			<key>Name</key><string>Sticky (feat. GloRilla, Sexyy Red &#38; Lil Wayne)</string>
+			<key>Artist</key><string>Tyler, The Creator</string>
+			<key>Album Artist</key><string>Tyler, The Creator</string>
+			<key>Composer</key><string>Tyler Okonma, Gloria Woods, Dwyane Carter, Jr., Janae Wherry, Rex Zamor, Aaron Bolton, Dudley Alexander Duverne, Timothy Mosley, David Darnell Brown, Elvis L. JR. Williams, Jamal F. Jones, Timothy Clayton &#38; Zachary Anson Wallace</string>
+			<key>Album</key><string>CHROMAKOPIA</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9133661</integer>
+			<key>Total Time</key><integer>255916</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-31T20:10:24Z</date>
+			<key>Date Added</key><date>2024-10-31T21:10:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3813660620</integer>
+			<key>Play Date UTC</key><date>2024-11-05T19:10:20Z</date>
+			<key>Release Date</key><date>2024-10-28T12:00:00Z</date>
+			<key>Normalization</key><integer>7660</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>CHROMAKOPIA</string>
+			<key>Sort Artist</key><string>Tyler, The Creator</string>
+			<key>Sort Name</key><string>Sticky (feat. GloRilla, Sexyy Red &#38; Lil Wayne)</string>
+			<key>Persistent ID</key><string>9434363037483BAD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>135734</key>
+		<dict>
+			<key>Track ID</key><integer>135734</integer>
+			<key>Name</key><string>What I Gotta Do</string>
+			<key>Artist</key><string>Glowie</string>
+			<key>Album Artist</key><string>Glowie</string>
+			<key>Album</key><string>What I Gotta Do - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8324293</integer>
+			<key>Total Time</key><integer>229671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-11-03T18:35:25Z</date>
+			<key>Date Added</key><date>2024-11-03T18:35:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3813659743</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:55:43Z</date>
+			<key>Release Date</key><date>2022-05-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What I Gotta Do - Single</string>
+			<key>Sort Artist</key><string>Glowie</string>
+			<key>Sort Name</key><string>What I Gotta Do</string>
+			<key>Persistent ID</key><string>C5AE711ABAD32FDA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>135752</key>
+		<dict>
+			<key>Track ID</key><integer>135752</integer>
+			<key>Name</key><string>Something In The Air</string>
+			<key>Artist</key><string>Lauren Mayberry</string>
+			<key>Album Artist</key><string>Lauren Mayberry</string>
+			<key>Composer</key><string>Lauren Mayberry &#38; Dan McDougall</string>
+			<key>Album</key><string>Vicious Creature</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8059646</integer>
+			<key>Total Time</key><integer>227191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-03T18:49:57Z</date>
+			<key>Date Added</key><date>2024-11-03T18:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3813658911</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:41:51Z</date>
+			<key>Release Date</key><date>2024-10-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vicious Creature</string>
+			<key>Sort Artist</key><string>Lauren Mayberry</string>
+			<key>Sort Name</key><string>Something In The Air</string>
+			<key>Persistent ID</key><string>A7DCC4F45A6B8454</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>223961</key>
+		<dict>
+			<key>Track ID</key><integer>223961</integer>
+			<key>Name</key><string>Maybe Tomorrow</string>
+			<key>Artist</key><string>Stereophonics</string>
+			<key>Album Artist</key><string>Stereophonics</string>
+			<key>Composer</key><string>Kelly Jones</string>
+			<key>Album</key><string>You Gotta Go There to Come Back</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10737418</integer>
+			<key>Total Time</key><integer>272947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-11-03T20:16:17Z</date>
+			<key>Date Added</key><date>2024-11-03T20:16:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3813650968</integer>
+			<key>Play Date UTC</key><date>2024-11-05T16:29:28Z</date>
+			<key>Release Date</key><date>2003-06-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You Gotta Go There to Come Back</string>
+			<key>Sort Artist</key><string>Stereophonics</string>
+			<key>Sort Name</key><string>Maybe Tomorrow</string>
+			<key>Persistent ID</key><string>A2FCA500644F7284</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>266109</key>
+		<dict>
+			<key>Track ID</key><integer>266109</integer>
+			<key>Name</key><string>Moonlit Floor (Kiss Me)</string>
+			<key>Artist</key><string>LISA</string>
+			<key>Album Artist</key><string>LISA</string>
+			<key>Composer</key><string>Ryan Williamson, Jessie Reyez &#38; Matt Slocum</string>
+			<key>Album</key><string>Moonlit Floor (Kiss Me) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5905707</integer>
+			<key>Total Time</key><integer>155757</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-05T15:22:14Z</date>
+			<key>Date Added</key><date>2024-11-05T15:22:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3813659378</integer>
+			<key>Play Date UTC</key><date>2024-11-05T18:49:38Z</date>
+			<key>Release Date</key><date>2024-10-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moonlit Floor (Kiss Me) - Single</string>
+			<key>Sort Artist</key><string>LISA</string>
+			<key>Sort Name</key><string>Moonlit Floor (Kiss Me)</string>
+			<key>Persistent ID</key><string>39D3A121650A43A6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>121888</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>223961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>266109</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
