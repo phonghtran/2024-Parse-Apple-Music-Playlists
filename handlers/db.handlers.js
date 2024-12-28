@@ -44,7 +44,7 @@ const getTracks = async (req, res, params) => {
 
   //   const sortType = req.query.sort;
 
-  const { sort } = params;
+  const { sort, genre } = params;
 
   // console.log(sortType);
 
@@ -52,10 +52,6 @@ const getTracks = async (req, res, params) => {
   switch (sort) {
     case "db":
       sql = "SELECT * FROM tracks ORDER BY tid ASC, artist ASC, name ASC";
-      break;
-
-    case "playlist":
-      sql = "SELECT * FROM tracks ORDER BY playlistName ASC, trackPosition ASC";
       break;
 
     case "playlistRecent":
@@ -85,6 +81,25 @@ const getTracks = async (req, res, params) => {
 
     case "playlistOnly":
       sql = "SELECT playlistName FROM tracks GROUP BY playlistName";
+      break;
+
+    case "fullGenreList":
+      sql = "SELECT DISTINCT genre FROM tracks ";
+      break;
+
+    case "debug":
+      const items = Object.values(req.query.genre);
+      const placeholders = items.map((item) => `"${item}"`).join(", ");
+      sql = `SELECT artist, COUNT(DISTINCT name), SUM( playcount), MAX(playlistName), genre FROM tracks WHERE genre IN (${placeholders}) GROUP BY artist ORDER BY COUNT(DISTINCT name) DESC, SUM( playcount) DESC`;
+
+      // sql = `SELECT artist, COUNT(DISTINCT name), SUM(DISTINCT playcount), MAX(playlistName), genre FROM tracks WHERE genre LIKE '%${decodeURIComponent(
+      //   genre
+      // )}%' GROUP BY artist ORDER BY COUNT(DISTINCT name) DESC, SUM(DISTINCT playcount) DESC`;
+      break;
+
+    default:
+    case "playlist":
+      sql = "SELECT * FROM tracks ORDER BY playlistName ASC, trackPosition ASC";
       break;
   }
 

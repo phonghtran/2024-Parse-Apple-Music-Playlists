@@ -1,32 +1,209 @@
 <%- include ('../partials/head.ejs') %>
-    <style>
 
+    <style>
+        table {
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            min-width: auto
+        }
+
+        #filter {
+            padding: 1rem;
+        }
+
+        #selectGenres {
+            display: none;
+            background-color: var(--colorBackground);
+            border: 1px var(--colorSecondary1) solid;
+            list-style: none;
+            padding: 0;
+            position: absolute;
+            left: 1rem;
+            top: 5rem;
+        }
+
+        #selectGenres.active {
+            display: block;
+        }
+
+        #selectGenres li {
+            cursor: pointer;
+            padding: .25rem;
+        }
+
+        #selectGenres li:hover {
+            background-color: var(--colorSecondary2);
+        }
     </style>
     </head>
 
     <body>
+
+
         <%- include ('../partials/nav.ejs') %>
 
-            <div style="display: flex;">
-                <div style="background-color: #6c5ce7;width: 100px; height: 100px;"></div>
-                <div style="background-color:#8e24aa ;width: 100px; height: 100px;"></div>
-                <div style="background-color:#b57ae4 ;width: 100px; height: 100px;"></div>
-                <div style="background-color:#f7f5ff ;width: 100px; height: 100px;"></div>
-                <div style="background-color:#c4008d ;width: 100px; height: 100px;"></div>
-                <div style="background-color: #964b00;width: 100px; height: 100px;"></div>
+            <!-- <p>"npm run dev" // "rs" to restart server live</p>
+ -->
+
+
+            <div id="filter">
+                <input type="text" name="inputGenre" id="inputGenre">
+
+
+                <ul id="selectGenres">
+                    <li></li>
+                </ul>
             </div>
 
-            <div id="container"></div>
+
+            <p id="tableCount"></p>
+            <table id="tracks"></table>
 
             <script>
-                const boxcontainer = document.getElementById('container')
+                console.log('fetching')
 
-                fetchTable()
+                let tablecount = 0;
+                let sortType = 'debug'
+                let currentGenre = 'rap'
+                let delayUpdate = ''
+                let listGenres = {}
+                let searchGenres = []
+                // fetchTable()
+                getGenreList()
 
+                const selectGenres = document.getElementById("selectGenres")
+
+
+                const inputGenre = document.getElementById("inputGenre")
+
+                inputGenre.value = currentGenre
+                inputGenre.addEventListener('keyup', (e) => {
+                    currentGenre = inputGenre.value
+                    selectGenres.className = 'active'
+                    populateAutoComplete()
+
+                    clearTimeout(delayUpdate)
+                    delayUpdate = setTimeout(updateSearchGenres, 500); // 5000 milliseconds = 5 seconds
+                })
+
+                function updateSearchGenres() {
+
+                    searchGenres = []
+                    const regex = new RegExp(currentGenre, 'i'); // Create a case-insensitive regex
+
+
+
+                    for (genre in listGenres) {
+                        if (regex.test(genre)) {
+                            searchGenres.push(genre)
+                            // to list
+
+                        } // test if serach is in genre
+                    }//
+
+                    // selectGenres.className = ''
+                    fetchTable()
+                }
+
+                inputGenre.addEventListener('focus', function (event) {
+
+                    selectGenres.className = 'active'; event.target.select();
+                })
+
+                inputGenre.addEventListener('blur', function (event) {
+                    selectGenres.className = ''
+                })
+
+
+                selectGenres.addEventListener('click', function (event) {
+                    console.log('hi ')
+                    if (event.target && event.target.classList.contains('dynamic-element')) {
+
+                        console.log(event.target.textContent)
+                        currentGenre = event.target.textContent
+                        inputGenre.value = currentGenre
+                        // populateAutoComplete()
+                        // selectGenres.className = ''
+
+                        // updateSearchGenres()
+                    }
+                });
+
+
+                function populateAutoComplete() {
+                    // console.log(listGenres)
+                    const regex = new RegExp(currentGenre, 'i'); // Create a case-insensitive regex
+
+
+                    selectGenres.innerHTML = ''
+                    for (genre in listGenres) {
+                        if (regex.test(genre)) {
+                            const entry = document.createElement('li');
+                            entry.classList.add('dynamic-element');
+
+                            entry.innerHTML = genre
+                            selectGenres.appendChild(entry)
+                        } // test if serach is in genre
+
+
+                    }
+                }
+
+                function getGenreList() {
+
+                    if (Object.keys(listGenres).length === 0) {
+                        fetch(`/tracks?sort=fullGenreList`)
+                            .then(response => {
+                                if (response.ok) { // Check if response is OK (200-299)
+                                    return response.json(); // If true, return the JSON data
+                                } else {
+                                    throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                                }
+
+                            })
+                            .then(data => {
+
+                                data.forEach(track => {
+                                    // console.log(track)
+                                    const trackRow = document.createElement('tr');
+
+
+                                    for (columns in track) {
+                                        const column = track[columns]
+
+
+                                        listGenres[column] = column
+
+                                    } // each col
+
+
+                                }); // each row
+
+                                updateSearchGenres()
+                                populateAutoComplete()
+                            })
+                            .catch(error => console.error('Error fetching tracks:', error))
+                            ;
+                    } // if empty
+
+
+                } //getGenreList
 
                 function fetchTable() {
+                    const tracksDiv = document.getElementById('tracks');
+                    tracksDiv.innerHTML = ''
 
-                    fetch(`/debugdbcall`)
+                    const params = new URLSearchParams();
+                    searchGenres.forEach((item, index) => {
+                        params.append(`genre[${index}]`, item);
+                    });
+
+                    fetch(`/tracks?sort=${sortType}&${params.toString()}`)
                         .then(response => {
                             if (response.ok) { // Check if response is OK (200-299)
                                 return response.json(); // If true, return the JSON data
@@ -36,22 +213,48 @@
 
                         })
                         .then(data => {
-                            let arrTemp = []
+                            const tracksDiv = document.getElementById('tracks');
+                            tracksDiv.innerHTML = ''
+                            // console.log(data)
+                            const trackRow = document.createElement('tr');
+                            for (label in data[0]) {
+                                const t1 = document.createElement('th');
+                                t1.textContent = label
+                                trackRow.appendChild(t1)
+                            }
+                            tracksDiv.appendChild(trackRow);
 
+                            // tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
+                            rows = Object.keys(data).length
 
-                            console.log(data)
+                            const tableCount = document.getElementById('tableCount')
+                            // console.log(rows)
+                            tableCount.innerHTML = `${rows} rows`
+
+                            // let debug = 0
                             data.forEach(track => {
-                                if (track.count > 35) {
+                                // console.log(track)
+                                const trackRow = document.createElement('tr');
 
-                                    const elem = document.createElement('div')
-                                    for (child in track) {
-                                        elem.textContent += ' - ' + track[child]
-                                    }
-                                    boxcontainer.appendChild(elem)
-                                }
-                            })
+                                // if (debug === 0) {
+                                //     debug++
+                                //     console.log(track)
+                                // }
+
+                                for (columns in track) {
+                                    const column = track[columns]
 
 
+                                    const t1 = document.createElement('td');
+                                    t1.textContent = (columns === 'pairedName' || columns === 'genre') ? column.slice(0, 18) + '…' : column
+                                    trackRow.appendChild(t1)
+
+
+
+                                } // each col
+
+                                tracksDiv.appendChild(trackRow);
+                            }); // each row
 
                         })
                         .catch(error => console.error('Error fetching tracks:', error))
