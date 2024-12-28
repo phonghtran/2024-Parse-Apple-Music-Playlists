@@ -21,10 +21,14 @@
             background-color: var(--colorBackground);
             border: 1px var(--colorSecondary1) solid;
             list-style: none;
+            max-height: 18rem;
             padding: 0;
             position: absolute;
             left: 1rem;
             top: 5rem;
+            overflow-y: auto;
+            overflow-x: hidden;
+            width: 12rem;
         }
 
         #selectGenres.active {
@@ -56,7 +60,7 @@
 
 
                 <ul id="selectGenres">
-                    <li></li>
+
                 </ul>
             </div>
 
@@ -65,7 +69,7 @@
             <table id="tracks"></table>
 
             <script>
-                console.log('fetching')
+                // console.log('fetching')
 
                 let tablecount = 0;
                 let sortType = 'debug'
@@ -79,6 +83,11 @@
                 const selectGenres = document.getElementById("selectGenres")
 
 
+                // ******************************************
+                // ******************************************
+                // genre input box
+                // ******************************************
+                // ******************************************
                 const inputGenre = document.getElementById("inputGenre")
 
                 inputGenre.value = currentGenre
@@ -87,10 +96,51 @@
                     selectGenres.className = 'active'
                     populateAutoComplete()
 
-                    clearTimeout(delayUpdate)
-                    delayUpdate = setTimeout(updateSearchGenres, 500); // 5000 milliseconds = 5 seconds
+                    // clearTimeout(delayUpdate)
+                    // delayUpdate = setTimeout(updateSearchGenres, 1500); // 5000 milliseconds = 5 seconds
+
+                    if (event.key === 'Enter') {
+                        updateSearchGenres()
+                    }
                 })
 
+
+
+                inputGenre.addEventListener('focus', function (event) {
+                    selectGenres.className = 'active';
+                })
+
+                inputGenre.addEventListener('blur', function (event) {
+                    // selectGenres.className = ''
+                })
+
+
+                // ******************************************
+                // ******************************************
+                // autocomplete list 
+                // ******************************************
+                // ******************************************
+
+                selectGenres.addEventListener('click', function (event) {
+
+                    if (event.target && event.target.classList.contains('dynamic-element')) {
+
+                        console.log(event.target.innerHTML)
+                        currentGenre = event.target.innerHTML
+                        inputGenre.value = currentGenre
+
+
+
+                        updateSearchGenres()
+                    }
+                });
+
+
+                // ******************************************
+                // ******************************************
+                // update the list to send and fetch
+                // ******************************************
+                // ******************************************
                 function updateSearchGenres() {
 
                     searchGenres = []
@@ -99,42 +149,28 @@
 
 
                     for (genre in listGenres) {
-                        if (regex.test(genre)) {
+                        const stripped = genre.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
+                        if (regex.test(stripped)) {
                             searchGenres.push(genre)
                             // to list
 
                         } // test if serach is in genre
                     }//
 
-                    // selectGenres.className = ''
+                    console.log(searchGenres)
+
+                    populateAutoComplete()
+                    selectGenres.className = ''
                     fetchTable()
                 }
 
-                inputGenre.addEventListener('focus', function (event) {
-
-                    selectGenres.className = 'active'; event.target.select();
-                })
-
-                inputGenre.addEventListener('blur', function (event) {
-                    selectGenres.className = ''
-                })
 
 
-                selectGenres.addEventListener('click', function (event) {
-                    console.log('hi ')
-                    if (event.target && event.target.classList.contains('dynamic-element')) {
-
-                        console.log(event.target.textContent)
-                        currentGenre = event.target.textContent
-                        inputGenre.value = currentGenre
-                        // populateAutoComplete()
-                        // selectGenres.className = ''
-
-                        // updateSearchGenres()
-                    }
-                });
-
-
+                // ******************************************
+                // ******************************************
+                // update the autocomplete
+                // ******************************************
+                // ******************************************
                 function populateAutoComplete() {
                     // console.log(listGenres)
                     const regex = new RegExp(currentGenre, 'i'); // Create a case-insensitive regex
@@ -142,7 +178,8 @@
 
                     selectGenres.innerHTML = ''
                     for (genre in listGenres) {
-                        if (regex.test(genre)) {
+                        const stripped = genre.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
+                        if (regex.test(stripped)) {
                             const entry = document.createElement('li');
                             entry.classList.add('dynamic-element');
 
@@ -153,6 +190,13 @@
 
                     }
                 }
+
+
+                // ******************************************
+                // ******************************************
+                // fetches
+                // ******************************************
+                // ******************************************
 
                 function getGenreList() {
 
@@ -198,67 +242,76 @@
                     const tracksDiv = document.getElementById('tracks');
                     tracksDiv.innerHTML = ''
 
-                    const params = new URLSearchParams();
-                    searchGenres.forEach((item, index) => {
-                        params.append(`genre[${index}]`, item);
-                    });
+                    const tableCount = document.getElementById('tableCount')
+                    // console.log(rows)
+                    tableCount.innerHTML = `0 rows`
 
-                    fetch(`/tracks?sort=${sortType}&${params.toString()}`)
-                        .then(response => {
-                            if (response.ok) { // Check if response is OK (200-299)
-                                return response.json(); // If true, return the JSON data
-                            } else {
-                                throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
-                            }
+                    if (searchGenres.length > 0) {
 
-                        })
-                        .then(data => {
-                            const tracksDiv = document.getElementById('tracks');
-                            tracksDiv.innerHTML = ''
-                            // console.log(data)
-                            const trackRow = document.createElement('tr');
-                            for (label in data[0]) {
-                                const t1 = document.createElement('th');
-                                t1.textContent = label
-                                trackRow.appendChild(t1)
-                            }
-                            tracksDiv.appendChild(trackRow);
 
-                            // tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
-                            rows = Object.keys(data).length
+                        const params = new URLSearchParams();
+                        searchGenres.forEach((item, index) => {
+                            params.append(`genre[${index}]`, item);
+                        });
 
-                            const tableCount = document.getElementById('tableCount')
-                            // console.log(rows)
-                            tableCount.innerHTML = `${rows} rows`
+                        fetch(`/tracks?sort=${sortType}&${params.toString()}`)
+                            .then(response => {
+                                if (response.ok) { // Check if response is OK (200-299)
+                                    return response.json(); // If true, return the JSON data
+                                } else {
+                                    throw new Error(`Error ${response.status}: ${response.statusText}`); // Otherwise, rethrow an error
+                                }
 
-                            // let debug = 0
-                            data.forEach(track => {
-                                // console.log(track)
+                            })
+                            .then(data => {
+                                const tracksDiv = document.getElementById('tracks');
+                                tracksDiv.innerHTML = ''
+                                // console.log(data)
                                 const trackRow = document.createElement('tr');
-
-                                // if (debug === 0) {
-                                //     debug++
-                                //     console.log(track)
-                                // }
-
-                                for (columns in track) {
-                                    const column = track[columns]
-
-
-                                    const t1 = document.createElement('td');
-                                    t1.textContent = (columns === 'pairedName' || columns === 'genre') ? column.slice(0, 18) + '…' : column
+                                for (label in data[0]) {
+                                    const t1 = document.createElement('th');
+                                    t1.textContent = label
                                     trackRow.appendChild(t1)
-
-
-
-                                } // each col
-
+                                }
                                 tracksDiv.appendChild(trackRow);
-                            }); // each row
 
-                        })
-                        .catch(error => console.error('Error fetching tracks:', error))
-                        ;
+                                // tracksDiv.innerHTML = '<tr><th>ID</th><th>Playlist Name</th><th>Track Position</th><th>Artist</th><th>Name</th><th>Genre</th><th>Paired Name</th></tr>'
+                                rows = Object.keys(data).length
+
+                                const tableCount = document.getElementById('tableCount')
+                                // console.log(rows)
+                                tableCount.innerHTML = `${rows} rows`
+
+                                // let debug = 0
+                                data.forEach(track => {
+                                    // console.log(track)
+                                    const trackRow = document.createElement('tr');
+
+                                    // if (debug === 0) {
+                                    //     debug++
+                                    //     console.log(track)
+                                    // }
+
+                                    for (columns in track) {
+                                        const column = track[columns]
+
+
+                                        const t1 = document.createElement('td');
+                                        t1.textContent = (columns === 'pairedName' || columns === 'genre') ? column.slice(0, 18) + '…' : column
+                                        trackRow.appendChild(t1)
+
+
+
+                                    } // each col
+
+                                    tracksDiv.appendChild(trackRow);
+                                }); // each row
+
+                            })
+                            .catch(error => console.error('Error fetching tracks:', error))
+                            ;
+                    } // genres not empty
+
                 }// fetch table
             </script>
     </body>

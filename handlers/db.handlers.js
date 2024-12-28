@@ -90,7 +90,7 @@ const getTracks = async (req, res, params) => {
     case "debug":
       const items = Object.values(req.query.genre);
       const placeholders = items.map((item) => `"${item}"`).join(", ");
-      sql = `SELECT artist, COUNT(DISTINCT name), SUM( playcount), MAX(playlistName), genre FROM tracks WHERE genre IN (${placeholders}) GROUP BY artist ORDER BY COUNT(DISTINCT name) DESC, SUM( playcount) DESC`;
+      sql = `SELECT artist, COUNT(DISTINCT name), SUM( playcount), MAX(playlistName) FROM tracks WHERE genre IN (${placeholders}) GROUP BY artist ORDER BY COUNT(DISTINCT name) DESC, SUM( playcount) DESC`;
 
       // sql = `SELECT artist, COUNT(DISTINCT name), SUM(DISTINCT playcount), MAX(playlistName), genre FROM tracks WHERE genre LIKE '%${decodeURIComponent(
       //   genre
