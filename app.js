@@ -100,6 +100,10 @@ app.get("/debug", (req, res) => {
   res.render("pages/debugpage");
 });
 
+app.get("/query", (req, res) => {
+  res.render("pages/query");
+});
+
 app.get("/parse", (req, res) => {
   res.render("pages/parse");
 });

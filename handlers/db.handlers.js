@@ -87,6 +87,10 @@ const getTracks = async (req, res, params) => {
       sql = "SELECT DISTINCT genre FROM tracks ";
       break;
 
+    case "query":
+      sql = params.query;
+      break;
+
     case "hot":
       const { prioritizeTracks } = params;
 
