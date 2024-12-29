@@ -116,6 +116,11 @@ app.get("/genres", (req, res) => {
   res.render("pages/genres");
 });
 
+
+app.get("/hot", (req, res) => {
+  res.render("pages/hot");
+});
+
 app.get("/rebuild", (req, res) => {
   res.render("pages/rebuild");
 });
