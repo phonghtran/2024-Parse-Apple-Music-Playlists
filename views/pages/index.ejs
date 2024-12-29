@@ -17,22 +17,12 @@
             min-width: auto
         }
 
-        button {
-            background-color: var(--colorSecondary1);
-            border: 1px solid var(--colorText);
-            padding: 1rem;
-        }
-
-        button.isActive {
-            background-color: var(--colorSecondary2);
-        }
-
 
 
         #tabs {
-
+            display: flex;
+            gap: 0;
             margin: 1rem;
-
             position: relative;
         }
 
@@ -54,18 +44,23 @@
  -->
 
 
+            <div id="filter">
+                <div class="bttnrange">
 
-            <div id="tabs">
-                <hr>
-                <button id="bttnSortPlaylist" class="isActive bttnFetchRows" data-label="playlist">Sort by
-                    Playlist</button>
-                <button id="bttnSortArtist" class="bttnFetchRows" data-label="artist">Sort by Artist</button>
-                <button id="bttnSortName" class="bttnFetchRows" data-label="name">Sort by Song Name</button>
-                <button id="bttnGenre" class="bttnFetchRows" data-label="genre">Sort by Genre</button>
-                <button id="bttnSortDB" class="bttnFetchRows" data-label="db">Sort by DB</button>
-                <button id="bttnPairedName" class="bttnFetchRows" data-label="pairedName">Sort by Paired Name</button>
+                    <button id="bttnSortPlaylist" class="active bttnFetchRows bttnrangeBttn" data-label="playlist">Sort
+                        by
+                        Playlist</button>
+                    <button id="bttnSortArtist" class="bttnFetchRows bttnrangeBttn" data-label="artist">Sort by
+                        Artist</button>
+                    <button id="bttnSortName" class="bttnFetchRows bttnrangeBttn" data-label="name">Sort by Song
+                        Name</button>
+                    <button id="bttnGenre" class="bttnFetchRows bttnrangeBttn" data-label="genre">Sort by Genre</button>
+                    <button id="bttnSortDB" class="bttnFetchRows bttnrangeBttn" data-label="db">Sort by DB</button>
+                    <button id="bttnPairedName" class="bttnFetchRows bttnrangeBttn" data-label="pairedName">Sort by
+                        Paired
+                        Name</button>
+                </div>
             </div>
-
 
             <div id="main">
                 <p id="tableCount"></p>
@@ -92,11 +87,11 @@
 
 
                         for (var j = 0; j < bttnIsActive.length; j++) {
-                            bttnIsActive[j].classList.remove('isActive')
+                            bttnIsActive[j].classList.remove('active')
                         }
 
 
-                        e.srcElement.classList.add('isActive')
+                        e.srcElement.classList.add('active')
                         fetchTable()
                     })
                 }

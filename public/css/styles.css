@@ -6,8 +6,8 @@
   --colorAccent1: #c4008d;
   --colorAccent2: #964b00;
   --colorText: #000;
-  --colorShadow:   rgba(0, 0, 0, .25);
-  --colorHighlight: rgba(255, 255, 255, .25);
+  --colorShadow: rgba(0, 0, 0, 0.25);
+  --colorHighlight: rgba(255, 255, 255, 0.25);
 
   --weightThin: 100;
   --weightExtraLight: 200;
@@ -31,13 +31,15 @@ input {
 
 button {
   background-color: var(--colorSecondary1);
+  border: 1px solid var(--colorText);
   color: var(--colorBackground);
   cursor: pointer;
+  padding: 0.5rem;
 }
 
- button:hover {
-            background-color: var(--colorAccent1);
-        }
+button:hover {
+  background-color: var(--colorAccent1);
+}
 
 h1,
 h2,
@@ -71,7 +73,6 @@ h6 {
 
 /* Make each item display as a block, and add some padding for spacing */
 #navPrimary li {
-  margin-right: 1.5rem;
   display: inline-block;
 }
 
@@ -123,4 +124,43 @@ td {
   border: 1px solid var(--colorSecondary1);
   min-width: 6rem;
   padding: 0.25rem 0.5rem;
+}
+
+#filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.bttnrange {
+  display: flex;
+  position: relative;
+}
+
+.bttnrange button {
+  border-right: 0;
+  box-shadow: inset 0 0.25rem 0.5rem var(--colorShadow);
+}
+
+.bttnrange button:hover {
+  background-color: var(--colorAccent1);
+}
+
+.bttnrange button:first-child {
+  border-radius: 0.25rem 0 0 0.25rem;
+}
+
+.bttnrange button:last-child {
+  border-radius: 0 0.25rem 0.25rem 0;
+  border-right: 1px solid var(--colorText);
+}
+
+.bttnrangeBttn {
+  background-color: var(--colorSecondary2);
+}
+
+.bttnrangeBttn.active,
+.bttnrangeBttn.active:hover {
+  background-color: var(--colorSecondary1);
+  box-shadow: none;
+  /* box-shadow: inset 0 .25rem .5rem var(--colorHighlight); */
 }
