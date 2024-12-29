@@ -1,14 +1,23 @@
 <%- include ('../partials/head.ejs') %>
 
     <style>
+        #main {
+            margin: 0 1rem;
+        }
+
+        #tableCount {
+            margin-bottom: 0;
+        }
+
         table {
             border-collapse: collapse;
-            border: 1px solid black;
+            border: 1px solid var(--colorText);
+            width: 100%;
         }
 
         td,
         th {
-            border: 1px solid black;
+            border: 1px solid var(--colorText);
             min-width: auto
         }
 
@@ -31,8 +40,8 @@
 
         button {
             background-color: var(--colorSecondary1);
-            border: 1px solid black;
-            padding: .25rem
+            border: 1px solid var(--colorText);
+            padding: .5rem
         }
 
 
@@ -44,6 +53,7 @@
         }
 
         #options {
+            align-items: center;
             display: flex;
             gap: 2rem;
         }
@@ -77,35 +87,51 @@
         }
 
         .bttnrange {
+
             display: flex;
             position: relative;
         }
 
         .bttnrange button {
             border-right: 0;
+            box-shadow: inset 0 .25rem .5rem var(--colorShadow);
+        }
+
+        .bttnrange button:hover {
+            background-color: var(--colorAccent1);
+        }
+
+        .bttnrange button:first-child {
+            border-radius: .25rem 0 0 .25rem;
         }
 
         .bttnrange button:last-child {
-            border-right: 1px solid black;
+            border-radius: 0 .25rem .25rem 0;
+            border-right: 1px solid var(--colorText);
         }
 
         .bttnrangeBttn {
             background-color: var(--colorSecondary2);
         }
 
-        .bttnrangeBttn.active {
+        .bttnrangeBttn.active,
+        .bttnrangeBttn.active:hover {
             background-color: var(--colorSecondary1);
+            box-shadow: none;
+            /* box-shadow: inset 0 .25rem .5rem var(--colorHighlight); */
         }
 
         div#tags {
-            padding: 1rem;
+            padding: 0 1rem;
         }
 
         div.tag {
-            background-color: var(--colorSecondary2);
+            background-color: var(--colorPrimary);
+            color: var(--colorBackground);
             display: inline-block;
+            font-size: 0.75rem;
             margin: 0 .25rem .25rem 0;
-            padding: 0.25rem;
+            padding: 0.25rem .5rem;
         }
 
         div.tagWrapper {
@@ -141,8 +167,6 @@
             <!-- <p>"npm run dev" // "rs" to restart server live</p>
  -->
 
-            <p>Number of Entries then Play Count</p>
-            TODO: add recent filter switch, genre cleans up ?
             <div id="filter">
                 <div id="options">
                     <span>
@@ -172,8 +196,10 @@
             <div id="tags"></div>
 
 
-            <p id="tableCount"></p>
-            <table id="tracks"></table>
+            <div id="main">
+                <p id="tableCount"></p>
+                <table id="tracks"></table>
+            </div>
 
             <script>
                 // ******************************************
@@ -188,6 +214,7 @@
                 let delayUpdate = ''
                 let listGenres = {}
                 let searchGenres = []
+                let organizedGenres = {}
                 let dateRangeAll = 0
                 let prioritizeTracks = 0
                 getGenreList()
@@ -234,7 +261,9 @@
 
 
                 inputGenre.addEventListener('focus', function (event) {
+
                     selectGenres.className = 'active';
+                    populateAutoComplete()
                 })
 
                 inputGenre.addEventListener('blur', function (event) {
@@ -313,8 +342,6 @@
                 bttnPrioritizeTracks.addEventListener('click', function (event) {
                     prioritizeTracks = 0
 
-
-
                     fetchTable()
                 })
 
@@ -343,10 +370,15 @@
                     if (event.target && event.target.classList.contains('dynamic-element')) {
 
                         console.log(event.target.innerHTML)
-                        currentGenre = event.target.innerHTML
-                        // inputGenre.value = currentGenre
+                        currentGenre = ''
 
-                        searchGenres.push(event.target.innerHTML)
+
+
+
+                        genres = organizedGenres[event.target.innerHTML]
+                        for (var i = 0; i < genres.length; i++) {
+                            searchGenres.push(genres[i])
+                        }
 
 
                         delayUpdate = setTimeout(function () {
@@ -354,7 +386,7 @@
                         }, 250)
 
 
-                        updateSearchGenres()
+                        fetchTable()
                     }
                 });
 
@@ -441,6 +473,7 @@
                             } // test if serach is in genre
                         }//
 
+
                         console.log(searchGenres)
                     }
 
@@ -460,16 +493,17 @@
 
 
                     selectGenres.innerHTML = ''
-                    for (genre in listGenres) {
-                        const stripped = genre.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
-                        if (regex.test(stripped)) {
+                    genreKeys = Object.keys(organizedGenres)
+                    for (var i = 0; i < genreKeys.length; i++) {
+                        if (regex.test(organizedGenres[genreKeys[i]])) {
                             const entry = document.createElement('li');
                             entry.classList.add('dynamic-element');
 
-                            entry.innerHTML = genre
+                            entry.innerHTML = genreKeys[i]
                             selectGenres.appendChild(entry)
                         } // test if serach is in genre
                     }
+
                 }
 
 
@@ -492,10 +526,8 @@
 
                             })
                             .then(data => {
-
+                                let tempObj = {}
                                 data.forEach(track => {
-                                    // console.log(track)
-                                    const trackRow = document.createElement('tr');
 
 
                                     for (columns in track) {
@@ -504,10 +536,40 @@
 
                                         listGenres[column] = column
 
+                                        // organizedGenres
+
+                                        // strip out all the punctuation, split by word, if less than 3 char - kick out, check if cluster exists, add the original genre to each cluster
+
+                                        let stripped = column.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, ' ');
+                                        stripped = stripped.toLowerCase()
+                                        const clusters = stripped.split(' ')
+
+                                        for (var i = 0; i < clusters.length; i++) {
+                                            if (clusters[i].length > 2) {
+                                                if (!tempObj[clusters[i]]) tempObj[clusters[i]] = []
+
+                                                tempObj[clusters[i]].push(column)
+                                            }
+                                        }
+
+
                                     } // each col
 
 
                                 }); // each row
+
+
+                                const genreKeys = Object.keys(tempObj)
+
+                                for (var i = 0; i < genreKeys.length; i++) {
+                                    if (tempObj[genreKeys[i]].length > 1) {
+                                        organizedGenres[genreKeys[i]] = tempObj[genreKeys[i]]
+                                    }
+                                }
+
+
+                                console.log(organizedGenres)
+
 
                                 updateSearchGenres()
 
@@ -531,7 +593,7 @@
 
                     const tableCount = document.getElementById('tableCount')
                     // console.log(rows)
-                    tableCount.innerHTML = `0 rows`
+                    tableCount.innerHTML = `0 total rows`
 
                     const params = new URLSearchParams();
                     searchGenres.forEach((item, index) => {
@@ -564,7 +626,7 @@
 
                             const tableCount = document.getElementById('tableCount')
                             // console.log(rows)
-                            tableCount.innerHTML = `${rows} rows`
+                            tableCount.innerHTML = `${rows} total rows`
 
                             // let debug = 0
                             data.forEach(track => {

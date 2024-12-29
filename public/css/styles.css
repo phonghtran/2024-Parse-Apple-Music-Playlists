@@ -5,6 +5,9 @@
   --colorBackground: #f7f5ff;
   --colorAccent1: #c4008d;
   --colorAccent2: #964b00;
+  --colorText: #000;
+  --colorShadow:   rgba(0, 0, 0, .25);
+  --colorHighlight: rgba(255, 255, 255, .25);
 
   --weightThin: 100;
   --weightExtraLight: 200;
@@ -31,6 +34,10 @@ button {
   color: var(--colorBackground);
   cursor: pointer;
 }
+
+ button:hover {
+            background-color: var(--colorAccent1);
+        }
 
 h1,
 h2,
@@ -66,6 +73,10 @@ h6 {
 #navPrimary li {
   margin-right: 1.5rem;
   display: inline-block;
+}
+
+#navPrimary li.active {
+  background-color: var(--colorAccent1);
 }
 
 /* Add some basic styling for the text inside each list item */

@@ -27,3 +27,15 @@
 
     </li>
 </ul>
+
+<script>
+    console.log(window.location.href, 'hi')
+
+    const links = document.getElementsByTagName('a')
+
+    for (var i = 0; i < links.length; i++) {
+        if (links[i].href === window.location.href) {
+            links[i].parentElement.classList.add('active')
+        }
+    }
+</script>

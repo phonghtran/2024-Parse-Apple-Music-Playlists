@@ -1,20 +1,25 @@
 <%- include ('../partials/head.ejs') %>
 
     <style>
+        #main {
+            margin: 0 1rem;
+        }
+
         table {
             border-collapse: collapse;
-            border: 1px solid black;
+            border: 1px solid var(--colorText);
+            width: 100%;
         }
 
         td,
         th {
-            border: 1px solid black;
+            border: 1px solid var(--colorText);
             min-width: auto
         }
 
         button {
             background-color: var(--colorSecondary1);
-            border: 1px solid black;
+            border: 1px solid var(--colorText);
             padding: 1rem;
         }
 
@@ -22,13 +27,11 @@
             background-color: var(--colorSecondary2);
         }
 
-        button:hover {
-            background-color: var(--colorAccent1);
-        }
+
 
         #tabs {
 
-            padding: 0 0.5rem;
+            margin: 1rem;
 
             position: relative;
         }
@@ -64,8 +67,10 @@
             </div>
 
 
-            <p id="tableCount"></p>
-            <table id="tracks"></table>
+            <div id="main">
+                <p id="tableCount"></p>
+                <table id="tracks"></table>
+            </div>
 
             <script>
                 console.log('fetching')
