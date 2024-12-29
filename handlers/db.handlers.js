@@ -44,7 +44,7 @@ const getTracks = async (req, res, params) => {
 
   //   const sortType = req.query.sort;
 
-  const { sort, genre } = params;
+  const { sort } = params;
 
   // console.log(sortType);
 
@@ -88,17 +88,34 @@ const getTracks = async (req, res, params) => {
       break;
 
     case "hot":
-      let where = ''
-      if (req.query.genre) {
+      const { prioritizeTracks } = params;
+
+      let where = '';
+
+
+      console.log(params, req.query)
+      if (params.genre) {
         const items = Object.values(req.query.genre);
-
-
 
         const placeholders = items.map((item) => `"${item}"`).join(", ");
         where = `WHERE genre IN (${placeholders})`
       }
 
-      sql = `SELECT artist, COUNT(DISTINCT name), SUM( playcount), MAX(playlistName) FROM tracks ${where} GROUP BY artist ORDER BY COUNT(DISTINCT name) DESC, SUM( playcount) DESC, MAX(playlistName) DESC`;
+      const orderItems = [
+        'COUNT(DISTINCT name) DESC',
+        'MAX( playcount) DESC',
+        'MAX(playlistName) DESC'
+      ]
+      let orderBy = ''
+      if (prioritizeTracks === '0') {
+        orderBy = `ORDER BY ${orderItems[0]}, ${orderItems[1]}, ${orderItems[2]}`
+      } else if (prioritizeTracks === '1') {
+        orderBy = `ORDER BY ${orderItems[1]}, ${orderItems[0]}, ${orderItems[2]}`
+      } else {
+        orderBy = `ORDER BY ${orderItems[2]}, ${orderItems[0]}, ${orderItems[1]}`
+      }
+
+      sql = `SELECT artist, COUNT(DISTINCT name) AS 'unique tracks', MAX( playcount) AS 'total plays', MAX(playlistName) as 'latest entry' FROM tracks ${where} GROUP BY artist ${orderBy}`;
 
 
       break;
@@ -109,7 +126,7 @@ const getTracks = async (req, res, params) => {
       break;
   }
 
-  // console.log(sql);
+  console.log(sql);
 
   db.all(sql, [], (err, rows) => {
     // console.log(rows, err);

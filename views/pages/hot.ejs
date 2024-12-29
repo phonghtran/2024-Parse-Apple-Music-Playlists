@@ -25,6 +25,10 @@
             background-color: var(--colorBackground);
         }
 
+        tr.trackRow.hidden {
+            display: none;
+        }
+
         button {
             background-color: var(--colorSecondary1);
             border: 1px solid black;
@@ -33,7 +37,15 @@
 
 
         #filter {
+            display: flex;
+            justify-content: space-between;
             padding: 1rem;
+
+        }
+
+        #options {
+            display: flex;
+            gap: 2rem;
         }
 
         #selectGenres {
@@ -62,6 +74,27 @@
 
         #selectGenres li:hover {
             background-color: var(--colorSecondary2);
+        }
+
+        .bttnrange {
+            display: flex;
+            position: relative;
+        }
+
+        .bttnrange button {
+            border-right: 0;
+        }
+
+        .bttnrange button:last-child {
+            border-right: 1px solid black;
+        }
+
+        .bttnrangeBttn {
+            background-color: var(--colorSecondary2);
+        }
+
+        .bttnrangeBttn.active {
+            background-color: var(--colorSecondary1);
         }
 
         div#tags {
@@ -109,16 +142,30 @@
  -->
 
             <p>Number of Entries then Play Count</p>
+            TODO: add recent filter switch, genre cleans up ?
             <div id="filter">
-                <label for="inputGenre">Add Genre</label>
-                <input type="text" name="inputGenre" id="inputGenre" placeholder="Add Genre">
+                <div id="options">
+                    <span>
+                        <label for="inputGenre">Add Genre</label>
+                        <input type="text" name="inputGenre" id="inputGenre" placeholder="Add Genre">
+                    </span>
 
+                    <div class="bttnrange">
+                        <button id="bttnDateRangeAll" class="bttnrangeBttn active filterDateRange">All Dates</button>
+                        <button id="bttnDateRangeRecent" class="bttnrangeBttn filterDateRange">Recent</button>
+                    </div>
+
+
+                    <div class="bttnrange">
+                        <button id="bttnPrioritizeTracks" class="bttnrangeBttn active filterPrioritze">Tracks</button>
+                        <button id="bttnPrioritizePlayCounts" class="bttnrangeBttn filterPrioritze">Play Counts</button>
+                        <button id="bttnPrioritizeDate" class="bttnrangeBttn filterPrioritze">Latest Entry</button>
+                    </div>
+                    <ul id="selectGenres">
+
+                    </ul>
+                </div>
                 <button id="bttnClearAll" class="">Clear All</button>
-
-                <ul id="selectGenres">
-
-                </ul>
-
 
             </div>
 
@@ -129,7 +176,11 @@
             <table id="tracks"></table>
 
             <script>
-                // console.log('fetching')
+                // ******************************************
+                // ******************************************
+                // JS start vars
+                // ******************************************
+                // ******************************************
 
                 let tablecount = 0;
                 let sortType = 'hot'
@@ -137,13 +188,22 @@
                 let delayUpdate = ''
                 let listGenres = {}
                 let searchGenres = []
-                // fetchTable()
+                let dateRangeAll = 0
+                let prioritizeTracks = 0
                 getGenreList()
 
                 const inputGenre = document.getElementById("inputGenre")
                 const tags = document.getElementById("tags")
                 const selectGenres = document.getElementById("selectGenres")
                 const bttnClearAll = document.getElementById("bttnClearAll")
+                const bttnDateRangeAll = document.getElementById("bttnDateRangeAll")
+                const bttnDateRangeRecent = document.getElementById("bttnDateRangeRecent")
+                const bttnPrioritizeTracks = document.getElementById("bttnPrioritizeTracks")
+                const bttnPrioritizePlayCounts = document.getElementById("bttnPrioritizePlayCounts")
+                const bttnPrioritizeDate = document.getElementById("bttnPrioritizeDate")
+
+
+
 
 
                 // ******************************************
@@ -192,8 +252,82 @@
                 bttnClearAll.addEventListener('click', function (event) {
                     currentGenre = ''
                     searchGenres = []
-                    updateTags()
-                    populateAutoComplete()
+                    prioritizeTracks = 0
+                    dateRangeAll = 0
+
+                    fetchTable()
+                })
+
+
+                // ******************************************
+                // ******************************************
+                // buttoinputDateRanges
+                // ******************************************
+                // ******************************************
+
+                function toggleDateRange() {
+                    const rows = document.getElementsByClassName('trackRow')
+
+                    for (var i = 0; i < rows.length; i++) {
+                        const row = rows[i]
+                        if (dateRangeAll === 1) {
+
+
+                            const today = new Date();
+                            const pastDate = new Date(row.getAttribute('data-date')); // Replace with your date
+
+                            const timeDifference = Math.abs(today - pastDate); // Convert time difference from milliseconds to days 
+                            const dayDifference = Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
+
+                            if (dayDifference < 365 * 2) {
+                                row.classList.remove('hidden')
+                            } else {
+                                row.classList.add('hidden')
+                            }
+                        } else {
+                            row.classList.remove('hidden')
+                        } // if range is limited or not
+                    }
+                }
+
+                bttnDateRangeAll.addEventListener('click', function (event) {
+                    dateRangeAll = 0
+                    updateUI();
+
+                    toggleDateRange()
+                })
+
+                bttnDateRangeRecent.addEventListener('click', function (event) {
+                    dateRangeAll = 1
+                    updateUI();
+                    toggleDateRange()
+                })
+
+                // ******************************************
+                // ******************************************
+                // buttons for sort order priority
+                // ******************************************
+                // ******************************************
+
+
+                bttnPrioritizeTracks.addEventListener('click', function (event) {
+                    prioritizeTracks = 0
+
+
+
+                    fetchTable()
+                })
+
+                bttnPrioritizePlayCounts.addEventListener('click', function (event) {
+                    prioritizeTracks = 1
+
+                    fetchTable()
+                })
+
+
+                bttnPrioritizeDate.addEventListener('click', function (event) {
+                    prioritizeTracks = 2
+
                     fetchTable()
                 })
 
@@ -229,7 +363,7 @@
                 // tags
                 // ******************************************
                 // ******************************************
-                function updateTags() {
+                function updateUI() {
                     tags.innerHTML = ''
 
                     for (var i = 0; i < searchGenres.length; i++) {
@@ -237,15 +371,29 @@
                         entry.classList.add('tag');
                         entry.setAttribute('data-genre', searchGenres[i]);
 
-
-
                         entry.innerHTML = searchGenres[i]
-
-
 
                         tags.appendChild(entry)
 
                     }
+
+                    const filterPrioritze = document.getElementsByClassName('filterPrioritze')
+                    for (var i = 0; i < filterPrioritze.length; i++) {
+                        if (prioritizeTracks === i) {
+                            filterPrioritze[i].classList.add('active')
+                        } else {
+                            filterPrioritze[i].classList.remove('active')
+                        }
+                    }
+                    const filterDateRange = document.getElementsByClassName('filterDateRange')
+                    for (var i = 0; i < filterDateRange.length; i++) {
+                        if (dateRangeAll === i) {
+                            filterDateRange[i].classList.add('active')
+                        } else {
+                            filterDateRange[i].classList.remove('active')
+                        }
+                    }
+
                 }
 
 
@@ -261,7 +409,7 @@
                         const index = searchGenres.indexOf(removeTag);
                         if (index !== -1) { searchGenres.splice(index, 1); }
 
-                        updateTags();
+
                         fetchTable();
                     }
                 });
@@ -284,8 +432,6 @@
                         // searchGenres = []
                         const regex = new RegExp(currentGenre, 'i'); // Create a case-insensitive regex
 
-
-
                         for (genre in listGenres) {
                             const stripped = genre.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
                             if (regex.test(stripped)) {
@@ -298,14 +444,9 @@
                         console.log(searchGenres)
                     }
 
-                    updateTags()
-                    populateAutoComplete()
-                    // selectGenres.className = ''
+                    updateUI();
                     fetchTable()
                 }
-
-
-
 
 
                 // ******************************************
@@ -314,7 +455,7 @@
                 // ******************************************
                 // ******************************************
                 function populateAutoComplete() {
-                    // console.log(listGenres)
+
                     const regex = new RegExp(inputGenre.value, 'i'); // Create a case-insensitive regex
 
 
@@ -328,15 +469,13 @@
                             entry.innerHTML = genre
                             selectGenres.appendChild(entry)
                         } // test if serach is in genre
-
-
                     }
                 }
 
 
                 // ******************************************
                 // ******************************************
-                // fetches
+                // get genre list
                 // ******************************************
                 // ******************************************
 
@@ -380,6 +519,12 @@
 
                 } //getGenreList
 
+                // ******************************************
+                // ******************************************
+                // fetches table
+                // ******************************************
+                // ******************************************
+
                 function fetchTable() {
                     const tracksDiv = document.getElementById('tracks');
                     tracksDiv.innerHTML = ''
@@ -388,15 +533,12 @@
                     // console.log(rows)
                     tableCount.innerHTML = `0 rows`
 
-
-
-
                     const params = new URLSearchParams();
                     searchGenres.forEach((item, index) => {
                         params.append(`genre[${index}]`, item);
                     });
 
-                    fetch(`/tracks?sort=${sortType}&${params.toString()}`)
+                    fetch(`/tracks?sort=${sortType}&prioritizeTracks=${prioritizeTracks}&${params.toString()}`)
                         .then(response => {
                             if (response.ok) { // Check if response is OK (200-299)
                                 return response.json(); // If true, return the JSON data
@@ -428,7 +570,7 @@
                             data.forEach(track => {
                                 // console.log(track)
                                 const trackRow = document.createElement('tr');
-
+                                trackRow.className = 'trackRow'
                                 // if (debug === 0) {
                                 //     debug++
                                 //     console.log(track)
@@ -442,8 +584,9 @@
                                     t1.textContent = (columns === 'pairedName' || columns === 'genre') ? column.slice(0, 18) + '…' : column
                                     trackRow.appendChild(t1)
 
-                                    if (columns === 'MAX(playlistName)') {
+                                    if (columns === 'latest entry') {
                                         // console.log(column)
+                                        trackRow.setAttribute('data-date', column)
 
                                         const today = new Date();
                                         const pastDate = new Date(column); // Replace with your date
@@ -452,11 +595,11 @@
                                         const dayDifference = Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
 
                                         if (dayDifference < 365) {
-                                            trackRow.className = "tint0"
+                                            trackRow.classList.add('tint0')
                                         } else if (dayDifference > 365 && dayDifference < 365 * 2) {
-                                            trackRow.className = "tint1"
+                                            trackRow.classList.add('tint1')
                                         } else {
-                                            trackRow.className = "tint2"
+                                            trackRow.classList.add('tint2')
                                         }
                                     }
 
@@ -466,7 +609,8 @@
 
                                 tracksDiv.appendChild(trackRow);
                             }); // each row
-
+                            toggleDateRange()
+                            updateUI();
                         })
                         .catch(error => console.error('Error fetching tracks:', error))
                         ;
