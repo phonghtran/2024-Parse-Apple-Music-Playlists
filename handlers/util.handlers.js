@@ -20,10 +20,7 @@ const getGenreColors = (req, res, params) => {
 
   const testBank = [
     { genre: "Pop", color: "#fd7f6f" },
-    {
-      genre: "K-Pop",
-      color: "#fd7f6f",
-    },
+    { genre: "K-Pop", color: "#fd7f6f" },
 
     { genre: "Hip-Hop", color: "#7eb0d5" },
     { genre: "Rap", color: "#7eb0d5" },
@@ -65,6 +62,8 @@ const getGenreColors = (req, res, params) => {
 
     { genre: "Christian", color: "#00BFFF" },
     { genre: "Gospel", color: "#00BFFF" },
+
+    { genre: "Anime", color: colord("#b2e061").saturate(0.25).toHex() },
   ];
 
   let bestScore = {

@@ -4,7 +4,7 @@
   --colorSecondary2: #b57ae4;
   --colorBackground: #f7f5ff;
   --colorAccent1: #c4008d;
-  --colorAccent2: #964b00;
+  --colorAccent2: #e8d55d;
   --colorText: #000;
   --colorShadow: rgba(0, 0, 0, 0.25);
   --colorHighlight: rgba(255, 255, 255, 0.25);
@@ -77,7 +77,11 @@ h6 {
 }
 
 #navPrimary li.active {
-  background-color: var(--colorAccent1);
+  background-color: var(--colorAccent2);
+}
+
+#navPrimary li.active a {
+  color: var(--colorText);
 }
 
 /* Add some basic styling for the text inside each list item */
@@ -109,7 +113,7 @@ button.nav,
 table {
   border-collapse: collapse;
   border: 1px solid var(--colorSecondary1);
-  width: 100vw;
+  width: 100%;
 }
 tr:nth-child(even) {
   background-color: var(--colorSecondary2);
