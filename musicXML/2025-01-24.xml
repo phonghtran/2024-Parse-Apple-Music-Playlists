@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-01-24T18:45:48Z</date>
+	<key>Application Version</key><string>1.5.2.56</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31341</key>
+		<dict>
+			<key>Track ID</key><integer>31341</integer>
+			<key>Name</key><string>Bitch Better Have My Money</string>
+			<key>Artist</key><string>Rihanna</string>
+			<key>Album Artist</key><string>Rihanna</string>
+			<key>Composer</key><string>Jamille Pierre, Badrilla Bourelly, Robyn Rihanna Fenty &#38; Travis Scott</string>
+			<key>Album</key><string>Bitch Better Have My Money - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7906867</integer>
+			<key>Total Time</key><integer>219306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-10-11T23:15:27Z</date>
+			<key>Date Added</key><date>2015-10-11T23:15:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3820341630</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:00:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-07T03:23:06Z</date>
+			<key>Release Date</key><date>2015-03-26T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5496</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bitch Better Have My Money - Single</string>
+			<key>Sort Artist</key><string>Rihanna</string>
+			<key>Sort Name</key><string>Bitch Better Have My Money</string>
+			<key>Persistent ID</key><string>2124C011DF62FFE4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>42914</key>
+		<dict>
+			<key>Track ID</key><integer>42914</integer>
+			<key>Name</key><string>Cookie</string>
+			<key>Artist</key><string>NewJeans</string>
+			<key>Album Artist</key><string>NewJeans</string>
+			<key>Composer</key><string>Ylva Dimberg, Jinsu Park &#38; Gigi</string>
+			<key>Album</key><string>NewJeans 1st EP 'New Jeans'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8380386</integer>
+			<key>Total Time</key><integer>235562</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2023-01-31T16:29:49Z</date>
+			<key>Date Added</key><date>2023-01-31T16:29:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3820342460</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:14:20Z</date>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NewJeans 1st EP 'New Jeans'</string>
+			<key>Sort Artist</key><string>NewJeans</string>
+			<key>Sort Name</key><string>Cookie</string>
+			<key>Persistent ID</key><string>F6DD6C13820E655D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45599</key>
+		<dict>
+			<key>Track ID</key><integer>45599</integer>
+			<key>Name</key><string>tres tristes tragos</string>
+			<key>Artist</key><string>Young Miko</string>
+			<key>Album Artist</key><string>Young Miko</string>
+			<key>Composer</key><string>María Victoria Ramírez De Arellano Cardona, Diego Amaury Lopez Crespo, Hector C. Lopez Jimenez, Robert Rodriguez Cruz &#38; Mariana Beatriz Lopez Crespo</string>
+			<key>Album</key><string>att. (Apple Music Edition)</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5719072</integer>
+			<key>Total Time</key><integer>155214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-03-21T16:17:13Z</date>
+			<key>Date Added</key><date>2024-04-05T03:03:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3820342224</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:10:24Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-01-04T05:01:45Z</date>
+			<key>Release Date</key><date>2024-04-05T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2505</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>att. (Apple Music Edition)</string>
+			<key>Sort Artist</key><string>Young Miko</string>
+			<key>Sort Name</key><string>tres tristes tragos</string>
+			<key>Persistent ID</key><string>8AFCC31390EFAB7B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45609</key>
+		<dict>
+			<key>Track ID</key><integer>45609</integer>
+			<key>Name</key><string>curita</string>
+			<key>Artist</key><string>Young Miko</string>
+			<key>Album Artist</key><string>Young Miko</string>
+			<key>Composer</key><string>María Victoria Ramírez De Arellano Cardona, Diego Amaury Lopez Crespo, joan manuel Ubinas &#38; Abner Cordero Boria</string>
+			<key>Album</key><string>att. (Apple Music Edition)</string>
+			<key>Genre</key><string>Latin</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5285620</integer>
+			<key>Total Time</key><integer>145000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-03-21T16:17:13Z</date>
+			<key>Date Added</key><date>2024-03-21T16:17:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3820343797</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:36:37Z</date>
+			<key>Release Date</key><date>2024-03-06T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4985</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>att. (Apple Music Edition)</string>
+			<key>Sort Artist</key><string>Young Miko</string>
+			<key>Sort Name</key><string>curita</string>
+			<key>Persistent ID</key><string>9E7F868F5AF90796</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47881</key>
+		<dict>
+			<key>Track ID</key><integer>47881</integer>
+			<key>Name</key><string>Saturn</string>
+			<key>Artist</key><string>SZA</string>
+			<key>Album Artist</key><string>SZA</string>
+			<key>Composer</key><string>SZA, Carter Lang, Rob Bisel, Jared Solomon, Scott Zhang &#38; Cian Ducrot</string>
+			<key>Album</key><string>Saturn - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7242110</integer>
+			<key>Total Time</key><integer>186192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-10-28T13:48:00Z</date>
+			<key>Date Added</key><date>2024-10-28T13:48:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3820343150</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:25:50Z</date>
+			<key>Release Date</key><date>2024-02-23T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4722</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Saturn - Single</string>
+			<key>Sort Artist</key><string>SZA</string>
+			<key>Sort Name</key><string>Saturn</string>
+			<key>Persistent ID</key><string>A2036229D0A0A189</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47963</key>
+		<dict>
+			<key>Track ID</key><integer>47963</integer>
+			<key>Name</key><string>Sunday Best</string>
+			<key>Artist</key><string>Lauren Mayberry</string>
+			<key>Album Artist</key><string>Lauren Mayberry</string>
+			<key>Composer</key><string>Lauren Mayberry &#38; Greg Kurstin</string>
+			<key>Album</key><string>Vicious Creature</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9154030</integer>
+			<key>Total Time</key><integer>258661</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-03T18:49:57Z</date>
+			<key>Date Added</key><date>2024-12-06T05:03:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3820344204</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:43:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-11T03:30:50Z</date>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vicious Creature</string>
+			<key>Sort Artist</key><string>Lauren Mayberry</string>
+			<key>Sort Name</key><string>Sunday Best</string>
+			<key>Persistent ID</key><string>F8C2070776259450</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48331</key>
+		<dict>
+			<key>Track ID</key><integer>48331</integer>
+			<key>Name</key><string>Derre</string>
+			<key>Artist</key><string>BIBI</string>
+			<key>Album Artist</key><string>BIBI</string>
+			<key>Composer</key><string>FRNK, Ylva Dimberg &#38; BIBI</string>
+			<key>Album</key><string>Derre - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5759491</integer>
+			<key>Total Time</key><integer>156474</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-18T01:21:23Z</date>
+			<key>Date Added</key><date>2024-11-18T01:21:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3820343949</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:39:09Z</date>
+			<key>Release Date</key><date>2024-11-14T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Derre - Single</string>
+			<key>Sort Artist</key><string>BIBI</string>
+			<key>Sort Name</key><string>Derre</string>
+			<key>Persistent ID</key><string>B1CC230C35592625</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48377</key>
+		<dict>
+			<key>Track ID</key><integer>48377</integer>
+			<key>Name</key><string>luther</string>
+			<key>Artist</key><string>Kendrick Lamar &#38; SZA</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, SZA, Ink, Sam Dew, Sounwave, Jack Antonoff, Rose Lilah, M-Tech, Kamasi Washington &#38; Bridgeway</string>
+			<key>Album</key><string>GNX</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6491724</integer>
+			<key>Total Time</key><integer>177599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-23T07:04:23Z</date>
+			<key>Date Added</key><date>2024-11-23T07:04:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3820344378</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:46:18Z</date>
+			<key>Release Date</key><date>2024-11-21T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2287</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GNX</string>
+			<key>Sort Artist</key><string>Kendrick Lamar &#38; SZA</string>
+			<key>Sort Name</key><string>luther</string>
+			<key>Persistent ID</key><string>248A886085FF6345</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48387</key>
+		<dict>
+			<key>Track ID</key><integer>48387</integer>
+			<key>Name</key><string>dodger blue (feat. Wallie the Sensei, Siete7x &#38; Roddy Ricch)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, Wallie the Sensei, Siete7x, Sam Dew, Tim Maxey, Tane Runo, Sounwave, Jack Antonoff &#38; Terrace Martin</string>
+			<key>Album</key><string>GNX</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4981577</integer>
+			<key>Total Time</key><integer>131241</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-23T07:04:23Z</date>
+			<key>Date Added</key><date>2024-11-23T07:04:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3820343460</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:31:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-11-23T07:20:54Z</date>
+			<key>Release Date</key><date>2024-11-22T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GNX</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>dodger blue (feat. Wallie the Sensei, Siete7x &#38; Roddy Ricch)</string>
+			<key>Persistent ID</key><string>B91A6B3354E192E9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48627</key>
+		<dict>
+			<key>Track ID</key><integer>48627</integer>
+			<key>Name</key><string>GESHUOU</string>
+			<key>Artist</key><string>INOHA</string>
+			<key>Album Artist</key><string>INOHA</string>
+			<key>Composer</key><string>Keanu Bicol, Christian Young, Gavin Gonzalez &#38; Ricardo Juarez III</string>
+			<key>Album</key><string>ALOHA INOHA</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7137478</integer>
+			<key>Total Time</key><integer>199830</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-12-14T14:00:26Z</date>
+			<key>Date Added</key><date>2024-12-14T14:00:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3820343656</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:34:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-11T03:30:58Z</date>
+			<key>Release Date</key><date>2024-04-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ALOHA INOHA</string>
+			<key>Sort Artist</key><string>INOHA</string>
+			<key>Sort Name</key><string>GESHUOU</string>
+			<key>Persistent ID</key><string>0899B9875B0C2F09</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48647</key>
+		<dict>
+			<key>Track ID</key><integer>48647</integer>
+			<key>Name</key><string>Probably</string>
+			<key>Artist</key><string>YOASOBI</string>
+			<key>Album Artist</key><string>YOASOBI</string>
+			<key>Composer</key><string>Ayase</string>
+			<key>Album</key><string>THE BOOK</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8961354</integer>
+			<key>Total Time</key><integer>256773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-12-16T17:22:28Z</date>
+			<key>Date Added</key><date>2024-12-16T17:22:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3820342968</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:22:48Z</date>
+			<key>Release Date</key><date>2020-07-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3235</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BOOK</string>
+			<key>Sort Artist</key><string>YOASOBI</string>
+			<key>Sort Name</key><string>Probably</string>
+			<key>Persistent ID</key><string>40F8D055AA6E172B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48755</key>
+		<dict>
+			<key>Track ID</key><integer>48755</integer>
+			<key>Name</key><string>sugarcoat - kiss of life ukg flip</string>
+			<key>Artist</key><string>hongye</string>
+			<key>Album Artist</key><string>hongye</string>
+			<key>Composer</key><string>hongo swag</string>
+			<key>Album</key><string>sugarcoat - kiss of life ukg flip - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5189460</integer>
+			<key>Total Time</key><integer>135462</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2024-12-21T16:49:28Z</date>
+			<key>Date Added</key><date>2024-12-21T16:49:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3820040883</integer>
+			<key>Play Date UTC</key><date>2025-01-18T15:28:03Z</date>
+			<key>Release Date</key><date>2023-07-27T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5205</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>sugarcoat - kiss of life ukg flip - Single</string>
+			<key>Sort Artist</key><string>hongye</string>
+			<key>Sort Name</key><string>sugarcoat - kiss of life ukg flip</string>
+			<key>Persistent ID</key><string>9D96B7EB564DBC7F</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>48771</key>
+		<dict>
+			<key>Track ID</key><integer>48771</integer>
+			<key>Name</key><string>Ever Seen</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus</string>
+			<key>Album</key><string>This Is How Tomorrow Moves</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7351071</integer>
+			<key>Total Time</key><integer>203760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-12-24T02:07:32Z</date>
+			<key>Date Added</key><date>2024-12-24T02:07:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3820341830</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:03:50Z</date>
+			<key>Release Date</key><date>2024-07-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>This Is How Tomorrow Moves</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Ever Seen</string>
+			<key>Persistent ID</key><string>CBC8B234602E6524</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48809</key>
+		<dict>
+			<key>Track ID</key><integer>48809</integer>
+			<key>Name</key><string>Be Your Girl (KAYTRANADA Edition) [Mixed]</string>
+			<key>Artist</key><string>KAYTRANADA &#38; Teedra Moses</string>
+			<key>Album Artist</key><string>Sound Expansion</string>
+			<key>Album</key><string>iMullar 005 Live: Sound Expansion at Energy 002, Accra (DJ Mix)</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8812596</integer>
+			<key>Total Time</key><integer>246666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-12-28T04:59:32Z</date>
+			<key>Date Added</key><date>2024-12-28T04:59:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3820342073</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:07:53Z</date>
+			<key>Release Date</key><date>2022-09-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>iMullar 005 Live: Sound Expansion at Energy 002, Accra (DJ Mix)</string>
+			<key>Sort Artist</key><string>KAYTRANADA &#38; Teedra Moses</string>
+			<key>Sort Name</key><string>Be Your Girl (KAYTRANADA Edition) [Mixed]</string>
+			<key>Persistent ID</key><string>179895DA311CAF07</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49327</key>
+		<dict>
+			<key>Track ID</key><integer>49327</integer>
+			<key>Name</key><string>Wo Ai Ni</string>
+			<key>Artist</key><string>Cody・Lee</string>
+			<key>Album Artist</key><string>Cody・Lee</string>
+			<key>Composer</key><string>高橋響</string>
+			<key>Album</key><string>Seikatsu no news</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10467936</integer>
+			<key>Total Time</key><integer>296120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2025-01-20T07:47:32Z</date>
+			<key>Date Added</key><date>2025-01-20T07:47:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3820344670</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:51:10Z</date>
+			<key>Release Date</key><date>2020-12-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Seikatsu no news</string>
+			<key>Sort Artist</key><string>Cody・Lee</string>
+			<key>Sort Name</key><string>Wo Ai Ni</string>
+			<key>Persistent ID</key><string>53BE645A2656DAE9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49329</key>
+		<dict>
+			<key>Track ID</key><integer>49329</integer>
+			<key>Name</key><string>Flirt With A Gun</string>
+			<key>Artist</key><string>Dews Pegahorn</string>
+			<key>Album Artist</key><string>Dews Pegahorn</string>
+			<key>Composer</key><string>Moreno Goncalo</string>
+			<key>Album</key><string>Flirt With A Gun - Single</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5073776</integer>
+			<key>Total Time</key><integer>134829</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-01-20T15:18:55Z</date>
+			<key>Date Added</key><date>2025-01-20T15:18:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3820344801</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:53:21Z</date>
+			<key>Release Date</key><date>2024-07-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Flirt With A Gun - Single</string>
+			<key>Sort Artist</key><string>Dews Pegahorn</string>
+			<key>Sort Name</key><string>Flirt With A Gun</string>
+			<key>Persistent ID</key><string>946EBC42CAB47BB3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49335</key>
+		<dict>
+			<key>Track ID</key><integer>49335</integer>
+			<key>Name</key><string>Anyone In Love</string>
+			<key>Artist</key><string>Jalen Ngonda</string>
+			<key>Album Artist</key><string>Jalen Ngonda</string>
+			<key>Composer</key><string>Michael Buckley, Vincent Chiarito &#38; Jalen Ngonda</string>
+			<key>Album</key><string>Anyone In Love - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6699795</integer>
+			<key>Total Time</key><integer>186991</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-01-20T15:21:51Z</date>
+			<key>Date Added</key><date>2025-01-20T15:21:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3820343333</integer>
+			<key>Play Date UTC</key><date>2025-01-22T03:28:53Z</date>
+			<key>Release Date</key><date>2024-09-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Anyone In Love - Single</string>
+			<key>Sort Artist</key><string>Jalen Ngonda</string>
+			<key>Sort Name</key><string>Anyone In Love</string>
+			<key>Persistent ID</key><string>A56E175800FEBA32</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>130562</key>
+		<dict>
+			<key>Track ID</key><integer>130562</integer>
+			<key>Name</key><string>Maybe In Nirvana</string>
+			<key>Artist</key><string>Smino</string>
+			<key>Album Artist</key><string>Smino</string>
+			<key>Composer</key><string>Christopher Smith Jr.</string>
+			<key>Album</key><string>Maybe in Nirvana</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6520788</integer>
+			<key>Total Time</key><integer>177555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-01-24T18:18:18Z</date>
+			<key>Date Added</key><date>2025-01-24T18:18:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Maybe in Nirvana</string>
+			<key>Sort Artist</key><string>Smino</string>
+			<key>Sort Name</key><string>Maybe In Nirvana</string>
+			<key>Persistent ID</key><string>D88A8C66AB3EB5E3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>123517</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>45599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130562</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

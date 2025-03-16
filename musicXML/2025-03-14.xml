@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-03-14T13:34:02Z</date>
+	<key>Application Version</key><string>1.5.2.56</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/tempy/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>71DA21F766D2F984</string>
+	<key>Tracks</key>
+	<dict>
+		<key>47461</key>
+		<dict>
+			<key>Track ID</key><integer>47461</integer>
+			<key>Name</key><string>A Work Of Fiction</string>
+			<key>Artist</key><string>Lauren Mayberry</string>
+			<key>Album Artist</key><string>Lauren Mayberry</string>
+			<key>Composer</key><string>Lauren Mayberry &#38; Ethan Gruska</string>
+			<key>Album</key><string>Vicious Creature</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5245207</integer>
+			<key>Total Time</key><integer>140626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-03T19:49:57Z</date>
+			<key>Date Added</key><date>2024-12-06T05:03:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3824539922</integer>
+			<key>Play Date UTC</key><date>2025-03-11T16:12:02Z</date>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vicious Creature</string>
+			<key>Sort Artist</key><string>Lauren Mayberry</string>
+			<key>Sort Name</key><string>Work Of Fiction</string>
+			<key>Persistent ID</key><string>194E71EA8930A44C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47463</key>
+		<dict>
+			<key>Track ID</key><integer>47463</integer>
+			<key>Name</key><string>Sunday Best</string>
+			<key>Artist</key><string>Lauren Mayberry</string>
+			<key>Album Artist</key><string>Lauren Mayberry</string>
+			<key>Composer</key><string>Lauren Mayberry &#38; Greg Kurstin</string>
+			<key>Album</key><string>Vicious Creature</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9154030</integer>
+			<key>Total Time</key><integer>258661</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-03T19:49:57Z</date>
+			<key>Date Added</key><date>2024-12-06T05:03:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3824748416</integer>
+			<key>Play Date UTC</key><date>2025-03-14T02:06:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-02-21T14:19:21Z</date>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vicious Creature</string>
+			<key>Sort Artist</key><string>Lauren Mayberry</string>
+			<key>Sort Name</key><string>Sunday Best</string>
+			<key>Persistent ID</key><string>F8C2070776259450</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48183</key>
+		<dict>
+			<key>Track ID</key><integer>48183</integer>
+			<key>Name</key><string>Ever Seen</string>
+			<key>Artist</key><string>beabadoobee</string>
+			<key>Album Artist</key><string>beabadoobee</string>
+			<key>Composer</key><string>Beatrice Laus</string>
+			<key>Album</key><string>This Is How Tomorrow Moves</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7351071</integer>
+			<key>Total Time</key><integer>203760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-12-24T03:07:32Z</date>
+			<key>Date Added</key><date>2024-12-24T02:07:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3824747243</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:47:23Z</date>
+			<key>Release Date</key><date>2024-07-01T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5507</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>This Is How Tomorrow Moves</string>
+			<key>Sort Artist</key><string>beabadoobee</string>
+			<key>Sort Name</key><string>Ever Seen</string>
+			<key>Persistent ID</key><string>CBC8B234602E6524</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48273</key>
+		<dict>
+			<key>Track ID</key><integer>48273</integer>
+			<key>Name</key><string>Chin Up</string>
+			<key>Artist</key><string>Sam Fender</string>
+			<key>Album Artist</key><string>Sam Fender</string>
+			<key>Composer</key><string>Sam Fender</string>
+			<key>Album</key><string>People Watching</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7889102</integer>
+			<key>Total Time</key><integer>203147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-01-11T16:54:27Z</date>
+			<key>Date Added</key><date>2025-01-11T15:54:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3824747696</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:54:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-11T12:48:38Z</date>
+			<key>Release Date</key><date>2025-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6752</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>People Watching</string>
+			<key>Sort Artist</key><string>Sam Fender</string>
+			<key>Sort Name</key><string>Chin Up</string>
+			<key>Persistent ID</key><string>726DA25DE057DB28</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48577</key>
+		<dict>
+			<key>Track ID</key><integer>48577</integer>
+			<key>Name</key><string>DiCaprio (Love Me All the Time)</string>
+			<key>Artist</key><string>Juice</string>
+			<key>Album Artist</key><string>Juice</string>
+			<key>Composer</key><string>Christian Andrew Rougeau, Benjamin Carrion Stevens, Kamau Omari Burton, Daniel Joseph Moss, Michael Andrew Ricciardulli, Rami El-Abidin &#38; Robert Miles Clyatt</string>
+			<key>Album</key><string>Konoha - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7529319</integer>
+			<key>Total Time</key><integer>211835</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2025-02-08T14:11:39Z</date>
+			<key>Date Added</key><date>2025-02-08T13:11:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3824746753</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:39:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-09T18:22:17Z</date>
+			<key>Release Date</key><date>2020-02-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Konoha - EP</string>
+			<key>Sort Artist</key><string>Juice</string>
+			<key>Sort Name</key><string>DiCaprio (Love Me All the Time)</string>
+			<key>Persistent ID</key><string>4677E376AE7028ED</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48579</key>
+		<dict>
+			<key>Track ID</key><integer>48579</integer>
+			<key>Name</key><string>Thank Goodness</string>
+			<key>Artist</key><string>Hope Tala</string>
+			<key>Album Artist</key><string>Hope Tala</string>
+			<key>Composer</key><string>Hope Natasha McDonald, Ajay Bhattacharyya &#38; Caroline Ailin</string>
+			<key>Album</key><string>Hope Handwritten</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7176472</integer>
+			<key>Total Time</key><integer>200062</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-02-08T15:00:19Z</date>
+			<key>Date Added</key><date>2025-02-08T14:00:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3824052558</integer>
+			<key>Play Date UTC</key><date>2025-03-06T01:49:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-03-13T23:07:42Z</date>
+			<key>Release Date</key><date>2024-08-16T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2367</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hope Handwritten</string>
+			<key>Sort Artist</key><string>Hope Tala</string>
+			<key>Sort Name</key><string>Thank Goodness</string>
+			<key>Persistent ID</key><string>1E1C0DF9A3983BDB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48971</key>
+		<dict>
+			<key>Track ID</key><integer>48971</integer>
+			<key>Name</key><string>Everything Is Peaceful Love</string>
+			<key>Artist</key><string>Bon Iver</string>
+			<key>Album Artist</key><string>Bon Iver</string>
+			<key>Composer</key><string>Justin Vernon, Brandon Burton &#38; James Stack</string>
+			<key>Album</key><string>SABLE, fABLE</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7604593</integer>
+			<key>Total Time</key><integer>210055</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-02-18T02:22:23Z</date>
+			<key>Date Added</key><date>2025-02-18T01:22:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3824749066</integer>
+			<key>Play Date UTC</key><date>2025-03-14T02:17:46Z</date>
+			<key>Release Date</key><date>2025-02-14T08:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SABLE, fABLE</string>
+			<key>Sort Artist</key><string>Bon Iver</string>
+			<key>Sort Name</key><string>Everything Is Peaceful Love</string>
+			<key>Persistent ID</key><string>D1A91988BC50FC4A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>48973</key>
+		<dict>
+			<key>Track ID</key><integer>48973</integer>
+			<key>Name</key><string>CUT UP</string>
+			<key>Artist</key><string>SAILORR</string>
+			<key>Album Artist</key><string>SAILORR</string>
+			<key>Composer</key><string>Kayla Le, Zachary Ezickson, Adam Krevlin &#38; Jake Hogan</string>
+			<key>Album</key><string>CUT UP - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6543375</integer>
+			<key>Total Time</key><integer>176785</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-02-18T02:26:01Z</date>
+			<key>Date Added</key><date>2025-02-18T01:26:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3824746429</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:33:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-07T23:42:14Z</date>
+			<key>Release Date</key><date>2025-01-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>CUT UP - EP</string>
+			<key>Sort Artist</key><string>SAILORR</string>
+			<key>Sort Name</key><string>CUT UP</string>
+			<key>Persistent ID</key><string>81F8AB60C8F634DA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>137116</key>
+		<dict>
+			<key>Track ID</key><integer>137116</integer>
+			<key>Name</key><string>Slow Dance</string>
+			<key>Artist</key><string>Clairo</string>
+			<key>Album Artist</key><string>Clairo</string>
+			<key>Composer</key><string>Claire Cottrill, Leon Michels, Homer Steinweiss, Nick Movshon &#38; Dylan Nowik</string>
+			<key>Album</key><string>Charm</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8366516</integer>
+			<key>Total Time</key><integer>234854</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-02-26T19:49:33Z</date>
+			<key>Date Added</key><date>2025-02-26T18:49:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3824749313</integer>
+			<key>Play Date UTC</key><date>2025-03-14T02:21:53Z</date>
+			<key>Release Date</key><date>2024-07-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2700</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Charm</string>
+			<key>Sort Artist</key><string>Clairo</string>
+			<key>Sort Name</key><string>Slow Dance</string>
+			<key>Persistent ID</key><string>AE6918BDF986C00B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>142991</key>
+		<dict>
+			<key>Track ID</key><integer>142991</integer>
+			<key>Name</key><string>Last</string>
+			<key>Artist</key><string>Tourist &#38; The Range</string>
+			<key>Album Artist</key><string>Tourist &#38; The Range</string>
+			<key>Composer</key><string>William Phillips &#38; James Hilton</string>
+			<key>Album</key><string>Last - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10269393</integer>
+			<key>Total Time</key><integer>294519</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2025-03-04T15:05:54Z</date>
+			<key>Date Added</key><date>2025-03-04T14:05:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3824747043</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:44:03Z</date>
+			<key>Release Date</key><date>2020-06-24T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2701</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last - Single</string>
+			<key>Sort Artist</key><string>Tourist &#38; The Range</string>
+			<key>Sort Name</key><string>Last</string>
+			<key>Persistent ID</key><string>EE69895622B63897</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>142997</key>
+		<dict>
+			<key>Track ID</key><integer>142997</integer>
+			<key>Name</key><string>Crazy Stupid Love</string>
+			<key>Artist</key><string>Emei</string>
+			<key>Album Artist</key><string>Emei</string>
+			<key>Composer</key><string>Emily Li, Kyle Reynolds, Aaron Berton, Matt Crawford &#38; Noemie Legrand</string>
+			<key>Album</key><string>Crazy Stupid Love - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5823535</integer>
+			<key>Total Time</key><integer>156333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-03-04T15:05:56Z</date>
+			<key>Date Added</key><date>2025-03-04T14:05:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3824747395</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:49:55Z</date>
+			<key>Release Date</key><date>2025-02-26T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Crazy Stupid Love - Single</string>
+			<key>Sort Artist</key><string>Emei</string>
+			<key>Sort Name</key><string>Crazy Stupid Love</string>
+			<key>Persistent ID</key><string>1274ADC57742F559</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>151964</key>
+		<dict>
+			<key>Track ID</key><integer>151964</integer>
+			<key>Name</key><string>Swamp Bitches</string>
+			<key>Artist</key><string>Doechii &#38; Rico Nasty</string>
+			<key>Album Artist</key><string>Doechii</string>
+			<key>Composer</key><string>Jaylah Hickmon, Kalon Berry &#38; Maria-Cecilia Simone Kelly</string>
+			<key>Album</key><string>she / her / black bitch - EP</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6533631</integer>
+			<key>Total Time</key><integer>180076</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2025-03-10T18:11:36Z</date>
+			<key>Date Added</key><date>2025-03-10T18:11:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3824748161</integer>
+			<key>Play Date UTC</key><date>2025-03-14T02:02:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-11T16:34:55Z</date>
+			<key>Release Date</key><date>2022-08-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>she / her / black bitch - EP</string>
+			<key>Sort Artist</key><string>Doechii &#38; Rico Nasty</string>
+			<key>Sort Name</key><string>Swamp Bitches</string>
+			<key>Persistent ID</key><string>0DC8FB6F3B097148</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>152311</key>
+		<dict>
+			<key>Track ID</key><integer>152311</integer>
+			<key>Name</key><string>Wandering Star</string>
+			<key>Artist</key><string>Portishead</string>
+			<key>Album Artist</key><string>Portishead</string>
+			<key>Composer</key><string>Harold Ray Brown, Charles William Miller, Morris Dewayne Dickerson, Howard E. Scott, Gerald Goldstein, Lee Oskar, Geoff Barrow, Beth Gibbons, Lonnie Le Roy Jordan &#38; Thomas Sylvester Allen</string>
+			<key>Album</key><string>Dummy</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10348545</integer>
+			<key>Total Time</key><integer>293200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2025-03-10T18:22:26Z</date>
+			<key>Date Added</key><date>2025-03-10T18:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3824747985</integer>
+			<key>Play Date UTC</key><date>2025-03-14T01:59:45Z</date>
+			<key>Release Date</key><date>1994-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dummy</string>
+			<key>Sort Artist</key><string>Portishead</string>
+			<key>Sort Name</key><string>Wandering Star</string>
+			<key>Persistent ID</key><string>F677A4111ABC4594</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>154223</key>
+		<dict>
+			<key>Track ID</key><integer>154223</integer>
+			<key>Name</key><string>BIG DUMMY!</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Lamar Hill, Alex Goldblatt, Matt Campfield &#38; Daniel Klein</string>
+			<key>Album</key><string>BIG DUMMY! - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4670650</integer>
+			<key>Total Time</key><integer>125894</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-03-11T16:21:43Z</date>
+			<key>Date Added</key><date>2025-03-11T16:21:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3824737658</integer>
+			<key>Play Date UTC</key><date>2025-03-13T23:07:38Z</date>
+			<key>Release Date</key><date>2025-03-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BIG DUMMY! - Single</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>BIG DUMMY!</string>
+			<key>Persistent ID</key><string>0586DB52784712D8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>157322</key>
+		<dict>
+			<key>Track ID</key><integer>157322</integer>
+			<key>Name</key><string>How Long Have You Been Away?</string>
+			<key>Artist</key><string>kryptogram</string>
+			<key>Album Artist</key><string>kryptogram</string>
+			<key>Composer</key><string>Igor Loncar</string>
+			<key>Album</key><string>Krypt. Vol2</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7701512</integer>
+			<key>Total Time</key><integer>208570</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2025-03-14T11:36:11Z</date>
+			<key>Date Added</key><date>2025-03-14T11:36:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3824784049</integer>
+			<key>Play Date UTC</key><date>2025-03-14T12:00:49Z</date>
+			<key>Release Date</key><date>2021-01-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Krypt. Vol2</string>
+			<key>Sort Artist</key><string>kryptogram</string>
+			<key>Sort Name</key><string>How Long Have You Been Away?</string>
+			<key>Persistent ID</key><string>81518758F6D8EB3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>128871</integer>
+			<key>Playlist Persistent ID</key><string>AD0417E29FCC880A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>48183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>152311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>154223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157322</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
