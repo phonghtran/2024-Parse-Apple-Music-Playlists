@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-27T16:38:21Z</date>
+	<key>Application Version</key><string>1.5.5.34</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C0460E3786369261</string>
+	<key>Tracks</key>
+	<dict>
+		<key>18347</key>
+		<dict>
+			<key>Track ID</key><integer>18347</integer>
+			<key>Name</key><string>Days Are Passing</string>
+			<key>Artist</key><string>BROODS</string>
+			<key>Album Artist</key><string>BROODS</string>
+			<key>Composer</key><string>Georgia Nott, Caleb Nott &#38; Noah Beresin</string>
+			<key>Album</key><string>Space Island</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7943127</integer>
+			<key>Total Time</key><integer>224093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2025-04-06T03:26:04Z</date>
+			<key>Date Added</key><date>2025-04-06T03:26:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3833455865</integer>
+			<key>Play Date UTC</key><date>2025-06-22T20:51:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-25T12:41:30Z</date>
+			<key>Release Date</key><date>2022-02-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Space Island</string>
+			<key>Sort Artist</key><string>BROODS</string>
+			<key>Sort Name</key><string>Days Are Passing</string>
+			<key>Persistent ID</key><string>1349DBBE9B309DCE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18473</key>
+		<dict>
+			<key>Track ID</key><integer>18473</integer>
+			<key>Name</key><string>ACTIN UP WITH SEXYY RED</string>
+			<key>Artist</key><string>Tommy Richman &#38; Sexyy Red</string>
+			<key>Album Artist</key><string>Tommy Richman &#38; Sexyy Red</string>
+			<key>Composer</key><string>Tommy Richman, Sexyy Red, Roman Ortiz, Max Vossberg &#38; Drew Belk</string>
+			<key>Album</key><string>ACTIN UP WITH SEXYY RED - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5105941</integer>
+			<key>Total Time</key><integer>135946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-22T20:09:06Z</date>
+			<key>Date Added</key><date>2025-04-22T20:09:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3833542510</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:55:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-05-31T13:28:42Z</date>
+			<key>Release Date</key><date>2025-04-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ACTIN UP WITH SEXYY RED - Single</string>
+			<key>Sort Artist</key><string>Tommy Richman &#38; Sexyy Red</string>
+			<key>Sort Name</key><string>ACTIN UP WITH SEXYY RED</string>
+			<key>Persistent ID</key><string>128E48A33D0E42DD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>47069</key>
+		<dict>
+			<key>Track ID</key><integer>47069</integer>
+			<key>Name</key><string>Lavender Haze (Felix Jaehn Remix)</string>
+			<key>Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Album Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Composer</key><string>Taylor Swift, Jack Antonoff, Zoë Kravitz, Mark Anthony Spears, Jahaan Akil Sweet &#38; Sam Dew</string>
+			<key>Album</key><string>Lavender Haze (Felix Jaehn Remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6267914</integer>
+			<key>Total Time</key><integer>171562</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-02-15T00:22:17Z</date>
+			<key>Date Added</key><date>2023-02-15T00:22:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3833541671</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:41:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-06-09T18:44:27Z</date>
+			<key>Release Date</key><date>2023-02-10T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lavender Haze (Felix Jaehn Remix) - Single</string>
+			<key>Sort Artist</key><string>Taylor Swift &#38; Felix Jaehn</string>
+			<key>Sort Name</key><string>Lavender Haze (Felix Jaehn Remix)</string>
+			<key>Persistent ID</key><string>707E7CF07159620A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49495</key>
+		<dict>
+			<key>Track ID</key><integer>49495</integer>
+			<key>Name</key><string>Walls Could Talk</string>
+			<key>Artist</key><string>Halsey</string>
+			<key>Album Artist</key><string>Halsey</string>
+			<key>Composer</key><string>Ashley Frangipane &#38; Peder Losnegård</string>
+			<key>Album</key><string>hopeless fountain kingdom</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4010278</integer>
+			<key>Total Time</key><integer>101790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2025-04-30T12:42:53Z</date>
+			<key>Date Added</key><date>2025-04-30T12:42:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3833455478</integer>
+			<key>Play Date UTC</key><date>2025-06-22T20:44:38Z</date>
+			<key>Release Date</key><date>2017-06-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2614</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>hopeless fountain kingdom</string>
+			<key>Sort Artist</key><string>Halsey</string>
+			<key>Sort Name</key><string>Walls Could Talk</string>
+			<key>Persistent ID</key><string>2F7EA450B2A160FA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49497</key>
+		<dict>
+			<key>Track ID</key><integer>49497</integer>
+			<key>Name</key><string>WASSUP</string>
+			<key>Artist</key><string>Young Miko</string>
+			<key>Album Artist</key><string>Young Miko</string>
+			<key>Composer</key><string>Maria V. Ramirez de Arellano Cardona, Diego Amaury Lopez, Dwayne Carter, Darius Harrison, James Scheffer, Rex Zamor, Sean Garrett &#38; Joyce Santana</string>
+			<key>Album</key><string>WASSUP - Single</string>
+			<key>Genre</key><string>Urbano latino</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5910865</integer>
+			<key>Total Time</key><integer>162263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-30T15:31:41Z</date>
+			<key>Date Added</key><date>2025-04-30T15:31:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3833455636</integer>
+			<key>Play Date UTC</key><date>2025-06-22T20:47:16Z</date>
+			<key>Release Date</key><date>2025-04-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WASSUP - Single</string>
+			<key>Sort Artist</key><string>Young Miko</string>
+			<key>Sort Name</key><string>WASSUP</string>
+			<key>Persistent ID</key><string>FB5BAD07A08CF9B4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49669</key>
+		<dict>
+			<key>Track ID</key><integer>49669</integer>
+			<key>Name</key><string>Love Me Not</string>
+			<key>Artist</key><string>Ravyn Lenae</string>
+			<key>Album Artist</key><string>Ravyn Lenae</string>
+			<key>Composer</key><string>Anderson .Paak, Brent Reynolds, Christian Farlow, Craig Balmoris, Dacoury Dahi Natche, Dominic Angelella, Jaelen Irizarry, Julian Nixon, Ravyn Lenae, Sarah Aarons &#38; Spencer Stewart</string>
+			<key>Album</key><string>Bird's Eye</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7628572</integer>
+			<key>Total Time</key><integer>213467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-05-09T15:16:33Z</date>
+			<key>Date Added</key><date>2025-05-09T15:16:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3833540967</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:29:27Z</date>
+			<key>Release Date</key><date>2024-05-03T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3203</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bird's Eye</string>
+			<key>Sort Artist</key><string>Ravyn Lenae</string>
+			<key>Sort Name</key><string>Love Me Not</string>
+			<key>Persistent ID</key><string>0AD0F772FA50F444</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49875</key>
+		<dict>
+			<key>Track ID</key><integer>49875</integer>
+			<key>Name</key><string>You Better Run To the City of Refuge</string>
+			<key>Artist</key><string>Dr. C.J. Johnson</string>
+			<key>Album Artist</key><string>Dr. C.J. Johnson</string>
+			<key>Composer</key><string>Claude J. Johnson</string>
+			<key>Album</key><string>In an Old Time Song Service</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7899223</integer>
+			<key>Total Time</key><integer>202080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1965</integer>
+			<key>Date Modified</key><date>2025-05-18T14:42:27Z</date>
+			<key>Date Added</key><date>2025-05-18T14:42:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3833541365</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:36:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-05-19T01:27:11Z</date>
+			<key>Release Date</key><date>1965-10-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In an Old Time Song Service</string>
+			<key>Sort Artist</key><string>Dr. C.J. Johnson</string>
+			<key>Sort Name</key><string>You Better Run To the City of Refuge</string>
+			<key>Persistent ID</key><string>A49768089F1FA6B1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49879</key>
+		<dict>
+			<key>Track ID</key><integer>49879</integer>
+			<key>Name</key><string>Amen</string>
+			<key>Artist</key><string>Madison Ryann Ward</string>
+			<key>Album Artist</key><string>Madison Ryann Ward</string>
+			<key>Composer</key><string>Madison Ryann Ward &#38; Joel Setien</string>
+			<key>Album</key><string>Amen - Single</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5304859</integer>
+			<key>Total Time</key><integer>142857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-05-19T01:18:40Z</date>
+			<key>Date Added</key><date>2025-05-19T01:18:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3833541503</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:38:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-20T16:38:15Z</date>
+			<key>Release Date</key><date>2024-08-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1866</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Amen - Single</string>
+			<key>Sort Artist</key><string>Madison Ryann Ward</string>
+			<key>Sort Name</key><string>Amen</string>
+			<key>Persistent ID</key><string>0F7A2F0F5843D9A1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49963</key>
+		<dict>
+			<key>Track ID</key><integer>49963</integer>
+			<key>Name</key><string>Good Luck, Babe!</string>
+			<key>Artist</key><string>Chappell Roan</string>
+			<key>Album Artist</key><string>Chappell Roan</string>
+			<key>Composer</key><string>Kayleigh Rose Amstutz, Daniel Nigro &#38; Justin Tranter</string>
+			<key>Album</key><string>Good Luck, Babe! - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7798443</integer>
+			<key>Total Time</key><integer>218424</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-05-23T19:11:04Z</date>
+			<key>Date Added</key><date>2025-05-23T19:11:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3833542728</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:58:48Z</date>
+			<key>Release Date</key><date>2024-04-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Good Luck, Babe! - Single</string>
+			<key>Sort Artist</key><string>Chappell Roan</string>
+			<key>Sort Name</key><string>Good Luck, Babe!</string>
+			<key>Persistent ID</key><string>E75D9965854345AE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49975</key>
+		<dict>
+			<key>Track ID</key><integer>49975</integer>
+			<key>Name</key><string>Rocky Road to Dublin</string>
+			<key>Artist</key><string>Jack O'Connell, Brian Dunphy &#38; Darren Holden</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Sinners (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7934660</integer>
+			<key>Total Time</key><integer>218987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-05-27T02:56:35Z</date>
+			<key>Date Added</key><date>2025-05-27T02:56:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3833542378</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:52:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-06-07T18:13:06Z</date>
+			<key>Release Date</key><date>2025-04-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sinners (Original Motion Picture Soundtrack)</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Sort Artist</key><string>Jack O'Connell, Brian Dunphy &#38; Darren Holden</string>
+			<key>Sort Name</key><string>Rocky Road to Dublin</string>
+			<key>Persistent ID</key><string>CE640ACE0301E8C1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132401</key>
+		<dict>
+			<key>Track ID</key><integer>132401</integer>
+			<key>Name</key><string>Typa</string>
+			<key>Artist</key><string>GloRilla</string>
+			<key>Album Artist</key><string>GloRilla</string>
+			<key>Composer</key><string>Gloria Woods, Keyshia Cole, Greg Curtis, Tommy Brown, Courtlin Jabrae Edwards &#38; Marqueze Parker</string>
+			<key>Album</key><string>Typa - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4629104</integer>
+			<key>Total Time</key><integer>124138</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-08T02:54:33Z</date>
+			<key>Date Added</key><date>2025-06-08T02:54:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3833542003</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:46:43Z</date>
+			<key>Release Date</key><date>2025-06-06T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Typa - Single</string>
+			<key>Sort Artist</key><string>GloRilla</string>
+			<key>Sort Name</key><string>Typa</string>
+			<key>Persistent ID</key><string>6DD6384C689485E5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132420</key>
+		<dict>
+			<key>Track ID</key><integer>132420</integer>
+			<key>Name</key><string>Save My Love</string>
+			<key>Artist</key><string>Marshmello, Ellie Goulding &#38; AVAION</string>
+			<key>Album Artist</key><string>Marshmello, Ellie Goulding &#38; AVAION</string>
+			<key>Composer</key><string>Marshmello, Ellie Goulding, AVAION, Jake Torrey, Riley McDonough, Connor McDonough, Gray Hawken &#38; Tiernan Kelly</string>
+			<key>Album</key><string>Save My Love - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7785968</integer>
+			<key>Total Time</key><integer>215556</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-08T03:38:16Z</date>
+			<key>Date Added</key><date>2025-06-08T03:38:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3833541882</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:44:42Z</date>
+			<key>Release Date</key><date>2025-06-06T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Save My Love - Single</string>
+			<key>Sort Artist</key><string>Marshmello, Ellie Goulding &#38; AVAION</string>
+			<key>Sort Name</key><string>Save My Love</string>
+			<key>Persistent ID</key><string>953E286D16B9C788</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132423</key>
+		<dict>
+			<key>Track ID</key><integer>132423</integer>
+			<key>Name</key><string>No Broke Boys</string>
+			<key>Artist</key><string>Disco Lines &#38; Tinashe</string>
+			<key>Album Artist</key><string>Disco Lines &#38; Tinashe</string>
+			<key>Composer</key><string>Eric Frederic, Michael Edward Neil, Thadeus Labuszewski &#38; Tinashe</string>
+			<key>Album</key><string>No Broke Boys - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5974923</integer>
+			<key>Total Time</key><integer>163994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-08T03:41:09Z</date>
+			<key>Date Added</key><date>2025-06-08T03:41:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3833872452</integer>
+			<key>Play Date UTC</key><date>2025-06-27T16:34:12Z</date>
+			<key>Release Date</key><date>2025-06-06T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Broke Boys - Single</string>
+			<key>Sort Artist</key><string>Disco Lines &#38; Tinashe</string>
+			<key>Sort Name</key><string>No Broke Boys</string>
+			<key>Persistent ID</key><string>656539052681FC43</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>132451</key>
+		<dict>
+			<key>Track ID</key><integer>132451</integer>
+			<key>Name</key><string>C*NT</string>
+			<key>Artist</key><string>Flyana Boss</string>
+			<key>Album Artist</key><string>Flyana Boss</string>
+			<key>Composer</key><string>Bobbi LaNea, Breyan Isaac, Folayan Kunerede &#38; Mark Gozman</string>
+			<key>Album</key><string>C*NT - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7368197</integer>
+			<key>Total Time</key><integer>203571</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-08T04:11:54Z</date>
+			<key>Date Added</key><date>2025-06-08T04:11:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3833541166</integer>
+			<key>Play Date UTC</key><date>2025-06-23T20:32:46Z</date>
+			<key>Release Date</key><date>2025-05-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>C*NT - Single</string>
+			<key>Sort Artist</key><string>Flyana Boss</string>
+			<key>Sort Name</key><string>C*NT</string>
+			<key>Persistent ID</key><string>DFEFDD5D51D5509C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>147515</key>
+		<dict>
+			<key>Track ID</key><integer>147515</integer>
+			<key>Name</key><string>Vertigo</string>
+			<key>Artist</key><string>Griff</string>
+			<key>Album Artist</key><string>Griff</string>
+			<key>Composer</key><string>Sam Tsang &#38; Sarah Griffiths</string>
+			<key>Album</key><string>Vertigo (Tour Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6419203</integer>
+			<key>Total Time</key><integer>179758</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-06-20T13:38:45Z</date>
+			<key>Date Added</key><date>2025-06-20T13:38:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3833455380</integer>
+			<key>Play Date UTC</key><date>2025-06-22T20:43:00Z</date>
+			<key>Release Date</key><date>2023-08-31T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vertigo (Tour Edition)</string>
+			<key>Sort Artist</key><string>Griff</string>
+			<key>Sort Name</key><string>Vertigo</string>
+			<key>Persistent ID</key><string>2A9B2AAE962CECA0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>131185</integer>
+			<key>Playlist Persistent ID</key><string>FED77535A9355BEB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147515</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

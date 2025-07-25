@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-05-09T15:05:37Z</date>
+	<key>Application Version</key><string>1.5.4.70</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>C0460E3786369261</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15715</key>
+		<dict>
+			<key>Track ID</key><integer>15715</integer>
+			<key>Name</key><string>Chin Up</string>
+			<key>Artist</key><string>Sam Fender</string>
+			<key>Album Artist</key><string>Sam Fender</string>
+			<key>Composer</key><string>Sam Fender</string>
+			<key>Album</key><string>People Watching</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7889102</integer>
+			<key>Total Time</key><integer>203147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-01-11T16:54:27Z</date>
+			<key>Date Added</key><date>2025-02-21T06:03:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3829285391</integer>
+			<key>Play Date UTC</key><date>2025-05-05T14:23:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2025-04-20T12:33:58Z</date>
+			<key>Release Date</key><date>2025-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>People Watching</string>
+			<key>Sort Artist</key><string>Sam Fender</string>
+			<key>Sort Name</key><string>Chin Up</string>
+			<key>Persistent ID</key><string>8FCD8ADF81A261CD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18051</key>
+		<dict>
+			<key>Track ID</key><integer>18051</integer>
+			<key>Name</key><string>Relationships</string>
+			<key>Artist</key><string>HAIM</string>
+			<key>Album Artist</key><string>HAIM</string>
+			<key>Composer</key><string>Danielle Haim, Alana Haim, Este Haim, Tobias Jesso Jr., Josiah Sherman, Rostam &#38; Ariel Rechtshaid</string>
+			<key>Album</key><string>Relationships - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7536202</integer>
+			<key>Total Time</key><integer>202027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-03-18T18:12:53Z</date>
+			<key>Date Added</key><date>2025-03-18T18:12:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3829281833</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:23:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-04-15T21:34:27Z</date>
+			<key>Release Date</key><date>2025-03-12T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Relationships - Single</string>
+			<key>Sort Artist</key><string>HAIM</string>
+			<key>Sort Name</key><string>Relationships</string>
+			<key>Persistent ID</key><string>B4F5EA9C84946778</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18079</key>
+		<dict>
+			<key>Track ID</key><integer>18079</integer>
+			<key>Name</key><string>DOWN BAD</string>
+			<key>Artist</key><string>SAILORR</string>
+			<key>Album Artist</key><string>SAILORR</string>
+			<key>Composer</key><string>Adam Krevlin, SAILORR &#38; Zachary Ezickson</string>
+			<key>Album</key><string>DOWN BAD - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4961800</integer>
+			<key>Total Time</key><integer>132247</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-05T11:30:39Z</date>
+			<key>Date Added</key><date>2025-04-05T11:30:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3829281635</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:20:35Z</date>
+			<key>Release Date</key><date>2025-03-28T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DOWN BAD - EP</string>
+			<key>Sort Artist</key><string>SAILORR</string>
+			<key>Sort Name</key><string>DOWN BAD</string>
+			<key>Persistent ID</key><string>4A2A1B73FC1A460D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18191</key>
+		<dict>
+			<key>Track ID</key><integer>18191</integer>
+			<key>Name</key><string>Days Are Passing</string>
+			<key>Artist</key><string>BROODS</string>
+			<key>Album Artist</key><string>BROODS</string>
+			<key>Composer</key><string>Georgia Nott, Caleb Nott &#38; Noah Beresin</string>
+			<key>Album</key><string>Space Island</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7943127</integer>
+			<key>Total Time</key><integer>224093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2025-04-06T03:26:04Z</date>
+			<key>Date Added</key><date>2025-04-06T03:26:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3829281249</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:14:09Z</date>
+			<key>Release Date</key><date>2022-02-18T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Space Island</string>
+			<key>Sort Artist</key><string>BROODS</string>
+			<key>Sort Name</key><string>Days Are Passing</string>
+			<key>Persistent ID</key><string>1349DBBE9B309DCE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18215</key>
+		<dict>
+			<key>Track ID</key><integer>18215</integer>
+			<key>Name</key><string>Tunnel Vision</string>
+			<key>Artist</key><string>Beach Bunny</string>
+			<key>Album Artist</key><string>Beach Bunny</string>
+			<key>Composer</key><string>Liliana Trifilio, Anthony Vaccaro &#38; Jon Alvarado</string>
+			<key>Album</key><string>Tunnel Vision - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6370003</integer>
+			<key>Total Time</key><integer>163700</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-06T15:26:42Z</date>
+			<key>Date Added</key><date>2025-04-06T15:26:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3829281409</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:16:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-04-16T17:12:05Z</date>
+			<key>Release Date</key><date>2025-02-07T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tunnel Vision - Single</string>
+			<key>Sort Artist</key><string>Beach Bunny</string>
+			<key>Sort Name</key><string>Tunnel Vision</string>
+			<key>Persistent ID</key><string>A21EEC261F10B322</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18317</key>
+		<dict>
+			<key>Track ID</key><integer>18317</integer>
+			<key>Name</key><string>ACTIN UP WITH SEXYY RED</string>
+			<key>Artist</key><string>Tommy Richman &#38; Sexyy Red</string>
+			<key>Album Artist</key><string>Tommy Richman &#38; Sexyy Red</string>
+			<key>Composer</key><string>Tommy Richman, Sexyy Red, Roman Ortiz, Max Vossberg &#38; Drew Belk</string>
+			<key>Album</key><string>ACTIN UP WITH SEXYY RED - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5105941</integer>
+			<key>Total Time</key><integer>135946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-22T20:09:06Z</date>
+			<key>Date Added</key><date>2025-04-22T20:09:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3829281029</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:10:29Z</date>
+			<key>Release Date</key><date>2025-04-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ACTIN UP WITH SEXYY RED - Single</string>
+			<key>Sort Artist</key><string>Tommy Richman &#38; Sexyy Red</string>
+			<key>Sort Name</key><string>ACTIN UP WITH SEXYY RED</string>
+			<key>Persistent ID</key><string>128E48A33D0E42DD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18323</key>
+		<dict>
+			<key>Track ID</key><integer>18323</integer>
+			<key>Name</key><string>Stateside</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>Caroline Ailin, Harrison Patrick Smith &#38; PinkPantheress</string>
+			<key>Album</key><string>Fancy That</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6161322</integer>
+			<key>Total Time</key><integer>168040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-25T20:52:54Z</date>
+			<key>Date Added</key><date>2025-04-25T20:52:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3829280695</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:04:55Z</date>
+			<key>Release Date</key><date>2025-04-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fancy That</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>Stateside</string>
+			<key>Persistent ID</key><string>BAFE71D254A422D1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18341</key>
+		<dict>
+			<key>Track ID</key><integer>18341</integer>
+			<key>Name</key><string>Truth Or Dare (LSDXOXO Remix) [Mixed]</string>
+			<key>Artist</key><string>Kelela</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Album</key><string>NYE 2022 (DJ Mix)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7389283</integer>
+			<key>Total Time</key><integer>206625</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2025-04-25T21:12:58Z</date>
+			<key>Date Added</key><date>2025-04-25T21:12:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3829280897</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:08:17Z</date>
+			<key>Release Date</key><date>2021-12-23T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>NYE 2022 (DJ Mix)</string>
+			<key>Sort Artist</key><string>Kelela</string>
+			<key>Sort Name</key><string>Truth Or Dare (LSDXOXO Remix) [Mixed]</string>
+			<key>Persistent ID</key><string>09B58268EE141A93</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>32203</key>
+		<dict>
+			<key>Track ID</key><integer>32203</integer>
+			<key>Name</key><string>It’s Nice To Have A Friend</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Louis Bell &#38; Adam Feeney</string>
+			<key>Album</key><string>Lover</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5584628</integer>
+			<key>Total Time</key><integer>150435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-08-23T12:29:06Z</date>
+			<key>Date Added</key><date>2019-08-23T12:29:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3829285187</integer>
+			<key>Play Date UTC</key><date>2025-05-05T14:19:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-07T22:06:09Z</date>
+			<key>Release Date</key><date>2019-08-23T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lover</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>It’s Nice To Have A Friend</string>
+			<key>Persistent ID</key><string>7F0FB092B9841A72</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>45391</key>
+		<dict>
+			<key>Track ID</key><integer>45391</integer>
+			<key>Name</key><string>Be Cool</string>
+			<key>Artist</key><string>Maggie Rogers</string>
+			<key>Album Artist</key><string>Maggie Rogers</string>
+			<key>Composer</key><string>Maggie Rogers &#38; Thomas Edward Percy Hull</string>
+			<key>Album</key><string>Surrender</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6463598</integer>
+			<key>Total Time</key><integer>177240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-08-01T01:32:38Z</date>
+			<key>Date Added</key><date>2022-08-01T01:32:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3829282165</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:29:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-04-19T21:05:19Z</date>
+			<key>Release Date</key><date>2022-07-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Surrender</string>
+			<key>Sort Artist</key><string>Maggie Rogers</string>
+			<key>Sort Name</key><string>Be Cool</string>
+			<key>Persistent ID</key><string>565E8A784751059D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>148638</key>
+		<dict>
+			<key>Track ID</key><integer>148638</integer>
+			<key>Name</key><string>Clover</string>
+			<key>Artist</key><string>IDK &#38; Joey Valence &#38; Brae</string>
+			<key>Album Artist</key><string>IDK &#38; Joey Valence &#38; Brae</string>
+			<key>Composer</key><string>Jason Mills, Joseph Bertolino &#38; Braedan Lugue</string>
+			<key>Album</key><string>Clover - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6886087</integer>
+			<key>Total Time</key><integer>190003</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-29T01:13:20Z</date>
+			<key>Date Added</key><date>2025-04-29T01:13:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3829485951</integer>
+			<key>Play Date UTC</key><date>2025-05-07T22:05:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-01T19:35:19Z</date>
+			<key>Release Date</key><date>2025-03-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clover - Single</string>
+			<key>Sort Artist</key><string>IDK &#38; Joey Valence &#38; Brae</string>
+			<key>Sort Name</key><string>Clover</string>
+			<key>Persistent ID</key><string>75E6D5D22165344B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>151620</key>
+		<dict>
+			<key>Track ID</key><integer>151620</integer>
+			<key>Name</key><string>Walls Could Talk</string>
+			<key>Artist</key><string>Halsey</string>
+			<key>Album Artist</key><string>Halsey</string>
+			<key>Composer</key><string>Ashley Frangipane &#38; Peder Losnegård</string>
+			<key>Album</key><string>hopeless fountain kingdom</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4010278</integer>
+			<key>Total Time</key><integer>101790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2025-04-30T12:42:53Z</date>
+			<key>Date Added</key><date>2025-04-30T12:42:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3829281507</integer>
+			<key>Play Date UTC</key><date>2025-05-05T13:18:27Z</date>
+			<key>Release Date</key><date>2017-06-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>hopeless fountain kingdom</string>
+			<key>Sort Artist</key><string>Halsey</string>
+			<key>Sort Name</key><string>Walls Could Talk</string>
+			<key>Persistent ID</key><string>2F7EA450B2A160FA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>151753</key>
+		<dict>
+			<key>Track ID</key><integer>151753</integer>
+			<key>Name</key><string>WASSUP</string>
+			<key>Artist</key><string>Young Miko</string>
+			<key>Album Artist</key><string>Young Miko</string>
+			<key>Composer</key><string>Maria V. Ramirez de Arellano Cardona, Diego Amaury Lopez, Dwayne Carter, Darius Harrison, James Scheffer, Rex Zamor, Sean Garrett &#38; Joyce Santana</string>
+			<key>Album</key><string>WASSUP - Single</string>
+			<key>Genre</key><string>Urbano latino</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5910865</integer>
+			<key>Total Time</key><integer>162263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-30T15:31:41Z</date>
+			<key>Date Added</key><date>2025-04-30T15:31:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3829485765</integer>
+			<key>Play Date UTC</key><date>2025-05-07T22:02:45Z</date>
+			<key>Release Date</key><date>2025-04-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WASSUP - Single</string>
+			<key>Sort Artist</key><string>Young Miko</string>
+			<key>Sort Name</key><string>WASSUP</string>
+			<key>Persistent ID</key><string>FB5BAD07A08CF9B4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>160395</key>
+		<dict>
+			<key>Track ID</key><integer>160395</integer>
+			<key>Name</key><string>The Chase</string>
+			<key>Artist</key><string>Hearts2Hearts</string>
+			<key>Album Artist</key><string>Hearts2Hearts</string>
+			<key>Composer</key><string>KENZIE, Lauren Faith, Hannah Yadi, Jorja Douglas, Renee Downer, Stella Quaresma &#38; No2zcat</string>
+			<key>Album</key><string>The Chase - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6783414</integer>
+			<key>Total Time</key><integer>178900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-05-07T17:27:00Z</date>
+			<key>Date Added</key><date>2025-05-07T17:27:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3829469345</integer>
+			<key>Play Date UTC</key><date>2025-05-07T17:29:05Z</date>
+			<key>Release Date</key><date>2025-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chase - Single</string>
+			<key>Sort Artist</key><string>Hearts2Hearts</string>
+			<key>Sort Name</key><string>Chase</string>
+			<key>Persistent ID</key><string>BA0E17B72C0F94E3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>160768</key>
+		<dict>
+			<key>Track ID</key><integer>160768</integer>
+			<key>Name</key><string>Is It Real (feat. Ravyn Lenae)</string>
+			<key>Artist</key><string>Flume &#38; JPEGMAFIA</string>
+			<key>Album Artist</key><string>Flume &#38; JPEGMAFIA</string>
+			<key>Composer</key><string>Flume, JPEGMAFIA, Ravyn Lenae &#38; Tinashe</string>
+			<key>Album</key><string>We Live In A Society - EP</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6283771</integer>
+			<key>Total Time</key><integer>169061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-05-07T22:07:30Z</date>
+			<key>Date Added</key><date>2025-05-07T22:07:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3829486136</integer>
+			<key>Play Date UTC</key><date>2025-05-07T22:08:56Z</date>
+			<key>Release Date</key><date>2025-05-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Live In A Society - EP</string>
+			<key>Sort Artist</key><string>Flume &#38; JPEGMAFIA</string>
+			<key>Sort Name</key><string>Is It Real (feat. Ravyn Lenae)</string>
+			<key>Persistent ID</key><string>B8F92B773B17103C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>130499</integer>
+			<key>Playlist Persistent ID</key><string>FED77535A9355BEB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160768</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
