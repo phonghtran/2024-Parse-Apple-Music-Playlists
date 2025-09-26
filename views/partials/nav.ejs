@@ -18,17 +18,17 @@
     <li>
         <a href="/hot">Hot</a>
     </li>
+    <% if (NODE_ENV !== 'production') { %>
     <li>
         <a href="/debug">Debug</a>
     </li>
     <li>
         <a href="/query">Query</a>
     </li>
-
     <li>
         <a href="/rebuild">Build DB</a>
-
     </li>
+    <% } %>
 </ul>
 
 <script>

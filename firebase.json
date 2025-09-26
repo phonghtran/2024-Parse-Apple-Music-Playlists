@@ -7,7 +7,15 @@
       ".git",
       "firebase-debug.log",
       "firebase-debug.*.log",
-      "functions"
+      "functions",
+      "*.log",
+      ".env*"
+    ],
+    "env": [
+      {
+        "variable": "NODE_ENV",
+        "value": "production"
+      }
     ]
   }
 }

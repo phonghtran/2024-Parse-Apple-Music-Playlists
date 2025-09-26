@@ -5,9 +5,23 @@
 *.tmp
 
 # Ignore all node_modules directories
-node_modules/
+/node_modules
 
 # Ignore all .idea folders (for IntelliJ IDEA users)
 .idea/
 
 .DS_STORE
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+.firebaserc
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Firebase App Hosting
+.apphosting/
