@@ -10,8 +10,7 @@
     "start": "node server.js",
     "dev": "nodemon --ext js,json,ejs,css app.js",
     "build": "echo 'Build complete'",
-    "deploy": "firebase apphosting:backends:create",
-    "deploy:update": "firebase apphosting:backends:deploy phong-music-explorer",
+    "deploy": "firebase deploy",
     "serve": "firebase serve"
   },
   "dependencies": {
