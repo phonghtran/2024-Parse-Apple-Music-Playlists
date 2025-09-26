@@ -4,7 +4,7 @@
   "description": "Apple Music Playlists Parser",
   "main": "server.js",
   "engines": {
-    "node": "18"
+    "node": ">=20"
   },
   "scripts": {
     "start": "node server.js",

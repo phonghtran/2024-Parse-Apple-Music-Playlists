@@ -92,6 +92,10 @@ app.use(express.static(path.join(__dirname, "public")));
 app.set("view engine", "ejs");
 // app.set("views", __dirname + "/views");
 
+// Make environment available to templates - ensure it's always defined  
+const nodeEnv = process.env.NODE_ENV || 'development';
+app.locals.NODE_ENV = nodeEnv;
+
 app.get("/", (req, res) => {
   res.render("pages/index");
 });
