@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-10-25T15:09:21Z</date>
+	<key>Application Version</key><string>1.6.0.151</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>B8C06F9A0CABC5D1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19020</key>
+		<dict>
+			<key>Track ID</key><integer>19020</integer>
+			<key>Name</key><string>Feels So Good</string>
+			<key>Artist</key><string>Aminé</string>
+			<key>Album Artist</key><string>Aminé</string>
+			<key>Composer</key><string>Adam Daniel, Dacoury Dahi Natche, Isaac "Zac" De Boni &#38; Michael "Finatik" Mulé</string>
+			<key>Album</key><string>13 Months of Sunshine</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4964537</integer>
+			<key>Total Time</key><integer>131053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-05-19T11:29:21Z</date>
+			<key>Date Added</key><date>2025-05-19T11:29:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3843542525</integer>
+			<key>Play Date UTC</key><date>2025-10-17T14:42:05Z</date>
+			<key>Release Date</key><date>2025-05-15T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>13 Months of Sunshine</string>
+			<key>Sort Artist</key><string>Aminé</string>
+			<key>Sort Name</key><string>Feels So Good</string>
+			<key>Persistent ID</key><string>5CD542207154844C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21253</key>
+		<dict>
+			<key>Track ID</key><integer>21253</integer>
+			<key>Name</key><string>Helium</string>
+			<key>Artist</key><string>The Chainsmokers &#38; Anna Sofia</string>
+			<key>Album Artist</key><string>The Chainsmokers &#38; Anna Sofia</string>
+			<key>Composer</key><string>Andrew Taggart, Alex Pall, Anna Vomvolakis, Tillis Churchill &#38; Collin Maguire</string>
+			<key>Album</key><string>Helium - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5194122</integer>
+			<key>Total Time</key><integer>138857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-08-15T16:09:35Z</date>
+			<key>Date Added</key><date>2025-08-15T16:09:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3842515647</integer>
+			<key>Play Date UTC</key><date>2025-10-05T17:27:27Z</date>
+			<key>Release Date</key><date>2025-08-15T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2240</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Helium - Single</string>
+			<key>Sort Album Artist</key><string>Chainsmokers &#38; Anna Sofia</string>
+			<key>Sort Artist</key><string>Chainsmokers &#38; Anna Sofia</string>
+			<key>Sort Name</key><string>Helium</string>
+			<key>Persistent ID</key><string>2008769EB6144BEC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>41592</key>
+		<dict>
+			<key>Track ID</key><integer>41592</integer>
+			<key>Name</key><string>How It's Done</string>
+			<key>Artist</key><string>Maren Morris</string>
+			<key>Album Artist</key><string>Maren Morris</string>
+			<key>Composer</key><string>Maren Morris, busbee &#38; Natalie Hemby</string>
+			<key>Album</key><string>Hero (Deluxe Edition)</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7387558</integer>
+			<key>Total Time</key><integer>205620</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-04T06:44:45Z</date>
+			<key>Date Added</key><date>2016-06-04T06:44:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>98</integer>
+			<key>Play Date</key><integer>3844075755</integer>
+			<key>Play Date UTC</key><date>2025-10-23T18:49:15Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2025-07-27T19:56:57Z</date>
+			<key>Release Date</key><date>2016-06-03T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hero (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Maren Morris</string>
+			<key>Sort Name</key><string>How It's Done</string>
+			<key>Persistent ID</key><string>D457C87954CBA877</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>50392</key>
+		<dict>
+			<key>Track ID</key><integer>50392</integer>
+			<key>Name</key><string>Dive</string>
+			<key>Artist</key><string>Olivia Dean</string>
+			<key>Album Artist</key><string>Olivia Dean</string>
+			<key>Composer</key><string>Olivia Dean, Bastian Langebæk &#38; Max Wolfgang</string>
+			<key>Album</key><string>Messy</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7186531</integer>
+			<key>Total Time</key><integer>200759</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-08-29T12:42:52Z</date>
+			<key>Date Added</key><date>2025-08-29T12:42:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3844171527</integer>
+			<key>Play Date UTC</key><date>2025-10-24T21:25:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-13T15:21:03Z</date>
+			<key>Release Date</key><date>2023-03-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3511</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Messy</string>
+			<key>Sort Artist</key><string>Olivia Dean</string>
+			<key>Sort Name</key><string>Dive</string>
+			<key>Persistent ID</key><string>50A7C506B401BD00</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>50394</key>
+		<dict>
+			<key>Track ID</key><integer>50394</integer>
+			<key>Name</key><string>Rein Me In</string>
+			<key>Artist</key><string>Sam Fender &#38; Olivia Dean</string>
+			<key>Album Artist</key><string>Sam Fender &#38; Olivia Dean</string>
+			<key>Composer</key><string>Sam Fender, Olivia Dean &#38; Max Wolfgang</string>
+			<key>Album</key><string>Rein Me In - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12521582</integer>
+			<key>Total Time</key><integer>339411</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-08-29T12:50:30Z</date>
+			<key>Date Added</key><date>2025-08-29T12:50:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3844074574</integer>
+			<key>Play Date UTC</key><date>2025-10-23T18:29:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-03T19:38:22Z</date>
+			<key>Release Date</key><date>2025-06-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5323</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rein Me In - Single</string>
+			<key>Sort Artist</key><string>Sam Fender &#38; Olivia Dean</string>
+			<key>Sort Name</key><string>Rein Me In</string>
+			<key>Persistent ID</key><string>DC83B47D99C8B4B9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>139053</key>
+		<dict>
+			<key>Track ID</key><integer>139053</integer>
+			<key>Name</key><string>Come Find Me</string>
+			<key>Artist</key><string>MK &#38; Clementine Douglas</string>
+			<key>Album Artist</key><string>MK &#38; Clementine Douglas</string>
+			<key>Composer</key><string>Clementine Douglas, BURNS, MK &#38; Pablo Bowman</string>
+			<key>Album</key><string>Come Find Me - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>7465708</integer>
+			<key>Total Time</key><integer>207149</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-02T00:53:22Z</date>
+			<key>Date Added</key><date>2025-10-02T00:53:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-09-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Come Find Me - Single</string>
+			<key>Sort Artist</key><string>MK &#38; Clementine Douglas</string>
+			<key>Sort Name</key><string>Come Find Me</string>
+			<key>Persistent ID</key><string>970CE9944CB67A51</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>143590</key>
+		<dict>
+			<key>Track ID</key><integer>143590</integer>
+			<key>Name</key><string>DON’T LOOK AT ME LIKE THAT</string>
+			<key>Artist</key><string>Blusher</string>
+			<key>Album Artist</key><string>Blusher</string>
+			<key>Composer</key><string>Alisa Xayalith, Gab Strum, Jade Ingvarson-Favretto, Lauren Coutts, Miranda Ward &#38; Tyler Spry</string>
+			<key>Album</key><string>RACER - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>6085680</integer>
+			<key>Total Time</key><integer>163796</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-05T00:28:51Z</date>
+			<key>Date Added</key><date>2025-10-05T00:28:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3844075129</integer>
+			<key>Play Date UTC</key><date>2025-10-23T18:38:49Z</date>
+			<key>Release Date</key><date>2025-07-31T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>RACER - EP</string>
+			<key>Sort Artist</key><string>Blusher</string>
+			<key>Sort Name</key><string>DON’T LOOK AT ME LIKE THAT</string>
+			<key>Persistent ID</key><string>235054179FE2C52C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>146965</key>
+		<dict>
+			<key>Track ID</key><integer>146965</integer>
+			<key>Name</key><string>Underwater</string>
+			<key>Artist</key><string>BENEE</string>
+			<key>Album Artist</key><string>BENEE</string>
+			<key>Composer</key><string>Stella Bennett, Matt Castellanos, Pablo Bowman &#38; Matt Cohn</string>
+			<key>Album</key><string>Ur an Angel I’m Just Particles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>7703322</integer>
+			<key>Total Time</key><integer>214000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2025-10-06T12:15:33Z</date>
+			<key>Date Added</key><date>2025-10-06T12:15:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3843539314</integer>
+			<key>Play Date UTC</key><date>2025-10-17T13:48:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ur an Angel I’m Just Particles</string>
+			<key>Sort Artist</key><string>BENEE</string>
+			<key>Sort Name</key><string>Underwater</string>
+			<key>Persistent ID</key><string>6F9B27DF6DA7B8BD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>148406</key>
+		<dict>
+			<key>Track ID</key><integer>148406</integer>
+			<key>Name</key><string>seeing red</string>
+			<key>Artist</key><string>Chase Shakur</string>
+			<key>Album Artist</key><string>Chase Shakur</string>
+			<key>Composer</key><string>Chase Shakur, Terrence Williams &#38; John Kim</string>
+			<key>Album</key><string>seeing red - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>5644623</integer>
+			<key>Total Time</key><integer>158824</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-06T12:23:58Z</date>
+			<key>Date Added</key><date>2025-10-06T12:23:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-10-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>seeing red - Single</string>
+			<key>Sort Artist</key><string>Chase Shakur</string>
+			<key>Sort Name</key><string>seeing red</string>
+			<key>Persistent ID</key><string>77DA9D01180E2BAE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>150396</key>
+		<dict>
+			<key>Track ID</key><integer>150396</integer>
+			<key>Name</key><string>Pendulum</string>
+			<key>Artist</key><string>BINA.</string>
+			<key>Album Artist</key><string>BINA.</string>
+			<key>Composer</key><string>Sabrina Obiago, Jakob Hammershoj &#38; Wilfred de Silas</string>
+			<key>Album</key><string>Pendulum - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>5280682</integer>
+			<key>Total Time</key><integer>142280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-07T20:28:04Z</date>
+			<key>Date Added</key><date>2025-10-07T20:28:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843380488</integer>
+			<key>Play Date UTC</key><date>2025-10-15T17:41:28Z</date>
+			<key>Release Date</key><date>2025-09-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pendulum - Single</string>
+			<key>Sort Artist</key><string>BINA.</string>
+			<key>Sort Name</key><string>Pendulum</string>
+			<key>Persistent ID</key><string>6C06EC97F479E6DC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>160038</key>
+		<dict>
+			<key>Track ID</key><integer>160038</integer>
+			<key>Name</key><string>Amoeba</string>
+			<key>Artist</key><string>Clairo</string>
+			<key>Album Artist</key><string>Clairo</string>
+			<key>Composer</key><string>Clairo &#38; Jack Antonoff</string>
+			<key>Album</key><string>Sling</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>8715712</integer>
+			<key>Total Time</key><integer>228922</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2025-10-12T02:21:59Z</date>
+			<key>Date Added</key><date>2025-10-12T02:21:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3844074796</integer>
+			<key>Play Date UTC</key><date>2025-10-23T18:33:16Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sling</string>
+			<key>Sort Artist</key><string>Clairo</string>
+			<key>Sort Name</key><string>Amoeba</string>
+			<key>Persistent ID</key><string>4A2EE513FD1A0797</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>160176</key>
+		<dict>
+			<key>Track ID</key><integer>160176</integer>
+			<key>Name</key><string>Superhero</string>
+			<key>Artist</key><string>Oliver Tree</string>
+			<key>Album Artist</key><string>Oliver Tree</string>
+			<key>Composer</key><string>Oliver Tree Nickell</string>
+			<key>Album</key><string>Superhero - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>7190710</integer>
+			<key>Total Time</key><integer>198434</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-12T02:23:34Z</date>
+			<key>Date Added</key><date>2025-10-12T02:23:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3843539511</integer>
+			<key>Play Date UTC</key><date>2025-10-17T13:51:51Z</date>
+			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Superhero - Single</string>
+			<key>Sort Artist</key><string>Oliver Tree</string>
+			<key>Sort Name</key><string>Superhero</string>
+			<key>Persistent ID</key><string>847703FBA0AFE399</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>160204</key>
+		<dict>
+			<key>Track ID</key><integer>160204</integer>
+			<key>Name</key><string>jupiter</string>
+			<key>Artist</key><string>almost monday</string>
+			<key>Album Artist</key><string>almost monday</string>
+			<key>Composer</key><string>Dawson Daugherty, Luke Fabry, Cole Clisby, Simon Oscroft, Nate Campany &#38; Josh Varnadore</string>
+			<key>Album</key><string>DIVE</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>6643150</integer>
+			<key>Total Time</key><integer>182380</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-10-12T02:27:09Z</date>
+			<key>Date Added</key><date>2025-10-12T02:27:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3843381087</integer>
+			<key>Play Date UTC</key><date>2025-10-15T17:51:27Z</date>
+			<key>Release Date</key><date>2024-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DIVE</string>
+			<key>Sort Artist</key><string>almost monday</string>
+			<key>Sort Name</key><string>jupiter</string>
+			<key>Persistent ID</key><string>919A1CABEE9966B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>160207</key>
+		<dict>
+			<key>Track ID</key><integer>160207</integer>
+			<key>Name</key><string>Everything At Once</string>
+			<key>Artist</key><string>Hippo Campus</string>
+			<key>Album Artist</key><string>Hippo Campus</string>
+			<key>Composer</key><string>Whistler Isaiah Allen, Jake Luppen, Nathan Stocker &#38; Zach Sutton</string>
+			<key>Album</key><string>Flood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>8278729</integer>
+			<key>Total Time</key><integer>229027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-10-12T02:33:40Z</date>
+			<key>Date Added</key><date>2025-10-12T02:33:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3843824017</integer>
+			<key>Play Date UTC</key><date>2025-10-20T20:53:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-12T02:33:44Z</date>
+			<key>Release Date</key><date>2024-04-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Flood</string>
+			<key>Sort Artist</key><string>Hippo Campus</string>
+			<key>Sort Name</key><string>Everything At Once</string>
+			<key>Persistent ID</key><string>B77B55B462AFE2FA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>164427</key>
+		<dict>
+			<key>Track ID</key><integer>164427</integer>
+			<key>Name</key><string>PIXELATED KISSES</string>
+			<key>Artist</key><string>Joji</string>
+			<key>Album Artist</key><string>Joji</string>
+			<key>Composer</key><string>George Miller</string>
+			<key>Album</key><string>PIXELATED KISSES - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>4172075</integer>
+			<key>Total Time</key><integer>110431</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-15T22:21:36Z</date>
+			<key>Date Added</key><date>2025-10-15T22:21:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3844061567</integer>
+			<key>Play Date UTC</key><date>2025-10-23T14:52:47Z</date>
+			<key>Release Date</key><date>2025-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PIXELATED KISSES - Single</string>
+			<key>Sort Artist</key><string>Joji</string>
+			<key>Sort Name</key><string>PIXELATED KISSES</string>
+			<key>Persistent ID</key><string>F0023158190A043D</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>166553</key>
+		<dict>
+			<key>Track ID</key><integer>166553</integer>
+			<key>Name</key><string>Off The Rails</string>
+			<key>Artist</key><string>BENEE</string>
+			<key>Album Artist</key><string>BENEE</string>
+			<key>Composer</key><string>Stella Bennett, Luka Kloser &#38; Elvira Anderfjärd</string>
+			<key>Album</key><string>Ur an Angel I’m Just Particles</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>4299775</integer>
+			<key>Total Time</key><integer>107267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-17T14:11:35Z</date>
+			<key>Date Added</key><date>2025-10-17T14:11:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-08-29T07:00:00Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ur an Angel I’m Just Particles</string>
+			<key>Sort Artist</key><string>BENEE</string>
+			<key>Sort Name</key><string>Off The Rails</string>
+			<key>Persistent ID</key><string>166DEE884EB7DFC1</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>175011</key>
+		<dict>
+			<key>Track ID</key><integer>175011</integer>
+			<key>Name</key><string>No.8</string>
+			<key>Artist</key><string>THE JAPANESE PRIDE</string>
+			<key>Album Artist</key><string>THE JAPANESE PRIDE</string>
+			<key>Composer</key><string>THE JAPANESE PRIDE &#38; OGURI SEIYA</string>
+			<key>Album</key><string>No.8 - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>5483314</integer>
+			<key>Total Time</key><integer>147355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-10-18T03:29:38Z</date>
+			<key>Date Added</key><date>2025-10-18T03:29:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No.8 - Single</string>
+			<key>Sort Album Artist</key><string>JAPANESE PRIDE</string>
+			<key>Sort Artist</key><string>JAPANESE PRIDE</string>
+			<key>Sort Composer</key><string>JAPANESE PRIDE &#38; OGURI SEIYA</string>
+			<key>Sort Name</key><string>No.8</string>
+			<key>Persistent ID</key><string>BDD41D5C1526F398</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>176199</key>
+		<dict>
+			<key>Track ID</key><integer>176199</integer>
+			<key>Name</key><string>Copycats</string>
+			<key>Artist</key><string>Danny Brown &#38; underscores</string>
+			<key>Album Artist</key><string>Danny Brown</string>
+			<key>Composer</key><string>Daniel Sewell &#38; April Harper Grey</string>
+			<key>Album</key><string>Stardust</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG-4 audio file</string>
+			<key>Size</key><integer>6223757</integer>
+			<key>Total Time</key><integer>171426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2025-10-18T19:33:41Z</date>
+			<key>Date Added</key><date>2025-10-18T19:33:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stardust</string>
+			<key>Sort Artist</key><string>Danny Brown &#38; underscores</string>
+			<key>Sort Name</key><string>Copycats</string>
+			<key>Persistent ID</key><string>7BE99475C9D36911</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>178856</key>
+		<dict>
+			<key>Track ID</key><integer>178856</integer>
+			<key>Name</key><string>4 WALLS</string>
+			<key>Artist</key><string>Playto, Jonny Haze &#38; Z. Lew</string>
+			<key>Album Artist</key><string>Playto, Jonny Haze &#38; Z. Lew</string>
+			<key>Composer</key><string>Jonathan Akpede &#38; Zachary Lewis</string>
+			<key>Album</key><string>4 WALLS - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Size</key><integer>5330442</integer>
+			<key>Total Time</key><integer>145467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-21T01:07:53Z</date>
+			<key>Date Added</key><date>2025-10-21T01:07:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-10-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4 WALLS - Single</string>
+			<key>Sort Artist</key><string>Playto, Jonny Haze &#38; Z. Lew</string>
+			<key>Sort Name</key><string>4 WALLS</string>
+			<key>Persistent ID</key><string>9803CC43429D4747</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>178859</key>
+		<dict>
+			<key>Track ID</key><integer>178859</integer>
+			<key>Name</key><string>POTENTIAL</string>
+			<key>Artist</key><string>Playto, Jonny Haze &#38; Z. Lew</string>
+			<key>Album Artist</key><string>Playto, Jonny Haze &#38; Z. Lew</string>
+			<key>Composer</key><string>Jonathan Akpede &#38; Zachary Lewis</string>
+			<key>Album</key><string>POTENTIAL - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Size</key><integer>6064221</integer>
+			<key>Total Time</key><integer>160328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-21T01:35:04Z</date>
+			<key>Date Added</key><date>2025-10-21T01:35:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-09-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>POTENTIAL - Single</string>
+			<key>Sort Artist</key><string>Playto, Jonny Haze &#38; Z. Lew</string>
+			<key>Sort Name</key><string>POTENTIAL</string>
+			<key>Persistent ID</key><string>1A3AE5BB718043BD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>182308</key>
+		<dict>
+			<key>Track ID</key><integer>182308</integer>
+			<key>Name</key><string>Good Ol' Days</string>
+			<key>Artist</key><string>Hayley Williams</string>
+			<key>Album Artist</key><string>Hayley Williams</string>
+			<key>Composer</key><string>Hayley Williams &#38; Daniel James</string>
+			<key>Album</key><string>Ego Death At A Bachelorette Party</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Size</key><integer>7508851</integer>
+			<key>Total Time</key><integer>203711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-10-24T11:18:17Z</date>
+			<key>Date Added</key><date>2025-10-24T11:18:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-10-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ego Death At A Bachelorette Party</string>
+			<key>Sort Artist</key><string>Hayley Williams</string>
+			<key>Sort Name</key><string>Good Ol' Days</string>
+			<key>Persistent ID</key><string>F64748A57410DDFD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>133369</integer>
+			<key>Playlist Persistent ID</key><string>EBA2D04E1C93A92A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>146965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>150396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>160207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>164427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>166553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>176199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>178856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>178859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182308</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
