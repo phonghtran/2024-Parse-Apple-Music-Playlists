@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-06-20T02:49:53Z</date>
+	<key>Application Version</key><string>1.6.5.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/phonghtran/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>B8C06F9A0CABC5D1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19089</key>
+		<dict>
+			<key>Track ID</key><integer>19089</integer>
+			<key>Name</key><string>Girl Like Me</string>
+			<key>Artist</key><string>PinkPantheress</string>
+			<key>Album Artist</key><string>PinkPantheress</string>
+			<key>Composer</key><string>Count Baldor, Felix Buxton, PinkPantheress &#38; Simon Ratcliffe</string>
+			<key>Album</key><string>Fancy That</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5399925</integer>
+			<key>Total Time</key><integer>145520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-04-25T20:55:49Z</date>
+			<key>Date Added</key><date>2025-05-09T04:03:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-05-09T12:00:00Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fancy That</string>
+			<key>Sort Artist</key><string>PinkPantheress</string>
+			<key>Sort Name</key><string>Girl Like Me</string>
+			<key>Persistent ID</key><string>3A3341A6D158A1A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>49337</key>
+		<dict>
+			<key>Track ID</key><integer>49337</integer>
+			<key>Name</key><string>Man I Need</string>
+			<key>Artist</key><string>Olivia Dean</string>
+			<key>Album Artist</key><string>Olivia Dean</string>
+			<key>Composer</key><string>Olivia Dean, Tobias Jesso Jr. &#38; Zach Nahome</string>
+			<key>Album</key><string>The Art of Loving</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6644167</integer>
+			<key>Total Time</key><integer>184000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-08-29T12:20:52Z</date>
+			<key>Date Added</key><date>2025-08-29T12:20:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3864101650</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:34:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-08-29T12:28:10Z</date>
+			<key>Release Date</key><date>2025-09-26T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Art of Loving</string>
+			<key>Sort Artist</key><string>Olivia Dean</string>
+			<key>Sort Name</key><string>Man I Need</string>
+			<key>Persistent ID</key><string>C5E4CEA6264ECD01</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>50638</key>
+		<dict>
+			<key>Track ID</key><integer>50638</integer>
+			<key>Name</key><string>Hands Down</string>
+			<key>Artist</key><string>Dashboard Confessional</string>
+			<key>Album Artist</key><string>Dashboard Confessional</string>
+			<key>Composer</key><string>Christopher Ender Carrabba</string>
+			<key>Album</key><string>A Mark, A Mission, A Brand, A Scar</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6937757</integer>
+			<key>Total Time</key><integer>186867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2026-01-11T03:32:24Z</date>
+			<key>Date Added</key><date>2026-01-11T03:32:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3864099996</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:06:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-15T19:28:45Z</date>
+			<key>Release Date</key><date>2003-08-12T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mark, A Mission, A Brand, A Scar</string>
+			<key>Sort Artist</key><string>Dashboard Confessional</string>
+			<key>Sort Name</key><string>Hands Down</string>
+			<key>Persistent ID</key><string>E49C02040ABA1123</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51000</key>
+		<dict>
+			<key>Track ID</key><integer>51000</integer>
+			<key>Name</key><string>in heaven</string>
+			<key>Artist</key><string>bad tuner &#38; Miette Hope</string>
+			<key>Album Artist</key><string>bad tuner &#38; Miette Hope</string>
+			<key>Composer</key><string>Theodore Klein &#38; Micah Gordon</string>
+			<key>Album</key><string>in heaven - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5636284</integer>
+			<key>Total Time</key><integer>152804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2026-02-25T03:31:46Z</date>
+			<key>Date Added</key><date>2026-02-25T03:31:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3864102599</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:49:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2026-06-12T12:37:24Z</date>
+			<key>Release Date</key><date>2024-08-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>in heaven - Single</string>
+			<key>Sort Artist</key><string>bad tuner &#38; Miette Hope</string>
+			<key>Sort Name</key><string>in heaven</string>
+			<key>Persistent ID</key><string>91462DC98FFFB8E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51198</key>
+		<dict>
+			<key>Track ID</key><integer>51198</integer>
+			<key>Name</key><string>6WA</string>
+			<key>Artist</key><string>BigXthaPlug, Yung Hood, Ro$ama &#38; MurdaGang PB</string>
+			<key>Album Artist</key><string>BigXthaPlug, MurdaGang PB, Ro$ama &#38; Yung Hood</string>
+			<key>Composer</key><string>Andre Young, Byron Grant, DeonDrae Carver, Larry Troutman, O'Shea Jackson, RoDarrion Harrison, Roger Troutman, Tony Coles Anderson &#38; Xavier Landum</string>
+			<key>Album</key><string>6WA</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4822812</integer>
+			<key>Total Time</key><integer>128493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>Date Modified</key><date>2026-03-16T13:31:10Z</date>
+			<key>Date Added</key><date>2026-03-16T13:31:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3864101485</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:31:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-09T13:29:46Z</date>
+			<key>Release Date</key><date>2026-03-20T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>6WA</string>
+			<key>Sort Artist</key><string>BigXthaPlug, Yung Hood, Ro$ama &#38; MurdaGang PB</string>
+			<key>Sort Name</key><string>6WA</string>
+			<key>Persistent ID</key><string>AAA4A184C32A64DA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51302</key>
+		<dict>
+			<key>Track ID</key><integer>51302</integer>
+			<key>Name</key><string>Toy</string>
+			<key>Artist</key><string>ilysm</string>
+			<key>Album Artist</key><string>ilysm</string>
+			<key>Composer</key><string>John Denney</string>
+			<key>Album</key><string>Toy - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4393551</integer>
+			<key>Total Time</key><integer>115654</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>Date Modified</key><date>2026-03-27T10:35:08Z</date>
+			<key>Date Added</key><date>2026-03-27T10:35:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3864099438</integer>
+			<key>Play Date UTC</key><date>2026-06-12T12:57:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-06-12T14:13:18Z</date>
+			<key>Release Date</key><date>2026-02-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Toy - Single</string>
+			<key>Sort Artist</key><string>ilysm</string>
+			<key>Sort Name</key><string>Toy</string>
+			<key>Persistent ID</key><string>AB4FF7D434BFD36A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51346</key>
+		<dict>
+			<key>Track ID</key><integer>51346</integer>
+			<key>Name</key><string>HEAVY METAL</string>
+			<key>Artist</key><string>Paris Texas</string>
+			<key>Album Artist</key><string>Paris Texas</string>
+			<key>Composer</key><string>Paris Texas</string>
+			<key>Album</key><string>HEAVY METAL - Single</string>
+			<key>Genre</key><string>Alternative Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5925264</integer>
+			<key>Total Time</key><integer>159653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2026-04-03T03:07:26Z</date>
+			<key>Date Added</key><date>2026-04-03T03:07:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3863932697</integer>
+			<key>Play Date UTC</key><date>2026-06-10T14:38:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-27T14:05:25Z</date>
+			<key>Release Date</key><date>2021-02-17T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HEAVY METAL - Single</string>
+			<key>Sort Artist</key><string>Paris Texas</string>
+			<key>Sort Name</key><string>HEAVY METAL</string>
+			<key>Persistent ID</key><string>7FB43987BD5C4CFF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51476</key>
+		<dict>
+			<key>Track ID</key><integer>51476</integer>
+			<key>Name</key><string>ivy</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Aaron Dessner &#38; Jack Antonoff</string>
+			<key>Album</key><string>evermore (deluxe version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9245421</integer>
+			<key>Total Time</key><integer>260440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2026-04-11T04:47:04Z</date>
+			<key>Date Added</key><date>2026-04-11T04:47:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3864099693</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:01:33Z</date>
+			<key>Release Date</key><date>2020-12-11T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>evermore (deluxe version)</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>ivy</string>
+			<key>Persistent ID</key><string>C3C8B81786578D14</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51482</key>
+		<dict>
+			<key>Track ID</key><integer>51482</integer>
+			<key>Name</key><string>Take Me Out</string>
+			<key>Artist</key><string>Franz Ferdinand</string>
+			<key>Album Artist</key><string>Franz Ferdinand</string>
+			<key>Composer</key><string>Alex Kapranos &#38; Nicholas McCarthy</string>
+			<key>Album</key><string>Franz Ferdinand</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8914102</integer>
+			<key>Total Time</key><integer>237027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2026-04-14T03:49:09Z</date>
+			<key>Date Added</key><date>2026-04-14T03:49:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3864102091</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:41:31Z</date>
+			<key>Release Date</key><date>2004-01-12T08:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Franz Ferdinand</string>
+			<key>Sort Artist</key><string>Franz Ferdinand</string>
+			<key>Sort Name</key><string>Take Me Out</string>
+			<key>Persistent ID</key><string>F4F23BD9DA5EE1EA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51584</key>
+		<dict>
+			<key>Track ID</key><integer>51584</integer>
+			<key>Name</key><string>TRYNA DO</string>
+			<key>Artist</key><string>ZEP</string>
+			<key>Album Artist</key><string>ZEP</string>
+			<key>Composer</key><string>ZEP, Gyatso &#38; Siimbiie</string>
+			<key>Album</key><string>TRYNA DO - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5434809</integer>
+			<key>Total Time</key><integer>138113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>Date Modified</key><date>2026-04-24T21:42:26Z</date>
+			<key>Date Added</key><date>2026-04-24T21:42:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3864099821</integer>
+			<key>Play Date UTC</key><date>2026-06-12T13:03:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-05-23T15:15:19Z</date>
+			<key>Release Date</key><date>2026-04-24T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TRYNA DO - Single</string>
+			<key>Sort Artist</key><string>ZEP</string>
+			<key>Sort Name</key><string>TRYNA DO</string>
+			<key>Persistent ID</key><string>E3C281E097D39CB6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51638</key>
+		<dict>
+			<key>Track ID</key><integer>51638</integer>
+			<key>Name</key><string>Crimes</string>
+			<key>Artist</key><string>FIOCATI</string>
+			<key>Album Artist</key><string>FIOCATI</string>
+			<key>Composer</key><string>FIOCATI &#38; Samuel Elrod</string>
+			<key>Album</key><string>Crimes - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4887566</integer>
+			<key>Total Time</key><integer>129468</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2026-05-06T02:12:47Z</date>
+			<key>Date Added</key><date>2026-05-06T02:12:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3864099343</integer>
+			<key>Play Date UTC</key><date>2026-06-12T12:55:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-05-23T15:15:34Z</date>
+			<key>Release Date</key><date>2024-06-28T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Crimes - Single</string>
+			<key>Sort Artist</key><string>FIOCATI</string>
+			<key>Sort Name</key><string>Crimes</string>
+			<key>Persistent ID</key><string>FF12D0C0204D3EFC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>51864</key>
+		<dict>
+			<key>Track ID</key><integer>51864</integer>
+			<key>Name</key><string>Dominos</string>
+			<key>Artist</key><string>Hidanny!!</string>
+			<key>Album Artist</key><string>Hidanny!!</string>
+			<key>Composer</key><string>Danny Hodges</string>
+			<key>Album</key><string>Dominos - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7466462</integer>
+			<key>Total Time</key><integer>206367</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>Date Modified</key><date>2026-05-23T04:03:30Z</date>
+			<key>Date Added</key><date>2026-05-23T04:03:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3864099027</integer>
+			<key>Play Date UTC</key><date>2026-06-12T12:50:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2026-06-12T12:37:52Z</date>
+			<key>Release Date</key><date>2026-04-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dominos - Single</string>
+			<key>Sort Artist</key><string>Hidanny!!</string>
+			<key>Sort Name</key><string>Dominos</string>
+			<key>Persistent ID</key><string>CD96AA8918280B23</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>52068</key>
+		<dict>
+			<key>Track ID</key><integer>52068</integer>
+			<key>Name</key><string>Wrist</string>
+			<key>Artist</key><string>Like Roses</string>
+			<key>Album Artist</key><string>Like Roses</string>
+			<key>Composer</key><string>Amy Schmalkuche &#38; Robbie Gardunio</string>
+			<key>Album</key><string>Wrist - Single</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7562035</integer>
+			<key>Total Time</key><integer>202911</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>Date Modified</key><date>2026-06-03T03:08:38Z</date>
+			<key>Date Added</key><date>2026-06-03T03:08:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3864099228</integer>
+			<key>Play Date UTC</key><date>2026-06-12T12:53:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-06-12T14:09:57Z</date>
+			<key>Release Date</key><date>2026-05-06T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wrist - Single</string>
+			<key>Sort Artist</key><string>Like Roses</string>
+			<key>Sort Name</key><string>Wrist</string>
+			<key>Persistent ID</key><string>B4F9DBE17E513E56</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>52200</key>
+		<dict>
+			<key>Track ID</key><integer>52200</integer>
+			<key>Name</key><string>Body (Leon Xavier Remix)</string>
+			<key>Artist</key><string>Leon Xavier</string>
+			<key>Album Artist</key><string>Leon Xavier</string>
+			<key>Composer</key><string>Leon Xavier</string>
+			<key>Album</key><string>Body (Leon Xavier Remix) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6146208</integer>
+			<key>Total Time</key><integer>168000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>Date Modified</key><date>2026-06-10T02:14:23Z</date>
+			<key>Date Added</key><date>2026-06-10T02:14:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3864098382</integer>
+			<key>Play Date UTC</key><date>2026-06-12T12:39:42Z</date>
+			<key>Release Date</key><date>2026-03-03T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Body (Leon Xavier Remix) - Single</string>
+			<key>Sort Artist</key><string>Leon Xavier</string>
+			<key>Sort Name</key><string>Body (Leon Xavier Remix)</string>
+			<key>Persistent ID</key><string>91786440E5CED193</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AA - Still Good</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>136988</integer>
+			<key>Playlist Persistent ID</key><string>EBA2D04E1C93A92A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>50638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51864</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>52068</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>52200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19089</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
