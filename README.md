@@ -24,6 +24,8 @@ npm install
 npm run dev
 ```
 
+Db rebuild in the UI
+
 The app will be available at `http://localhost:3000`
 
 ## Firebase App Hosting Deployment
